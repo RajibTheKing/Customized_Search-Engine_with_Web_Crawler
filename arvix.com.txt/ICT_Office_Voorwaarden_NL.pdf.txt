@@ -1,0 +1,3188 @@
+Module Algemeen
+ICT~Office Voorwaarden
+ALGEMEEN
+1.  Toepasselijkheid ICT~Office Voorwaarden
+1.1  De ICT~Office Voorwaarden zijn opgesteld door 
+ICT~Office. De ICT~Office Voorwaarden bestaan 
+uit de onderhavige module Algemeen en de vol-
+gende afzonderlijke specifieke modules:
+ 1.  Licentie voor programmatuur
+ 2. Ontwikkeling van programmatuur
+ 3. Onderhoud van programmatuur
+ 4.   Application Service Provision, Software as a 
+Service en Computerservice   
+ 5.  Ontwikkeling en onderhoud van een website
+ 6. Webhosting
+ 7. Detacheringsdiensten
+ 8. Opleidingen en trainingen
+ 9.  Advisering, consultancy en projectmanage-
+ment
+ 10. Overige diensten
+ 11.  Verkoop van ICT-, telecommunicatie- en 
+kantoorapparatuur en andere zaken
+ 12.  Verhuur van ICT-, telecommunicatie- en 
+kantoorapparatuur
+ 13.  Onderhoud van ICT-, telecommunicatie- en 
+kantoorapparatuur
+ 14. Toegang tot internet
+ 15. Telecommunicatiediensten
+ 16. Financiering en leasing van ICT.
+1.2  Deze module Algemeen van de ICT~Office 
+Voorwaarden is van toepassing op alle aanbie-
+dingen en overeenkomsten waarbij leverancier 
+goederen en/of diensten van welke aard en 
+onder welke benaming dan ook aan cliënt  
+levert. Tevens zijn van toepassing de speci-
+fieke module of modules van de ICT~Office 
+Voorwaarden die tussen leverancier en cliënt 
+zijn overeengekomen. Indien deze module 
+Algemeen van de ICT~Office Voorwaarden op 
+enig onderdeel strijdig of onverenigbaar is met 
+het bepaalde in de tussen leverancier en cliënt 
+overeengekomen specifieke module of modules 
+van de ICT~Office Voorwaarden, prevaleert het 
+bepaalde in de desbetreffende specifieke module 
+of modules.
+1.3  Daar waar in de ICT~Office Voorwaarden de 
+term ‘algemene voorwaarden’ wordt gebruikt, 
+wordt daaronder verstaan de bepalingen van 
+deze module Algemeen in combinatie met de 
+bepalingen van één of meer overeengekomen  
+specifieke modules van de ICT~Office 
+Voorwaarden.
+1.4  Afwijkingen en aanvullingen van deze algemene 
+voorwaarden zijn slechts geldig indien deze 
+schriftelijk tussen partijen zijn overeengekomen.
+1.5  De toepasselijkheid van inkoop- of andere voor-
+waarden van cliënt wordt uitdrukkelijk van de 
+hand gewezen. 
+1.6  Indien enige bepaling van deze algemene 
+voorwaarden nietig is of vernietigd wordt, zul-
+len de overige bepalingen van deze algemene 
+voorwaarden onverminderd van kracht blijven. 
+Leverancier en cliënt zullen in dat geval in over-
+leg treden met het doel nieuwe bepalingen ter 
+vervanging van de nietige of vernietigde bepalin-
+gen overeen te komen, waarbij zoveel mogelijk 
+het doel en de strekking van de nietige dan wel 
+vernietigde bepalingen in acht wordt genomen.
+2. Aanbiedingen
+2.1  Alle aanbiedingen en andere uitingen van leve-
+rancier zijn vrijblijvend, tenzij door leverancier 
+schriftelijk anders is aangegeven. 
+2.2  Cliënt staat in voor de juistheid en volledigheid 
+van de door of namens hem aan leverancier 
+verstrekte gegevens waarop leverancier zijn 
+aanbieding baseert. Cliënt betracht steeds de 
+uiterste zorg dat de eisen waaraan de prestatie 
+van leverancier dient te voldoen, juist en vol-
+ledig zijn. In tekeningen, afbeeldingen, catalogi, 
+websites, offertes, reclamemateriaal, normalisa-
+tiebladen e.d. vermelde maten en gegevens zijn 
+voor leverancier niet bindend, behoudens indien 
+door leverancier uitdrukkelijk anders is vermeld. 
+3. Prijs en betaling
+3.1  Alle prijzen zijn exclusief omzetbelasting (BTW) 
+en andere heffingen welke van overheidswege 
+zijn of worden opgelegd. Tenzij anders overeen-
+gekomen, zijn alle prijzen steeds in euro’s en 
+dient cliënt alle betalingen in euro’s te voldoen. 
+3.2  Alle door leverancier afgegeven voorcalculaties 
+en begrotingen hebben slechts een indicatief 
+karakter, tenzij leverancier schriftelijk anders 
+kenbaar maakt. Aan een door leverancier afge-
+geven voorcalculatie of begroting kunnen door 
+cliënt nimmer rechten of verwachtingen worden 
+ontleend. Een door cliënt aan leverancier ken-
+baar gemaakt beschikbaar budget geldt nimmer 
+als een tussen partijen overeengekomen (vaste) 
+prijs voor de door leverancier te verrichten pres-
+taties. Uitsluitend indien zulks tussen partijen 
+schriftelijk is overeengekomen is leverancier 
+gehouden cliënt te informeren bij dreigende 
+overschrijding van een door leverancier afgege-
+ven voorcalculatie of begroting.
+3.3  Indien cliënt bestaat uit meerdere natuurlijke 
+personen en/of rechtspersonen, is elk van  
+die personen hoofdelijk gehouden de uit de 
+ICT~Office Voorwaarden 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland 
+onder nummer 30174840.
+overeenkomst verschuldigde bedragen te vol-
+doen. 
+3.4  Ter zake de door leverancier verrichte presta-
+ties en de daarvoor door cliënt verschuldigde 
+bedragen leveren de relevante documenten en 
+gegevens uit de administratie of systemen van 
+leverancier volledig bewijs op, onverminderd het 
+recht van cliënt tot het leveren van tegenbewijs.
+3.5  Indien sprake is van een periodieke betalings-
+verplichting van cliënt, geldt dat leverancier 
+gerechtigd is schriftelijk op een termijn van 
+ten minste drie maanden de geldende prijzen 
+en tarieven aan te passen. Indien cliënt niet 
+akkoord wenst te gaan met een dergelijke aan-
+passing, is cliënt gerechtigd binnen dertig dagen 
+na de kennisgeving de overeenkomst schrif-
+telijk op te zeggen tegen de datum waarop de 
+aanpassing in werking zou treden. Cliënt komt 
+zodanig recht tot opzegging echter niet toe 
+indien tussen partijen is overeengekomen dat de 
+geldende prijzen en tarieven worden aangepast 
+met inachtneming van een tussen partijen over-
+eengekomen index of andere maatstaf.
+3.6  Partijen zullen in de overeenkomst de datum of 
+data waarop leverancier de vergoeding voor de 
+overeengekomen prestaties aan cliënt in reke-
+ning brengt, vastleggen. Verschuldigde bedragen 
+worden door cliënt betaald volgens de overeen-
+gekomen dan wel op de factuur vermelde beta-
+lingscondities. Bij gebreke van een specifieke 
+regeling zal cliënt binnen een door leverancier te 
+bepalen termijn na factuurdatum betalen. Cliënt 
+is niet gerechtigd tot opschorting van enige 
+betaling en evenmin tot verrekening van ver-
+schuldigde bedragen. 
+3.7   Indien cliënt de verschuldigde bedragen niet 
+of niet tijdig betaalt, is cliënt, zonder dat enige 
+aanmaning of ingebrekestelling nodig is, over 
+het openstaande bedrag wettelijke handelsrente 
+verschuldigd. Indien cliënt na aanmaning of 
+ingebrekestelling nalatig blijft de vordering te 
+voldoen, kan leverancier de vordering uit han-
+den geven, in welk geval cliënt naast het dan 
+verschuldigde totale bedrag tevens gehouden is 
+tot vergoeding van alle gerechtelijke en buiten-
+gerechtelijke kosten, waaronder begrepen alle 
+kosten berekend door externe deskundigen. 
+4.  Vertrouwelijkheid en overname personeel 
+4.1  Cliënt en leverancier dragen er zorg voor dat 
+alle van de andere partij ontvangen gegevens 
+waarvan men weet of redelijkerwijs behoort te 
+weten dat deze van vertrouwelijke aard zijn, 
+geheim blijven. De partij die vertrouwelijke 
+gegevens ontvangt, zal deze slechts gebruiken 
+voor het doel waarvoor deze verstrekt zijn. 
+Gegevens worden in ieder geval als vertrouwe-
+lijk beschouwd indien deze door één der partijen 
+als zodanig zijn aangeduid. 
+4.2  Elk der partijen zal gedurende de looptijd van 
+de overeenkomst evenals één jaar na het einde 
+daarvan slechts na voorafgaande schriftelijke 
+toestemming van de andere partij, medewerkers 
+van de andere partij die betrokken zijn of zijn 
+geweest bij de uitvoering van de overeenkomst, 
+in dienst nemen dan wel anderszins, direct of 
+indirect, voor zich laten werken. Aan bedoelde 
+toestemming kunnen voorwaarden zijn verbon-
+den. 
+5.  Privacy, gegevensverwerking en beveiliging
+5.1  Indien leverancier dit van belang acht voor de 
+uitvoering van de overeenkomst, zal cliënt leve-
+rancier desgevraagd onverwijld schriftelijk infor-
+meren over de wijze waarop cliënt uitvoering 
+geeft aan zijn verplichtingen op grond van wet-
+geving op het gebied van de bescherming van 
+persoonsgegevens. 
+5.2  Cliënt vrijwaart leverancier voor aanspraken 
+van personen van wie persoonsgegevens zijn 
+geregistreerd of worden verwerkt in het kader 
+van een persoonsregistratie die door cliënt wordt 
+gehouden of waarvoor cliënt op grond van de 
+wet anderszins verantwoordelijk is, tenzij cliënt 
+bewijst dat de feiten die aan de aanspraak ten 
+grondslag liggen uitsluitend aan leverancier toe-
+gerekend moeten worden. 
+5.3  De verantwoordelijkheid voor de gegevens die 
+met gebruikmaking van een door leverancier 
+verleende dienst worden verwerkt, ligt uitsluitend 
+bij cliënt. Cliënt staat er jegens leverancier voor 
+in dat de inhoud, het gebruik en/of de verwer-
+king van de gegevens niet onrechtmatig zijn 
+en geen inbreuk maken op enig recht van een 
+derde. Cliënt vrijwaart leverancier tegen elke 
+rechtsvordering van derden, uit welke hoofde 
+dan ook, in verband met deze gegevens of de 
+uitvoering van de overeenkomst. 
+5.4  Indien leverancier op grond van de overeen-
+komst gehouden is tot het voorzien in een vorm 
+van informatiebeveiliging, zal die beveiliging 
+beantwoorden aan de specificaties betreffende 
+beveiliging zoals tussen partijen schriftelijk 
+overeengekomen. Leverancier staat er nimmer 
+voor in dat de informatiebeveiliging onder alle 
+omstandigheden doeltreffend is. Indien een 
+uitdrukkelijk omschreven beveiliging in de over-
+eenkomst ontbreekt, zal de beveiliging voldoen 
+aan een niveau dat, gelet op de stand van de 
+techniek, de gevoeligheid van de gegevens en 
+de aan het treffen van de beveiliging verbonden 
+kosten niet onredelijk is.
+5.5  Indien bij de uitvoering van de overeenkomst 
+of anderszins gebruik wordt gemaakt van com-
+puter-, data- of telecommunicatiefaciliteiten is 
+leverancier gerechtigd cliënt toegangs- of identi-
+ficatiecodes toe te wijzen. Leverancier is gerech-
+tigd toegewezen toegangs- of identificatiecodes 
+te wijzigen. Cliënt behandelt de toegangs- en 
+identificatiecodes vertrouwelijk en met zorg en 
+maakt deze slechts aan geautoriseerde perso-
+neelsleden kenbaar. Leverancier is nimmer aan-
+sprakelijk voor schade of kosten die het gevolg 
+zijn van gebruik of misbruik dat van toegangs- 
+of identificatiecodes wordt gemaakt, tenzij het 
+misbruik mogelijk is geweest als rechtstreeks 
+gevolg van een handelen of nalaten van leveran-
+cier. 
+6.  Voorbehoud van eigendom en rechten, 
+zaaksvorming en opschorting
+6.1  Alle aan cliënt geleverde zaken blijven eigendom 
+van leverancier totdat alle bedragen die cliënt 
+aan leverancier op grond van de tussen partijen 
+gesloten overeenkomst verschuldigd is, volledig 
+aan leverancier zijn voldaan. Een cliënt die als  
+wederverkoper optreedt, zal alle zaken die 
+onderworpen zijn aan het eigendomsvoorbehoud 
+van leverancier mogen verkopen en doorleveren 
+voor zover dat gebruikelijk is in het kader van  
+de normale uitoefening van zijn bedrijf. Indien 
+cliënt (mede) uit door leverancier geleverde 
+zaken een nieuwe zaak vormt, vormt cliënt die 
+zaak slechts voor leverancier en houdt cliënt de 
+nieuw gevormde zaak voor leverancier totdat 
+cliënt alle op grond van de overeenkomst ver-
+schuldigde bedragen heeft voldaan; leverancier 
+blijft in dat geval tot het moment van volledige 
+voldoening door cliënt eigenaar van de nieuw 
+gevormde zaak. 
+6.2  De goederenrechtelijke gevolgen van het eigen-
+domsvoorbehoud van een voor uitvoer bestemde 
+zaak worden beheerst door het recht van de 
+Staat van bestemming indien dat recht ter zake 
+voor leverancier gunstigere bepalingen bevat.
+6.3  Rechten, waaronder mede begrepen gebruiks-
+rechten, worden in voorkomend geval aan cliënt 
+verleend of overgedragen onder de voorwaarde 
+dat cliënt alle uit de tussen partijen gesloten 
+overeenkomst verschuldigde vergoedingen vol-
+ledig heeft betaald. Indien partijen voor de 
+verlening van een gebruiksrecht een periodieke 
+betalingsverplichting van cliënt zijn overeenge-
+komen, komt aan cliënt het gebruiksrecht toe 
+zolang hij zijn periodieke betalingsverplichting 
+nakomt. 
+6.4  Leverancier kan de in het kader van de over-
+eenkomst ontvangen of gegenereerde zaken, 
+producten, vermogensrechten, gegevens, docu-
+menten, programmatuur, databestanden en 
+(tussen-)resultaten van de dienstverlening van 
+leverancier onder zich houden, ondanks een 
+bestaande verplichting tot afgifte of overdracht, 
+totdat cliënt alle aan leverancier verschuldigde 
+bedragen heeft voldaan. 
+7. Risico
+7.1  Het risico van verlies, diefstal, verduistering of 
+beschadiging van zaken, producten, gegevens, 
+documenten, programmatuur, databestanden of 
+gegevens (codes, wachtwoorden, documentatie 
+etc.) die in het kader van de uitvoering van de 
+overeenkomst vervaardigd of gebruikt worden, 
+gaat over op cliënt op het moment waarop deze 
+in de feitelijke beschikkingsmacht van cliënt of 
+een hulppersoon van cliënt zijn gebracht. Voor 
+zover deze objecten in de feitelijke beschik-
+kingsmacht van leverancier of hulppersonen van 
+leverancier zijn, draagt leverancier het risico van 
+verlies, diefstal, verduistering of beschadiging.
+ 
+8.  Rechten van intellectuele eigendom
+8.1  Indien leverancier bereid is zich te verbinden 
+tot overdracht van een recht van intellectuele 
+eigendom, kan een zodanige verbintenis slechts 
+schriftelijk en uitdrukkelijk worden aangegaan. 
+Indien partijen schriftelijk overeenkomen dat 
+een recht van intellectuele eigendom ten aanzien 
+van specifiek voor cliënt ontwikkelde program-
+matuur, websites, databestanden, apparatuur of 
+andere materialen, over zal gaan op cliënt, tast 
+dit het recht of de mogelijkheid van leverancier 
+niet aan om de aan die ontwikkeling ten grond-
+slag liggende onderdelen, algemene beginselen, 
+ideeën, ontwerpen, algoritmen, documentatie, 
+werken, programmeertalen, protocollen, stan-
+daarden en dergelijke, zonder enige beperking 
+voor andere doeleinden te gebruiken en/of te 
+exploiteren, hetzij voor zich zelf hetzij voor der-
+den. Evenmin tast de overdracht van een recht 
+van intellectuele eigendom het recht van leve-
+rancier aan om ten behoeve van zichzelf of een 
+derde ontwikkelingen te doen die soortgelijk of 
+ontleend zijn aan die welke ten behoeve van cli-
+ent zijn of worden gedaan.
+8.2  Alle rechten van intellectuele eigendom op de 
+op grond van de overeenkomst ontwikkelde of 
+aan cliënt ter beschikking gestelde programma-
+tuur, websites, databestanden, apparatuur of 
+andere materialen zoals analyses, ontwerpen, 
+documentatie, rapporten, offertes, evenals 
+voorbereidend materiaal daarvan, berusten uit-
+sluitend bij leverancier, diens licentiegevers of 
+diens toeleveranciers. Cliënt verkrijgt uitsluitend 
+de gebruiksrechten die bij deze algemene voor-
+waarden en de wet uitdrukkelijk zijn toegekend. 
+Een aan cliënt toekomend recht tot gebruik is 
+niet-exclusief, niet-overdraagbaar aan derden en 
+niet sublicentieerbaar.
+8.3   Het is cliënt niet toegestaan enige aanduiding 
+betreffende het vertrouwelijke karakter dan 
+wel betreffende auteursrechten, merken, han-
+delsnamen of enig ander recht van intellectuele 
+eigendom uit de programmatuur, websites, data-
+bestanden, apparatuur of materialen te verwij-
+deren of te wijzigen.
+8.4  Ook indien de overeenkomst niet uitdrukkelijk  
+in een bevoegdheid daartoe voorziet, is het  
+leverancier toegestaan technische voorzienin-
+gen aan te brengen ter bescherming van de  
+programmatuur, apparatuur, databestanden,  
+websites en dergelijke in verband met een  
+overeengekomen beperking in de inhoud of  
+de duur van het recht tot gebruik van deze 
+objecten. Het is cliënt nimmer toegestaan een 
+dergelijke technische voorziening te (laten)  
+verwijderen of te (laten) omzeilen. 
+8.5  Leverancier vrijwaart cliënt tegen elke rechts-
+vordering van een derde welke gebaseerd is op 
+de bewering dat door leverancier zelf ontwik-
+kelde programmatuur, websites, databestanden, 
+apparatuur of andere materialen inbreuk maken 
+op een recht van intellectuele eigendom van die 
+derde, onder de voorwaarde dat cliënt leveran-
+cier onverwijld schriftelijk informeert over het 
+bestaan en de inhoud van de rechtsvordering en 
+de afhandeling van de zaak, waaronder het tref-
+fen van eventuele schikkingen, geheel overlaat 
+aan leverancier. Cliënt zal daartoe de nodige 
+volmachten, informatie en medewerking aan 
+leverancier verlenen om zich, indien nodig in 
+naam van cliënt, tegen deze rechtsvorderingen 
+te verweren. Deze verplichting tot vrijwaring 
+vervalt indien de verweten inbreuk verband 
+houdt (i) met door cliënt ter gebruik, bewerking, 
+verwerking of incorporatie aan leverancier ter 
+beschikking gestelde materialen, danwel (ii) met 
+wijzigingen die cliënt zonder schriftelijke toe-
+stemming van leverancier in de programmatuur, 
+website, databestanden, apparatuur of andere 
+materialen heeft aangebracht of door een derde 
+heeft laten aanbrengen. Indien in rechte onher-
+roepelijk vaststaat dat de door leverancier zelf 
+ontwikkelde programmatuur, websites, data-
+bestanden, apparatuur of andere materialen 
+inbreuk maken op enig aan een derde toebeho-
+rend recht van intellectuele eigendom of indien 
+naar het oordeel van leverancier een gerede 
+kans bestaat dat een zodanige inbreuk zich 
+voordoet, zal leverancier, indien mogelijk, zorg 
+dragen dat cliënt het geleverde, of functioneel 
+gelijkwaardige andere programmatuur, web-
+sites, databestanden, apparatuur of materialen 
+kan blijven gebruiken. Iedere andere of verder-
+gaande vrijwaringsverplichting van leverancier is 
+uitgesloten. 
+8.6  Cliënt garandeert dat geen rechten van derden 
+zich verzetten tegen beschikbaarstelling aan 
+leverancier van apparatuur, programmatuur, 
+voor websites bestemd materiaal (beeldmateri-
+aal, tekst, muziek, domeinnamen, logo’s, hyper-
+links etc.), databestanden of andere materialen, 
+waaronder ontwerpmateriaal, met het doel van 
+gebruik, bewerking, installatie of incorporatie 
+(bijv. in een website). Cliënt vrijwaart leveran- 
+cier tegen elke aanspraak van een derde die 
+gebaseerd is op de bewering dat zodanig 
+beschikbaar stellen, gebruik, bewerken, installe-
+ren of incorporeren inbreuk maakt op enig recht 
+van die derde. 
+9. Medewerkingsverplichtingen 
+9.1  Partijen erkennen dat het welslagen van werk-
+zaamheden op het gebied van informatie- en 
+communicatietechnologie in de regel afhan-
+kelijk is van een juiste en tijdige onderlinge 
+samenwerking. Om een behoorlijke uitvoering 
+van de overeenkomst door leverancier moge-
+lijk te maken zal cliënt leverancier steeds tijdig 
+alle door leverancier nuttig, nodig en wenselijk 
+geachte gegevens of inlichtingen verschaffen en 
+alle medewerking verlenen. Indien cliënt in het 
+kader van het verlenen van medewerking aan de 
+uitvoering van de overeenkomst eigen personeel 
+en/of hulppersonen inzet, zullen dit personeel en 
+deze hulppersonen beschikken over de noodza-
+kelijke kennis, deskundigheid en ervaring. 
+9.2  Cliënt draagt het risico van de selectie, het 
+gebruik, de toepassing en het beheer in zijn 
+organisatie van de apparatuur, programmatuur, 
+websites, databestanden en andere producten 
+en materialen en van de door leverancier te ver-
+lenen diensten. Cliënt zelf draagt zorg voor de 
+juiste installatie, montage en ingebruikneming 
+en voor de juiste instellingen van de apparatuur, 
+programmatuur, websites, databestanden en 
+andere producten en materialen. 
+9.3  Indien cliënt de voor de uitvoering van de 
+overeenkomst door leverancier nuttig, nodig of 
+wenselijk geachte gegevens, documenten, appa-
+ratuur, programmatuur, materialen of medewer-
+kers niet, niet tijdig of niet overeenkomstig de 
+afspraken ter beschikking van leverancier stelt 
+of indien cliënt op andere wijze niet aan zijn ver-
+plichtingen voldoet, heeft leverancier het recht 
+tot gehele of gedeeltelijke opschorting van de 
+uitvoering van de overeenkomst en heeft leve-
+rancier tevens het recht om de daardoor ont-
+stane kosten volgens zijn gebruikelijke tarieven 
+in rekening te brengen, een en ander onvermin-
+derd het recht van leverancier tot uitoefening 
+van enig ander wettelijk en/of overeengekomen 
+recht. 
+9.4  Ingeval medewerkers van leverancier op locatie 
+van cliënt werkzaamheden verrichten, draagt 
+cliënt kosteloos zorg voor de door die mede-
+werkers in redelijkheid gewenste faciliteiten, 
+zoals een werkruimte met computer-, data- en 
+telecommunicatiefaciliteiten. De werkruimte en 
+faciliteiten zullen voldoen aan alle wettelijke en 
+overigens geldende eisen betreffende arbeids-
+omstandigheden. Cliënt vrijwaart leverancier 
+voor aanspraken van derden, waaronder mede-
+werkers van leverancier, die in verband met de 
+uitvoering van de overeenkomst schade lijden 
+welke het gevolg is van handelen of nalaten van 
+cliënt of van onveilige situaties in diens organi-
+satie. Cliënt zal de binnen zijn organisatie gel-
+dende huis- en beveiligingsregels vóór aanvang 
+van de werkzaamheden aan de door leverancier 
+ingezette medewerkers kenbaar maken. 
+9.5  Indien bij de uitvoering van de overeenkomst 
+gebruik wordt gemaakt van computer-, data- of 
+telecommunicatiefaciliteiten, waaronder internet, 
+is cliënt verantwoordelijk voor de juiste keuze 
+van de daarvoor benodigde middelen en voor 
+de tijdige en volledige beschikbaarheid ervan, 
+behoudens voor die faciliteiten welke onder 
+direct gebruik en beheer van leverancier staan. 
+Leverancier is nimmer aansprakelijk voor schade 
+of kosten wegens transmissiefouten, storingen 
+of niet-beschikbaarheid van deze faciliteiten, 
+tenzij cliënt bewijst dat deze schade of kosten 
+het gevolg zijn van opzet of bewuste roekeloos-
+heid van de bedrijfsleiding van leverancier. 
+10. Leveringstermijnen
+10.1   Alle door leverancier genoemde of overeenge-
+komen (leverings)termijnen en (oplever)data 
+zijn naar beste weten vastgesteld op grond van 
+de gegevens die hem bij het aangaan van de 
+overeenkomst bekend waren. Door leverancier 
+genoemde of tussen partijen overeengekomen 
+tussentijdse (oplever)data, gelden steeds als 
+streefdata, binden de leverancier niet en heb-
+ben steeds slechts een indicatief karakter. 
+Leverancier spant zich er redelijkerwijs voor in 
+uiterste (leverings)termijnen en uiterste (ople-
+ver)data zoveel mogelijk in acht te nemen. 
+Leverancier is niet gebonden aan een al dan niet 
+uiterste (leverings)termijn of (oplever)datum die 
+vanwege buiten zijn macht gelegen omstandig-
+heden die zich na het aangaan van de overeen-
+komst hebben voorgedaan, niet meer gehaald 
+kan worden. Evenmin is leverancier gebonden 
+aan een al dan niet uiterste (oplever)datum 
+of (leverings)termijn als partijen een wijziging 
+van de inhoud of omvang van de overeenkomst 
+(meerwerk, wijziging van specificaties etc.) of 
+een wijziging van de aanpak van de uitvoering 
+van de overeenkomst zijn overeengekomen. 
+Indien overschrijding van enige termijn dreigt, 
+zullen leverancier en cliënt in overleg treden om 
+de gevolgen van de overschrijding voor de ver-
+dere planning te bespreken.
+10.2   De enkele overschrijding van een door leveran-
+cier genoemde of tussen partijen overeenge-
+komen al dan niet uiterste (leverings)termijn 
+of (oplever)datum brengt leverancier niet in 
+verzuim. In alle gevallen - derhalve ook ingeval 
+partijen schriftelijk en uitdrukkelijk een uiterste 
+(leverings)termijn of (oplever)datum zijn over-
+eengekomen - komt leverancier wegens tijds-
+overschrijding eerst in verzuim nadat cliënt hem 
+schriftelijk in gebreke heeft gesteld. De ingebre-
+kestelling dient een zo volledig en gedetailleerd 
+mogelijke omschrijving van de tekortkoming te 
+bevatten, opdat leverancier in de gelegenheid 
+wordt gesteld adequaat te reageren.
+11.  Ontbinding en opzegging van de overeen-
+komst 
+11.1  Aan elk der partijen komt de bevoegdheid tot 
+ontbinding van de overeenkomst wegens een 
+toerekenbare tekortkoming in de nakoming 
+van de overeenkomst slechts toe indien de 
+andere partij, steeds in alle gevallen na een zo 
+gedetailleerd mogelijke schriftelijke ingebreke-
+stelling waarbij een redelijke termijn gesteld 
+wordt voor zuivering van de tekortkoming, 
+toerekenbaar tekortschiet in de nakoming van 
+wezenlijke verplichtingen uit de overeenkomst. 
+Betalingsverplichtingen van cliënt en alle andere 
+verplichtingen tot medewerking door de cliënt of 
+een door de cliënt in te schakelen derde gelden 
+steeds als wezenlijke verplichtingen uit de over-
+eenkomst. 
+11.2  Indien cliënt op het moment van de ontbinding 
+als bedoeld in artikel 11.1 reeds prestaties ter 
+uitvoering van de overeenkomst heeft ont-
+vangen, zullen deze prestaties en de daarmee 
+samenhangende betalingsverplichting geen 
+voorwerp van ongedaanmaking zijn, tenzij cliënt  
+bewijst dat leverancier ten aanzien van het 
+wezenlijke deel van die prestaties in verzuim 
+is. Bedragen die leverancier vóór de ontbinding 
+heeft gefactureerd in verband met hetgeen hij 
+ter uitvoering van de overeenkomst reeds naar 
+behoren heeft verricht of geleverd, blijven met 
+inachtneming van het in de vorige volzin bepaal-
+de onverminderd verschuldigd en worden op het 
+moment van de ontbinding direct opeisbaar. 
+11.3  Indien een overeenkomst welke naar zijn aard 
+en inhoud niet door volbrenging eindigt, voor 
+onbepaalde tijd is aangegaan, kan deze door elk 
+der partijen na goed overleg en onder opgave 
+van redenen schriftelijk worden opgezegd. 
+Indien tussen partijen geen opzegtermijn is 
+overeengekomen, dient bij de opzegging een 
+redelijke termijn in acht te worden genomen. 
+Partijen zullen wegens opzegging nimmer tot 
+enige schadevergoeding zijn gehouden.
+11.4  Cliënt is nimmer gerechtigd een overeenkomst 
+van dienstverlening of van opdracht welke voor 
+bepaalde tijd is aangegaan, tussentijds op te 
+zeggen.
+11.5  Elk der partijen kan de overeenkomst zonder 
+ingebrekestelling met onmiddellijke ingang 
+geheel of gedeeltelijk schriftelijk opzeggen 
+indien de wederpartij - al dan niet voorlopig - 
+surséance van betaling wordt verleend, indien 
+ten aanzien van de andere partij faillissement 
+wordt aangevraagd, indien de onderneming van 
+de andere partij wordt geliquideerd of beëindigd 
+anders dan ten behoeve van reconstructie of 
+samenvoeging van ondernemingen, of indien  
+de beslissende zeggenschap over de onder- 
+neming van cliënt wijzigt. Leverancier is wegens 
+deze beëindiging nimmer tot enige restitutie  
+van reeds ontvangen gelden dan wel tot schade-
+vergoeding gehouden. Ingeval van faillissement 
+van cliënt vervalt het recht tot gebruik van aan 
+cliënt ter beschikking gestelde programmatuur, 
+websites en dergelijke van rechtswege. 
+12. Aansprakelijkheid van leverancier
+12.1  De totale aansprakelijkheid van leverancier 
+wegens een toerekenbare tekortkoming in de 
+nakoming van de overeenkomst of uit enige 
+andere hoofde, daaronder uitdrukkelijk ook 
+begrepen iedere tekortkoming in de nakoming 
+van een met cliënt overeengekomen garantie-
+verplichting, is beperkt tot vergoeding van  
+directe schade tot maximaal het bedrag van  
+de voor die overeenkomst bedongen prijs  
+(excl. BTW). Deze beperking van aansprakelijk-
+heid is van overeenkomstige toepassing op de  
+in artikel 8.5 van deze module Algemeen  
+bedoelde vrijwaringsverplichting van leverancier. 
+Indien de overeenkomst hoofdzakelijk een  
+duurovereenkomst is met een looptijd van meer 
+dan één jaar, wordt de voor de overeenkomst 
+bedongen prijs gesteld op het totaal van de  
+vergoedingen (excl. BTW) bedongen voor één 
+jaar. In geen geval zal de totale aansprakelijk-
+heid van leverancier voor directe schade, uit 
+welke hoofde dan ook, echter meer bedragen 
+dan € 500.000 (vijfhonderd duizend Euro). 
+12.2  De aansprakelijkheid van leverancier voor scha-
+de door dood, lichamelijk letsel of wegens mate-
+riële beschadiging van zaken bedraagt totaal 
+nimmer meer dan € 1.250.000 (één miljoen 
+tweehonderdvijftig duizend Euro).
+12.3  De aansprakelijkheid van leverancier voor indi-
+recte schade, gevolgschade, gederfde winst, 
+gemiste besparingen, verminderde goodwill, 
+schade door bedrijfsstagnatie, schade als gevolg 
+van aanspraken van afnemers van cliënt, schade 
+verband houdende met het gebruik van door 
+cliënt aan leverancier voorgeschreven zaken, 
+materialen of programmatuur van derden en 
+schade verband houdende met de inschakeling 
+van door cliënt aan leverancier voorgeschreven 
+toeleveranciers is uitgesloten. Eveneens is uit-
+gesloten de aansprakelijkheid van leverancier 
+wegens verminking, vernietiging of verlies van 
+gegevens of documenten. 
+12.4  De uitsluitingen en beperkingen van de aanspra-
+kelijkheid van leverancier, zoals omschreven in 
+de voorgaande leden van dit artikel 12, laten de 
+overige uitsluitingen en beperkingen van aan-
+sprakelijkheid van leverancier uit hoofde van 
+deze module Algemeen en de overige overeen-
+gekomen modules van deze algemene voorwaar-
+den geheel onverlet. 
+12.5  De in artikel 12.1 tot en met 12.4 bedoelde uit-
+sluitingen en beperkingen komen te vervallen 
+indien en voor zover de schade het gevolg is van 
+opzet of bewuste roekeloosheid van de bedrijfs-
+leiding van leverancier.
+12.6  Tenzij nakoming door de leverancier blijvend 
+onmogelijk is, ontstaat de aansprakelijkheid van 
+leverancier wegens toerekenbare tekortkoming 
+in de nakoming van een overeenkomst slechts 
+indien cliënt leverancier onverwijld schriftelijk in 
+gebreke stelt, waarbij een redelijke termijn voor 
+de zuivering van de tekortkoming wordt gesteld, 
+en leverancier ook na die termijn toerekenbaar 
+blijft tekortschieten in de nakoming van zijn 
+verplichtingen. De ingebrekestelling dient een zo 
+volledig en gedetailleerd mogelijke omschrijving 
+van de tekortkoming te bevatten, opdat leveran-
+cier in de gelegenheid wordt gesteld adequaat te 
+reageren. 
+12.7  Voorwaarde voor het ontstaan van enig recht op 
+schadevergoeding is steeds dat cliënt de schade 
+zo spoedig mogelijk na het ontstaan daarvan 
+schriftelijk bij leverancier meldt. Iedere vor-
+dering tot schadevergoeding tegen leverancier 
+vervalt door het enkele verloop van vierentwintig 
+maanden na het ontstaan van de vordering. 
+12.8  Partijen erkennen dat het actief en constructief 
+deelnemen aan een ICT-Mediation een rede-
+lijke en passende maatregel is om dreigende 
+schade te voorkomen of te beperken indien 
+deze dreigende schade verband houdt met het 
+niet, niet tijdig of niet behoorlijk nakomen van 
+enige contractuele verplichting door leverancier. 
+Cliënt verplicht zich om die reden op eerste 
+schriftelijk verzoek van leverancier onverwijld 
+actief, constructief en onvoorwaardelijk deel te 
+nemen aan een ICT-Mediation overeenkomstig 
+het ICT-Mediation Reglement van de Stichting 
+Geschillenoplossing Automatisering, statutair 
+gevestigd te Den Haag (zie www.sgoa.org en 
+www.sgoa.eu). 
+12.9  Cliënt vrijwaart leverancier voor alle aanspraken 
+van derden wegens productaansprakelijkheid 
+als gevolg van een gebrek in een product of 
+systeem dat door cliënt aan een derde is gele-
+verd en dat mede bestond uit door leverancier 
+geleverde apparatuur, programmatuur of andere 
+materialen, tenzij en voor zover cliënt bewijst 
+dat de schade is veroorzaakt door die appara-
+tuur, programmatuur of andere materialen. 
+12.10  Het bepaalde in dit artikel alsmede alle andere 
+beperkingen en uitsluitingen van aansprakelijk-
+heid genoemd in deze algemene voorwaarden 
+gelden mede ten gunste van alle (rechts)perso-
+nen waarvan leverancier zich bij de uitvoering 
+van de overeenkomst bedient. 
+13. Overmacht
+13.1  Geen van partijen is gehouden tot het nakomen 
+van enige verplichting, daaronder begrepen 
+enige tussen partijen overeengekomen garantie-
+verplichting, indien hij daartoe verhinderd is als 
+gevolg van overmacht. Onder overmacht wordt 
+mede verstaan: (i) overmacht van toeleveran-
+ciers van leverancier, (ii) het niet naar behoren 
+nakomen van verplichtingen van toeleveranciers 
+die door cliënt aan leverancier zijn voorgeschre-
+ven, (iii) gebrekkigheid van zaken, apparatuur, 
+programmatuur of materialen van derden waar-
+van het gebruik door cliënt aan leverancier is 
+voorgeschreven, (iv) overheidsmaatregelen, (v) 
+elektriciteitsstoring, (vi) storing van internet, 
+computernetwerk- of telecommunicatiefacilitei-
+ten, (vii) oorlog, (viii) werkbezetting, (ix) sta-
+king, (x) algemene vervoersproblemen en (xi) 
+de onbeschikbaarheid van één of meer perso-
+neelsleden.
+13.2  Indien een overmachtsituatie langer dan negen-
+tig dagen duurt, heeft elk der partijen het recht 
+om de overeenkomst schriftelijk te ontbinden. 
+Hetgeen reeds op grond van de overeenkomst 
+gepresteerd is, wordt in dat geval naar verhou-
+ding afgerekend, zonder dat partijen elkaar ove-
+rigens iets verschuldigd zullen zijn.
+14.  Wijziging en meerwerk
+14.1   Indien leverancier op verzoek of met vooraf-
+gaande instemming van cliënt werkzaamheden 
+of andere prestaties heeft verricht die buiten 
+de inhoud of omvang van de overeengekomen 
+werkzaamheden en/of prestaties vallen, zullen  
+deze werkzaamheden of prestaties door cliënt  
+worden vergoed volgens de overeengekomen  
+tarieven en bij gebreke daarvan volgens 
+de gebruikelijke tarieven van leverancier. 
+Leverancier is nimmer verplicht aan een derge-
+lijk verzoek te voldoen en hij kan verlangen dat 
+daarvoor een afzonderlijke schriftelijke overeen-
+komst wordt gesloten. 
+14.2   Cliënt aanvaardt dat door werkzaamheden of 
+prestaties als bedoeld in dit artikel het overeen-
+gekomen of verwachte tijdstip van voltooiing van 
+de dienstverlening en de wederzijdse verant-
+woordelijkheden van cliënt en leverancier kun-
+nen worden beïnvloed. Het feit dat zich tijdens 
+de uitvoering van de overeenkomst (de vraag 
+naar) meerwerk voordoet, is voor cliënt nimmer 
+grond voor opzegging of ontbinding van de over-
+eenkomst.
+14.3  Voor zover voor de dienstverlening een vaste 
+prijs is afgesproken, zal leverancier cliënt desge-
+vraagd schriftelijk informeren over de financiële 
+consequenties van de extra werkzaamheden of 
+prestaties als bedoeld in dit artikel.
+15. Overdracht van rechten en verplichtingen
+15.1  Cliënt is niet gerechtigd de rechten en/of ver-
+plichtingen uit de overeenkomst aan een derde  
+te verkopen en/of over te dragen.
+15.2  Leverancier is gerechtigd zijn aanspraken op 
+betaling van vergoedingen aan een derde over 
+te dragen.
+ 
+16 Toepasselijk recht en geschillen
+16.1  De overeenkomsten tussen leverancier en  
+cliënt worden beheerst door Nederlands recht. 
+Toepasselijkheid van het Weens Koopverdrag 
+1980 is uitgesloten. 
+16.2  Geschillen welke tussen leverancier en cliënt 
+mochten ontstaan naar aanleiding van een 
+tussen leverancier en cliënt gesloten overeen-
+komst dan wel naar aanleiding van nadere 
+overeenkomsten die daarvan het gevolg zijn, 
+worden beslecht door middel van arbitrage 
+overeenkomstig het Arbitragereglement van de 
+Stichting Geschillenoplossing Automatisering, 
+statutair gevestigd te Den Haag, één en ander 
+onverminderd het recht van elk der partijen een 
+voorziening in arbitraal kort geding te vragen en 
+onverminderd het recht van elk der partijen tot 
+het treffen van conservatoire rechtsmaatregelen 
+(zie www.sgoa.org).
+16.3  Uitsluitend indien leverancier en/of cliënt voor de 
+beslechting van geschillen naar aanleiding van 
+de tussen partijen gesloten overeenkomst dan 
+wel naar aanleiding van nadere overeenkomsten 
+die daarvan het gevolg zijn, nog geen arbitrale 
+procedure bij de Stichting Geschillenoplossing 
+Automatisering aanhangig heeft of hebben 
+gemaakt overeenkomstig het Arbitragereglement 
+van deze stichting, is elk der partijen gerech-
+tigd, doch niet verplicht, om in afwijking van 
+het bepaalde in artikel 16.2, de zaak aanhan-
+gig te maken bij de Rechtbank, Sector Kanton 
+indien de zaak betrekking heeft op een geschil 
+dat volgens de wettelijke bevoegdheidsregels 
+behoort tot de absolute bevoegdheid van de 
+Rechtbank, Sector Kanton. Indien de zaak met 
+inachtneming van de vorige volzin door één of 
+meer der partijen ter behandeling en beslis-
+sing bij de Rechtbank, Sector Kanton aanhan-
+gig is gemaakt, is de Rechtbank Sector Kanton 
+bevoegd de zaak te behandelen en daarover te 
+beslissen. 
+16.4  Alvorens een arbitrale procedure als bedoeld in 
+artikel 16.2 aanhangig te maken, zal de meest 
+gerede partij een procedure van ICT-Mediation 
+conform het ICT-Mediation Reglement van de 
+Stichting Geschillenoplossing Automatisering 
+te Den Haag beginnen. Een procedure van ICT-
+Mediation conform dit reglement is gericht op 
+bemiddeling door één of meer mediators. De 
+wederpartij verplicht zich actief deel te nemen 
+aan een aanhangig gemaakte ICT-Mediation, 
+tot welke rechtens afdwingbare verplichting in 
+ieder geval behoort het bijwonen van tenminste 
+één gezamenlijke bespreking van mediators en 
+partijen, teneinde deze buitengerechtelijke vorm 
+van geschiloplossing een kans te geven. Het 
+staat elk der partijen vrij om op elk moment na 
+een gezamenlijke eerste bespreking van media-
+tors en partijen de procedure van ICT-Mediation 
+te beëindigen. Het bepaalde in dit artikellid ver-
+zet zich er niet tegen dat een partij die dat nodig 
+acht, een voorziening in (arbitraal) kort geding 
+vraagt of conservatoire rechtsmaatregelen treft 
+(zie www.sgoa.org en www.sgoa.eu).
+ 
+ © 2008, ICT~Office te Woerden
+1.  Toepasselijkheid
+1.1   De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module opgenomen bepaling-
+en zijn, naast de bepalingen van de module 
+Algemeen, van toepassing indien leverancier 
+programmatuur op basis van een licentie voor 
+gebruik aan cliënt ter beschikking stelt. 
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module,  
+prevaleren deze laatste. 
+2.  Gebruiksrecht
+2.1   Leverancier stelt aan cliënt de in de overeen-
+komst bepaalde computerprogramma’s en de 
+daarbij behorende gebruikersdocumentatie voor 
+gebruik ter beschikking, hierna te noemen ‘de 
+programmatuur’.
+2.2   Tenzij schriftelijk anders overeengekomen, 
+strekt de verplichting tot terbeschikkingstelling 
+door leverancier en het gebruiksrecht van cliënt 
+zich uitsluitend uit tot de zogeheten objectcode 
+van de programmatuur Het gebruiksrecht van 
+cliënt strekt zich niet uit tot de broncode van 
+de programmatuur. De broncode van de pro-
+grammatuur en de bij de ontwikkeling van de 
+programmatuur voortgebrachte technische docu-
+mentatie worden nimmer aan cliënt ter beschik-
+king gesteld, ook niet indien cliënt bereid is voor 
+de terbeschikkingstelling een financiële vergoe-
+ding te voldoen. 
+2.3   Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet gehouden tot terbeschikkingstel-
+ling van andere dan de overeengekomen pro-
+grammatuur of programma- of databibliotheken, 
+ook niet indien die nodig zijn voor het gebruik 
+en/of onderhoud van de programmatuur.  
+Indien in afwijking van het vorenstaande door 
+leverancier tevens andere dan de overeenge-
+komen programmatuur en/of programma- of 
+databibliotheken ter beschikking gesteld moet 
+worden, kan leverancier verlangen dat cliënt 
+daarvoor een separate schriftelijke overeen-
+komst aangaat.
+2.4   Tenzij schriftelijk anders overeengekomen, zijn 
+in de prestatieverplichtingen van leverancier niet 
+begrepen het onderhoud van de programma-
+tuur en/of het verlenen van ondersteuning aan 
+de gebruikers van de programmatuur. Indien 
+in afwijking van het vorenstaande leverancier 
+tevens zodanig onderhoud en/of ondersteuning 
+verleend moet worden, kan leverancier verlang-
+en dat cliënt daarvoor een separate schriftelijke 
+overeenkomst aangaat.
+2.5  Onverminderd het bepaalde in de module 
+Algemeen is het recht tot gebruik van de  
+programmatuur steeds niet-exclusief, niet- 
+overdraagbaar en niet-sublicentieerbaar.
+3.  Gebruiksbeperkingen 
+3.1   Cliënt zal de tussen partijen overeengekomen 
+beperkingen in het recht tot gebruik van de 
+programmatuur steeds stipt naleven. Cliënt 
+is zich er van bewust dat schending van een 
+overeengekomen gebruiksbeperking zowel een 
+toerekenbaar tekortschieten in de nakoming van 
+de overeenkomst met leverancier inhoudt alsook 
+inbreuk op de rechten van intellectuele eigen-
+dom van de programmatuur vormt. De overeen-
+gekomen gebruiksbeperkingen kunnen onder 
+meer betrekking hebben op: 
+ -  het soort of type apparatuur waarvoor de  
+programmatuur bestemd is, en/of
+ -  het maximaal aantal verwerkingseenheden 
+waarvoor de programmatuur bestemd is, en/of
+ -  bepaalde - al dan niet met naam of functie 
+aangeduide - personen die binnen de organi-
+satie van cliënt de programmatuur mogen 
+gebruiken, en/of  
+ -  het maximaal aantal gebruikers dat - al dan 
+niet gelijktijdig - binnen de organisatie van  
+cliënt de programmatuur mag gebruiken, en/of 
+ -  de locatie waarop de programmatuur gebruikt 
+mag worden, en/of
+ -  bepaalde vormen en doeleinden van gebruik 
+(bijv. zakelijk gebruik of gebruik voor privé-
+doeleinden), en/of
+ -  iedere andere kwantitatieve of kwalitatieve 
+beperking. 
+3.2   Indien partijen zijn overeengekomen dat de 
+programmatuur uitsluitend in combinatie met 
+bepaalde apparatuur of een bepaalde soort of 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840. 
+Module 1 Licentie voor programmatuur
+ICT~Office Voorwaarden
+type apparatuur gebruikt mag worden, is cliënt 
+gerechtigd bij eventuele storing van de desbe-
+treffende apparatuur de programmatuur voor de 
+duur van de storing op andere apparatuur van 
+hetzelfde soort en type te gebruiken. 
+3.3  Leverancier kan verlangen dat cliënt de pro-
+grammatuur niet in gebruik neemt dan nadat 
+cliënt bij leverancier, diens toeleverancier of de 
+producent van de programmatuur één of meer 
+codes (wachtwoorden, identiteitscodes etc.), 
+benodigd voor het gebruik, heeft aangevraagd 
+en verkregen. Leverancier is steeds gerech-
+tigd technische maatregelen te doen nemen 
+ter bescherming van de programmatuur tegen 
+onrechtmatig gebruik en/of tegen gebruik op 
+een andere wijze of voor andere doeleinden dan 
+tussen partijen is overeengekomen.
+3.4  Cliënt zal nimmer technische voorzieningen die 
+bedoeld zijn om de programmatuur te bescher-
+men, (laten) verwijderen of (laten) omzeilen. 
+3.5   Tenzij schriftelijk anders overeengekomen, mag 
+cliënt de programmatuur uitsluitend in en ten 
+behoeve van zijn eigen bedrijf of organisatie 
+gebruiken en uitsluitend voor het beoogd gebruik. 
+Tenzij schriftelijk anders overeengekomen, zal 
+cliënt de programmatuur niet gebruiken voor de 
+verwerking van gegevens ten behoeve van der-
+den, zoals ‘time-sharing’, ‘application service pro-
+vision’, ‘software as a service’ en ‘outsourcing’.
+3.6  Het is cliënt niet toegestaan de programmatuur, 
+de dragers waarop de programmatuur is vastge-
+legd en de bij de terbeschikkingstelling van de 
+programmatuur door leverancier verstrekte cer-
+tificaten van echtheid te verkopen, te verhuren, 
+te vervreemden of daarop beperkte rechten te 
+verlenen of op welke wijze of voor welk doel dan 
+ook ter beschikking van een derde te stellen. 
+Evenmin zal cliënt een derde - al dan niet op 
+afstand - toegang geven tot de programmatuur 
+of de programmatuur bij een derde ter hosting 
+onderbrengen, ook niet indien de desbetreffende 
+derde de programmatuur uitsluitend ten behoe-
+ve van cliënt gebruikt. 
+3.7   Cliënt zal desgevraagd onverwijld zijn volle 
+medewerking verlenen aan een door of namens 
+leverancier uit te voeren onderzoek betreffende 
+het naleven door cliënt van de overeengekomen 
+gebruiksbeperkingen. Cliënt zal op eerste ver-
+zoek van leverancier toegang tot zijn gebouwen 
+en systemen aan leverancier verlenen.  
+Leverancier zal alle vertrouwelijk te achten 
+bedrijfsinformatie die leverancier in het kader 
+van een dergelijk onderzoek van of bij cliënt  
+verkrijgt, voor zover die informatie niet het 
+gebruik van de programmatuur zelf betreft,  
+vertrouwelijk behandelen. 
+4. Aflevering en installatie
+4.1   Leverancier zal de programmatuur op het  
+overeengekomen formaat informatiedragers of, 
+bij gebreke van duidelijke afspraken daarom-
+trent, door leverancier te bepalen formaat infor-
+matiedragers aan cliënt afleveren dan wel met 
+gebruikmaking van telecommunicatiefaciliteiten 
+(online) aan cliënt afleveren. Leverancier bepaalt 
+de wijze van aflevering. 
+4.2   Uitsluitend indien schriftelijk tussen partijen 
+overeengekomen, zal leverancier de program-
+matuur bij cliënt installeren. Bij gebreke van uit-
+drukkelijke afspraken daaromtrent zal cliënt zelf 
+de programmatuur installeren, inrichten, para-
+metriseren, tunen en indien nodig de gebruikte 
+apparatuur en gebruiksomgeving aanpassen. 
+Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet verplicht tot het uitvoeren van 
+dataconversie.
+4.3   De terbeschikkingstelling van gebruikersdocu-
+mentatie geschiedt in papieren dan wel digi-
+tale vorm met een door leverancier te bepalen 
+inhoud. De leverancier beslist over de vorm en 
+de taal waarin de gebruikersdocumentatie wordt 
+verstrekt. 
+5. Acceptatietest en acceptatie
+5.1   Indien partijen niet zijn overeengekomen dat 
+een acceptatietest zal worden uitgevoerd, aan-
+vaardt cliënt de programmatuur in de staat 
+waarin deze zich op het moment van aflevering 
+bevindt (‘as is’), derhalve met alle zichtbare 
+en onzichtbare fouten en gebreken, onvermin-
+derd de verplichtingen van leverancier op grond 
+van de garantieregeling van artikel 9 van deze 
+module.
+5.2   Indien tussen partijen schriftelijk een acceptatie-
+test is overeengekomen, is het bepaalde in  
+de artikelen 5.3 tot en met 5.10 van deze modu-
+le van toepassing.
+5.3  Waar in deze module sprake is van ‘fouten’, 
+wordt daaronder verstaan het substantieel niet 
+voldoen aan de door leverancier schriftelijk 
+kenbaar gemaakte functionele of technische 
+specificaties van de programmatuur, en, ingeval 
+de programmatuur geheel of gedeeltelijk maat-
+werkprogrammatuur betreft, aan de tussen par-
+tijen schriftelijk uitdrukkelijk overeengekomen 
+functionele of technische specificaties. Van een 
+fout is alleen sprake indien cliënt deze kan aan-
+tonen en indien deze reproduceerbaar is. Cliënt 
+is gehouden van fouten onverwijld melding aan 
+leverancier te maken. 
+5.4  Indien een acceptatietest is overeengekomen, 
+bedraagt de testperiode veertien dagen na 
+aflevering of, indien een door leverancier uit te 
+voeren installatie schriftelijk is overeengekomen, 
+na voltooiing van de installatie. Gedurende de 
+testperiode is cliënt niet gerechtigd de program-
+matuur voor productieve of operationele doelein-
+den te gebruiken. Cliënt zal de overeengekomen 
+acceptatietest met voldoende gekwalificeerd per-
+soneel en met voldoende omvang en diepgang 
+uitvoeren op de programmatuur en de testresul-
+taten schriftelijk, overzichtelijk en begrijpelijk 
+ aan leverancier rapporteren.
+5.5   Indien een acceptatietest is overeengekomen,  
+is cliënt verplicht onder zijn volledige en  
+uitsluitende verantwoordelijkheid te toetsen of 
+de afgeleverde programmatuur beantwoordt aan 
+de door leverancier schriftelijk kenbaar gemaak-
+te functionele of technische specificaties en, 
+ingeval de programmatuur geheel of gedeeltelijk 
+maatwerkprogrammatuur betreft, aan de tussen 
+partijen schriftelijk overeengekomen functionele 
+of technische specificaties. Tenzij schriftelijk 
+anders overeenkomen, is de bijstand die leve-
+rancier verleent bij het uitvoeren van een accep-
+tatietest geheel voor risico van cliënt. 
+5.6  De programmatuur zal tussen partijen gelden als 
+geaccepteerd:
+ a.  indien partijen niet een acceptatietest zijn 
+overeengekomen: bij de aflevering of, indien 
+een door leverancier uit te voeren installatie 
+schriftelijk is overeengekomen, bij de voltooi-
+ing van de installatie, dan wel
+ b.  indien partijen wel een acceptatietest zijn 
+overeengekomen: op de eerste dag na de 
+testperiode, dan wel
+ c.  indien leverancier vóór het einde van de 
+testperiode een testrapport als bedoeld in 
+artikel 5.7 ontvangt: op het moment dat de 
+in dat testrapport genoemde fouten zijn her-
+steld, onverminderd de aanwezigheid van 
+onvolkomenheden die volgens artikel 5.8 aan 
+acceptatie niet in de weg staan. In afwijking 
+hiervan zal de programmatuur, indien cliënt 
+daarvan vóór het moment van een uitdrukke-
+lijke acceptatie enig gebruik voor productieve 
+of operationele doeleinden maakt, gelden als 
+volledig geaccepteerd vanaf de aanvang van 
+dat gebruik.
+5.7  Indien bij het uitvoeren van de overeengekomen 
+acceptatietest blijkt dat de programmatuur fou-
+ten bevat, zal cliënt leverancier uiterlijk op de 
+laatste dag van de testperiode door middel van 
+een schriftelijk en gedetailleerd testrapport over 
+de fouten informeren. Leverancier zal zich naar 
+beste vermogen inspannen de bedoelde fouten  
+binnen een redelijke termijn te herstellen,  
+waarbij leverancier gerechtigd is tijdelijke  
+oplossingen, programmaomwegen of probleem-
+vermijdende beperkingen in de programmatuur 
+aan te brengen.
+5.8  Acceptatie van de programmatuur mag niet  
+worden onthouden op gronden die niet verband  
+houden met de tussen partijen uitdrukkelijk 
+overeengekomen specificaties en voorts niet 
+wegens het bestaan van kleine fouten, zijnde 
+fouten die de operationele of productieve inge-
+bruikneming van de programmatuur redelij-
+kerwijs niet in de weg staan, onverminderd 
+de verplichting van leverancier om deze kleine 
+fouten in het kader van de garantieregeling van 
+artikel 9, indien en voor zover toepasselijk, te 
+herstellen. Acceptatie mag voorts niet worden 
+onthouden vanwege aspecten van de program-
+matuur die slechts subjectief beoordeeld kunnen 
+worden, zoals esthetische aspecten en aspecten 
+betreffende de vormgeving van gebruikersinter-
+faces. 
+5.9   Indien de programmatuur in fasen en/of onder-
+delen wordt afgeleverd en getest, laat de niet-
+acceptatie van een bepaalde fase en/of onder-
+deel een eventuele acceptatie van een eerdere 
+fase en/of een ander onderdeel onverlet. 
+5.10  Acceptatie van de programmatuur op een der 
+wijzen als bedoeld in dit artikel heeft tot gevolg 
+dat leverancier gekweten is voor de nakoming 
+van zijn verplichtingen betreffende terbeschik-
+kingstelling en aflevering van de programma-
+tuur en, indien in voorkomend geval tevens de 
+installatie door leverancier is overeengekomen, 
+van zijn verplichtingen betreffende de instal-
+latie van de programmatuur. Acceptatie van de 
+programmatuur doet niets af aan de rechten van 
+cliënt op grond van artikel 5.8 betreffende kleine 
+gebreken en artikel 9 betreffende garantie. 
+6. Duur van de overeenkomst 
+6.1  De overeenkomst tot terbeschikkingstelling van 
+de programmatuur is aangegaan voor de tus-
+sen partijen overeengekomen duur, bij gebreke 
+waarvan een duur van één jaar geldt. De over-
+eenkomst vangt aan op de dag van terbeschik-
+kingstelling van de programmatuur aan de cliënt.  
+De duur van de overeenkomst wordt telkens 
+stilzwijgend voor de duur van de oorspronkelijke 
+periode verlengd, tenzij cliënt of leverancier de 
+overeenkomst schriftelijk beëindigt met inacht-
+neming van een opzegtermijn van drie maanden 
+vóór het einde van de betreffende periode.
+6.2   Terstond na het einde van het gebruiksrecht van 
+de programmatuur zal cliënt alle in zijn bezit 
+zijnde exemplaren van de programmatuur aan 
+leverancier retourneren. Indien partijen zijn 
+overeengekomen dat cliënt bij het einde van de 
+overeenkomst de betreffende exemplaren zal 
+vernietigen, zal cliënt van zodanige vernieti-
+ging leverancier onverwijld schriftelijk melding 
+maken. Leverancier is bij of na het einde van 
+het gebruiksrecht niet gehouden cliënt bijstand 
+te verlenen met het oog op een door cliënt 
+gewenste dataconversie. 
+7. Gebruiksrechtvergoeding 
+7.1.   Tenzij schriftelijk anders overeengekomen, is de 
+tussen partijen overeengekomen gebruiksrecht-
+vergoeding verschuldigd op de tussen partijen 
+overeengekomen tijdstippen of, bij gebreke van 
+een overeengekomen tijdstip:
+ a.  indien partijen niet zijn overeengekomen 
+dat leverancier zorg draagt voor installatie 
+van de programmatuur: bij aflevering van 
+de programmatuur of, ingeval van periodiek 
+verschuldigde gebruiksrechtvergoedingen, bij 
+aflevering van de programmatuur en vervol-
+gens bij aanvang van iedere nieuwe gebruiks-
+rechttermijn; 
+ b.  indien partijen wel zijn overeengekomen dat 
+leverancier zorg draagt voor installatie van de 
+programmatuur: bij voltooiing van de instal-
+latie van de programmatuur of, ingeval van 
+periodiek verschuldigde gebruiksrechtvergoe-
+dingen, bij voltooiing van de installatie van 
+de programmatuur en vervolgens bij aanvang 
+van iedere nieuwe gebruiksrechttermijn.
+7.2    Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet gehouden tot installatie en 
+aanpassing van de programmatuur. Indien in 
+afwijking van het vorenstaande door leverancier 
+tevens installatiewerkzaamheden of werkzaam-
+heden inzake aanpassing van de programmatuur 
+verricht moeten worden, kan leverancier  
+verlangen dat cliënt daarvoor een separate 
+schriftelijke overeenkomst aangaat. Deze  
+prestaties worden in voorkomend geval separaat 
+tegen de gebruikelijke tarieven van leverancier 
+in rekening gebracht.
+8. Modificeren van de programmatuur
+8.1   Tenzij schriftelijk anders overeengekomen en 
+behoudens uitzonderingen in de wet bepaald, is 
+cliënt niet gerechtigd de programmatuur geheel 
+of gedeeltelijk te modificeren zonder vooraf-
+gaande schriftelijke toestemming van leveran-
+cier. Leverancier is steeds gerechtigd toestem-
+ming te weigeren of aan zijn toestemming voor-
+waarden te verbinden, waaronder voorwaarden 
+betreffende de wijze en kwaliteit van uitvoering 
+van de door cliënt gewenste modificaties. 
+8.2   Cliënt draagt het volle risico van alle door of in 
+opdracht van cliënt door derden - al dan niet 
+met toestemming van leverancier - aangebrach-
+te modificaties.
+9. Garantie
+9.1   Leverancier staat er niet voor in dat de aan  
+cliënt ter beschikking gestelde programmatuur 
+geschikt is voor het feitelijke en/of beoogde 
+gebruik door cliënt. Leverancier garandeert 
+evenmin dat de programmatuur zonder onder-
+breking, fouten of gebreken zal werken of dat 
+steeds alle fouten en gebreken worden verbe-
+terd.
+9.2   Leverancier zal zich naar beste vermogen ervoor 
+inspannen fouten in de programmatuur in de 
+zin van artikel 5.3 van deze module binnen een 
+redelijke termijn te herstellen indien deze binnen 
+een periode van drie maanden na aflevering, 
+of, indien tussen partijen een acceptatietest 
+is overeengekomen, binnen drie maanden na 
+acceptatie gedetailleerd omschreven schriftelijk 
+bij leverancier zijn gemeld. Het herstel wordt 
+gratis uitgevoerd, tenzij de programmatuur in 
+opdracht van cliënt is ontwikkeld anders dan 
+voor een vaste prijs, in welk geval leverancier 
+volgens zijn gebruikelijke tarieven de kosten van 
+herstel in rekening zal brengen. Leverancier kan 
+volgens zijn gebruikelijke tarieven de kosten van 
+herstel in rekening brengen indien sprake is van 
+gebruiksfouten of onoordeelkundig gebruik van 
+cliënt of van andere niet aan leverancier toe te 
+rekenen oorzaken of indien de fouten bij het uit-
+voeren van de overeengekomen acceptatietest 
+hadden kunnen worden ontdekt. 
+  De herstelverplichting vervalt indien cliënt zon-
+der schriftelijke toestemming van leverancier  
+wijzigingen in de programmatuur aanbrengt of 
+laat aanbrengen, welke toestemming niet op  
+onredelijke gronden zal worden onthouden.
+9.3   Herstel van fouten geschiedt op een door leve-
+rancier te bepalen locatie. Leverancier is steeds 
+gerechtigd tijdelijke oplossingen dan wel pro-
+grammaomwegen of probleemvermijdende 
+beperkingen in de programmatuur aan te bren-
+gen.
+9.4  Leverancier is nimmer gehouden tot herstel van 
+verminkte of verloren gegane gegevens.
+9.5   Leverancier heeft geen verplichting tot herstel 
+van fouten die na afloop van de in artikel 9.2 
+van deze module bedoelde garantieperiode zijn 
+gemeld, tenzij tussen partijen een separate 
+onderhoudsovereenkomst is afgesloten die een 
+zodanige plicht tot herstel omvat. 
+10. Vertrouwelijkheid
+10.1   Cliënt erkent dat de programmatuur een ver-
+trouwelijk karakter heeft en dat deze program-
+matuur bedrijfsgeheimen van leverancier, diens 
+toeleveranciers en/of de producent van de pro-
+grammatuur bevat.
+11. Onderhoudsovereenkomst
+11.1  Indien cliënt niet gelijktijdig met het aangaan 
+van een overeenkomst tot terbeschikkingstel-
+ling van de programmatuur een onderhouds-
+overeenkomst met leverancier is aangegaan, is 
+leverancier niet gehouden op een later moment 
+ten behoeve van die programmatuur alsnog een 
+onderhoudsovereenkomst aan te gaan.
+12 Programmatuur van toeleveranciers
+  Indien en voor zover leverancier programmatuur 
+van derden aan cliënt ter beschikking stelt,  
+zullen, mits dat door leverancier schriftelijk  
+aan cliënt is meegedeeld, voor wat betreft die 
+programmatuur de (licentie-)voorwaarden van 
+die derden van toepassing zijn, met terzijdestel-
+ling van de daarvan afwijkende bepalingen in 
+deze algemene voorwaarden. Cliënt aanvaardt 
+de bedoelde voorwaarden van derden. Deze 
+voorwaarden liggen voor cliënt ter inzage bij 
+leverancier en leverancier zal deze aan cliënt 
+kosteloos op zijn verzoek toezenden. Indien en 
+voor zover de bedoelde voorwaarden van derden 
+in de verhouding tussen cliënt en leverancier om 
+welke reden dan ook geacht worden niet van 
+toepassing te zijn of buiten toepassing worden 
+verklaard, geldt het bepaalde in deze algemene  
+voorwaarden onverkort.
+ © 2008, ICT~Office
+1.  Toepasselijkheid
+1.1   De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module opgenomen bepaling-
+en zijn, naast de bepalingen van de module 
+Algemeen, van toepassing indien leverancier in 
+opdracht van cliënt programmatuur ten behoeve 
+van cliënt of een of meer derden ontwikkelt en 
+de programmatuur eventueel installeert.
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste. 
+2.  Specificaties van de programmatuur
+2.1   Indien niet reeds vóór of bij het aangaan van  
+de overeenkomst specificaties of een ontwerp 
+van de te ontwikkelen programmatuur door  
+of vanwege cliënt aan leverancier ter hand  
+zijn gesteld, zullen partijen in goed overleg 
+schriftelijk specificeren welke programmatuur 
+ontwikkeld zal worden en op welke manier de 
+ontwikkeling zal geschieden. Partijen erkennen  
+over en weer dat goede samenwerking en goede 
+onderlinge communicatie cruciale factoren zijn 
+voor het goed specificeren, ontwerpen en  
+ontwikkelen van programmatuur. De samen- 
+werking en onderlinge communicatie zullen 
+zoveel mogelijk geschieden met inachtneming 
+van de in voorkomend geval tussen partijen 
+schriftelijk overeengekomen projectorganisatie, 
+afspraken en/of procedures. 
+2.2  Cliënt staat steeds in voor de juistheid, volle-
+digheid en consistentie van de aan leverancier 
+verstrekte gegevens, specificaties en ontwerpen, 
+ook indien die gegevens, specificaties en ontwer-
+pen van een derde afkomstig zijn. Onjuistheden, 
+onvolledigheden en inconsistenties zijn steeds 
+voor rekening en risico van cliënt.
+2.3  Leverancier is gerechtigd, doch niet verplicht, 
+de juistheid, volledigheid en consistentie van 
+de aan hem ter beschikking gestelde gegevens, 
+specificaties of ontwerpen te onderzoeken en bij 
+constatering van eventuele onvolkomenheden de 
+overeengekomen werkzaamheden op te schorten 
+totdat cliënt de betreffende onvolkomenheden 
+heeft weggenomen. Cliënt verplicht zich de hem 
+bekende onvolkomenheden in de specificaties of 
+het ontwerp van de te ontwikkelen programma-
+tuur, steeds zo spoedig en volledig mogelijk aan 
+leverancier te melden.  
+2.4  Indien partijen een ontwikkelmethode gebruiken 
+die zich kenmerkt door het uitgangspunt dat het 
+ontwerpen en/of ontwikkelen van onderdelen 
+van de programmatuur onderworpen is aan een 
+nadere, tijdens de uitvoering van de overeen-
+komst te bepalen prioriteitstelling met betrek-
+king tot de specificaties, zal deze prioriteitstel-
+ling steeds in goed overleg tussen partijen tot 
+stand worden gebracht.
+3. Ontwikkeling van programmatuur
+3.1  Leverancier zal de programmatuur met zorg ont-
+wikkelen, één en ander met inachtneming van 
+de specificaties of het ontwerp van de program-
+matuur en - in voorkomend geval - met inacht-
+neming van de met cliënt schriftelijk overeenge-
+komen projectorganisatie, methoden, technie-
+ken, afspraken en/of procedures. Alvorens met 
+de ontwikkelwerkzaamheden aan te vangen, kan 
+leverancier verlangen dat cliënt zich schriftelijk 
+geheel en onvoorwaardelijk akkoord verklaart 
+met de specificaties of het ontwerp. Leverancier 
+is gerechtigd zijn werkzaamheden op te schorten 
+tot het moment waarop cliënt zich geheel en 
+onvoorwaardelijk schriftelijk akkoord verklaart 
+met de specificaties of het ontwerp.
+3.2  De ontwikkelwerkzaamheden van leverancier 
+worden steeds uitgevoerd op basis van een 
+inspanningsverbintenis, tenzij en voor zover in 
+de schriftelijke overeenkomst leverancier uit-
+drukkelijk een resultaat heeft toegezegd en het 
+betreffende resultaat bovendien met voldoende 
+bepaaldheid is omschreven. 
+3.3  Indien is overeengekomen dat de ontwikkeling 
+van de programmatuur in fasen zal plaatsvinden 
+of indien leverancier gebruik maakt van een ont-
+wikkelmethode die uitgaat van een fasegewijze 
+uitvoering, is leverancier gerechtigd de aanvang 
+van de diensten die tot een fase behoren uit te 
+stellen totdat cliënt de resultaten van de daar-
+aan voorafgaande fase schriftelijk heeft goedge-
+keurd.
+3.4  Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet gehouden bij de uitvoering van 
+de ontwikkelwerkzaamheden tijdige en verant-
+woord gegeven aanwijzingen van cliënt op te 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840.  
+Module 2 Ontwikkeling van programmatuur
+ICT~Office Voorwaarden
+volgen. Leverancier is niet verplicht aanwijzingen 
+op te volgen die de inhoud of omvang van de 
+prestatieverplichtingen van leverancier wijzigen 
+of aanvullen. Indien dergelijke aanwijzingen ech-
+ter worden opgevolgd, zullen de desbetreffende 
+werkzaamheden worden vergoed conform de 
+gebruikelijke tarieven van leverancier.
+3.5  Indien de overeenkomst tot het ontwikkelen van 
+programmatuur is aangegaan met het oog op 
+uitvoering door één of meer bepaalde personen, 
+is leverancier steeds gerechtigd na overleg met 
+cliënt deze personen op een door leverancier te 
+bepalen termijn te vervangen door één of meer 
+andere personen met dezelfde kwalificaties.
+3.6  Desgevraagd zal cliënt leverancier in de gele-
+genheid stellen de werkzaamheden buiten de 
+gebruikelijke werkdagen en werktijden op kan-
+toor of locatie van cliënt te verrichten. 
+4. Aflevering en installatie
+4.1   Leverancier zal de programmatuur op de over-
+eengekomen soort en formaat informatiedragers 
+aan cliënt afleveren dan wel met gebruikmaking 
+van telecommunicatiefaciliteiten (online) afleve-
+ren. Leverancier bepaalt de wijze van aflevering. 
+4.2   Uitsluitend indien schriftelijk tussen partijen 
+overeengekomen, zal leverancier de program-
+matuur bij cliënt installeren. Bij gebreke van uit-
+drukkelijke afspraken daaromtrent zal cliënt zelf 
+de programmatuur installeren, inrichten, para-
+metriseren, tunen en indien nodig de gebruikte 
+apparatuur en gebruiksomgeving aanpassen. 
+Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet verplicht tot het uitvoeren van 
+dataconversie.
+4.3   De terbeschikkingstelling van gebruikersdocu-
+mentatie geschiedt in papieren dan wel digitale 
+vorm. De leverancier beslist over de vorm en 
+de taal waarin hij gebruikersdocumentatie ver-
+strekt. 
+5. Acceptatietest en acceptatie
+5.1   Indien partijen niet zijn overeengekomen dat 
+een acceptatietest zal worden uitgevoerd, aan-
+vaardt cliënt de programmatuur in de staat 
+waarin deze zich op het moment van aflevering 
+bevindt (‘as is’), derhalve met alle zichtbare en 
+onzichtbare fouten en gebreken, onverminderd 
+de verplichtingen van leverancier ingevolge de 
+garantie van artikel 11 van deze module.
+5.2   Indien tussen partijen schriftelijk een accepta-
+tietest is overeengekomen is het bepaalde in de 
+artikelen 5.3 tot en met 5.10 van deze module 
+van toepassing.
+5.3  Waar in deze module sprake is van ‘fouten’, 
+wordt daaronder verstaan het substantieel niet 
+voldoen aan de tussen partijen schriftelijk uit-
+drukkelijk overeengekomen functionele of tech-
+nische specificaties. Van een fout is alleen sprake 
+indien cliënt deze kan aantonen en indien deze 
+reproduceerbaar is. Cliënt is gehouden van fou-
+ten onverwijld melding aan leverancier te maken. 
+5.4  Indien een acceptatietest is overeengekomen, 
+bedraagt de testperiode veertien dagen na 
+aflevering of, indien een door leverancier uit te 
+voeren installatie schriftelijk is overeengekomen, 
+na voltooiing van de installatie. Gedurende de 
+testperiode is het cliënt niet toegestaan de pro-
+grammatuur voor productieve of operationele 
+doeleinden te gebruiken. Cliënt zal de overeen-
+gekomen acceptatietest met voldoende gekwa-
+lificeerd personeel en met  voldoende omvang 
+en diepgang uitvoeren op de (tussen-)resultaten 
+van de ontwikkelingswerkzaamheden, en hij zal 
+de testresultaten schriftelijk, overzichtelijk en 
+begrijpelijk aan leverancier rapporteren.
+5.5   Indien een acceptatietest is overeengekomen,  
+is cliënt verplicht onder zijn volledige en  
+uitsluitende verantwoordelijkheid te toetsen of 
+de afgeleverde programmatuur beantwoordt aan 
+de door leverancier schriftelijk kenbaar gemaak-
+te functionele of technische specificaties en, 
+ingeval de programmatuur geheel of gedeeltelijk 
+maatwerkprogrammatuur betreft, aan de tussen 
+partijen schriftelijk overeengekomen functionele 
+of technische specificaties. Tenzij schriftelijk 
+anders overeenkomen, is de door of namens 
+leverancier eventueel verleende bijstand bij het 
+uitvoeren van een acceptatietest geheel voor 
+rekening en risico van cliënt. 
+5.6  De programmatuur zal tussen partijen gelden als 
+geaccepteerd:
+ a.  indien partijen niet een acceptatietest zijn 
+overeengekomen: bij de aflevering of, indien 
+een door leverancier uit te voeren installatie 
+schriftelijk is overeengekomen, bij de voltooi-
+ing van de installatie, dan wel
+ b.  indien partijen wel een acceptatietest zijn 
+overeengekomen: op de eerste dag na de 
+testperiode, dan wel
+ c.  indien leverancier vóór het einde van de  
+testperiode een testrapport als bedoeld in 
+artikel 5.7 ontvangt: op het moment dat de  
+in dat testrapport genoemde fouten zijn  
+hersteld, onverminderd de aanwezigheid van 
+onvolkomenheden die volgens artikel 5.8 aan 
+acceptatie niet in de weg staan. In afwijking 
+hiervan zal de programmatuur, indien cliënt 
+daarvan vóór het moment van een uitdrukke-
+lijke acceptatie enig gebruik voor productieve 
+of operationele doeleinden maakt, gelden als 
+volledig geaccepteerd vanaf de aanvang van 
+dat gebruik.
+5.7  Indien bij het uitvoeren van de overeengekomen 
+acceptatietest blijkt dat de programmatuur fou-
+ten bevat, zal cliënt leverancier uiterlijk op de 
+laatste dag van de testperiode door middel van 
+een schriftelijk en gedetailleerd testrapport over 
+de fouten informeren. Leverancier zal zich naar 
+beste vermogen inspannen de bedoelde fouten 
+binnen een redelijke termijn te herstellen, waarbij 
+leverancier gerechtigd is tijdelijke oplossingen, 
+programmaomwegen of probleemvermijdende 
+restricties in de programmatuur aan te brengen.
+5.8  Acceptatie van de programmatuur mag niet 
+worden onthouden op gronden die niet verband 
+houden met de tussen partijen uitdrukkelijk 
+overeengekomen specificaties en voorts niet 
+wegens het bestaan van kleine fouten, zijnde 
+fouten die operationele of productieve ingebruik-
+name van de programmatuur redelijkerwijs niet 
+in de weg staan, onverminderd de verplichting 
+van leverancier om deze kleine fouten in het 
+kader van de garantieregeling van artikel 11, 
+indien en voor zover toepasselijk, te herstellen. 
+Acceptatie mag voorts niet worden onthouden 
+vanwege aspecten van de programmatuur die 
+slechts subjectief beoordeeld kunnen worden, 
+zoals esthetische aspecten en aspecten betref-
+fende de vormgeving van gebruikersinterfaces. 
+5.9   Indien de programmatuur in fasen en/of onder-
+delen wordt afgeleverd en getest, laat de niet-
+acceptatie van een bepaalde fase en/of onder-
+deel een eventuele acceptatie van een eerdere 
+fase en/of een ander onderdeel onverlet. 
+5.10  Acceptatie van de programmatuur op één der 
+wijzen als bedoeld in dit artikel heeft tot gevolg 
+dat leverancier gekweten is voor de nakoming 
+van zijn verplichtingen inzake de ontwikkeling 
+van de programmatuur en, indien in voorko-
+mend geval tevens de installatie door leveran-
+cier is overeengekomen, van zijn verplichtingen 
+inzake de installatie van de programmatuur. 
+Acceptatie van de programmatuur doet niets af 
+aan de rechten van cliënt op grond van artikel 
+5.8 betreffende kleine gebreken en artikel 11 
+betreffende garantie. 
+6.  Gebruiksrecht
+6.1   Leverancier stelt de in opdracht van cliënt ont-
+wikkelde programmatuur en de daarbij beho-
+rende gebruikersdocumentatie voor gebruik aan 
+cliënt ter beschikking. 
+6.2   Slechts indien en voor zover schriftelijk is over-
+eengekomen, zal de broncode van de program-
+matuur en de bij de ontwikkeling van de pro-
+grammatuur gemaakte technische documentatie 
+aan cliënt ter beschikking worden gesteld, in 
+welk geval cliënt gerechtigd zal zijn wijzigingen 
+in deze programmatuur aan te brengen. Indien 
+leverancier in rechte wordt veroordeeld de bron-
+code en/of de technische documentatie aan 
+cliënt ter beschikking te stellen, kan leverancier 
+daarvoor een redelijke vergoeding verlangen.
+6.3   Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet gehouden tot de terbeschikking-
+stelling van de voor het gebruik en/of onderhoud 
+van de programmatuur benodigde hulpprogram-
+matuur en programma- of databibliotheken. 
+Indien in afwijking van het vorenstaande door 
+leverancier tevens hulpprogrammatuur en/of 
+programma- of databibliotheken ter beschikking 
+gesteld moeten worden, kan leverancier verlang-
+en dat cliënt daarvoor een separate schriftelijke 
+overeenkomst aangaat. Deze terbeschikkingstel-
+ling worden in voorkomend geval separaat tegen 
+de gebruikelijke tarieven van leverancier in reke-
+ning gebracht.
+6.4   Tenzij schriftelijk anders overeengekomen, zijn 
+in de prestatieverplichtingen van leverancier niet 
+begrepen het onderhoud van de programmatuur  
+en/of het verlenen van ondersteuning aan de 
+gebruikers van de programmatuur. Indien in 
+afwijking van het vorenstaande door leverancier 
+tevens onderhoud en/of ondersteuning verleend 
+moet worden, kan leverancier verlangen dat 
+cliënt daarvoor een separate schriftelijke over-
+eenkomst aangaat. Deze werkzaamheden en 
+diensten worden in voorkomend geval separaat 
+tegen de gebruikelijke tarieven van leverancier 
+in rekening gebracht. 
+6.5  Onverminderd het bepaalde in de module 
+Algemeen, is het recht tot gebruik van de pro-
+grammatuur steeds niet-exclusief, niet-over-
+draagbaar en niet-sublicentieerbaar. 
+7.  Gebruiksbeperkingen 
+7.1   Indien uit de inhoud van de schriftelijke over-
+eenkomst uitdrukkelijk blijkt dat alle ontwerp- 
+en ontwikkelkosten volledig en uitsluitend door 
+cliënt worden gedragen, gelden er ten aanzien 
+van de in opdracht van cliënt ontwikkelde pro-
+grammatuur geen beperkingen in het recht tot 
+gebruik, onverminderd hetgeen elders in de 
+algemene voorwaarden is bepaald, waaronder 
+het bepaalde in artikel 7.6 van de onderhavige 
+module. 
+7.2  Indien tussen partijen gebruiksbeperkingen zijn 
+overeengekomen, zal cliënt de overeengekomen 
+beperkingen in het recht tot gebruik van de pro-
+grammatuur steeds stipt naleven. Cliënt is zich 
+er van bewust dat schending van overeengeko-
+men gebruiksbeperking zowel een toerekenbaar 
+tekortschieten in de uitvoering van de overeen-
+komst met leverancier inhoudt alsmede inbreuk 
+op de rechten van intellectuele eigendom op 
+de programmatuur vormt. De overeengekomen 
+gebruiksbeperkingen kunnen onder meer  
+betrekking hebben op: 
+ -  het soort of type apparatuur waarvoor de  
+programmatuur bestemd is, en/of
+ -  het maximaal aantal verwerkingseenheden 
+waarvoor de programmatuur bestemd is, en/of
+ -  bepaalde - al dan niet met naam of functie 
+aangeduide - personen die binnen de organi-
+satie van cliënt de programmatuur mogen 
+gebruiken, en/of 
+ -  het maximaal aantal gebruikers dat - al dan 
+niet gelijktijdig - binnen de organisatie van  
+cliënt de programmatuur mag gebruiken, en/of 
+ -  de locatie waarop de programmatuur gebruikt 
+mag worden, en/of
+ -  bepaalde vormen en doeleinden van gebruik 
+(bijv. zakelijk gebruik of gebruik voor privé-
+doeleinden), en/of
+ -  iedere andere kwantitatieve of kwalitatieve 
+beperking.
+7.3   Indien partijen zijn overeengekomen dat de 
+programmatuur uitsluitend in combinatie met 
+bepaalde apparatuur of een bepaalde soort of 
+type apparatuur gebruikt mag worden, is cliënt 
+gerechtigd bij eventuele storing van de desbe-
+treffende apparatuur de programmatuur voor de 
+duur van de storing op andere apparatuur van 
+hetzelfde soort en type te gebruiken. 
+7.4  Leverancier kan verlangen dat cliënt de pro-
+grammatuur niet in gebruik neemt dan nadat 
+cliënt bij leverancier, diens toeleverancier of de 
+producent van de programmatuur één of meer 
+codes (wachtwoorden, identiteitscodes etc.), 
+benodigd voor het gebruik, heeft aangevraagd 
+en verkregen. 
+7.5  Cliënt zal nimmer technische voorzieningen die 
+bedoeld zijn om de programmatuur te bescher-
+men tegen onrechtmatig of ongeautoriseerd 
+gebruik, doen omzeilen.
+7.6   Tenzij schriftelijk anders overeengekomen, mag 
+cliënt de programmatuur uitsluitend in en ten 
+behoeve van zijn eigen bedrijf of organisatie 
+gebruiken. Tenzij schriftelijk anders overeen-
+gekomen, zal cliënt de programmatuur niet 
+gebruiken voor de verwerking van gegevens ten 
+behoeve van derden, zoals ‘time-sharing’, ‘appli-
+cation service provision’, ‘software as a service’ 
+en ‘outsourcing’.
+7.7  Het is cliënt niet toegestaan de programmatuur 
+en dragers waarop deze is vastgelegd, te ver-
+kopen, te verhuren, te vervreemden of daarop 
+beperkte rechten te verlenen of op welke wijze 
+of voor welk doel dan ook ter beschikking van 
+een derde te stellen. Evenmin zal cliënt een 
+derde - al dan niet op afstand - toegang geven 
+tot de programmatuur of de programmatuur bij 
+een derde ter hosting onderbrengen, ook niet 
+indien de desbetreffende derde de programma-
+tuur uitsluitend ten behoeve van cliënt gebruikt. 
+7.8   Cliënt zal desgevraagd onverwijld zijn volle 
+medewerking verlenen aan een door of namens 
+leverancier uit te voeren onderzoek inzake het 
+naleven door cliënt van de overeengekomen 
+gebruiksbeperkingen. Cliënt zal op eerste ver-
+zoek van leverancier toegang tot zijn gebou-
+wen en systemen aan leverancier verlenen. 
+Leverancier zal alle vertrouwelijk te achten 
+bedrijfsinformatie die hij in het kader van een 
+dergelijk onderzoek van of bij cliënt verkrijgt, 
+voor zover die informatie niet het gebruik van 
+de programmatuur zelf betreft, vertrouwelijk 
+behandelen. 
+8. Duur van de overeenkomst 
+8.1  De in opdracht van cliënt ontwikkelde program-
+matuur wordt aan cliënt ter beschikking gesteld 
+voor de tussen partijen overeengekomen duur. 
+Bij gebreke van een tussen partijen overeenge-
+komen duur is de duur van het gebruiksrecht 
+niet in tijd beperkt en kan leverancier de over-
+eenkomst niet door opzegging beëindigen, mits 
+cliënt al zijn verplichtingen uit de overeenkomst 
+jegens leverancier stipt nakomt. 
+8.2   In voorkomend geval zal cliënt terstond na het 
+einde van het gebruiksrecht van de program-
+matuur alle in zijn bezit zijnde exemplaren van 
+de programmatuur aan leverancier retourneren. 
+Indien partijen zijn overeengekomen dat cliënt 
+bij het einde van de overeenkomst de betref-
+fende exemplaren zal vernietigen, zal cliënt van 
+zodanige vernietiging leverancier onverwijld 
+schriftelijk melding maken. Leverancier is bij of 
+na het einde van het gebruiksrecht niet gehou-
+den cliënt bijstand te verlenen met het oog op 
+een door cliënt gewenste dataconversie. 
+9. Vergoeding voor ontwikkelwerkzaamheden 
+9.1  Bij gebreke van een overeengekomen facture-
+ringsschema zijn alle bedragen die betrekking 
+hebben op de ontwikkeling van programmatuur 
+telkens per kalendermaand achteraf verschul-
+digd. 
+9.2  Tenzij schriftelijk anders overeengekomen, is  
+in de prijs voor de ontwikkelwerkzaamheden 
+tevens de vergoeding voor het recht tot  
+gebruik van de programmatuur begrepen.
+9.3   Tenzij schriftelijk anders overeengekomen, is in 
+de vergoeding voor de ontwikkeling van de pro-
+grammatuur niet begrepen een vergoeding voor 
+de door cliënt benodigde hulpprogrammatuur 
+en programma- en databibliotheken, eventuele 
+installatiediensten en eventuele aanpassing en/
+of onderhoud van de programmatuur. Evenmin is 
+in de gebruiksrechtvergoeding begrepen het ver-
+lenen van ondersteuning aan de gebruikers van 
+de programmatuur. Deze werkzaamheden en 
+diensten worden in voorkomend geval separaat 
+tegen de gebruikelijke tarieven van leverancier 
+in rekening gebracht.
+10. Modificeren van de programmatuur
+10.1   Tenzij schriftelijk anders overeengekomen en 
+behoudens uitzonderingen in de wet bepaald, 
+is het cliënt niet toegestaan de programmatuur 
+geheel of gedeeltelijk te modificeren zonder 
+voorafgaande schriftelijke toestemming van 
+leverancier. Leverancier is steeds gerechtigd toe-
+stemming te weigeren of aan zijn toestemming 
+voorwaarden te verbinden, waaronder voorwaar-
+den betreffende de wijze en kwaliteit van uitvoe-
+ring van de door cliënt gewenste modificaties. 
+10.2   Cliënt draagt het volledige risico van de door of 
+in opdracht van cliënt door derden - al dan niet 
+met toestemming van leverancier - aangebrach-
+te modificaties.
+11. Garantie
+11.1   Leverancier staat er niet voor in dat de in 
+opdracht van cliënt ontwikkelde programma-
+tuur geschikt is voor het feitelijke en/of beoogde 
+gebruik door cliënt. Leverancier garandeert 
+evenmin dat de programmatuur zonder onder-
+breking, fouten of overige gebreken zal werken 
+of dat steeds alle fouten en gebreken worden 
+verbeterd.
+11.2   Leverancier zal zich naar beste vermogen ervoor 
+inspannen fouten in de programmatuur in de 
+zin van artikel 5.3 van deze module binnen een 
+redelijke termijn te herstellen indien deze binnen 
+een periode van drie maanden na aflevering, 
+of, indien tussen partijen een acceptatietest 
+is overeengekomen, binnen drie maanden na 
+acceptatie gedetailleerd omschreven schriftelijk 
+bij leverancier zijn gemeld. Het herstel wordt 
+gratis uitgevoerd, tenzij de programmatuur in 
+opdracht van cliënt is ontwikkeld anders dan 
+voor een vaste prijs, in welk geval leverancier 
+volgens zijn gebruikelijke tarieven de kosten van 
+herstel in rekening zal brengen. Leverancier kan 
+volgens zijn gebruikelijke tarieven de kosten van 
+herstel in rekening brengen indien sprake is van 
+gebruiksfouten of onoordeelkundig gebruik van 
+cliënt of van andere niet aan leverancier toe te 
+rekenen oorzaken of indien de fouten bij het uit-
+voeren van de overeengekomen acceptatietest 
+hadden kunnen worden ontdekt. 
+  De herstelverplichting vervalt indien cliënt zon-
+der schriftelijke toestemming van leverancier  
+wijzigingen in de programmatuur aanbrengt of 
+laat aanbrengen, welke toestemming niet op  
+onredelijke gronden zal worden onthouden.
+11.3   Herstel van fouten zal geschieden op een door 
+leverancier te bepalen locatie. Leverancier is 
+steeds gerechtigd tijdelijke oplossingen dan wel 
+programmaomwegen of probleemvermijdende 
+restricties in de programmatuur aan te brengen.
+11.4  Leverancier is nimmer gehouden tot herstel van 
+verminkte of verloren gegane gegevens.
+11.5   Leverancier heeft geen verplichting tot herstel 
+van fouten die na afloop van de in artikel 11.2 
+van deze module bedoelde garantieperiode zijn 
+gemeld, tenzij tussen partijen een separate 
+onderhoudsovereenkomst is afgesloten die een 
+zodanige plicht tot herstel omvat. 
+12. Vertrouwelijkheid
+12.1   Cliënt erkent dat de programmatuur een ver-
+trouwelijk karakter heeft en dat deze bedrijfsge-
+heimen van leverancier, diens toeleveranciers of 
+de producent van de programmatuur bevat.
+© 2008, ICT~Office
+1.  Toepasselijkheid
+1.1   De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module opgenomen bepaling-
+en zijn, naast de bepalingen van de module 
+Algemeen, van toepassing indien leverancier 
+diensten verricht op het gebied van onderhoud 
+van programmatuur.
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste. 
+2.  Dienstverlening
+2.1   Leverancier verricht het onderhoud van de in 
+de overeenkomst tussen partijen bepaalde pro-
+grammatuur. De onderhoudsverplichting omvat 
+het herstel van fouten in de programmatuur 
+overeenkomstig artikel 3 van deze module en - 
+uitsluitend indien dit schriftelijk tussen partijen 
+is overeengekomen - het ter beschikking stellen 
+van nieuwe versies van de programmatuur over-
+eenkomstig artikel 4 van deze module.
+2.2  Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet verplicht tot het uitvoeren van 
+dataconversie. 
+2.3   Indien de dienstverlening van leverancier op 
+grond van de overeenkomst tevens ondersteu-
+ning aan gebruikers van de programmatuur 
+omvat, zal leverancier telefonisch of per e-mail 
+adviseren over het gebruik en het functioneren 
+van de in de overeenkomst genoemde program-
+matuur. Leverancier kan voorwaarden stellen aan 
+de kwalificaties en het aantal contactpersonen 
+dat voor ondersteuning in aanmerking komt. 
+Leverancier zal deugdelijk onderbouwde verzoe-
+ken om ondersteuning binnen een redelijke ter-
+mijn in behandeling nemen volgens de bij hem 
+gebruikelijke procedures. Leverancier staat niet 
+in voor de juistheid, volledigheid of tijdigheid van 
+reacties of geboden ondersteuning. Tenzij schrif-
+telijk anders overeengekomen, wordt ondersteu-
+ning uitsluitend verricht op werkdagen tijdens  
+de gebruikelijke openingstijden van leverancier.
+2.4  Indien de dienstverlening van leverancier op 
+grond van de overeenkomst tevens het verle-
+nen van zogeheten ‘standby-diensten’ omvat, 
+zal leverancier één of meer personeelsleden 
+beschikbaar houden tijdens de in de overeen-
+komst genoemde dagen en tijden. In dat geval 
+is cliënt gerechtigd bij spoedeisendheid de 
+ondersteuning van de beschikbaar gehouden 
+personeelsleden in te roepen indien er sprake 
+is van een ernstige storing in het functioneren 
+van de programmatuur. Leverancier staat er niet 
+voor in dat in dat geval alle storingen tijdig zul-
+len worden verholpen. 
+2.5  Het onderhoud en de eventueel andere over-
+eengekomen diensten worden uitgevoerd met 
+ingang van de dag waarop de overeenkomst is 
+aangegaan. 
+  
+3.  Uitvoering dienstverlening 
+3.1   Leverancier zal zich inspannen de dienstver-
+lening met zorg uit te voeren, in voorkomend 
+geval overeenkomstig de met cliënt schriftelijk 
+vastgelegde afspraken en procedures. Alle dien-
+sten van leverancier worden uitgevoerd op basis 
+van een inspanningsverbintenis, tenzij en voor 
+zover in de schriftelijke overeenkomst leveran-
+cier uitdrukkelijk een resultaat heeft toegezegd 
+en het betreffende resultaat bovendien met vol-
+doende bepaaldheid is omschreven. 
+3.2   Cliënt zal geconstateerde fouten in de program-
+matuur gedetailleerd melden. Na ontvangst  
+van de melding zal leverancier zich overeen-
+komstig zijn gebruikelijke procedures naar  
+beste vermogen inspannen fouten te herstellen 
+en/of verbeteringen aan te brengen in latere 
+nieuwe versies van de programmatuur.  
+De resultaten zullen afhankelijk van de urgentie 
+op de door leverancier te bepalen wijze en  
+termijn aan cliënt ter beschikking worden 
+gesteld. Leverancier is gerechtigd tijdelijke 
+oplossingen dan wel programmaomwegen of 
+probleemvermijdende beperkingen in de pro-
+grammatuur aan te brengen. Bij gebreke van 
+uitdrukkelijke afspraken daaromtrent zal cliënt 
+zelf de gecorrigeerde programmatuur dan wel 
+de beschikbaar gestelde nieuwe versie van de 
+programmatuur installeren, inrichten, parame-
+triseren, tunen en indien nodig de gebruikte 
+apparatuur en gebruiksomgeving aanpassen. 
+Leverancier staat er niet voor in dat de program-
+matuur zonder onderbreking, fouten of gebreken 
+zal werken of dat alle fouten of gebreken worden 
+verbeterd.
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840.   
+Module 3 Onderhoud van programmatuur
+ICT~Office Voorwaarden
+3.3   Indien leverancier het onderhoud online ver-
+richt, zal cliënt zijnerzijds tijdig zorg dragen voor 
+een deugdelijke infrastructuur en telecommu-
+nicatiefaciliteiten. Leverancier is gerechtigd het 
+onderhoud op te schorten of te beperken indien 
+de infrastructuur en telecommunicatiefaciliteiten 
+van cliënt niet voldoen aan de door leverancier 
+gestelde eisen.
+3.4   Cliënt zal alle door leverancier verlangde mede-
+werking verlenen voor het onderhoud, daaronder 
+begrepen de tijdelijke staking van het gebruik 
+van de programmatuur door cliënt indien dit 
+naar het oordeel van leverancier noodzakelijk 
+is. Bij gebreke van de verlangde medewerking 
+kan leverancier het onderhoud opschorten of 
+beperken. Indien leverancier dienstverlening 
+verricht op basis van door cliënt aan te leveren 
+gegevens, zullen deze gegevens overeenkomstig 
+de door leverancier te stellen voorwaarden door 
+cliënt worden geprepareerd en voor rekening 
+en risico van cliënt worden aangeleverd. Cliënt 
+staat er voor in dat alle door hem aan leveran-
+cier ter uitvoering van de dienstverlening ter 
+beschikking gestelde materialen, gegevens, pro-
+grammatuur, procedures en instructies steeds 
+juist en volledig zijn en dat alle aan leverancier 
+verstrekte informatiedragers voldoen aan de 
+specificaties van leverancier.
+3.5  Indien het onderhoud betrekking heeft op pro-
+grammatuur die niet door leverancier zelf aan 
+cliënt is geleverd, zal cliënt, indien leverancier 
+dit voor het onderhoud nuttig, nodig of wense-
+lijk acht, de broncode en de technische (ont-
+wikkel-)documentatie van de programmatuur 
+(waaronder begrepen datamodellen, ontwerpen, 
+change-logs e.d.) ter beschikking stellen. Cliënt 
+staat er voor in dat hij gerechtigd is tot zodanige 
+terbeschikkingstelling en dat geen rechten van 
+derden zich daartegen verzetten. Cliënt verleent 
+leverancier het recht om de programmatuur, 
+inclusief de broncode en technische (ontwikkel-)
+documentatie, te gebruiken en te wijzigen in  
+het kader van het uitvoeren van het overeen-
+gekomen onderhoud. Cliënt vrijwaart leverancier 
+voor alle aanspraken van derden ter zake van  
+de terbeschikkingstelling en het gebruik dat 
+leverancier in het kader van het onderhoud  
+van het ter beschikking gestelde maakt. 
+3.6  Het onderhoud door leverancier laat onverlet  
+de eigen verantwoordelijkheid van cliënt voor 
+het beheer van de programmatuur, waaronder 
+controle van de instellingen, het gebruik van  
+de programmatuur en de wijze waarop de  
+resultaten van het gebruik van de programma-
+tuur worden ingezet. Cliënt is tevens verant-
+woordelijk voor de instructie aan en het gebruik 
+door gebruikers, ongeacht of deze gebruikers 
+in een gezagsverhouding tot cliënt staan. Bij 
+gebreke van uitdrukkelijke afspraken daarom-
+trent zal cliënt zelf (hulp)programmatuur instal-
+leren, inrichten, parametriseren, tunen en indien 
+nodig de daarbij gebruikte apparatuur, overige 
+programmatuur en gebruiksomgeving aanpas-
+sen en de door cliënt gewenste interoperabiliteit 
+bewerkstelligen.
+4.  Nieuwe versies van de programmatuur
+4.1   Het onderhoud omvat de terbeschikkingstel-
+ling van nieuwe versies van de programmatuur 
+uitsluitend indien en voor zover dit schriftelijk 
+is overeengekomen. Indien het onderhoud de 
+terbeschikkingstelling van nieuwe versies van de 
+programmatuur omvat, dan vindt die terbeschik-
+kingstelling plaats ter discretie van leverancier. 
+4.2  Drie maanden na het beschikbaar stellen van 
+een verbeterde versie is leverancier niet meer 
+verplicht tot het herstellen van eventuele fouten 
+in de voorgaande versie en tot het verlenen van 
+ondersteuning en/of onderhoud met betrekking 
+tot een voorgaande versie. 
+4.3  Leverancier kan verlangen dat voor de terbe-
+schikkingstelling van een versie met nieuwe 
+mogelijkheden en functies cliënt een nieuwe 
+schriftelijke overeenkomst met leverancier aan-
+gaat en dat voor de terbeschikkingstelling een 
+nieuwe vergoeding wordt betaald. Leverancier 
+kan uit een vorige versie van de programma-
+tuur functionaliteit ongewijzigd overnemen, 
+maar staat er niet voor in dat elke nieuwe versie 
+dezelfde functionaliteit bevat als de voorgaande 
+versie. Leverancier is niet gehouden specifiek 
+voor cliënt bepaalde eigenschappen of functiona-
+liteiten van de programmatuur te handhaven, te 
+wijzigen of toe te voegen. 
+4.4  Leverancier kan van cliënt verlangen dat hij 
+zijn systeem (apparatuur, programmatuur e.d.) 
+aanpast indien dat noodzakelijk is voor het goed 
+functioneren van een nieuwe versie van de pro-
+grammatuur.
+5.   Service Level Agreement
+5.1   Eventuele afspraken betreffende een serviceni-
+veau (Service Level Agreement) worden steeds 
+slechts schriftelijk uitdrukkelijk overeengeko-
+men. Cliënt zal leverancier steeds informeren 
+omtrent alle omstandigheden die van invloed 
+kunnen zijn op de dienstverlening en de beschik-
+baarheid daarvan. Indien afspraken over een 
+serviceniveau worden gemaakt, dan wordt de 
+beschikbaarheid gemeten met buitenbeschou-
+winglating van vooraf aangekondigde buitenge-
+bruikstelling wegens onderhoud alsmede met 
+omstandigheden die buiten de invloedssfeer van 
+leverancier zijn gelegen en met inachtneming 
+van de dienstverlening als geheel gedurende de 
+duur van de overeenkomst. Behoudens tegen-
+bewijs zal de door leverancier gemeten beschik-
+baarheid als volledig bewijs gelden. 
+6.  Duur
+6.1   De overeenkomst wordt aangegaan voor de tus-
+sen partijen overeengekomen duur, bij gebreke 
+waarvan een duur van één jaar geldt. De duur 
+van de overeenkomst wordt telkens stilzwijgend 
+voor de duur van de oorspronkelijke periode 
+verlengd, tenzij cliënt of leverancier de overeen-
+komst schriftelijk opzegt met inachtneming van 
+een opzegtermijn van drie maanden vóór het 
+einde van de betreffende periode.
+7.  Betaling
+7.1   Bij gebreke van een uitdrukkelijk overeengeko-
+men factureringsschema zijn alle bedragen die 
+betrekking hebben op onderhoud van program-
+matuur en de eventueel andere in de overeen-
+komst vastgelegde diensten telkens vooraf per 
+kalendermaand verschuldigd. 
+7.2   Bedragen ter zake het onderhoud van de pro-
+grammatuur en de eventueel andere in de over-
+eenkomst vastgelegde diensten zijn verschuldigd 
+vanaf aanvang van de overeenkomst. De ver-
+goeding voor onderhoud en de eventueel andere 
+in de overeenkomst vastgelegde diensten is ver-
+schuldigd ongeacht of cliënt de programmatuur 
+in gebruik heeft (genomen) of gebruik maakt 
+van de mogelijkheid tot onderhoud. 
+8.  Uitsluitingen
+8.1   Het onderhoud aan de programmatuur omvat 
+niet het herstel van fouten, gebreken of onvol-
+komenheden die het gevolg zijn van of verband 
+houden met:
+ a)  gebruiksfouten of onoordeelkundig gebruik 
+van de programmatuur, waaronder mede 
+wordt verstaan fouten in de invoer van gege-
+vens of in de gegevens zelf;
+ b)  wijziging van de programmatuur anders dan 
+door of namens leverancier;
+ c)  het gebruik van de programmatuur in strijd 
+met de daarvoor geldende voorwaarden of in 
+strijd met de instructies in de gebruiksdocu-
+mentatie;
+ d)  wijzigingen in of fouten, gebreken of onvolko-
+menheden in apparatuur of andere program-
+matuur dan die onder het onderhoud van 
+leverancier valt; 
+ e)  het nalaten van cliënt om de programmatuur 
+tijdig te laten onderhouden;
+ f)  het gebruik van een oude versie van de pro-
+grammatuur die niet meer door leverancier 
+wordt onderhouden;
+ g)  herstel van verminkte of verloren gegane 
+gegevens;
+ h)  andere niet aan leverancier toe te rekenen 
+oorzaken.
+8.2   Indien leverancier onderhoud verricht of andere 
+werkzaamheden uitvoert in verband het bepaal-
+de in artikel 8.1 kan leverancier de kosten van 
+dat onderhoud of die werkzaamheden volgens 
+zijn gebruikelijke tarieven in rekening brengen, 
+hetgeen het overigens door cliënt verschuldigde 
+wegens onderhoud onverlet laat. 
+ © 2008, ICT~Office
+1.  Toepasselijkheid
+1.1   1.1  De ICT~Office voorwaarden bestaan uit  
+de module Algemeen aangevuld met één of 
+meer specifieke modules per product of dienst. 
+De in de onderhavige module opgenomen  
+bepalingen zijn, naast de bepalingen van de 
+module Algemeen, van toepassing indien  
+leverancier diensten verricht op het gebied of 
+onder de naam van Application Service Provision 
+(ASP), Software as a Service (SaaS) en/of 
+Computerservice. 
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste. 
+1.3  Voor de toepassing van deze module wordt 
+onder Application Service Provision en Software 
+as a Service verstaan: het door leverancier ‘op 
+afstand’ beschikbaar stellen en beschikbaar hou-
+den van programmatuur aan cliënt via internet 
+of een ander netwerk, zonder dat aan cliënt een 
+fysieke drager met de desbetreffende program-
+matuur wordt verstrekt. 
+1.4  Voor de toepassing van deze module wordt 
+onder Computerservice verstaan: de automati-
+sche verwerking van gegevens met behulp van 
+door leverancier beheerde programmatuur en 
+apparatuur.
+2.  Dienstverlening 
+2.1   Leverancier zal aan cliënt de in de overeenkomst 
+tussen partijen bepaalde dienst op het gebied 
+van Application Service Provision, Software as a 
+Service en/of Computerservice verlenen alsmede 
+de overige tussen partijen overeengekomen 
+diensten verrichten. Indien de overeenkomst dat 
+mede omvat zal leverancier de in de overeen-
+komst aangeduide programmatuur op de door 
+leverancier aangegeven infrastructuur installe-
+ren. Leverancier is niet verantwoordelijk voor de 
+aanschaf en/of goede werking van de infrastruc-
+tuur van cliënt of die van derden. 
+2.2   Tenzij schriftelijk anders overeengekomen, is  
+cliënt verantwoordelijkheid voor het beheer, 
+waaronder controle van de instellingen, het 
+gebruik van de dienst en de wijze waarop de 
+resultaten van de dienst worden ingezet. Cliënt 
+is tevens verantwoordelijk voor de instructie 
+aan en het gebruik door gebruikers, ongeacht 
+of deze gebruikers in een gezagsverhouding 
+tot cliënt staan. Bij gebreke van uitdrukkelijke 
+afspraken daaromtrent zal cliënt zelf de op zijn 
+eigen apparatuur benodigde (hulp)programma-
+tuur installeren, inrichten, parametriseren, tunen 
+en indien nodig de daarbij gebruikte apparatuur, 
+overige (hulp)programmatuur en gebruiksom-
+geving aanpassen en de door cliënt gewenste 
+interoperabiliteit bewerkstelligen. 
+2.3  Tenzij schriftelijk anders overeengekomen, is 
+leverancier niet verplicht tot het uitvoeren van 
+dataconversie.
+2.4   Indien de dienstverlening aan cliënt op grond 
+van de overeenkomst tevens ondersteuning 
+aan gebruikers omvat, zal leverancier telefo-
+nisch of per e-mail adviseren over het gebruik 
+en het functioneren van de in de overeenkomst 
+genoemde programmatuur en over het gebruik 
+dat van de dienst wordt gemaakt. Leverancier 
+kan voorwaarden stellen aan de kwalificaties  
+en het aantal contactpersonen dat voor onder-
+steuning in aanmerking komt. Leverancier zal 
+deugdelijk onderbouwde verzoeken om onder-
+steuning binnen een redelijke termijn in behan-
+deling nemen. Leverancier kan niet instaan voor 
+de juistheid, volledigheid of tijdigheid van reac-
+ties of geboden ondersteuning. Tenzij schriftelijk 
+anders overeengekomen, wordt ondersteuning 
+uitsluitend verricht op werkdagen tijdens de 
+gebruikelijke openingstijden van leverancier.
+2.5  Indien de dienstverlening aan cliënt op grond 
+van de overeenkomst tevens het maken van 
+back-ups van gegevens van cliënt omvat, zal 
+leverancier met inachtneming van de tussen 
+partijen schriftelijk overeengekomen periodes, 
+en bij gebreke daarvan eens per week, een  
+volledige backup maken van de bij hem in bezit 
+zijnde gegevens van cliënt. Leverancier zal de 
+backup bewaren gedurende een tussen partijen 
+overeen te komen termijn, en bij gebreke van 
+afspraken daaromtrent, gedurende de bij leve-
+rancier gebruikelijke termijnen. Leverancier zal 
+de backup zorgvuldig behandelen en bewaren 
+als een goed huisvader.
+2.6  Slechts indien schriftelijk uitdrukkelijk overeen-
+gekomen is leverancier gehouden te beschikken 
+over een uitwijkcentrum of andere uitwijkfacili-
+teiten.
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840.  
+Module 4 Application service provision,  
+software as a service en computerservice
+ICT~Office Voorwaarden
+3.  Uitvoering dienstverlening
+3.1   Leverancier zal zich naar beste kunnen inspannen 
+de dienstverlening met zorg uit te voeren, in 
+voorkomend geval overeenkomstig de met cliënt 
+schriftelijk vastgelegde afspraken en procedures. 
+Alle diensten van leverancier worden uitgevoerd 
+op basis van een inspanningsverbintenis, tenzij 
+en voor zover in de schriftelijke overeenkomst 
+leverancier uitdrukkelijk een resultaat heeft toe-
+gezegd en het betreffende resultaat tevens met 
+voldoende bepaaldheid is omschreven. 
+3.2   Leverancier verricht de dienstverlening slechts in 
+opdracht van cliënt. Indien leverancier op grond 
+van een verzoek of bevoegd gegeven bevel van 
+een overheidsinstantie of in verband met een 
+wettelijke verplichting werkzaamheden verricht 
+met betrekking tot gegevens van cliënt, zijn 
+medewerkers of gebruikers, zullen alle daaraan 
+verbonden kosten aan cliënt in rekening worden 
+gebracht. 
+3.3   Leverancier kan wijzigingen in de inhoud of 
+omvang van de dienstverlening aanbrengen. 
+Indien dergelijke wijzigingen een verandering 
+van de bij cliënt geldende procedures tot gevolg 
+hebben, zal leverancier cliënt hierover zo tijdig 
+mogelijk inlichten en komen de kosten van deze 
+verandering voor rekening van cliënt. In dat 
+geval kan cliënt de overeenkomst schriftelijk 
+opzeggen tegen de datum waarop de wijziging 
+in werking treedt, tenzij deze wijziging verband 
+houdt met wijzigingen in relevante wetgeving 
+of andere door bevoegde instanties gegeven 
+voorschriften of leverancier de kosten van deze 
+wijziging voor zijn rekening neemt.
+3.4   Leverancier kan de uitvoering van de dienst 
+voortzetten met gebruikmaking van een nieuwe 
+of gewijzigde versie van de programmatuur. 
+Leverancier is niet gehouden specifiek voor  
+cliënt bepaalde eigenschappen of functionalitei-
+ten van de dienst of programmatuur te hand-
+haven, te wijzigen of toe te voegen. 
+3.5   Leverancier kan de dienst geheel of gedeeltelijk 
+tijdelijk buiten gebruik stellen voor preventief, 
+correctief of adaptief onderhoud. Leverancier zal 
+de buitengebruikstelling niet langer laten duren 
+dan noodzakelijk, zo mogelijk buiten kantoor-
+tijden laten plaatsvinden en, naar gelang van 
+omstandigheden, aanvangen na kennisgeving 
+aan cliënt. 
+3.6   Indien leverancier dienstverlening verricht op 
+basis van door cliënt aan te leveren gegevens, 
+zullen deze gegevens overeenkomstig de door 
+leverancier te stellen voorwaarden door cliënt 
+worden geprepareerd en aangeleverd. Cliënt zal 
+de te verwerken gegevens brengen naar en de 
+resultaten van de verwerking ophalen van de 
+plaats waar leverancier de dienstverlening uit-
+voert. Transport en transmissie, op welke wijze 
+dan ook, geschieden voor rekening en risico van 
+cliënt, ook indien deze door leverancier worden 
+uitgevoerd of verzorgd. Cliënt staat er voor in 
+dat alle door hem aan leverancier ter uitvoering 
+van de dienstverlening ter beschikking gestelde 
+materialen, gegevens, programmatuur, proce-
+dures en instructies steeds juist en volledig zijn 
+en dat alle aan leverancier verstrekte informa-
+tiedragers voldoen aan de specificaties van leve-
+rancier.
+3.7   Alle door leverancier bij de dienstverlening 
+gebruikte apparatuur, programmatuur en zaken 
+blijven eigendom of intellectuele eigendom van 
+leverancier of diens toeleveranciers, ook indien 
+cliënt een vergoeding betaalt voor het ontwikke-
+len of aanschaffen ervan door leverancier. 
+3.8  Leverancier is nimmer gehouden cliënt een 
+fysieke drager met de in het kader van 
+Application Service Provision en/of Service as a 
+Service aan cliënt ter beschikking te stellen en 
+te houden programmatuur, en de in het kader 
+van Computerservice door leverancier te gebrui-
+ken programmatuur, te verstrekken. 
+4.  Service Level Agreement
+4.1   Eventuele afspraken betreffende een serviceni-
+veau (Service Level Agreement) worden steeds 
+slechts schriftelijk uitdrukkelijk overeengeko-
+men. Cliënt zal leverancier steeds informeren 
+omtrent alle omstandigheden die van invloed 
+kunnen zijn op de dienstverlening en de beschik-
+baarheid daarvan. Indien afspraken over een 
+serviceniveau worden gemaakt, dan wordt de 
+beschikbaarheid gemeten met buitenbeschouw-
+inglating van vooraf aangekondigde buiten-
+gebruikstelling wegens onderhoud alsmede met 
+omstandigheden die buiten de invloedssfeer van 
+leverancier zijn gelegen en met inachtneming 
+van de dienst als geheel gedurende de duur van 
+de overeenkomst. Behoudens tegenbewijs zal 
+de door leverancier gemeten beschikbaarheid en 
+serviceniveau als volledig bewijs gelden. 
+5.  Duur
+5.1   De overeenkomst wordt aangegaan voor de tus-
+sen partijen overeengekomen duur, bij gebreke 
+waarvan een duur van één jaar geldt. De duur 
+van de overeenkomst wordt telkens stilzwijgend 
+voor de duur van de oorspronkelijke periode 
+verlengd, tenzij cliënt of leverancier de overeen-
+komst schriftelijk opzegt met inachtneming van 
+een opzegtermijn van drie maanden vóór het 
+einde van de betreffende periode.
+6.  Betaling
+6.1   Bij gebreke van een overeengekomen facture-
+ringsschema zijn alle bedragen die betrekking 
+hebben op door leverancier verleende dienstver-
+lening telkens per kalendermaand vooraf ver-
+schuldigd. 
+7.  Garantie
+7.1  Leverancier staat er niet voor in dat de in het 
+kader van Application Service Provision en/of 
+Service as a Service aan cliënt ter beschikking 
+te stellen en ter beschikking te houden program-
+matuur, en de in het kader van Computerservice 
+door leverancier gebruikte programmatuur fout-
+loos zijn en zonder onderbrekingen functioneren. 
+Leverancier zal zich er voor inspannen gebreken  
+in de programmatuur binnen een redelijke 
+termijn te herstellen indien en voor zover het 
+programmatuur betreft die door leverancier zelf 
+is ontwikkeld en de desbetreffende gebreken 
+gedetailleerd omschreven schriftelijk bij leveran-
+cier zijn gemeld. Leverancier kan in voorkomend 
+geval het herstel van de gebreken uitstellen 
+totdat een nieuwe versie van de programmatuur 
+in gebruik wordt genomen. Leverancier staat 
+er niet voor in dat gebreken in programmatuur 
+die niet zelf door leverancier is ontwikkeld, zul-
+len worden verholpen. Leverancier is gerechtigd 
+tijdelijke oplossingen dan wel programmaomwe-
+gen of probleemvermijdende beperkingen in de 
+programmatuur aan te brengen. Indien de pro-
+grammatuur in opdracht van cliënt is ontwikkeld, 
+kan leverancier volgens zijn gebruikelijke tarie-
+ven de kosten van herstel aan cliënt in rekening 
+brengen.
+7.2   Leverancier is niet verantwoordelijk voor contro-
+le van de juistheid en volledigheid van de resul-
+taten van de dienstverlening en de met gebruik-
+making van de dienst gegenereerde gegevens. 
+Cliënt zal de resultaten van de dienstverlening 
+en de met gebruikmaking van de dienst gegene-
+reerde gegevens zelf regelmatig controleren. 
+7.3   Indien en voor zover nodig of wenselijk zal 
+leverancier indien gebreken in de resultaten 
+van de Computerservice een direct gevolg zijn 
+van producten, programmatuur, informatie-
+dragers, procedures of bedieningshandelingen 
+waarvoor leverancier op grond van de over-
+eenkomst uitdrukkelijk verantwoordelijk is, 
+de Computerservice herhalen teneinde deze 
+onvolkomenheden te herstellen, mits cliënt de 
+onvolkomenheden zo spoedig mogelijk, doch 
+uiterlijk binnen één week na verkrijging van de 
+resultaten van de Computerservice, schriftelijk 
+en gedetailleerd aan leverancier kenbaar maakt. 
+Slechts indien gebreken in de Computerservice 
+aan leverancier toerekenbaar zijn, wordt de 
+herhaling gratis uitgevoerd. Indien gebreken 
+niet zijn toe te rekenen aan leverancier en/of de 
+gebreken het gevolg zijn van fouten of onvolko-
+menheden van cliënt, zoals het aanleveren van 
+onjuiste of onvolledige gegevens en/of informa-
+tie, zal leverancier de kosten van een eventuele 
+herhaling volgens zijn gebruikelijke tarieven aan 
+cliënt in rekening brengen. Indien herstel van 
+aan leverancier toerekenbare gebreken naar het 
+oordeel van leverancier technisch of redelijker-
+wijs niet mogelijk is, zal leverancier de voor de 
+betreffende Computerservice door cliënt ver-
+schuldigde bedragen crediteren, zonder verder 
+of anderszins jegens cliënt aansprakelijk te zijn. 
+Aan cliënt komen geen andere rechten wegens 
+gebreken in de Computerservice toe dan die 
+welke in deze garantieregeling zijn beschreven. 
+Dit artikellid is uitdrukkelijk niet van toepassing 
+op Application Service Provision en Software as 
+a Service. 
+7.4   Cliënt zal op basis van de door leverancier 
+verstrekte inlichtingen omtrent maatregelen 
+ter voorkoming en beperking van de gevolgen 
+van storingen, gebreken in de dienstverlening, 
+verminking of verlies van gegevens of andere 
+incidenten de risico’s voor zijn organisatie inven-
+tariseren en zo nodig aanvullende maatregelen 
+treffen. Leverancier verklaart zich bereid om 
+op verzoek van cliënt naar redelijkheid mede-
+werking te verlenen aan verdere maatregelen 
+door cliënt tegen door leverancier te stellen 
+(financiële) voorwaarden. Leverancier is nimmer 
+verantwoordelijk voor herstel van verminkte of 
+verloren gegane gegevens.
+7.5   Leverancier staat er niet voor in dat de in het 
+kader van Application Service Provision en/of 
+Service as a Service aan cliënt ter beschikking 
+te stellen en ter beschikking te houden program-
+matuur, en de in het kader van Computerservice 
+door leverancier gebruikte programmatuur, tijdig 
+worden aangepast aan wijzigingen in relevante 
+wet- en regelgeving. 
+8. Verwerking persoonsgegevens
+8.1  Cliënt garandeert dat is voldaan aan alle ver-
+eisten voor de rechtmatige verwerking van de 
+persoonsgegevens die door cliënt worden inge-
+voerd in de in het kader van Application Service 
+Provision en/of Service as a Service aan cliënt 
+ter beschikking te stellen en ter beschikking te 
+houden programmatuur, en de in het kader van 
+Computerservice door leverancier gebruikte pro-
+grammatuur.
+8.2   Onverminderd het bepaalde in de module 
+Algemeen ligt de volledige verantwoordelijkheid 
+voor de gegevens die met gebruikmaking van 
+de dienst door cliënt worden verwerkt bij cliënt. 
+Cliënt staat er jegens leverancier voor in dat de 
+gegevens niet onrechtmatig zijn en geen inbreuk 
+maken op rechten van derden. Cliënt vrijwaart 
+leverancier tegen elke rechtsvordering van der-
+den, uit welke hoofde dan ook, in verband met 
+de verwerking van deze gegevens of de uitvoe-
+ring van de overeenkomst. 
+8.3  Cliënt heeft op grond van de wetgeving betref-
+fende de verwerking van persoonsgegevens 
+(zoals de Wet Bescherming Persoonsgegevens) 
+verplichtingen tegenover derden, zoals de  
+verplichting tot het verstrekken van informatie, 
+evenals  het geven van inzage in, het corrigeren 
+en het verwijderen van persoonsgegevens van 
+betrokkenen. De verantwoordelijkheid voor de 
+nakoming van deze verplichtingen rust volledig 
+en uitsluitend bij cliënt. Partijen houden het  
+er voor dat leverancier ten aanzien van de  
+verwerking van persoonsgegevens ‘bewerker’  
+in de zin van de Wet Bescherming Persoons-
+gegevens is. Cliënt zal, zoveel als technisch 
+mogelijk is, medewerking verlenen aan de door 
+cliënt na te komen verplichtingen. De kosten 
+verbonden aan deze medewerking zijn niet in de 
+overeengekomen prijzen en vergoedingen van 
+leverancier begrepen en komen volledig voor 
+rekening van cliënt. 
+ © 2008, ICT~Office 
+1.  Toepasselijkheid
+1.1  De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of per dienst.  
+De in deze module vermelde bepalingen zijn 
+naast de module Algemeen van toepassing 
+indien leverancier tegen vergoeding een of meer 
+medewerkers ter beschikking stelt aan cliënt om 
+onder leiding en toezicht van cliënt arbeid  
+te verrichten. 
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste.
+2. Dienstverlening
+2.1  Leverancier zal de in de overeenkomst tussen 
+partijen aangewezen medewerker aan cliënt ter 
+beschikking stellen om onder zijn leiding en toe-
+zicht werkzaamheden te verrichten conform het-
+geen tussen partijen is overeengekomen. Indien 
+schriftelijk niet anders overeengekomen, zal de 
+medewerker op basis van veertig uur per week 
+tijdens de voor leverancier gebruikelijke werk-
+dagen aan cliënt ter beschikking worden gesteld.
+2.2  Cliënt kan de ter beschikking gestelde medewer-
+ker slechts te werk stellen voor andere dan de 
+overeengekomen werkzaamheden dan wel voor 
+werkzaamheden buiten Nederland indien leve-
+rancier daarmee vooraf schriftelijk heeft inge-
+stemd. Leverancier kan naar zijn eigen oordeel 
+de gevraagde instemming onthouden of (finan-
+ciële) voorwaarden stellen aan een zodanige 
+wijziging van werkzaamheden of aan een inzet 
+buiten Nederland.
+2.3  Het is cliënt niet toegestaan de ter beschikking 
+gestelde medewerker aan een derde door te 
+lenen of ter beschikking te stellen om onder  
+leiding en toezicht van die derde werkzaam te 
+zijn, tenzij schriftelijk anders overeengekomen. 
+3. Duur en beëindiging overeenkomst
+3.1  De overeenkomst wordt aangegaan voor bepaal-
+de of onbepaalde duur. Indien partijen hierom-
+trent niets zijn overeengekomen, heeft de over-
+eenkomst een looptijd voor onbepaalde duur.
+3.2  Indien de overeenkomst is aangegaan voor  
+onbepaalde duur geldt voor elk der partijen een 
+opzegtermijn zoals overeengekomen. Bij gebre-
+ke van een specifieke regeling zal de opzegter-
+mijn één kalendermaand bedragen. Opzegging 
+dient schriftelijk te geschieden. Leverancier zal 
+wegens opzegging nimmer tot enige schadever-
+goeding zijn gehouden.
+3.3  De voor bepaalde duur aangegane overeen-
+komst eindigt van rechtswege na afloop van de 
+overeengekomen duur.
+4. Vervanging
+4.1  Leverancier zal zich er redelijkerwijs voor 
+inspannen dat de ter beschikking gestelde 
+medewerker gedurende de duur van de overeen-
+komst beschikbaar blijft voor arbeid tijdens de 
+overeengekomen dagen en uren. Ook indien de 
+overeenkomst is aangegaan met het oog op uit-
+voering door een bepaalde persoon, is leveran-
+cier steeds gerechtigd na overleg met cliënt deze 
+persoon te vervangen door één of meer andere 
+personen met dezelfde kwalificaties.
+4.2  Cliënt is gerechtigd om vervanging van de 
+ter beschikking gestelde medewerker te ver-
+zoeken (i) indien de ter beschikking gestelde 
+medewerker aantoonbaar niet aan uitdrukkelijk 
+overeengekomen kwaliteitseisen voldoet en 
+cliënt dit binnen drie werkdagen na de aan-
+vang van de werkzaamheden schriftelijk en 
+gemotiveerd aan leverancier kenbaar maakt, 
+dan wel (ii) ingeval van langdurige ziekte of uit-
+diensttreding van de ter beschikking gestelde 
+medewerker. Leverancier zal aan het verzoek 
+onverwijld met prioriteit aandacht geven. 
+Leverancier staat er niet voor in dat vervanging 
+steeds mogelijk is. Indien vervanging niet of 
+niet onverwijld mogelijk is, vervallen de aan-
+spraken van cliënt op verdere nakoming van de 
+overeenkomst evenals alle aanspraken van cliënt 
+wegens niet-nakoming van de overeenkomst. 
+Betalingsverplichtingen van cliënt betreffende de 
+verrichte werkzaamheden blijven onverminderd 
+in stand.
+5.  Arbeidsduur, werktijden en arbeidsomstan-
+digheden
+5.1  De werktijden, rusttijden en arbeidsduur van de 
+ter beschikking gestelde medewerker zijn gelijk 
+aan de bij cliënt gebruikelijke tijden en duur, 
+tenzij anders overeengekomen. Cliënt staat er 
+voor in dat de werk- en rusttijden en de arbeids-
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840. 
+Module 7 Detacheringsdiensten
+ICT~Office Voorwaarden
+duur van de ter beschikking gestelde medewer-
+ker voldoen aan de relevante wet- en regelge-
+ving.
+5.2  Cliënt zal leverancier zo spoedig mogelijk infor-
+meren omtrent een voorgenomen sluiting van 
+zijn bedrijf of organisatie gedurende de looptijd 
+van de overeenkomst. Indien cliënt nalaat om 
+leverancier tijdig te informeren, is cliënt voor de 
+duur van de sluiting van zijn bedrijf of organisa-
+tie onverkort aan leverancier het overeengeko-
+men tarief verschuldigd.
+5.3  Cliënt zal zich ten aanzien van de ter beschik-
+king gestelde medewerker gedragen op dezelfde 
+zorgvuldige wijze als waartoe hij ten opzichte 
+van zijn eigen medewerkers gehouden is.
+5.4  Cliënt is jegens de ter beschikking gestelde 
+medewerker en leverancier gehouden tot nako-
+ming van de relevante wetgeving en de uit de 
+daarmee samenhangende regelgeving voort-
+vloeiende verplichtingen op het gebied van de 
+veiligheid op de werkplek en de goede arbeids-
+omstandigheden in het algemeen. 
+6. Prijs en betaling
+6.1  Indien de ter beschikking gestelde medewerker 
+in opdracht of op verzoek van cliënt per dag  
+langer werkt dan het overeengekomen of  
+gebruikelijke aantal werkuren dan wel buiten  
+de bij leverancier gebruikelijke werkdagen,  
+is cliënt voor deze uren het overeengekomen  
+extra uurtarief of, bij gebreke van een overeen-
+gekomen extra uurtarief, het bij leverancier  
+gebruikelijke extra uurtarief verschuldigd. 
+Desgevraagd zal leverancier cliënt informeren 
+over de geldende extra uurtarieven.
+6.2  Kosten en tijd van woon-werkverkeer zullen aan 
+cliënt in rekening worden gebracht overeen-
+komstig de bij leverancier gebruikelijke regels en 
+maatstaven. Desgevraagd zal leverancier cliënt 
+informeren over de daarvoor gebruikelijke regels 
+en maatstaven.
+6.3  Indien schriftelijk tussen partijen overeen- 
+gekomen, zal leverancier elke factuur vergezeld 
+doen gaan van een specificatie op basis van 
+urenstaten. 
+6.4  Leverancier is gerechtigd om de tarieven van 
+de ter beschikking gestelde medewerker aan te 
+passen indien diens functie of taakomschrijving 
+wijzigt. Leverancier zal dit schriftelijk uiterlijk 
+dertig dagen voor de ingangsdatum aan cliënt 
+mededelen. Indien cliënt niet akkoord wenst te 
+gaan met een dergelijke aanpassing, is cliënt 
+gerechtigd binnen veertien dagen na datum 
+kennisgeving de overeenkomst schriftelijk op te 
+zeggen tegen de datum waarop de aanpassing in 
+werking zou treden.
+7.  Inlenersaansprakelijkheid; overige aan-
+sprakelijkheid en vrijwaring
+7.1  Leverancier is verantwoordelijk voor de tijdige 
+en volledige afdracht van de voor de ter beschik-
+king gestelde medewerker in verband met de 
+overeenkomst met cliënt te betalen loonbe-
+lasting, premies voor sociale verzekeringen en 
+omzetbelasting. Leverancier vrijwaart cliënt voor 
+alle vorderingen van de belastingdienst danwel 
+van de instanties voor uitvoering van sociale 
+verzekeringswetgeving die vanwege de over-
+eenkomst met cliënt verschuldigd zijn, onder 
+de voorwaarde dat cliënt leverancier onverwijld 
+schriftelijk informeert over het bestaan en de 
+inhoud van de vordering en de afhandeling van 
+de zaak, waaronder het treffen van eventuele 
+schikkingen, geheel overlaat aan leverancier. 
+Cliënt zal daartoe de nodige volmachten, infor-
+matie en medewerking aan leverancier verlenen 
+om zich, indien nodig in naam van cliënt, tegen 
+deze vorderingen te verweren.
+7.2  Leverancier aanvaardt geen aansprakelijkheid 
+voor de selectie van de ter beschikking gestelde 
+medewerker dan wel voor de resultaten van 
+werkzaamheden die onder toezicht en leiding 
+dan wel regie van cliënt tot stand zijn gekomen.
+7.3  Cliënt is aansprakelijk voor alle schade die de ter 
+beschikking gestelde medewerker lijdt geduren-
+de of in verband met de aan hem opgedragen  
+werkzaamheden. Cliënt vrijwaart leverancier 
+voor alle aanspraken van derden voortvloeiende 
+uit of terug te voeren op de werkzaamheden 
+verricht door de ter beschikking gestelde mede-
+werker in het kader van de overeenkomst. Cliënt 
+vrijwaart leverancier voor elke aansprakelijkheid  
+voortvloeiende uit lichamelijk letsel of dood 
+van de ter beschikking gestelde medewerker 
+verband houdende met de uitoefening van de 
+tussen leverancier en cliënt aangegane overeen-
+komst.
+ © 2008, ICT~Office 
+1.  Toepasselijkheid
+1.1   De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module opgenomen bepalingen  
+zijn, naast de bepalingen van de module 
+Algemeen, van toepassing indien leverancier 
+diensten verricht op het gebied van onderwijs 
+zoals opleidingen, (in company) trainingen, 
+seminars en workshops (hierna kortweg te noe-
+men: opleidingen).
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste. 
+2. Aanmelding en annulering
+2.1   Een aanmelding voor een opleiding dient telkens  
+schriftelijk te geschieden en is bindend na 
+bevestiging door leverancier. 
+2.2  Cliënt draagt de verantwoordelijkheid voor de 
+keuze en geschiktheid van de opleiding voor de 
+deelnemers. Dat geldt onverkort indien leve-
+rancier een deelnemer toelaat tot een opleiding 
+waarvoor toelatingsnormen gelden. Onder deel-
+nemers worden in deze algemene voorwaarden 
+verstaan personen die voor een opleiding zijn 
+aangemeld. Het ontbreken van de vereiste voor-
+kennis bij deelnemers zal in geen geval afbreuk 
+doen aan de verplichtingen van cliënt op grond 
+van de overeenkomst. Het is cliënt toegestaan 
+een deelnemer voor een opleiding te doen ver-
+vangen door een andere deelnemer na vooraf-
+gaande schriftelijke toestemming van leveran-
+cier. 
+2.3   Indien het aantal aanmeldingen daartoe naar 
+het oordeel van leverancier aanleiding geeft, is 
+leverancier te zijner keuze gerechtigd de oplei-
+ding te annuleren, te combineren met één of 
+meer andere opleidingen, of deze op een latere 
+datum of een later tijdstip te laten plaatsvinden. 
+Leverancier behoudt zich het recht voor de loca-
+tie van de opleiding te wijzigen. Leverancier is 
+gerechtigd zo nodig organisatorische en inhou-
+delijke wijzigingen in een opleiding aan te bren-
+gen. 
+2.4  Indien een overeenkomst is aangegaan met het 
+oog op uitvoering door een bepaalde persoon, 
+zoals een bepaalde docent, trainer of spreker, is 
+leverancier steeds gerechtigd deze persoon te 
+vervangen door één of meer andere personen 
+met dezelfde of vergelijkbare kwalificaties. 
+2.5   De gevolgen van een annulering van deelname 
+aan een opleiding door cliënt of deelnemers 
+worden beheerst door de bij leverancier gebrui-
+kelijke regels. Tenzij anders overeengekomen, 
+dient een annulering altijd schriftelijk en voor-
+afgaand aan de opleiding of het betreffende 
+onderdeel daarvan te geschieden. Annulering 
+of niet-verschijning doen geen afbreuk aan de 
+verplichtingen die cliënt op grond van de over-
+eenkomst heeft. Ingeval van annulering door 
+cliënt of deelnemer staat het ter beoordeling van 
+leverancier of een verzoek tot toezending van 
+opleidingsmateriaal wordt ingewilligd. 
+3.  Uitvoering opleiding
+3.1   Leverancier zal zich naar beste kunnen inspan-
+nen de opleiding met zorg uit te voeren in voor-
+komend geval overeenkomstig de met cliënt 
+schriftelijk vastgelegde afspraken en procedures. 
+Alle diensten op het gebied van opleidingen wor-
+den uitgevoerd op basis van een inspannings-
+verbintenis. Cliënt aanvaardt dat leverancier de 
+inhoud en diepgang van de opleiding bepaalt. 
+3.2   Slechts indien dit schriftelijk is overeengeko-
+men, is leverancier gehouden bij de uitvoering 
+van de dienstverlening tijdige en verantwoord 
+gegeven aanwijzingen van cliënt op te volgen. 
+Leverancier is niet verplicht aanwijzingen op te 
+volgen die de inhoud of omvang van de overeen-
+gekomen dienstverlening wijzigen of aanvullen; 
+indien dergelijke aanwijzingen echter worden 
+opgevolgd, zullen de desbetreffende werkzaam-
+heden worden vergoed volgens de gebruikelijke 
+tarieven van leverancier. 
+3.3   Onverlet de overige verantwoordelijk van cliënt 
+voor het gedrag van de deelnemers zal cliënt de 
+deelnemers informeren over en toezien op de 
+naleving door deelnemers van de verplichtingen  
+uit de overeenkomst en de door leverancier 
+voorgeschreven (gedrags)regels voor deelname 
+aan de opleiding. Deelnemers dienen zich strikt 
+te houden aan opgegeven opleidingsdata en 
+-tijden.
+3.4  Indien leverancier bij de uitvoering van de oplei-
+ding gebruik maakt van eigen apparatuur of 
+programmatuur, staat leverancier er niet voor in 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer  30174840. 
+Module 8 Opleidingen en trainingen
+ICT~Office Voorwaarden
+dat deze apparatuur of programmatuur foutloos 
+is of zonder onderbrekingen functioneert. Indien 
+leverancier de opleiding uitvoert op locatie van 
+cliënt, zal cliënt, tenzij schriftelijk anders over-
+eengekomen, zorg dragen voor de beschikbaar-
+heid van deugdelijk werkende apparatuur en 
+programmatuur. 
+3.5  Tenzij schriftelijk anders overeengekomen, 
+maakt het afnemen van een examen of een 
+toets niet deel uit van de overeenkomst. 
+3.6  Tenzij schriftelijk anders overeengekomen, 
+is voor de ten behoeve van de opleiding ter 
+beschikking gestelde of vervaardigde documen-
+tatie of andere opleidingmaterialen of middelen 
+een separate vergoeding verschuldigd. Het voor-
+gaande geldt eveneens voor eventuele oplei-
+dingscertificaten of duplicaten hiervan. 
+4.  Prijzen en betaling
+4.1   Leverancier kan steeds vóór de aanvang van  
+de opleiding de ter zake verschuldigde betaling 
+verlangen. Leverancier kan, uitdrukkelijk  
+onverlet zijn overige rechten, deelnemers  
+uitsluiten van deelname indien cliënt heeft  
+nagelaten voor tijdige betaling zorg te dragen.
+4.2  Tenzij leverancier uitdrukkelijk heeft aangegeven 
+dat een vergoeding is vrijgesteld van BTW 
+in de zin van artikel 11 van de Wet op de 
+Omzetbelasting 1968, is cliënt over de vergoe-
+ding tevens BTW verschuldigd. Leverancier is na 
+het aangaan van de overeenkomst gerechtigd 
+zijn prijzen aan te passen bij eventuele wijziging 
+van het bij of krachtens wet vastgestelde regime 
+van BTW voor opleidingen. 
+5. Intellectuele eigendom
+5.1  Leverancier behoudt zich nadrukkelijk alle rech-
+ten van intellectuele eigendom op de documen-
+tatie en het opleidings-, toets- en examenmate-
+riaal voor. 
+5.2  Het is cliënt niet toegestaan gegevens of 
+gedeelten uit de verstrekte documentatie en/of 
+opleidings-, toets- of examenmateriaal en/of uit-
+treksels van het verstrekte opleidings-, toets- of 
+examenmateriaal openbaar te maken, te exploi-
+teren of te verveelvoudigen. 
+ © 2008, ICT~Office 
+1.  Toepasselijkheid
+1.1   De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen aangevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module opgenomen bepalingen  
+zijn, naast de bepalingen van de module 
+Algemeen, van toepassing indien leverancier 
+diensten verricht op het gebied van consultancy, 
+advisering en projectmanagement.
+1.2   De bepalingen van deze module zijn onlosma-
+kelijk verbonden met de bepalingen van de 
+module Algemeen. Bij tegenstrijdigheid tussen 
+de bepalingen van de module Algemeen en  
+de bepalingen van de onderhavige module, 
+prevaleren deze laatste. 
+2.  Dienstverlening
+2.1   Leverancier zal zich naar beste kunnen inspan-
+nen de dienstverlening met zorg uit te voeren, in 
+voorkomend geval overeenkomstig de met cliënt 
+schriftelijk vastgelegde afspraken en procedures. 
+Alle diensten van leverancier worden uitgevoerd 
+op basis van een inspanningsverbintenis, tenzij 
+en voor zover in de schriftelijke overeenkomst 
+leverancier uitdrukkelijk een resultaat heeft toe-
+gezegd en het betreffende resultaat tevens met 
+voldoende bepaaldheid is omschreven. 
+2.2   De doorlooptijd van een opdracht is afhankelijk 
+van diverse factoren en omstandigheden, zoals 
+de inspanning van leverancier, de kwaliteit van 
+de gegevens en informatie die cliënt verstrekt en 
+de medewerking van cliënt en relevante derden. 
+Tenzij schriftelijk anders is overeengekomen, zal 
+leverancier zich daarom niet tevoren willen ver-
+binden aan een doorlooptijd van de opdracht. 
+2.3  Indien is overeengekomen dat de dienstverle-
+ning in fasen zal plaatsvinden, is leverancier 
+gerechtigd de aanvang van de diensten die tot 
+een fase behoren uit te stellen totdat cliënt de 
+resultaten van de daaraan voorafgaande fase 
+schriftelijk heeft goedgekeurd. 
+2.4   Slechts indien dit schriftelijk is overeengekomen, 
+is leverancier gehouden bij de uitvoering van 
+de dienstverlening tijdige en verantwoord 
+gegeven aanwijzingen van cliënt op te volgen. 
+Leverancier is niet verplicht aanwijzingen op te 
+volgen die de inhoud of omvang van de overeen-
+gekomen dienstverlening wijzigen of aanvullen; 
+indien dergelijke aanwijzingen echter worden 
+opgevolgd, zullen de desbetreffende werk-
+zaamheden worden vergoed overeenkomstig de 
+gebruikelijke tarieven van leverancier. 
+2.5   Indien een overeenkomst tot dienstverlening is 
+aangegaan met het oog op uitvoering door een 
+bepaalde persoon, is leverancier steeds gerech-
+tigd na overleg met cliënt deze persoon te ver-
+vangen door een of meer andere personen met 
+dezelfde of vergelijkbare kwalificaties. 
+2.6   De door leverancier in te zetten medewerkers 
+zullen beschikken over de met cliënt schriftelijk 
+overeengekomen kwalificaties. 
+2.7   Indien leverancier dienstverlening verricht op 
+basis van door cliënt aan te leveren gegevens, 
+dan zullen deze gegevens overeenkomstig de 
+door leverancier te stellen voorwaarden door 
+cliënt worden geprepareerd en voor rekening 
+en risico van cliënt aangeleverd. Cliënt staat er 
+voor in dat alle door hem aan leverancier ter uit-
+voering van de dienstverlening ter beschikking 
+gestelde materialen, gegevens, programmatuur, 
+procedures en instructies steeds juist en volledig 
+zijn en dat alle aan leverancier verstrekte infor-
+matiedragers voldoen aan de specificaties van 
+leverancier. 
+2.8   De dienstverlening van leverancier wordt uitslui-
+tend verricht op en planningen en werkzaamhe-
+den zijn erop gebaseerd dat, tenzij uitdrukkelijk 
+anders overeengekomen met cliënt, werkzaam-
+heden door leverancier worden verricht op de 
+gebruikelijke werkdagen en -tijden van leveran-
+cier.
+2.9  Tenzij schriftelijk anders overeengekomen, is het 
+gebruik dat cliënt maakt van een door leveran-
+cier afgegeven advies steeds voor rekening en 
+risico van cliënt. 
+2.10  In voorkomend geval rust de bewijslast dat de 
+dienstverlening en de resultaten van de dienst-
+verlening van leverancier niet voldoen aan het-
+geen schriftelijk is overeengekomen of  
+aan hetgeen van een redelijk handelend en  
+bekwaam leverancier mag worden verwacht, 
+geheel bij cliënt, onverminderd het recht van 
+leverancier met alle middelen tegenbewijs te 
+leveren.
+3.  Rapportage
+3.1   Leverancier zal cliënt op de schriftelijk overeen-
+gekomen wijze periodiek informeren over de 
+uitvoering van de werkzaamheden via de door 
+cliënt aangewezen contactpersoon. Cliënt zal 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer  30174840. 
+Module 9 Advisering, consultancy  
+en projectmanagement
+ICT~Office Voorwaarden
+leverancier schriftelijk op voorhand omstandig-
+heden melden die voor leverancier van belang 
+zijn of kunnen zijn, zoals over de wijze van 
+rapporteren, de vraagpunten waarvoor cliënt 
+aandacht wenst, prioriteitenstelling van cliënt, 
+beschikbaarheid van middelen en personeel van 
+cliënt en bijzondere of voor leverancier mogelijk 
+niet bekende feiten of omstandigheden. Cliënt 
+zal zorg dragen voor de verdere verspreiding en 
+kennisneming van de door leverancier verstrekte 
+inlichtingen binnen de organisatie van cliënt en 
+deze inlichtingen mede op basis daarvan beoor-
+delen en leverancier hiervan op de hoogte stel-
+len. 
+3.2   Indien een door leverancier ingezette medewer-
+ker deel uitmaakt van een project- of stuurgroep 
+waarvan tevens één of meer personen deel uit-
+maken die door cliënt zijn aangewezen, dan zal 
+de verstrekking van inlichtingen plaatsvinden op 
+de wijze zoals voor de project- of stuurgroep is 
+voorgeschreven. Besluiten genomen in een der-
+gelijk samengestelde project- of stuurgroep bin-
+den leverancier slechts indien de besluitvorming 
+geschiedt met inachtneming van hetgeen daar-
+omtrent schriftelijk tussen partijen is overeenge-
+komen of, bij gebreke van schriftelijke afspraken 
+daaromtrent, indien leverancier de besluiten 
+schriftelijk heeft aanvaard. Leverancier is nim-
+mer gehouden een besluit te aanvaarden indien 
+dat naar zijn oordeel onverenigbaar is met de 
+inhoud van de overeenkomst van partijen. Cliënt 
+staat er voor in dat de personen die door hem 
+zijn aangewezen om deel uit te maken van een 
+project- of stuurgroep waaraan ook personen 
+van leverancier deel uitmaken, gerechtigd zijn 
+voor cliënt bindende besluiten te nemen. 
+3.3   In verband met de continuïteit van de werk-
+zaamheden zal cliënt een contactpersoon of  
+contactpersonen aanwijzen die voor de duur van 
+de werkzaamheden van leverancier als zodanig 
+zal/zullen fungeren. Contactpersonen van cliënt 
+zullen beschikken over de nodige ervaring,  
+specifieke materiekennis en inzicht in de 
+gewenste doelstellingen van cliënt. 
+3.4  Zonder voorafgaande schriftelijke toestemming 
+van leverancier is cliënt niet gerechtigd een 
+mededeling aan derden te doen over de werk-
+wijze, de methoden en technieken van leveran-
+cier en/of de inhoud van de adviezen of rappor-
+tages van leverancier. Cliënt zal de adviezen of 
+rapportages van leverancier niet aan een derde 
+verstrekken of anderszins openbaar maken. 
+4.  Betaling
+4.1   Bij gebreke van een uitdrukkelijk overeengeko-
+men factureringsschema zijn alle bedragen die 
+betrekking hebben op door leverancier verleende 
+diensten telkens per kalendermaand achteraf 
+verschuldigd. 
+4.2   Behoudens andersluidende afspraken zal leve-
+rancier inzicht verschaffen in de verrichte 
+werkzaamheden, tijdsbesteding en voor cliënt 
+gemaakte kosten op de voor leverancier gebrui-
+kelijke wijze.
+ © 2008, ICT~Office 
+1.  Toepasselijkheid
+1.1  De ICT~Office Voorwaarden bestaan uit de 
+module Algemeen angevuld met één of meer 
+specifieke modules per product of dienst. De in 
+de onderhavige module vermelde bepalingen 
+zijn naast de module Algemeen van toepassing 
+indien leverancier diensten op het gebied van 
+informatie- en communicatietechnologie ver-
+richt, zoals - maar niet daartoe beperkt - het 
+beheer van ICT-systemen en aanverwante dien-
+sten. 
+1.2   De bepalingen van deze module zijn onlosmake-
+lijk verbonden met de bepalingen van de module 
+Algemeen. Bij tegenstrijdigheid tussen de bepa-
+lingen van de module Algemeen en de bepa-
+lingen van de onderhavige module, prevaleren 
+deze laatste.
+2. Dienstverlening
+2.1  Leverancier zal de schriftelijk tussen partijen 
+overeengekomen diensten aan cliënt verlenen. 
+2.2  Indien de dienstverlening van leverancier het 
+beheer van één of meer in de overeenkomst 
+benoemde ICT-systemen tot voorwerp heeft en 
+de inhoud en de omvang van het beheer daarbij 
+naar uitsluitend oordeel van leverancier niet of 
+niet voldoende is bepaald, zal leverancier ter 
+uitvoering van de overeenkomst een beheerplan 
+opstellen en dit beheerplan binnen een redelijke 
+termijn aan cliënt ter beschikking stellen. Het 
+beheerplan vermeldt de onderwerpen van het 
+beheer en de wijze waarop de diverse vormen 
+van beheer uitgevoerd kunnen worden. In het 
+beheerplan kunnen, zulks ter bepaling van de 
+leverancier, onder meer aan de orde komen: 
+ -  een plan voor het preventief, correctief en ver-
+nieuwend onderhoud van ICT-systemen;
+ -  een plan voor de afhandeling van storingen en 
+klachten en de rapportage daaromtrent;
+ - een beveiligingsplan; 
+ -  een plan voor de ondersteuning van de gebrui-
+kers van de ICT-systemen;
+ -  een plan voor de aansluiting van nieuwe 
+gebruikers op de ICT-systemen;
+ -  een plan voor de opleiding van de gebruikers 
+van de ICT-systemen; 
+ -  een plan voor het beheer en gebruik van iden-
+tificatiemiddelen (wachtwoorden e.d.);
+ - een plan voor licentie- en contractsbeheer;
+ -  een plan voor de beheerorganisatie en de 
+administratieve en financiële aspecten van het 
+gebruik van ICT-systemen.
+  Partijen zullen na voltooiing van het plan in goed 
+overleg treden over de vraag welke van de door 
+leverancier voorgestelde beheerwerkzaamheden  
+zullen worden uitgevoerd en de wijze en de 
+voorwaarden van de uitvoering van deze werk-
+zaamheden.   
+2.3   Slechts indien dit schriftelijk uitdrukkelijk is 
+overeengekomen, is leverancier gehouden bij  
+de uitvoering van de dienstverlening tijdige en 
+verantwoord gegeven aanwijzingen van cliënt  
+op te volgen. Leverancier is niet verplicht  
+aanwijzingen op te volgen die de inhoud of 
+omvang van de overeengekomen dienstverlening 
+wijzigen of aanvullen; indien dergelijke aan-
+wijzingen echter worden opgevolgd, zullen de 
+desbetreffende werkzaamheden worden vergoed 
+volgens de gebruikelijke tarieven van leveran-
+cier. 
+2.4   Indien een overeenkomst tot dienstverlening is 
+aangegaan met het oog op uitvoering door een 
+bepaalde persoon, is leverancier steeds gerech-
+tigd na overleg met cliënt deze persoon te ver-
+vangen door één of meer andere personen met 
+dezelfde of vergelijkbare kwalificaties. 
+2.5   Door leverancier in te zetten personen zullen 
+beschikken over de met cliënt schriftelijk over-
+eengekomen kwalificaties. 
+2.6   Indien leverancier dienstverlening verricht op 
+basis van door cliënt aan te leveren gegevens, 
+dan zullen deze gegevens overeenkomstig de 
+door leverancier te stellen voorwaarden door 
+cliënt worden geprepareerd en voor rekening 
+en risico van cliënt aangeleverd. Cliënt staat er 
+voor in dat alle door hem aan leverancier ter uit-
+voering van de dienstverlening ter beschikking 
+gestelde materialen, gegevens, programmatuur, 
+procedures en instructies steeds juist en volledig 
+zijn en dat alle aan leverancier verstrekte infor-
+matiedragers voldoen aan de specificaties van 
+leverancier. 
+2.7   Tenzij uitdrukkelijk anders overeengekomen, 
+wordt de dienstverlening van leverancier uitslui-
+tend verricht op de gebruikelijke werkdagen en 
+-tijden van leverancier. Planningen en overige 
+inschattingen van leverancier zijn hierop geba-
+seerd. 
+De ICT~Office Voorwaarden zijn gedeponeerd bij de Kamer van Koophandel Midden-Nederland  
+onder nummer 30174840.  
+Module 10 Overige diensten
+ICT~Office Voorwaarden
+2.8  Indien is overeengekomen dat de dienstver-
+lening in fasen zal plaatsvinden of indien de 
+methode van werken van leverancier voorziet in 
+een fasegewijze aanpak, is leverancier gerech-
+tigd de aanvang van de diensten die tot een fase 
+behoren uit te stellen totdat cliënt de resultaten 
+van de daaraan voorafgaande fase schriftelijk 
+heeft goedgekeurd.
+2.9  Indien de dienstverlening aan cliënt ondersteu-
+ning aan gebruikers omvat, dan kan leverancier 
+voorwaarden stellen aan de kwalificaties en het 
+aantal contactpersonen dat voor ondersteuning 
+in aanmerking komt en zal leverancier deugde-
+lijk onderbouwde verzoeken om ondersteuning 
+binnen een redelijke termijn in behandeling 
+nemen. Leverancier kan niet instaan voor de 
+juistheid, volledigheid of tijdigheid van reacties  
+of geboden ondersteuning. Ondersteuning 
+wordt, tenzij schriftelijk anders overeengeko-
+men, uitsluitend verricht op werkdagen tijdens 
+de gebruikelijke openingstijden van leverancier.
+2.10   Tenzij anders overeengekomen, is cliënt verant-
+woordelijk voor het gebruik van de dienst en de 
+wijze waarop de resultaten van de dienst worden 
+ingezet. Cliënt is tevens verantwoordelijk voor 
+de instructie aan en het gebruik door gebruikers, 
+ongeacht of deze gebruikers in een gezagsver-
+houding tot cliënt staan. 
+2.11  Indien de dienstverlening van leverancier op 
+grond van de overeenkomst tevens het verlenen  
+van zogeheten ‘standby-diensten’ omvat, 
+zal leverancier één of meer personeelsleden 
+beschikbaar houden tijdens de in de overeen-
+komst genoemde dagen en tijden. In dat geval is 
+cliënt gerechtigd bij spoedeisendheid of urgentie 
+de ondersteuning van de beschikbaar gehouden  
+personeelsleden in te roepen in de gevallen 
+genoemd in de overeenkomst. Leverancier staat 
+er niet voor in dat in dat geval alle storingen 
+zullen worden verholpen of de bijstand van de 
+ingeroepen deskundigen effectief is. 
+3.  Uitvoering dienstverlening 
+3.1   Leverancier zal zich naar beste kunnen inspan-
+nen de dienstverlening met zorg uit te voeren, in 
+voorkomend geval overeenkomstig de met cliënt 
+schriftelijk vastgelegde afspraken en procedures. 
+Alle diensten van leverancier worden uitgevoerd 
+op basis van een inspanningsverbintenis, tenzij 
+en voor zover in de schriftelijke overeenkomst 
+leverancier uitdrukkelijk een resultaat heeft toe-
+gezegd en het betreffende resultaat tevens met 
+voldoende bepaaldheid is omschreven.
+3.2   Alle door leverancier bij de dienstverlening 
+gebruikte apparatuur, programmatuur en zaken 
+blijven eigendom of intellectuele eigendom van 
+leverancier, ook indien cliënt een vergoeding 
+betaalt voor het ontwikkelen of aanschaffen 
+ervan door leverancier. 
+3.3  Indien cliënt in verband met de dienstverlening 
+van leverancier programmatuur, hardware of 
+andere bedrijfsmiddelen aan leverancier ter 
+beschikking stelt, is cliënt verantwoordelijk voor 
+het verkrijgen van alle benodigde licenties of 
+goedkeuringen met betrekking tot deze bedrijfs-
+middelen die leverancier nodig kan hebben. 
+4. Service Level Management
+4.1   Eventuele afspraken betreffende een service-
+niveau (Service Level Agreement) worden 
+steeds slechts schriftelijk uitdrukkelijk overeen-
+gekomen. Cliënt zal leverancier steeds infor-
+meren omtrent alle omstandigheden die van 
+invloed kunnen zijn op de dienstverlening en 
+de beschikbaarheid daarvan. Indien afspraken 
+over een serviceniveau worden gemaakt, dan 
+wordt de beschikbaarheid gemeten met buiten 
+beschouwing lating van vooraf aangekondigde 
+buitengebruikstelling wegens onderhoud of ser-
+vice alsmede met omstandigheden die buiten 
+de invloedssfeer van leverancier zijn gelegen 
+en met inachtneming van de dienst als geheel 
+gedurende de duur van de overeenkomst. 
+Behoudens tegenbewijs zal de door leverancier 
+gemeten beschikbaarheid als volledig bewijs  
+gelden. 
+5.  Rapportage
+5.1   Leverancier zal cliënt op de schriftelijk overeen-
+gekomen wijze periodiek inlichtingen verstrek-
+ken omtrent de uitvoering van de werkzaamhe-
+den door middel van de door cliënt aangewezen 
+contactpersoon. Cliënt zal leverancier schriftelijk 
+op voorhand omstandigheden melden die voor 
+de leverancier van belang zijn, zoals over de 
+wijze van rapporteren, de vraagpunten waarvoor 
+cliënt aandacht wenst, prioriteitenstelling van 
+cliënt, beschikbaarheid van middelen en perso-
+neel van cliënt en bijzondere of voor leverancier 
+mogelijk niet bekende feiten of omstandigheden. 
+Cliënt zal zorg dragen voor de verdere versprei-
+ding en kennisneming van de door leverancier 
+verstrekte inlichtingen binnen de organisatie 
+van cliënt en deze inlichtingen mede op basis 
+daarvan beoordelen en leverancier hiervan op de 
+hoogte stellen. 
+5.2   Indien een door leverancier ingezette medewer-
+ker deel uitmaakt van een project- of stuurgroep 
+waarvan tevens één of meer personen deel uit-
+maken die door cliënt zijn aangewezen, dan zal 
+de verstrekking van inlichtingen plaatsvinden 
+op de wijze zoals voor de project- of stuurgroep 
+is voorgeschreven. Besluiten genomen in een 
+dergelijk samengestelde project- of stuurgroep 
+binden leverancier slechts indien de besluit-
+vorming geschiedt met inachtneming van het-
+geen daaromtrent schriftelijk tussen partijen is 
+overeengekomen of, bij gebreke van schriftelijke 
+afspraken daaromtrent, indien leverancier de 
+besluiten schriftelijk heeft aanvaard. Leverancier 
+is nimmer gehouden een besluit te aanvaarden 
+indien dat naar zijn oordeel onverenigbaar is met 
+de inhoud van de overeenkomst tussen partijen. 
+Cliënt staat er voor in dat de personen die door 
+hem zijn aangewezen om deel uit te maken van 
+een project- of stuurgroep waaraan ook perso-
+nen van leverancier deel uitmaken, gerechtigd 
+zijn voor cliënt bindende besluiten te nemen.
+5.3   Mede in verband met de continuïteit zal cliënt  
+een contactpersoon of contactpersonen aan-
+wijzen die voor de duur van de werkzaam-
+heden van leverancier als zodanig fungeren. 
+Contactpersonen van cliënt zullen beschikken 
+over de nodige ervaring, specifieke materie-
+kennis en inzicht in de gewenste doelstellingen 
+van cliënt. 
+6.  Duur
+6.1   De overeenkomst wordt aangegaan voor de tus-
+sen partijen overeengekomen duur, bij gebreke 
+waarvan een duur van één jaar geldt. De duur 
+van de overeenkomst wordt telkens stilzwijgend 
+voor de duur van de oorspronkelijke periode 
+verlengd, tenzij cliënt of leverancier de overeen-
+komst schriftelijk beëindigt met inachtneming 
+van een opzegtermijn van drie maanden vóór 
+het einde van de betreffende periode.
+7.  Betaling
+7.1  Bij gebreke van een uitdrukkelijk overeengeko-
+men factureringsschema zijn alle bedragen tel-
+kens per kalendermaand achteraf verschuldigd. 
+Leverancier kan steeds vooruitbetaling verlangen.
+7.2   Tenzij anders overeengekomen, zijn bedragen 
+verschuldigd vanaf aanvang van de overeen-
+komst. 
+ © 2008, ICT~Office 

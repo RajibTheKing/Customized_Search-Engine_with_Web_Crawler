@@ -1,0 +1,90 @@
+ Niets menselijks is ons vreemd 
+De 8 geboden bij systeemimplementaties 
+ 
+Met veel positieve energie wordt meestal gestart, zelden wordt dat energieniveau gehandhaafd of hoger.  
+Systeemimplementaties lijken in de praktijk veelal in een deceptie te eindigen. Onnodig en jammer.  
+ 
+Bij de implementatie van een nieuw systeem wordt altijd veel aandacht besteed aan wat het systeem 
+allemaal kan, zou moeten kunnen en wat het voor voordelen voor de organisatie biedt op het vlak van 
+bijvoorbeeld kostenbesparingen. Alle mogelijke scenario’s en noodscenario’s worden vooraf bedacht, 
+helaas vooral vanuit het oogpunt van de techniek. Vanuit de IT-manager een logische keuze. Bestaat er 
+immers nog iets anders? 
+ 
+Natuurlijk zijn zowel de soft- als de hardware noodzakelijk, maar het blijft de mens die de opdrachten zal 
+geven en de resultaten dient te vertrouwen. Te vaak raken de menselijke factoren bij het opzetten en 
+implementeren van een systeem op de achtergrond terwijl deze juist een project kunnen maken of 
+breken.  
+ 
+In dit artikel breekt de auteur een lans voor het gebruiken van menselijke geboden voor 
+systeemimplementaties, het zijn er 8.  
+ 
+ 
+1. Lever het ego van de manager in voor de inzet van gebruikers 
+Bij het schetsen van de processen voor de situaties voor (Ist) en na (Soll) de implementatie wordt vaak 
+met de betrokken managers om de tafel gezeten. Hoewel de meeste managers wel een goed idee hebben 
+van wat er op zijn/haar afdeling gebeurt is de werkelijke ‘in depth’ kennis vaak niet aanwezig. Vaak zal de 
+manager dit niet toe willen geven en raadt soms wat er gebeurt en moet gaan gebeuren. Met wat geluk 
+komen deze fouten naar boven drijven tijdens het testen, maar als het tegen zit pas tijdens het gebruik in 
+de praktijk. Zorg er daarom voor dat de professionals ‘van de werkvloer’, ofwel de gebruikers, in de 
+werkgroepen meedraaien. 
+ 
+2 Geen politiek in de directe en indirecte omgeving van het project 
+Zowel binnen grote als kleine ondernemingen spelen politieke verhoudingen een rol. Dit uit zich 
+bijvoorbeeld door managers en medewerkers die niet tegen onhandige beslissingen van hogerhand in 
+durven te gaan, omdat ze (onbewust) bang zijn om hun baan op het spel te zetten of simpelweg de goede 
+vrede willen bewaren. Daarmee wordt de kans groter dat de systeemimplementatie in een deceptie 
+eindigt.  
+ 
+3 Manage de verwachtingen en eisen van de opdrachtgevers 
+Als gebruikers en beslissers volledige vrijheid geboden wordt dan zal tijdens het in kaart brengen van de 
+verschillende processen van alles geopperd worden om in het nieuwe systeem verwerkt te krijgen. De 
+vraag die hierbij altijd gesteld moet worden is: ‘Is dit noodzakelijk of wenselijk? Vaak wordt er getarged 
+op een sprookjeskasteel, terwijl een moderne tent voldoende is. Het is vanuit het oogpunt van de 
+leverancier goed om meer op te leveren, vaak wordt echter vergeten dat dat ook extra verwachtingen 
+geeft. Kortom hou de specificaties binnen heldere kaders.  
+ 
+4 Geen concessies aan de kwaliteit van de testers 
+Een goede bemanning is altijd goed, het is echter noodzakelijk om de juiste mensen in de testgroep(en) 
+te krijgen. Daarmee bedoel ik ook: een juiste verhouding van kennis van de bestaande werkwijze en 
+regels enerzijds en openstaan voor veranderingen anderzijds. Te weinig kennis kan leiden tot het 
+accepteren van processen die qua wet- en regelgeving niet toegestaan zijn. Te weinig open staan voor 
+veranderingen kan leiden tot (on)bewuste sabotage binnen het testen. Daardoor kunnen de meest 
+vreemde situaties getest gaan worden om maar iets te vinden dat het ongelijk van het systeem aantoont. 
+ 
+5 Testen is tijdelijk inleveren operationele voortgang 
+Voordat de juiste testers aan het project worden toegevoegd zal de manager(s) van de betrokken 
+afdeling(en) duidelijk gemaakt dienen te worden wat de impact is op zijn/haar eigen afdeling. Daarmee 
+bedoel ik dat ze het doorleven. De testers zullen namelijk vaak de meest ervaren krachten van een 
+afdeling zijn. Deze zorgen ook voor de grootste operationele productie. 
+ 
+  
+ 
+6 Communiceer en train, effectief! 
+Verwachtingsmanagement en competenties, begrippen waar al veel over geschreven is de afgelopen 
+decennia. Logisch omdat het belangrijke begrippen zijn. Het is verstandig een kick off te doen (wat gaan 
+we wanneer doen en wie doet wat), reguliere monitorsessies te houden (doen we het goede en doen we 
+dat goed) en je te laten trainen (bijvoorbeeld in TMAP). De trainingen dienen zo effectief mogelijk te 
+worden ingezet. Trainingen met betrekking tot testen te ver voor de daadwerkelijke start van de eerste 
+testfase zijn zonde van de tijd en het geld omdat er te weinig van de behandelde stof blijft hangen als dit 
+niet gelijk in de praktijk wordt gebracht. Een te korte gebruikerstraining kan er bijvoorbeeld voor zorgen 
+dat de meeste mensen niet op de juiste manier met een systeem overweg kunnen.  
+ 
+7 Draagvlak creëer je samen 
+Het gebod dat ten allen tijde op nummer 1 staat en door de andere geboden heen loopt is er gezamenlijk 
+voor te zorgen dat er in de organisatie binnen alle lagen genoeg draagvlak aanwezig is en blijft voor het 
+project. Een gedeeld communicatieplan met heldere rolverdeling is hierbij essentieel. Op het moment dat 
+er weinig naar buiten gebracht wordt zal het project omhuld zijn door nevelen van speculaties en 
+insinuaties (meestal funest). Dat wat wel naar buiten lekt gaat vaak een eigen leven leiden als er geen 
+tekst en uitleg wordt gegeven. 
+ 
+8 Fun, fun, fun 
+Samen werken is voor mij samen, met plezier en fun, resultaten 
+neerzetten. Heeft een ieder die focus dan komen de resultaten, en 
+meer dan dat, vanzelf! 
+ 
+ 
+Over de auteur 
+Danny Jansen heeft deelgenomen aan diverse implementatietrajecten. 
+Danny is binnen ARVIX werkzaam als management consultant met als 
+aandachtsgebieden proces- en projectmanagement. 
+ 

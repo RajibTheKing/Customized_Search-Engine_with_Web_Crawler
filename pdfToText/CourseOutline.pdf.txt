@@ -1,0 +1,239 @@
+Course Outline 
+Course Name: Power System- I 
+Department of Electrical and Electronic Engineering 
+   
+2013 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) 
+ Page 1 
+ 
+COURSE OUTLINE 
+Course Code: EEE-325                          Course Title: Power System-I        
+Prerequisite: Electrical Circuits I (EEE 121) & Electrical Circuits II (EEE 123) 
+Marks-100              Credit Hours: 3                                     Hours: 3 Hours/week 
+ 
+Course Requirements 
+These are the things need to be accomplished properly by the students during the term such as:  
+1. Attending class tests and term exams 
+2. Submission of the assignments 
+3. Attending the classes  
+ 
+Evaluation 
+1. Class Participation :        10% 
+2. Assignments and mid-semester examination:     20% 
+3. Final Examination:        70% 
+Total =         100 
+Class Participation:   
+Attendance          Marks 
+95% and above         10 
+90% to 94%          9 
+85% to 89%          8 
+80% to 84%          7 
+75% to 79%          6 
+70% to 74%          5 
+65% to 69%          4 
+60% to 64% 
+Less than 60%          0 
+Course Outline 
+Course Name: Power System- I 
+Department of Electrical and Electronic Engineering 
+   
+2013 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) 
+ Page 2 
+ 
+A student will not be allowed to appear at the examination of a course if his/her class attendance 
+in this course is less than 50%. 
+ 
+Recommended Books: 
+ Elements of Power System Analysis (4th Edition) by Willaim D. Stevenson. 
+ Power System Analysis by Hadi Saadat. 
+ Power System Analysis and Design by J. Duncan Glover, S. Sharma & J. Thomas. 
+ Principle of Power System by V.K Meheta & Rohit Meheta.  
+ 
+Topics to be covered 
+Topics Time 
+Frame(expected) 
+Suggested 
+Activities & 
+Teaching 
+Strategy(s) 
+Deliverable/ 
+Assessment 
+Per Unit System: Basic idea about 
+Per- unit system, Per-unit impedances 
+in single phase Transformer circuits, 
+Per-unit impedances in three phase 
+Transformer circuits, Advantages of 
+Per-unit computation. 
+ 
+ 
+ 1
+st
+ week Students will be 
+assigned 
+problems 
+Several 
+problems will be 
+solved. 
+ 
+Representation of a electric system: 
+Apparatus symbols, One Line 
+Diagram, Impedance and Reactance 
+Diagrams of short, medium and Long 
+lines. 
+ 
+Power Flow: Bus Admittance matrix, 
+Power flow equation, Gauss Seidel 
+Power flow solution, Line Flows and 
+Losses, Newton-Raphson Method 
+ 2
+nd
+ -4
+th
+   week 
+ 
+Students will be 
+assigned 
+problems and 
+Several 
+problems will be 
+solved. 
+ 
+ 
+Course Outline 
+Course Name: Power System- I 
+Department of Electrical and Electronic Engineering 
+   
+2013 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) 
+ Page 3 
+ 
+Control of power flow: Prime mover 
+and excitation control of generators, 
+Switching of shunt capacitor banks, 
+shunt reactors, and static var 
+Systems, Control of tap-changing and 
+regulating transformers. 
+ 
+Fault Analysis: Basic idea about 
+Symmetrical and unsymmetrical 
+faults, Synchronous machine transient 
+analysis, Transient phenomena, 
+simplified model for Synchronous 
+machine transient analysis, DC 
+component of stator current, AC 
+component of stator current, RMS 
+value of current in sub-transient, 
+transient and steady state, short circuit 
+current and reactance of synchronous 
+machine, Internal voltages of loaded 
+machine under transient conditions, 
+Short Circuit Capacity (SCC). 
+5
+th
+ -6
+th
+ week 
+ 
+ 
+ 
+Students will be 
+assigned 
+problems 
+Several 
+problems will be 
+solved. 
+Assignment I 
+ 
+Class Test I 
+Symmetrical Components: Positive, 
+negative and zero sequence 
+components, Three-phase complex 
+power in terms of symmetrical 
+components, Sequence impedance, 
+Determination of sequence impedance 
+matrix, Drawing positive, negative and 
+zero  sequence networks. 
+ 
+Unsymmetrical Faults: Single Line 
+to Ground fault (L-G), Line to Line 
+fault (L-L), Line to Line to Ground 
+fault (L-L-G), Line to Ground Fault(L-
+G) through and impedance at the 
+terminal of an unloaded generator, 
+Line to Line(L-L) fault through and 
+impedance at the terminal of an 
+unloaded generator, Double Line to 
+7
+th
+ – 10th week Students will be 
+assigned 
+problems 
+Several 
+problems will be 
+solved. 
+Assignment II 
+ 
+ 
+Course Outline 
+Course Name: Power System- I 
+Department of Electrical and Electronic Engineering 
+   
+2013 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) 
+ Page 4 
+ 
+ground (L-L-G) fault through an 
+impedance at the terminal of an 
+unloaded generator. 
+Class Test- II 
+Protection: Switch gear, Essential 
+features of Switch gear, Switch gear 
+equipment, Bus bar arrangements. 
+ 
+Relays: Fundamental requirement of 
+protective relays, Basic relays, 
+Electromagnetic attraction relays, 
+Induction relays, Distance or 
+Impedance Relays, Differential 
+Relays, Types of Protection.  
+ 
+Circuit Breakers: Operating 
+Principle, Arc Phenomenon, Principles 
+of Arc Extinction, Method of Arc 
+Extinction, Classification of Circuit 
+Breakers.  
+11
+th
+ to 12
+th
+ week  Assignment III 
+Variable Load on Power Station: 
+Structure of Electric Power System, 
+Variable Load on Power System, Load 
+Curves, Important Terms & Factors: 
+Demand Factor, Diversity Factor, 
+Load Factor, Capacity factor, Plant 
+Factor, Units Generated per annum, 
+Load Duration Curves, Types of load 
+13
+th
+ to 14
+th
+ week Students will be 
+assigned 
+problems 
+Several 
+problems will be 
+solved. 
+ 
+Final Exam 
+ 

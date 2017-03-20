@@ -1,0 +1,440 @@
+ 
+ 
+ 
+  
+2012 
+              Shahadat Hussain Parvez 
+     
+ Jubair Hossain   
+     
+ Tahmid Hassan Talukdar 
+   
+12-Apr-12 
+RC CAR 
+Page 2 of 22 
+ 
+ 
+Acknowledgement 
+ 
+We are very happy that we have completed our first project on micro controller. This is our best 
+chance to thank all the people around us who helped us in all the way in this project and on 
+other project.  
+ We would like to thank our advisor MD Nazmus Sahadat, lecturer, Department of 
+Electrical and Electronic Engineering, Shahjalal University of Science and Technology, Sylhet, 
+Whose advises helped us all the way from beginning to end of the project.   
+At last but not least, we would like to thank our parents without whose support we would been 
+a big zero 
+ 
+10th April 12, 2012       Shahadat Hussain Parvez 
+Sylhet          Jubair Hossain 
+         Tahmid Hassan Talukdar 
+  
+Page 3 of 22 
+ 
+ 
+Contents 
+Acknowledgement................................................................................................................................... 2 
+Introduction: ........................................................................................................................................... 4 
+Specification: ........................................................................................................................................... 4 
+Working mechanism (Flow of work) ........................................................................................................ 5 
+Mechanical Design: ................................................................................................................................. 7 
+Electrical design:...................................................................................................................................... 8 
+Schematics: ........................................................................................................................................... 10 
+Usability: ............................................................................................................................................... 12 
+Further Possible Upgrades ..................................................................................................................... 13 
+Photos ................................................................................................................................................... 14 
+Source codes ......................................................................................................................................... 17 
+Soft wares and materials used ............................................................................................................... 22 
+ 
+  
+Page 4 of 22 
+ 
+Introduction: 
+A common idea in human brain is to create some automation. The one and only reason for this 
+automation is to reduce the efforts needed to do any work. This is the reason for creation of 
+engineering. All the engineers  tries to create automation robots. And the most important part 
+of robotics is the logic. Creation of robot needs creation of logic. This Remote control car is 
+anaproach to introduction to robotics. 
+The idea of this RC Car came as an introduction to robotics. No other project can be better 
+option other than this to introduce us to vast world of robotics. 
+ 
+ 
+Specification: 
+ 
+ 
+Body Frame  : Aluminum rail  
+Dimension (Frame) : 7inches* 6Inches 
+Dimension (With wheel):  7 inches* 8Inches 
+Weight  : 2.5 Kg aprox 
+Operation mode : Wireless control 
+Wireless range  : 200 m 
+Movement  :  360 degree in any direction (Forward and Backward) 
+Power   : 12 V for Car 
+    9 V for Remote controller 
+Special security feature :  The car automatically stops if it goes out of range of RF. 
+ 
+  
+Page 5 of 22 
+ 
+Working mechanism (Flow of work) 
+ 
+Description:  
+The basic mechanism for the movement of the RC car is very simple. You hit forward button 
+then the car moves forward and if you hit back it moves back. During movement if you hit left 
+or right the car turns in the respective direction. (For details of the moving see Mechanical 
+design section) When you hit the any button logic from that button is send to the 
+microcontroller. This logic data is the processed (Encoded ) in the microcontroller to make it 
+Page 6 of 22 
+ 
+ready for sending it to RF transmitter. The RF transmitter then sends some packet data address 
+through radio waves. 
+ The transmitted radio waves are then received by the Receiver (RX module) which then 
+sends the received data addresses to another microcontroller. This microcontroller again 
+processes (decodes) the datas to give some logic output. This logic output is used by the motor 
+controller circuit to Drive the motors in desired way. (For details of the motor control see 
+electrical design section) 
+  
+Page 7 of 22 
+ 
+Mechanical Design: 
+The mechanical part of the RC car is made with a use of very simple physical law, moment. 
+ 
+Simply if F1 and F2 is same in magnitude then the body will move forward . If F1 is larger than 
+F2 body turns right and if F2 larger than F1 body turns left. We used this simple moment 
+physics to design our car. 
+In the design of the car there are two motors at back side which are the main movement 
+controller of the car and the front wheel is simply to give support to the movement.  
+ If any motor is rotating then there is a force acting so there is a moment in that 
+direction. We used this fact to design our car.  
+If both the motors move forward then the car simply moves forward. If only right motor moves 
+forward then the car turns left. If the left motor rotates forward then the car turns right. If left 
+motor rotates reverse the car turns left in reverse direction. If right motor rotates reverse the 
+car turns right in reverse direction.  And if both the motor rotates reverse car moves backward.  
+ 
+ 
+ 
+If we show the movement logic in table it looks like this:-  
+Left Motor Right Motor Output 
+Forward Forward Car moves forward 
+Forward  Stop Car turns right 
+Stop  Forward Car turns left 
+Reverse Stop Car turns left in reverse gear 
+Stop Reverse Car turns right in Reverse gear 
+Reverse Reverse Car move backward 
+Stop Stop Car at rest 
+Page 8 of 22 
+ 
+Electrical design: 
+The main part of the motor control mechanism is the use of L298 IC, which is actually full bridge 
+driver. Block diagram of internal circuit of L298 is as follows 
+using one L298 we can control both the motor movement in forward and reverse mode. If IN1 
+is enabled then left motor rotates forward (Actual connection of motors are as in the figure). If 
+IN2 is enabled, Left motor rotates in reverse. IN3 makes right motor move forward and IN4 
+makes right motor back. 
+ 
+A big challenge in rotating motor from the output of L298 is, motor is an inductive load so when 
+motor is connected the lines acts as short so the motor does not rotates. The solution to this 
+problem is use if diode bridge in the output as in the figure  
+Page 9 of 22 
+ 
+ 
+Another challenge in the motor controlling circuit is L298 is bjt based ie it is a current driven IC 
+and Microcontroller in voltage driven device. So there is a chance of breakdown of 
+Microcontroller using L298 directly. So to overcome this challenge we used a buffer in between 
+the output of microcontroller and input of L298 
+ 
+  
+Page 10 of 22 
+ 
+Schematics: 
+Transmitting End 
+ 
+ 
+ 
+The above schematics shows the basic circuit used in the transmission of datas from the remote 
+control to RF waves which is used by the receiver to proceed the process.  
+Page 11 of 22 
+ 
+Receiving End 
+ 
+  
+The above schematic shows the receiving end of the movement process. This is where the datas 
+are processed and made the car move.  
+Page 12 of 22 
+ 
+Usability: 
+This car is small in size but usability of this car is very large. It can be used in many ways some of 
+the common way of using it is described below. 
+For security reason we can use this car.  We can send this car to different places where human 
+access may be risky. We can send these Cars to different places to gather different information 
+so that we can ensure safe going of human to those places. 
+We can use this car for handling things carefully ie to handle glass instruments. 
+And finally, yes it can be used for entertainment purpose. This car can be used for miniature car 
+racing in home tracks i.e. in small open place. The driving skills necessary to drive this car is very 
+less. So the racing game with this can is enjoyable to both children and adults. So this car can be 
+medium to bring parents children together.   
+ 
+  
+Page 13 of 22 
+ 
+Further Possible Upgrades 
+ 
+The car can be moderated and upgraded with a video transmission system. If video 
+transmission is added to this car, then this car can be send to difficult places where human 
+access is not only risky but quite impossible. We can use this small car for searching purpose.  
+If mine detectors are added to this system with video transmission then we can use this car for 
+land mine detections. As we know land mines have a minimum weight (5 kg1) requirement to 
+blast. And the weight of our car is less compared to minimum trigger requirement so we can 
+use this can easily to detect mines without exploding it.   
+Giving this car some automation logic can help us make this car a waiter system in restaurant . 
+  
+                                                             
+1  Reference :  http://www.fourmilab.ch/minerats/hackers96/sld004.html 
+Page 14 of 22 
+ 
+Photos 
+  
+Page 15 of 22 
+ 
+  
+Page 16 of 22 
+ 
+ 
+ 
+  
+Page 17 of 22 
+ 
+Source codes 
+Send 
+#include <avr/io.h> 
+#include <util/delay.h> 
+#ifndef F_CPU 
+#define F_CPU 8000000 
+#endif 
+#define BAUDRATE 1200 
+#define UBRRVAL ((F_CPU/(BAUDRATE*16UL))-1) 
+#define ADDRESS 21 
+ 
+ 
+void USART_Init(void)      // Init Function 
+{ 
+  
+ UBRRL=(uint8_t)UBRRVAL; 
+ UBRRH=(UBRRVAL>>8); 
+ UCSRC=(1<<URSEL)|(0<<UMSEL)|(0<<UPM1)|(0<<UPM0)|(0<<USBS)|(0<<
+UCSZ2)|(1<<UCSZ1)|(1<<UCSZ0);  
+ UCSRB=(1<<TXEN); 
+} 
+ 
+void USART_vSendByte(uint8_t DATA)    // Data Send Function 
+{ 
+     
+    while((UCSRA&(1<<UDRE)) == 0); 
+    UDR = DATA;  
+} 
+ 
+void Send_Packet(uint8_t address, uint8_t command)  // Packet Send 
+{ 
+ USART_vSendByte(address); 
+ USART_vSendByte(command); 
+ USART_vSendByte((address+command)); 
+} 
+ 
+ 
+int main(void)       // Main Function 
+{ 
+DDRB = 0x00; 
+USART_Init(); 
+while(1) 
+ { 
+  
+ while(PINB) 
+ { 
+Page 18 of 22 
+ 
+   
+  while (PINB == 0b10000000) 
+  { Send_Packet(ADDRESS, 1);  
+  _delay_ms(100);   
+  } 
+ 
+  while (PINB == 0b01000000) 
+  { Send_Packet(ADDRESS, 2);  
+  _delay_ms(100);  
+  }  
+ 
+  while (PINB == 0b10100000) 
+  { Send_Packet(ADDRESS, 3);  
+  _delay_ms(100);  
+  } 
+ 
+  while (PINB == 0b10010000) 
+  { Send_Packet(ADDRESS, 4);  
+  _delay_ms(100); 
+  } 
+ 
+  while (PINB == 0b01100000) 
+  { Send_Packet(ADDRESS, 5);  
+  _delay_ms(100);  
+  }   
+ 
+  while (PINB == 0b01010000) 
+  { Send_Packet(ADDRESS, 6);  
+  _delay_ms(100);  
+  } 
+  while (PINB == 0b00000010) 
+  { Send_Packet(ADDRESS, 7);  
+  _delay_ms(100);  
+  }     
+ 
+  //else { continue; } 
+ 
+ } 
+} 
+ 
+ 
+ return 0; 
+} 
+ 
+  
+Page 19 of 22 
+ 
+Receive 
+ 
+#include <avr/io.h> 
+#include <avr/interrupt.h> 
+#include <util/delay.h> 
+ 
+#ifndef F_CPU 
+#define F_CPU 8000000 
+#endif 
+#define BAUDRATE 1200 
+#define UBRRVAL ((F_CPU/(BAUDRATE*16UL))-1) 
+#define RADDR 21 
+ 
+void USART_Init(void) 
+{ 
+ 
+ UBRRL=(uint8_t)UBRRVAL; 
+ UBRRH=(UBRRVAL>>8); 
+  
+ UCSRC=(1<<URSEL)|(0<<UMSEL)|(0<<UPM1)|(0<<UPM0)| 
+(0<<USBS)|(0<<UCSZ2)|(1<<UCSZ1)|(1<<UCSZ0);  
+  
+ UCSRB=(1<<RXEN)|(1<<RXCIE); 
+ //sei(); 
+ 
+} 
+ 
+uint8_t USART_vReceiveByte(void) 
+{ 
+    while((UCSRA&(1<<RXC)) == 0); 
+    return UDR; 
+} 
+ 
+ 
+ISR(USART_RXC_vect) 
+{ 
+  
+ uint8_t raddress, data, chk; 
+  
+ raddress=USART_vReceiveByte(); 
+ 
+ data=USART_vReceiveByte(); 
+  
+ chk=USART_vReceiveByte(); 
+ 
+ while(chk==(raddress+data)) 
+ { 
+  
+Page 20 of 22 
+ 
+  while(raddress==RADDR) 
+   { 
+    while (data == 1) 
+    {  
+    PORTD = 0b10100000; 
+    break;  
+    //_delay_ms(200);  
+    } // Forward  
+ 
+    while (data == 2) 
+    {  
+    PORTD = 0b01010000;  
+    //_delay_ms(200); 
+    break;  
+    }  // Reverse  
+ 
+    while (data == 3) 
+    {  
+    PORTD =0b10000000;  
+    //_delay_ms(200); 
+    break;  
+    }  // F-R 
+   
+    while (data == 4) 
+    {  
+    PORTD = 0b00100000;  
+    //_delay_ms(200); 
+    break;  
+    }   // F-L 
+ 
+    while (data == 5) 
+    {  
+    PORTD = 0b01000000;  
+    //_delay_ms(200); 
+    break;  
+    }   // R-R 
+   
+    while (data == 6) 
+    {  
+    PORTD = 0b00010000;  
+    //_delay_ms(200); 
+    break; 
+    } // RL   
+    /*while (data == 7) 
+    {  
+    PORTD = 0b00000000;  
+    _delay_ms(200); 
+    break; 
+Page 21 of 22 
+ 
+    } // BREAK*/  
+     
+    break; 
+   } 
+   break; 
+ } 
+} 
+ 
+ 
+ 
+ 
+int main(void) 
+{ 
+ DDRD=0b11110000; 
+ USART_Init(); 
+ while(1) 
+ { 
+   
+  sei(); 
+  _delay_ms(500); 
+  PORTD= 0b00000000; 
+ } 
+ 
+ return 0; 
+} 
+ 
+  
+Page 22 of 22 
+ 
+Soft wares and materials used 
+ 
+Software 
+Proteus  : For Realtime simulation 
+AVR Studio   :  For Programming 
+PonyProg  : Program downloading 
+ 
+Hardware  
+ATmega8   :  Microcontroller 
+ 

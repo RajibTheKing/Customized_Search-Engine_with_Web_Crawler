@@ -1,0 +1,2 @@
+teststring.output
+teststring.PlagiarismChecker

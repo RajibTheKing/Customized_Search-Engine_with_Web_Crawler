@@ -1,0 +1,220 @@
+  
+ 
+ 
+  
+ Experiment name:  Introduction to Laboratory  
+Equipment   
+   
+Experiment No: 01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shahjalal University of Science and Technology 
+(SUST) 
+ 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Course Title: Basic Electrical and Electronic Circuits Lab 
+Course Code: EEE -106 
+ 
+Course Teacher: Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST) 
+ 
+ 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 2 
+ 
+Objective: To get acquainted with the various equipment and components to be used in circuit 
+laboratory.  
+Equipment: 
+1. Trainer Board  
+2. Voltmeter  
+3. Ammeter  
+4. AVO meter or Multimeter  
+5. DC source  
+6. Resistors  
+ 
+ 
+Theory:  
+Ohm's Law : Ohm's Law deals with the relationship between voltage and current in an ideal 
+conductor. This relationship states that:  
+At fixed temperature in an electrical circuit, the current passing through a conductor between two 
+points is proportional to the potential difference (i.e. voltage drop or voltage) across the two 
+points, and inversely proportional to the resistance between them. In mathematical terms, this is 
+written as:  
+V = I R 
+where I is the current in amperes, V is the potential difference in volts, and R is a constant, 
+measured in ohms, called the resistance. The potential difference is also known as the voltage 
+drop, and is sometimes denoted by E or U instead of V.  
+Current: The amount of electric current (measured in amperes) through some surface, e.g., a 
+section through a copper conductor, is defined as the amount of electric charge (measured in 
+coulombs) flowing through that surface over time. If Q is the amount of charge that passed 
+through the surface in the time T, then the average current I is: 
+ 
+I =Q / T 
+ 
+ Voltage : Voltage (sometimes also called electric or electrical tension) is the difference of 
+electrical potential between two points of an electrical or electronic circuit, expressed in volts. It 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 3 
+ 
+measures the potential energy of an electric field to cause an electric current in an electrical 
+conductor. Depending on the difference of electrical potential it is called extra low voltage, low 
+voltage, high voltage or extra high voltage.  
+Between two points in an electric field, such as exists in an electrical circuit, the difference in 
+their electrical potentials is known as the electrical potential difference. This difference is 
+proportional to the electrostatic force that tends to push electrons or other charge-carriers from 
+one point to the other. Electrical potential difference can be thought of as the ability to move 
+electrical charge through a resistance. At a time in physics when the word force was used 
+loosely, the potential difference was named the electromotive force or EMF—a term which is 
+still used in certain contexts. 
+Voltmeter: Voltmeter is a device that is used to measure the voltage difference between two 
+points. The potential difference can be measured by simply connecting the leads of the across the 
+two points. 
+ 
+Ammeter: Ammeter is a device that is used to measure the current level of the circuit. Since 
+ammeters measures the flow of charge, the meter must placed in the network such that the charge 
+will flow through the meter. Mistakenly placing the ammeter in parallel with a circuit will blow 
+the fuse, possibly damaging the meter and causing injury. 
+ 
+Wattmeter: The wattmeter measures the power delivered by a source and to a dissipative 
+element.  
+Circuit Breaker and Fuses: The incoming power to any installation or house or machinery 
+must be limited to ensure the current through the line is not above the rated value. Otherwise the 
+instrument may be damaged or serious hazards like fire or smoke nay result in. To limit the 
+current level circuit breakers and fuses are used. Fuses have an internal metallic conductor 
+through which the current will pass; a fuse will melt if the current through the system exceeds 
+the rated value printed on the casing. Of course, if the fuse melts through, the current path is 
+broken and the load in its path is broken and the load in its path is protected.  
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 4 
+ 
+Fuses have now been replaced by circuit breakers. In circuit breaker when the current exceeds 
+rated conditions an electromagnet in the device will have sufficient strength to draw the 
+connecting metallic link in the breaker out of the circuit and open the current path. When the 
+conditions have been corrected the breaker can reset and used again. 
+Resistor Color Coding:  
+Some small resistors have four or five color bands printed on one end of outer casing to indicate 
+the value of it. The color bands are always read from the end that has the band closet to it.  
+The first and second bands represent the first and second digits respectively. The third band 
+determines the power of ten multiplier for the first two digits or a multiplying factor if gold or 
+silver. The fourth band is the manufacturer’s tolerance, which is an indication of the precision be 
+which the resistor was made. If the fourth band is omitted the tolerance is assumed to be ±20% . 
+The fifth band is a reliability factor, which gives the percentage of failure per 1000 hours of use. 
+For instance, a1% failure rate would reveal that one out of every 100 (or 10 out of every 1000) 
+would fail to fall within the tolerance range after 1000 hours of use. 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 5 
+ 
+Multimeter: A multimeter or a multitester is an electronic measuring instrument that combines 
+several functions in one unit. The most basic instruments include an ammeter, voltmeter, and 
+ohmmeter. Analog multimeters are sometimes referred to as "volt-ohm-meters", abbreviated 
+VOM. Digital multimeters are usually referred to as "digital-multi-meters", abbreviated DMM.  
+Contemporary equipment can measure many quantities besides voltage and resistance. Some 
+common additional measured quantities and the units in which they are measured:  
+ Capacitance in farads.  
+ Frequency in hertz.  
+ Duty cycle as a percentage.  
+ Temperature in degrees Celsius or Fahrenheit.  
+ Conductance in siemens.  
+ Inductance in henrys.  
+ 
+Breadboard :A breadboard is a reusable solderless device used to build a (generally temporary) 
+prototype of an electronic circuit and for experimenting with circuit designs. This is in contrast to 
+stripboard (veroboard) and similar prototyping printed circuit boards, which are used to build 
+more permanent prototypes or one-offs, and cannot easily be reused. A typical breadboard will 
+have strips of interconnected electrical terminals, known as bus strips, down one or both sides—
+either as part of the main unit or as separate blocks clipped on—to carry the power rails.  
+A modern solderless breadboard consists of a perforated block of plastic with numerous tin 
+plated phosphor bronze spring clips under the perforations. Integrated circuits (ICs) in dual inline 
+packages (DIPs) can be inserted to straddle the centerline of the block. Interconnecting wires and 
+the leads of discrete components (such as capacitors, resistors, inductors, etc.) can be inserted 
+into the remaining free holes to complete the circuit topology. 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 6 
+ 
+ 
+Electrical power supplies  
+i. Power supply (sometimes known as a power supply unit or PSU) is a device or system that 
+supplies electrical or other types of energy  
+ii. Conversion of one form of electrical power to another desired form and voltage. This typically 
+involves converting 120 or 240 volt AC supplied by a utility company (see electricity generation) 
+to a well-regulated lower voltage DC for electronic devices. For examples, see switched-mode 
+power supply, linear regulator, rectifier and inverter (electrical).  
+iii. Batteries  
+Procedure:  
+1. Set the voltage on the breadboard to an arbitrary voltage between 10V and 14V. Measure this 
+voltage with at least 4 different types of multimeters and different types of probes. For one 
+measurement, use the DVM embedded in the trainer board. 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 7 
+ 
+  
+2. Calculate the values of the supplied resistors using the color code chart theoretically. Then 
+measure the values using a multimeter and complete the following table: 
+ 
+3. Construct the following Circuit. Theoretically calculate RT (Total resistance), I (Total 
+Current), Vab, Vcd Va and Vb. Again calculate the same quantities using the multimeter and 
+complete table 3. 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 8 
+ 
+ 
+Report:  
+1. In step 1, what are the reasons of getting different results using different sets of  multimeters 
+and probes for the same supply voltage?  
+2. A series circuit comprises of a 10V DC source and a 100Ώ resistance. Calculate the  current 
+flowing through the circuit using ohm’s law. Now assume, to measure the  current flow, an 
+ammeter with an internal resistance 100 Ώ is placed in series with the  circuit. What will be the 
+ammeter reading? Why this error occurred?  
+3. Using table 3, calculate the approximate internal resistance of the multimeter.  
+Questions for the Discussion:  
+1. Why an ammeter can be damaged if it is connected in parallel to the Load resistor?  
+2. With an example explain voltmeter loading effect.  
+3. In step 2, why the theoretical calculation and practical reading varies? 

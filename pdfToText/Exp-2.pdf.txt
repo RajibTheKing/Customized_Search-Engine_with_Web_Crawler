@@ -1,0 +1,130 @@
+  
+ 
+ 
+  
+ Experiment name: Verification of Kirchoff’s Voltage 
+Law (KVL) and Kirchoff’s Current Law (KCL) 
+   
+Experiment No: 02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shahjalal University of Science and Technology 
+(SUST) 
+ 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Course Title: Basic Electrical and Electronic Circuits Lab 
+Course Code: EEE -106 
+ 
+Course Teacher: Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST) 
+ 
+ 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 2 
+ 
+Objective: There are two sections in this experiment. In the first circuit Kirchoff’s Voltage Law 
+(KVL) will be verified and in the second Kirchoff’s Current Law (KCL) will be verified. 
+Theory: Kirchoff’s Voltage Law (KVL) in a DC circuit states that ,"the algebraic sum of the 
+Voltage drop around any closed path is equal to the algebraic sum of the Voltage rises”. In other 
+words, "the algebraic sum of the Voltage rises and drops around any closed path is equal to 
+zero”. A plus (+) sign is assigned for the potential rises ( - to +) and minus sign (-) is assigned to 
+a potential drop (+ to -). In symbolic form, Kirchoff’s Voltage Law (KVL) can be expressed as  
+ΣcV=0, Where C is used for closed loop and V is used for the potential rises and drops.  
+Kirchoff’s Current Law (KCL) in a DC circuit states that ," the algebraic sum of the currents 
+entering and leaving an area, system or junction is zero”. In other word, "the sum of the currents 
+entering an area, system or junction must be equal the sum of the currents leaving the area, 
+system or junction”. In equation form, 
+Σ Ientering =I leaving 
+Equipment: 
+ Trainer Board  
+ Voltmeter  
+ Ammeter  
+ AVO meter or Multimeter  
+ DC source  
+ 
+Components:  
+1. Resistor 
+ 
+ 
+ 
+ 
+ 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 3 
+ 
+Circuit Diagram: 
+ 
+ Fig.1:Circuit for verification of KVL  Fig.2:Circuit for verification of KCL 
+ 
+Experiment:  (For KVL) 
+1. Connect the circuit as shown in the figure 1.  
+2. Measure the voltage across each elements of the circuit.  
+3. Fill the following table with necessary calculations.  
+Table: 1 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 4 
+ 
+For KCL 
+1. Connect the circuit as shown in the figure 2.  
+2. Measure the current across each branches of the circuit.  
+3. Fill the following table with necessary calculations.  
+Table: 2 
+ 
+Report:  
+1. Theoretically calculate the voltages and currents for each element in the circuits and  compare 
+them to the measured values.  
+2. Compute the percentage error in the two measurements and provide a brief  explanation for 
+the error.  
+3. For the circuit shown in the figure, Verify Kirchhoff’s current law at node P. 
+ 
+ 
+ 
+Experiment No: 01 
+Experiment Name: Introduction to Laboratory Equipment 
+2013 
+ 
+Prepared by Tuhin Dev, Lecurer,  
+Department of Electrical and Electronic Engineering  
+Shahjalal University of Science and Technology (SUST) Page 5 
+ 
+a. Is VR2 = VR3? Explain.  
+b. Is VR1 + VR2 = 15 V? Explain.  
+c. Is VR1 + VR3 = 15 V? Explain  
+ 
+ 
+Questions for the Discussion:  
+1. Is it possible to apply KVL in an open circuit? Why? Give an example.  
+2. Can we connect two voltage sources in parallel? Why?  
+3. Can we connect two current sources in parallel? Why?  
+4. Can we connect two voltage sources in series? Why?  
+5. Can we connect two current sources in series? Why?  
+6. Can we connect one voltage source and a current source in series? Why?  
+7. Can we connect one voltage source and a current source in parallel? Why?  
+ 

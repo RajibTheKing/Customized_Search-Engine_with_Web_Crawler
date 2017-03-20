@@ -1,0 +1,175 @@
+10 business process magazine | nummer 4 | juni 2010
+(FHFWFOT
+8BBSOFNJOH
+*OUSJOTJFL
+3FGFSFOUJF
+(FHFWFOT
+&YUFSOFBEN
+"ENJOJTUSBUJF
+achtergrond
+Door Wil Janssen
+M
+et ‘gegevenskwaliteit’ bedoelen we de bruikbaarheid van 
+een administratie, gezien als een beheerde verzameling 
+gegevens. Als blijkt dat de bruikbaarheid van een admi-
+nistratie tekort schiet dan is daarmee nog niet gezegd 
+hoe groot of hoe belangrijk de inbreuk op de bruikbaarheid is. 
+Een gegevenskwaliteitsmeting maakt het mogelijk om daar-
+over wel iets te zeggen. Daarvoor is het nodig om in normen 
+vast te leggen welke eisen de business stelt aan het gebruik 
+van de administratie in de bedrijfsvoering. Deze normen 
+beschrijven de actualiteit, de betrouwbaarheid en de juistheid 
+van de administratie. Vervolgens wordt gemeten in hoeverre 
+de administratie voldoet aan die normen. Resultaten van de 
+meting vormen het startpunt voor bepalen van verbeteracties. 
+Een meting van de kwaliteit van gegevens begint vaak met het 
+creëren van een kwaliteitsnorm. Startpunt vormen de prak-
+Ondernemen is werken aan de gegevenskwaliteit
+METEN!
+Een klacht of een incident kan een organisatie op het spoor zetten van een probleem met de kwaliteit van de gegevens. Maar 
+om een kwantitatief inzicht te krijgen in de gegevenskwaliteit, in de kans op herhaling van incidenten en in de mogelijke 
+omvang van de gevolgen is het niet voldoende om afzonderlijke incidenten te onderzoeken. Daarvoor is een meting nodig. En 
+een kwantitatief inzicht is weer nodig om te bepalen of er maatregelen genomen moeten worden, en zo ja, welke.
+tijksituaties waarin de bruikbaarheid van de administratie 
+tekort bleek te schieten. Op basis van deze voorbeelden wor-
+den bedrijfsregels opgesteld. Deze bedrijfsregels vormen de 
+kwaliteitsnorm en bepalen dus wat gemeten wordt. De kwali-
+teitsnorm wordt in een aantal iteraties opgesteld en is niet 
+alleen bruikbaar bij de eerste kwaliteitsmetingen, maar vormt 
+ook een begin van inzicht in de eigen kwaliteitseisen van de 
+organisatie. Ook als er al normen zijn is het goed om daar 
+regelmatig opnieuw naar te kijken, zodat de kwaliteitsnorm 
+blijft aansluiten bij de veranderende doelstellingen, processen 
+en werkwijzen van de organisatie: nieuwe meetpunten worden 
+toegevoegd, verouderde meetpunten worden geschrapt. 
+Het meten kan op drie manieren plaatsvinden. 
+1. Waarnemingsmeting. De administratie beschrijft een deel 
+van de werkelijkheid waarbinnen de organisatie opereert. 
+Een aspect van de bruikbaarheid van de administratie is de 
+mate waarin de feiten in dat deel van de werkelijkheid juist 
+worden weergegeven. Een voor de hand liggende manier om 
+die juistheid te beoordelen is het verifi ëren van de feiten in 
+de werkelijkheid. Deze manier van meten is arbeidsintensief. 
+Bij grote gegevensverzamelingen is de kans op fouten groot. 
+2. Referentiemeting. Soms is het mogelijk om een vergelijking 
+te maken met een betrouwbare andere administratie die 
+min of meer hetzelfde deel van de werkelijkheid beschrijft.
+ Voorbeelden: Een organisatie gebruikt een externe 
+postcodedatabase om postcodes te controleren; Pensioen-
+fondsen mogen de GBA gebruiken om persoons- en adres-
+gegevens te controleren; Kredietverleners kunnen bij het 
+Bureau Kredietregistratie informatie krijgen over bestaande 
+kredieten van hun klanten.
+3. Intrinsieke meting. Het is ook mogelijk om binnen een admi-
+nistratie de gegevens onderling te controleren. Een voor-
+beeld hiervan is een bedrijfsregel voor een HR administratie Afbeelding 1: Typen meting.
+business process magazine | nummer 4 | juni 2010 11
+(FHFWFOT
+"OBMZTF
+	)FS
+NFUFO
+7FSCFUFSFO
+#SVUFSFO
+*NQMFNFOUBUJF
+/PSNFSJOH
+4DIPOFOWFSSJKLFO
+1SFWFOUJF
+.FUJOH
+1SJPSJUFSFO
+.B
+BUS
+FH
+FMF
+O
+die zegt: “Het is niet toegestaan dat een werknemer zowel 
+een levensloop- als een spaarloonregeling heeft”. Doordat 
+een intrinsieke meting geautomatiseerd kan worden is 
+deze manier van meten minder arbeidsintensief en minder 
+foutgevoelig dan een waarnemingsmeting.
+Binnen een onderzoek kunnen de drie manieren ook gecombi-
+neerd worden, zie afbeelding 1.
+Analyseren en bruteren
+Na de meting worden de resultaten geanalyseerd vanuit busi-
+ness perspectief. Aangegeven wordt welke afwijkingen van de 
+norm gevonden zijn, en in welke aantallen, ook gerelateerd 
+aan de totale hoeveelheid soortgelijke gegevens. Dan wordt in 
+de bedrijfsprocessen gezocht naar de oorzaken van de afwij-
+kingen. Die oorzaken zullen te vinden zijn in de processen die 
+de gegevens vastleggen in de administratie. 
+Het onderzoek gaat verder met het kwantifi ceren van de 
+fi nanciële gevolgen van de gevonden afwijkingen voor het 
+gebruik van de administratie in de organisatie (bruteren). Dit 
+maakt duidelijk hoe groot het business belang is van aan-
+dacht voor gegevenskwaliteit. De focus ligt hier op de proces-
+sen die gebruikmaken van de gegevens in de administratie. 
+Na een gegevenskwaliteitsmeting worden de belangrijkste 
+bevindingen en de risico’s gerapporteerd. Er worden aanbeve-
+lingen gedaan om de gegevenskwaliteit te verbeteren. Er zijn 
+drie soorten aanbevelingen:
+1. De kwaliteit voldoet aan de gestelde norm en een verbete-
+ring heeft geen prioriteit;
+2. De gegevens worden eenmalig geschoond (quick fi x), hand-
+matig of geautomatiseerd;
+3. Er worden permanente maatregelen genomen om te voor-
+komen dat er (nog meer) vervuiling ontstaat.
+Bij het schonen van de gegevens worden onjuiste gegevens 
+vervangen door juiste, verouderde door actuele, tegenstrijdige 
+door consistente. 
+Een organisatie die besluit om inderdaad verbeteringen in de 
+administratie aan te brengen zal daarna willen weten wat het 
+effect daarvan geweest is. Om dat effect te kunnen vaststellen 
+vindt een tweede meting plaats met dezelfde normen. Een 
+bevredigend resultaat kan aanleiding zijn om terug te keren 
+tot de orde van de dag, maar het is verstandiger om het te 
+zien als aansporing om structureel aandacht te blijven geven 
+aan gegevenskwaliteit. 
+Alleen maar schonen van de gegevens is dweilen met de kraan 
+open. Maatregelen om vervuiling te voorkomen draaien de 
+kraan dicht en brengen de zorg voor gegevenskwaliteit op een 
+hoger plan. Op een nog hoger plan blijft het niet bij eenmalige 
+verbetering, maar heeft de organisatie structureel aandacht 
+voor gegevenskwaliteit. Bedrijfsregels en gegevenskwaliteits-
+normen worden regelmatig geactualiseerd. Periodiek wordt 
+gemeten en zo nodig worden nieuwe maatregelen genomen.
+Ondernemen met gegevens
+Door het meten van gegevenskwaliteit krijgt een onderneming 
+niet alleen oog voor de risico’s en de kosten van tekortkomin-
+gen in de bruikbaarheid van een administratie, maar ook voor 
+de kansen die het verbeteren daarvan biedt. En de gegevens-
+kwaliteit binnen een organisatie zegt veel over de effectiviteit 
+en effi ciëntie van de processen, zeker als die processen gege-
+vensintensief zijn. Een gegevenskwaliteitsmeting biedt dus 
+meer inzicht in het ondernemen met gegevens!
+In een webwinkel leken prijsgegevens en voorraadgegevens 
+problemen te veroorzaken. Na het vaststellen van een aantal 
+expliciete bedrijfsregels werd een meting uitgevoerd. De resul-
+taten bij de prijsgegevens waren onder andere:
+-  Er zijn in 2009 vijf voorbeelden geweest van producten met 
+een prijsdaling van meer dan 50 procent. Geen van deze 
+prijzen is nu nog geldig. Ook waren er twee voorbeelden van 
+producten met een prijsstijging van meer dan 50 procent. 
+Van die laatste twee is er nog één actief.
+-  De producten met een grote prijsdaling zijn in totaal 5023 
+keer verkocht voor de te lage prijs. De producten met een 
+grote prijsstijging zijn niet verkocht. 
+Ontdekt wordt dat er geen enkele plausibiliteitscontrole is bij 
+het invoeren van prijzen. Er is geen enkel signaal als 99,60 
+euro wordt ingevoerd in plaats van 996,- euro. Ook niet als de 
+vorige prijs 1200,- euro was, of de inkoopprijs 699,- euro. Ook 
+is niet voorzien dat een tweede persoon de ingevoerde prijzen 
+controleert. Een onderzoek naar de schade levert op: 50.000,- 
+euro verlies op gerealiseerde verkopen van producten onder 
+de kostprijs; een gederfde winst op de verkopen van deze en 
+soortgelijke producten tegen de beoogde prijs (waarschijnlijk 
+in kleinere aantallen, want niet aan de koopjesjagers) ten 
+bedrage van 12.000,- euro; een bedrag van 10.000,- euro voor 
+geslaagde of mislukte pogingen om de onbedoelde transacties 
+terug te draaien. 
+Op basis van meting en onderzoek wordt geadviseerd om bij 
+het registreren van prijzen een signaal in te bouwen als de 
+verkoopprijs onder de kostprijs komt. Een dergelijke prijs is 
+in principe wel toegestaan (dumpactie), maar vereist een 
+expliciete bevestiging. Ook moet het mogelijk worden dat een 
+tweede persoon de ingevoerde prijzen controleert.
+Wil Janssen is Management Consultant bij ARVIX. ❰
+Afbeelding 2: GKM Cyclus.

@@ -1,0 +1,645 @@
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+12
+ibedrijfspro
+ce
+ss
+en
+Business rules
+De samenhang tussen 
+bedrijfsprocessen, 
+bedrijfsregels en  
+gegevenskwaliteit
+Bedrijven zijn geïnteresseerd in de vraag of ze hun 
+processen effectief en efficiënt uitvoeren, dus of ze hun 
+bedrijfsdoelstellingen realiseren en de processen zo uitvoeren 
+dat de kosten laag zijn en de kwaliteit hoog is. Bedrijfsregels zijn 
+een geschikt instrumentarium om de effectiviteit en efficiëntie te 
+beschrijven en te meten.
+Frans van Besouw
+het bedrijfsbeleid. Het personeelsbeleid van het 
+bedrijf in het voorbeeld dat we gaandeweg zullen 
+uitwerken is erop gericht in personeelsomvang 
+te groeien met tien medewerkers per kwartaal. 
+Nieuwe medewerkers krijgen een marktconform 
+salarispakket. Een medewerker ontvangt een 
+basissalaris op grond van zijn schaal. Daarnaast 
+kan hij aanspraak maken op verschillende com-
+ponenten. Een van de componenten is dat mede-
+werkers kunnen deelnemen aan een spaarloon- of 
+een levensloopregeling.
+De hr-afdeling van het bedrijf voert het aanname- 
+en salarisbeleid uit. Zij sluiten een dienstverband 
+af met nieuwe medewerkers en bespreken met 
+hen het marktconforme pakket. De salarisadmi-
+nistratie voert de aanstellingen in en registreert 
+vervolgens de verschillende onderdelen van het 
+salarispakket. De salarisadministratie ontvangt de 
+gegevens via een mutatieformulier van de hr-afde-
+ling.
+De grondstoffen van de salarisadministratie zijn 
+dus gegevens. De berekening van de salarissen is 
+het belangrijkste product. Een belangrijk bijpro-
+duct is de verantwoording van de salarisbetalin-
+gen, bijvoorbeeld aan de Belastingdienst. Elke 
+Een proces is onlosmakelijk verbonden met een 
+bedrijf. Een proces levert namelijk een dienst 
+of een product. Een bedrijfsproces is ook de 
+beschrijving van die dagelijkse werkzaamheden. 
+In de productiesector beschrijft het bedrijfspro-
+ces welke grondstoffen nodig zijn om het eind-
+product te maken en de omstandigheden waar-
+onder deze verwerking het best kan plaatsvinden. 
+In de administratieve sector gaat het vooral over 
+de vraag hoe een bedrijf gegevens verzamelt en 
+wat het vervolgens met deze gegevens doet.
+Een bedrijf is vanzelfsprekend geïnteresseerd in 
+de vraag of het zijn processen effectief en effi-
+ciënt uitvoert. Effectief betekent dat het bedrijf 
+in staat is de bedrijfsdoelstellingen te realiseren, 
+efficiënt dat het de processen zo uitvoert dat de 
+kosten laag zijn en de kwaliteit hoog is. Bedrijfs-
+regels zijn dan een geschikt instrumentarium om 
+effectiviteit en efficiëntie te beschrijven en – met 
+behulp van gegevenskwaliteit – te meten.
+Het goede goed doen
+Dé vraag voor het management is: ‘Doen wij 
+wel het goede (effectief) en doen wij het goede 
+goed (efficiënt)?’. Het goede is omschreven in 
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+13
+maand berekent de salarisadministratie het loon 
+(of besteedt dit uit aan een hierin gespecialiseerd 
+bedrijf). Het bedrijf betaalt elke maand salaris 
+en eist dat alle salarissen conform de afspraken 
+met de werknemers betaald worden. Soms is de 
+tijd tussen aanname door hr en indiensttreding 
+kort, bijvoorbeeld een paar dagen. Ook in dit 
+geval moet de salarisbetaling in de maand van 
+indiensttreding beginnen. De salarisadministratie 
+controleert daarom of ze alle aanstellingen op tijd 
+verwerkt heeft.
+Om antwoord te kunnen geven op de vraag ‘Doen 
+wij het goede goed?’ heeft het management 
+meetpunten benoemd. Aan de meetpunten zijn 
+normen gekoppeld. Meetpunten zijn bijvoorbeeld 
+het aantal door hr aangenomen werknemers, het 
+aantal door de salarisadministratie verwerkte aan-
+stellingen en de duur van de verwerking. Andere 
+meetpunten betreffen de salarisverwerking: het 
+brutosalaris, het moment van salarisuitbetaling en 
+het nettosalaris.
+Risico’s voor de salarisadministratie zijn dat niet 
+alle door de hr-afdeling geleverde aanmeldingen 
+verwerkt zijn en dat niet iedereen het afgesproken 
+salaris krijgt.
+Uitval in processen
+Om de risico’s te kunnen beheersen meet de 
+salarisadministratie het proces en grijpt in als dat 
+nodig blijkt te zijn. De verwerkingsduur en het 
+aantal geadministreerde dienstverbanden zijn 
+redelijk eenvoudig te meten. Als er problemen 
+ontstaan, kunnen die worden opgelost door extra 
+mensen of extra kennis in te zetten. Het niet 
+oplossen van deze problemen, uitval, is –vanwege 
+beleidseisen – niet toegestaan.
+Uitval in het product salaris is minder eenvoudig 
+te meten. Doorgaans vergelijkt een bedrijf de som 
+van de salarissen en de verschillende componen-
+ten daarvan met de salarissen van een voorgaande 
+maand. Ook is het mogelijk met ‘plussen en 
+minnen’ te onderzoeken of de salarisverwerking 
+‘glad’ verloopt. Als bij dit onderzoek een probleem, 
+uitval dus, geconstateerd is, onderzoekt de salaris-
+administratie bij welke medewerker(s) het pro-
+bleem voorkomt. Dit is vaak een tijdsintensieve 
+bezigheid.
+De uitval in de salarisbetaling kan ook aan het 
+licht komen als een werknemer klaagt over een 
+salaris dat niet (correct) betaald is. Een salaris is 
+niet correct als een toegezegde component niet 
+verwerkt is of als een bepaalde component ‘netto’ 
+gemaakt is, terwijl de component ‘bruto’ uitbe-
+taald zou moeten zijn. Voor een spaarloon geldt 
+dat er geen belasting over geheven wordt. Als dat 
+wel gebeurt, is er ook sprake van uitval.
+Beschrijving van processen
+De gewenste werking van de salarisadministratie 
+is doorgaans beschreven in een groot aantal docu-
+menten. Allereerst zijn dat de beleidsdocumenten 
+waarin het management het beleid beschrijft. 
+Dit beleid is door procesanalisten uitgewerkt in 
+een procesbeschrijving. De medewerkers van 
+de salarisadministratie hebben hieraan werkin-
+structies toegevoegd. Als de salarisadministratie 
+ondersteund wordt door een informatiesysteem, 
+zullen ook de IT’ers het proces beschreven heb-
+ben, onder meer in use cases. De meetpunten en 
+Samenvatting
+Bedrijfsregels raken de kern van het bedrijfsproces. Ze zijn richtinggever van 
+gedrag, bieden normen voor effectiviteit en bewaken de gegevenskwaliteit. Daardoor 
+maken ze de efficiëntie van bedrijfsprocessen meetbaar. De bedrijfsregelaanpak 
+geeft een bedrijf een instrumentarium om te ‘regeren’ over de bedrijfsprocessen. 
+Gegevenskwaliteitsmetingen bieden inzicht in de effectiviteit van de processen.
+bedrijfs-
+regels
+Q
+q
+bedrijfs-
+doelen
+processen
+voegen
+gegevens toe
+gebruiken
+gegevens
+ondersteunende
+IT processen
+gegevens
+Figuur 1. Processen, ondersteund door IT, produceren 
+producten en diensten
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+ibedrijfspro
+ce
+ss
+en
+14
+de wijze van controleren zijn beschreven door de 
+interne controledienst.
+Met andere woorden, er is een omvangrijke 
+bibliotheek van documenten waarin de verschil-
+lende disciplines grip proberen te krijgen op het 
+proces. Deze verschillende ‘belanghebbenden’ 
+praten ieder vanuit hun eigen perspectief en 
+bijbehorende documenten met elkaar over het 
+proces. Dit gaat vaak goed, maar in alle commu-
+nicatie over processen vindt miscommunicatie 
+plaats! En miscommunicatie leidt bijna altijd tot 
+problemen.
+Miscommunicatie is te voorkomen als business, 
+IT’ers, procesbeschrijvers en controllers dezelfde 
+taal spreken. Als ze dezelfde taal spreken, kunnen 
+ze gezamenlijk grip krijgen op de praktijk en de 
+theorie van het proces. Bedrijfsregels bieden zo’n 
+gemeenschappelijk vocabulaire. 
+Business rules approach: 
+bedrijfsregels bieden 
+gemeenschappelijk vocabulaire
+We kunnen een salarisadministratie beschrijven 
+als een stelsel van bedrijfsregels. Dit zijn regels 
+die het bedrijfsbeleid operationaliseren, regels die 
+randvoorwaarden stellen aan het dagelijkse pro-
+ces, regels die meetpunten definiëren, regels die 
+wet- en regelgeving vertalen naar handzame eisen 
+voor het salarispakket, regels die beschrijven welke 
+componenten bruto en welke componenten netto 
+zijn. De observatie dat we een proces kunnen 
+beschrijven als een stelsel van bedrijfsregels is de 
+basis van de business rules approach. We noemen 
+deze benadering in het vervolg de bedrijfsregelaan-
+pak. Business rules, ofwel bedrijfsregels, zijn dan 
+uitspraken die een expliciete beperking opleggen, 
+of richting geven, aan gedrag. De bedrijfsregelaan-
+pak is een methodologie die regels formaliseert 
+en ze als grondslag gebruikt voor de inrichting van 
+bedrijfsprocessen, al dan niet ondersteund door 
+business process management systems.1
+De bedrijfsregelaanpak is niet eens zo zeer iets 
+nieuws als wel een culminatiepunt. In de verschil-
+lende onderscheiden disciplines is de afgelopen 
+decennia de gedachte ontstaan dat regels een 
+belangrijke rol vervullen. Het is een culminatie-
+punt omdat de gedachten binnen de verschillende 
+disciplines over hoe de regels beschreven en 
+gebruikt moeten worden convergeert.
+ 
+Convergerende disciplines
+Databasegoeroes postuleren al sinds de jaren 
+tachtig dat RDBMS’en (relational database 
+management systems) geschikt moeten zijn voor 
+de implementatie van een grotere verscheiden-
+heid aan regels dan keys en check constraints. Een 
+RDBMS zou zo ook functionaliteit moeten bieden 
+om bijvoorbeeld het tegelijk toekennen van spaar-
+loon- en levensloopregeling te voorkomen.
+Procesbeschrijvers gebruiken tekenconventies om 
+aan te geven wanneer in een proces een beslissing 
+nodig is. In de procesbeschrijving vertellen ze ook 
+hoe, op grond van welke informatie, de beslissing 
+genomen moet worden. Ook zo kan een admini-
+stratie de samenloop van spaarloon en levensloop 
+voorkomen. In de werkinstructie staat dan waar-
+schijnlijk dat de administrateur bij het invoeren 
+van een levensloopregeling moet controleren of de 
+betreffende medewerker niet al een spaarloonrege-
+ling heeft.
+Sinds de jaren negentig leggen bedrijven steeds 
+meer verantwoording af aan bijvoorbeeld overhe-
+den en aandeelhouders over hun gedragingen. Aan 
+de overheid verantwoorden ze onder andere hoe ze 
+aan wet- en regelgeving voldoen: een samenloop 
+van spaarloon- en levensloopregeling kan in dit 
+kader ‘niet verantwoord’ worden.
+bedrijfs-
+regels
+processen
+Q
+q
+voegen
+gegevens toe
+gebruiken
+gegevens
+ondersteunende
+IT
+gegevens
+processen
+bedrijfs-
+doelen
+Figuur 2. Bedrijfsdoelen staan centraal
+1. Voor een uitgebrei-
+dere introductie 
+verwijzen we naar 
+de Business Rules 
+Community op 
+www.brcommunity.
+com.
+»Bedrijfsprocessen zijn en 
+blijven mensenwerk«
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+15
+Business Rules Manifest
+Het Business Rules Manifest2 beschrijft aan 
+de hand van tien stellingen bedrijfsregels en de 
+bedrijfsregelaanpak. Volgens het manifest is het 
+noodzakelijk regels declaratief weer te geven in 
+natuurlijke taal, bestemd voor de business. Decla-
+ratief betekent dan dat in een verzameling van 
+regels geen impliciete volgorde verondersteld is. 
+Het betekent ook dat de regel en de handhaving 
+van de regel twee verschillende zaken zijn.
+De regel ‘samenloop van spaarloon en levensloop 
+bij een medewerker is niet toegestaan’ is een 
+heldere formulering als de verschillende termen 
+(‘spaarloon’, ‘levensloop’, ‘medewerker’, maar 
+wellicht ook ‘samenloop’) bekend zijn. De zin ‘De 
+salarisadministratie controleert op samenloop van 
+levensloop en spaarloon’ is in deze zienswijze geen 
+goede bedrijfsregel: de zin geeft aan wie verant-
+woordelijk is voor de handhaving. Het zinsonder-
+deel ‘is niet toegestaan’ is eenduidig. De zinsnede 
+‘is meestal niet toegestaan’ is niet eenduidig.3
+De eis een regel weer te geven in natuurlijke taal4 
+wijst op het nut van de regel, namelijk dat de regel 
+begrijpelijk is en dus bruikbaar ‘voor de business’ 
+moet zijn, maar is tevens een verwijzing naar de 
+gedachte dat we het zinvolst kunnen spreken 
+over informatie in natuurlijke taal. Natuurlijke 
+taal maakt het mogelijk dat medewerkers uit de 
+bedrijfspraktijk de regels valideren op juistheid 
+en op onderlinge consistentie. Hiervoor is het ook 
+nodig dat er sprake is van één samenhangende 
+verzameling regels. Het spreekt voor zich dat deze 
+verzameling van regels ‘onderhouden’ moet wor-
+den.
+Als we in navolging van de bedrijfsregelaanpak 
+een salarisadministratie kunnen beschrijven in 
+termen van regels die richtlijnen bieden voor 
+en beperkingen stellen aan het gedrag van de 
+organisatie, hebben we een verzameling regels 
+die tezamen inzicht geven in de werking van het 
+bedrijf en de manier waarop bedrijfsdoelen vorm 
+krijgen. De kennis over het bedrijf is daarmee 
+‘gestandaardiseerd’ en communicatie tussen de 
+diverse betrokkenen is vergemakkelijkt. 
+Procesbeschrijvers kunnen de verzameling regels 
+gebruiken bij de beschrijving van processen en 
+‘administrateurs’ bij het opstellen van werkin-
+structies. IT’ers kunnen de regels inzetten bij de 
+verbetering van de applicatie, bijvoorbeeld met 
+een business rules engine. En voor controllers 
+biedt het houvast voor het ‘in control’-statement.
+Business rules in de praktijk
+Hoewel de theorie van het manifest luidt dat een 
+bedrijfsregel declaratief en niet procedureel is, 
+stelt het manifest ook dat regels processen ‘leiden’. 
+De bedrijfsactiviteiten kunnen op grond van regels 
+leiden tot toegestane en niet-toegestane activi-
+teiten. Er zijn bedrijfsactiviteiten die schending 
+van de regel afhandelen en deze activiteiten zijn 
+te scheiden van de behandeling van toegestane 
+activiteiten. Daarmee kunnen we stellen dat de 
+inrichting van een proces regelgestuurd kan zijn.
+Terug naar het voorbeeld van het salarisadmini-
+stratieproces. Het is zaak de uitval in het proces 
+zo laag mogelijk te krijgen. Bedrijfsregels kun-
+nen daarbij helpen, namelijk als bedrijfsregels in 
+heldere taal de bedrijfsdoelstellingen beschrijven 
+en de regels zijn opgenomen in de procesbeschrij-
+vingen. De administrateurs zijn daardoor bekend 
+met de regels. 
+In de werkinstructies is uitgelegd hoe de admini-
+strateurs de regels kunnen handhaven. Mogelijk 
+zijn de bedrijfsregels ook geïmplementeerd in een 
+business rules engine, een ‘machine’ die nagaat 
+of ingevoerde gegevens voldoen aan de gestelde 
+normen. Dit kan ertoe leiden dat als een admi-
+nistrateur een levensloopregeling invoert bij een 
+medewerker die al een spaarloon heeft, hij de 
+melding krijgt dat dit niet toegestaan is. Ook voor 
+de ‘rekenmachine’ die de bruto-nettovergoeding 
+berekent, kunnen bedrijfsregels ingezet worden. 
+De salarisverwerking zal dan over het weggezette 
+spaarloon nooit belasting heffen.
+bedrijfs-
+regels
+processen
+Q
+voegen
+gegevens toe
+bedrijfs-
+doelen
+gebruiken
+gegevens
+ondersteunende
+IT processen
+q
+gegevens
+Figuur 3. Gegevenskwaliteitsmeting:  
+op basis van bedrijfsregels en normen
+2. Zie de site van 
+de Business 
+Rules Community 
+(www.brcommu-
+nity.com) of voor 
+de Nederlandse 
+vertaling de site van 
+het Business Rules 
+Platform Nederland 
+(www.brplatform.
+org).
+ 3. Voor een uitge-
+breide discussie 
+over wat goede 
+en minder goede 
+bedrijfsregels zijn, 
+zie Ross (2003). 
+Voor standaardisa-
+tie op het gebied 
+van bedrijfsregels, 
+zie OMG (2002).
+4. Een stellingname 
+die bijvoorbeeld in 
+de jaren zeventig 
+door G.M. Nijssen 
+uitgewerkt is in 
+NIAM (Natural lan-
+guage Information 
+Analysis Method). 
+NIAM heeft twee 
+navolgingen: het 
+Nederlandse 
+FCO-IM (Fully 
+Communication 
+Oriented 
+Information 
+Modeling, onder-
+steund door de tool 
+CaseTalk, zie www.
+casetalk.com) en 
+de ORM (Object-
+Role Modeling). 
+Met name deze 
+laatste aanpak vindt 
+navolging in de 
+SBVR (Semantics 
+of Business 
+Vocabulary and 
+Business Rules, zie 
+OMG, 2002).
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+ibedrijfspro
+ce
+ss
+en
+16
+In control
+Effectiviteit en efficiëntie zijn zo uitgedrukt in 
+regels en bijhorende normen. Ook de controllers 
+hebben hier baat bij. Als de regels bekend zijn 
+en de ‘uitval’ onder controle is, weten zij dat het 
+proces ook echt ‘in control’ is.
+Het is mogelijk de kwaliteit van bedrijfsprocessen 
+te meten. Bedrijfsregels zijn daarbij elementair: 
+zij bepalen wat je wilt meten. De bij de regel 
+genoemde norm geeft aan waarop je meet. Per 
+bedrijfsregel kun je vervolgens meten of de gege-
+vens voldoen aan de norm: als een gegeven niet 
+voldoet aan de norm, spreken we van uitval.
+Het meten van de gegevenskwaliteit zonder 
+gebruik te maken van bedrijfsregels is mogelijk. 
+Gegevenskwaliteitsonderzoek tracht onder meer 
+ontbrekende attributen, merkwaardige waarden, 
+dubbele registraties en inconsistenties in de gege-
+vensverzameling op te sporen. Dit resulteert in 
+constateringen als ‘het aantal uren dat een mede-
+werker per week werkt ontbreekt’, ‘de geboorteda-
+tum van de medewerker is zodanig dat hij op dit 
+moment drie jaar oud zou zijn’, ‘twee medewerkers 
+hebben hetzelfde sofinummer’ en ‘we hebben 
+gevonden dat er een medewerker van het man-
+nelijk geslacht met zwangerschapsverlof is’. Bij dit 
+soort onderzoek wordt doorgaans gebruikgemaakt 
+van data profiling tools.
+Ook referentie- en waarnemingsmetingen spelen 
+een voorname rol bij gegevenskwaliteitsonder-
+zoek. Bij een referentiemeting vergelijk je de 
+gegevens in een administratie met die van een 
+andere administratie. Een eenvoudig voorbeeld is 
+de postcode van een adres. Als je de kwaliteit van 
+het adressenbestand wilt kennen, kun je de inge-
+voerde adressen vergelijken met een postcode-
+tabel. Een ander voorbeeld is de vergelijking van 
+de salarisgegevens bekend bij een pensioenfonds 
+met de salarisgegevens bij de salarisadministratie 
+zelf. Een referentiemeting levert op dat in twee 
+administraties verschillende, elkaar tegenspre-
+kende, feiten over een persoon geadministreerd 
+kunnen zijn. Bij een waarnemingsmeting verge-
+lijk je de gegevens met wat je waarneemt. Een 
+accountmanager kan bijvoorbeeld zijn telefoon-
+lijst actueel houden door regelmatig de mobiele 
+telefoonnummers uit zijn adresboek te bellen.
+Een gegevenskwaliteitsmeting uitbreiden met 
+bedrijfsregels maakt de meting krachtiger. Een 
+‘bedrijfsregelmeting’ geeft antwoord op de vraag of 
+de administratie voldoet aan de bedrijfsdoelstel-
+lingen.
+Bij deze gegevenskwaliteitsmeting mét bedrijfs-
+regels (q) kun je gebruikmaken van de door de 
+afdeling hr geleverde ‘mutatieformulieren’ en van 
+gegevens over de throughput van het proces. Welke 
+gegevens je gebruikt, is vooral afhankelijk van de 
+vraag welke gegevens over het proces beschikbaar 
+zijn. Elk gegeven opgeslagen in een database, 
+spreadsheet of XML-document is bruikbaar.
+Analyse van de uitval gebeurt op grond van infor-
+matie over de bedrijfsregel. Bijvoorbeeld: het 
+handhavingsregime van de regel is niet beschre-
+ven in de regel zelf. Wel kunnen we het als extra 
+informatie óver de regel registreren. Van een regel 
+kunnen we beschrijven wie hem handhaaft, waar 
+en wanneer (in welk proces) de regel nageleefd 
+moet worden, hoe de regel wordt gecontroleerd 
+(door uitvoeren van de werkinstructie, controle in 
+applicatie of door de business rules engine) en ook 
+wie wil weten dat de regel nageleefd is.
+Bij de analyse van de uitval is het zaak gebruik te 
+maken van deze meta-informatie over de regel. Op 
+grond van de gemeten uitval en de analyse kan een 
+bedrijf beslissen of er maatregelen nodig zijn en zo 
+ja, welke maatregelen dat zijn.
+Conclusie
+Kennis over en toegang tot de regels is het belang-
+rijkste instrument om gegevenskwaliteit structu-
+reel te verbeteren. Kennis over wat wel en niet 
+kan, over wat plausibel is en wat niet, en over wat 
+wel of niet verplicht is, is de backbone van elk 
+bedrijfs-
+regels
+processen
+Q
+q
+voegen
+gegevens toe
+bedrijfs-
+doelen
+gebruiken
+gegevens
+ondersteunende
+IT
+gegevens
+processen
+Figuur 4. Samenhang tussen bedrijfsprocessen, 
+bedrijfsregels en gegevenskwaliteit
+in
+fo
+rm
+at
+ie
+ /
+ ju
+ni
+ 2
+0
+0
+7
+17
+www.nl.insight.com
+FORMERL
+Y
+SOFTWAR
+E
+SPECTRU
+M
+The Trusted Advisor 
+for software licensing 
+and solutions
+Licensing expertise
+Software asset management
+License compliancy
+Partnerships with 2000+ 
+software publishers
+Offices in 24 countries, 
+13 currencies & Global 
+Account Management
+
+
+
+
+
+MKT091 Holland Ad 267 x 85mm.ind1   1 10/5/07   09:23:28
+bedrijf en van elke administratie. Bedrijfsproces-
+sen zijn en blijven mensenwerk!
+Bedrijfsregels raken de kern van het bedrijfspro-
+ces. Bedrijfsregels zijn richtinggever van gedrag. 
+Bedrijfsregels geven normen voor effectiviteit. 
+Bedrijfsregels bewaken de gegevenskwaliteit (q). 
+Bedrijfsregels maken daarmee de efficiëntie van 
+bedrijfsprocessen meetbaar (Q) (zie figuur 4).
+De bedrijfsregelaanpak geeft een bedrijf een 
+instrumentarium om te ‘regeren’ over de bedrijfs-
+processen. Bedrijfsregels maken het mogelijk de 
+vraag ‘Wat willen we?’ te beantwoorden onafhan-
+kelijk van de vraag ‘Hoe moeten we wat we willen 
+uitvoeren?’. Mensen en hun kennis over en van 
+regels krijgen een centrale plek in een organisatie. 
+Met gegevenskwaliteitsmetingen krijg je inzicht in 
+de effectiviteit van de processen.
+Reviewer  Sylvie Spreeuwenberg
+Literatuur
+OMG (2002). Semantics of Business Vocabulary and Business 
+Rules (SBVR). Object Management Group, www.omg.org/
+docs/dtc/06-03-02.pdf.
+Ross, R. (2003). Principles of the Business Rules Approach. 
+Addison Wesley.
+Links
+www.brcommunity.com
+www.brplatform.org
+www.casetalk.com
+www.omg.org
+Frans van Besouw
+is consultant op het gebied van gegevenskwaliteitsmanagement 
+en bedrijfsregels. E-mail: frans.van.besouw@arvix.nl.

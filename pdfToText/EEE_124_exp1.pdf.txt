@@ -1,0 +1,83 @@
+ 1 
+SHAHJALA UNIVERSITY OF SCIENCE & TECHNOLOGY 
+DEPARTMENT OF ELECTRICAL & ELECTRONIC ENGINEERING 
+ 
+COURSE NO: EEE124 
+ 
+Experiment Number 1 
+ 
+Experiment: Uses of Switches, Lamp Loads, Meters and Oscilloscope 
+ 
+CAUTION:  
+ 
+1. Do not connect the circuit to and turn on the supply until the circuit has been checked by 
+your teacher or laboratory instructor. 
+2. Electrical Circuits are potentially dangerous and may cause fatal injury resulting in death 
+3. Take care of the range of reading of the apparatus before connecting it to the circuit. 
+4. Do not come to physical contact with any bare circuit element in energized condition. 
+5. Wear shoes without any nails. 
+ 
+APPARATUS: 
+ 
+1) Lamp boards(220V available wattage) 
+2) SPST, SPDT, DPST, DPDT, TPST switches. 
+3) Ammeter, Voltmeter, multimeter and oscilloscope 
+ 
+OBJECTIVE:  
+ 
+First part of this experiment is to acquaint the students with some simple circuits and to make them 
+familiar with diagram reading, drawing and wiring with the help of different types of switches ( 
+SPST- Single Pole Single Throw, SPDT- Single Pole Double Throw, DPST- Double Pole Single 
+Throw , DPDT- Double Pole Double Throw ) and lamp loads that will be frequently encountered in 
+different experiments. 
+ 
+Second part of this experiment is to get familiar with ammeter, voltmeter, multimeter and 
+oscilloscope to be used for measurement purposes in electrical circuits. 
+ 
+PRELAB ASSIGNMENT:  
+ 
+Draw the circuit diagram according to the instructions given below: 
+ 
+1. Connect an electric lamp so that it may be operated from a 220 V ac supply using an SPST 
+switch. 
+2. Connect a lamp so that it may be operated by either of two SPST switches. 
+3. Connect two lamps so that either may be operated from a common source by its own SPST 
+switch. 
+4. Connect two lamps so that both may be operated simultaneously from a common source by one 
+SPST switch. Is it possible to do it in any other way? If possible, show both the diagrams and 
+indicate the preferable one. 
+5. Connect a lamp so that it may be operated independently by either of two SPDT switches from a 
+220v source. 
+6. Connect a lamp using two SPDT and one DPDT switches to the power supply in such way so 
+that the lamp may be turned ON/OFF by any of the three switches. 
+ 2 
+ 
+LAB WORK: 
+ 
+1. Implement the circuits of your pre-lab assignment in the laboratory and check their 
+functionality by connecting your circuit to the 230VAC 50 Hz supply. 
+2. Connect two lamp boards in parallel and connect the combination to the 230 VAC 50 Hz 
+supply. Make appropriate ammeter and voltmeter connections to read the voltage and 
+current of the lamp boards individually. Change load by switching the lamps and take 
+readings of the voltmeter and ammeters. Check the voltmeter reading with multimeter in 
+each step. 
+3. Connect two lamp boards in series and connect the combination to the 230 VAC 50 Hz 
+supply. Make appropriate ammeter and voltmeter connections to read the voltage and 
+current of each lamp board individually. Change load by switching the lamps and take 
+readings of the voltmeter and ammeters. Check the voltmeter reading with multimeter in 
+each step. 
+4. Make an RC series circuit on a bread board and supply the circuit from a function generator. 
+Using an oscilloscope observe (draw) and measure the voltage waveforms of the input 
+voltage, voltage across the resistor and voltage across the capacitor with sinusoidal input and 
+square wave input. 
+5. Take ten carbon resistances of different values and measure their resistances with the 
+multimeter. 
+ 
+Report: 
+ 
+Report results of your experiment on lab work part with drawing of all circuits, readings in 
+tables, drawing of waveforms and your observation if any. 
+ 
+Also write about what did you learn form this laboratory experiment. 
+ 
+              

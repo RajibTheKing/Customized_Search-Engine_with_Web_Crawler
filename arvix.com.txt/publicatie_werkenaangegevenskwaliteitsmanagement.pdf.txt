@@ -1,0 +1,143 @@
+ Werken aan gegevenskwaliteit? Meten! © ARVIX Pagina 1 van 5 
+Door: Wil Janssen Versie ARVIX Website 2009 
+Werken aan gegevenskwaliteit? Meten! 
+Een klacht of een incident kan een organisatie op het spoor zetten van een probleem met 
+de kwaliteit van de gegevens. Maar om een kwantitatief inzicht te krijgen in de 
+gegevenskwaliteit, in de kans op herhaling van incidenten en in de mogelijke omvang van 
+de gevolgen is het niet voldoende om afzonderlijke incidenten te onderzoeken. Daarvoor is 
+een meting nodig. En een kwantitatief inzicht is weer nodig om te bepalen of er 
+maatregelen genomen moeten worden, en zo ja, welke. 
+Door: Wil Janssen 
+Wat is gegevenskwaliteit? 
+Met ‘gegevenskwaliteit’ bedoelen we de bruikbaarheid van een administratie, gezien als een 
+beheerde verzameling gegevens. 
+Als blijkt dat de bruikbaarheid van een administratie tekort schiet, dan is daarmee nog niet 
+gezegd hoe groot of hoe belangrijk de inbreuk op de bruikbaarheid is. Een 
+gegevenskwaliteitsmeting maakt het mogelijk om daarover wel iets te zeggen. Daarvoor is het 
+nodig om in normen vast te leggen welke eisen de business stelt aan het gebruik van de 
+administratie in de bedrijfsvoering. Deze normen beschrijven de actualiteit, de 
+betrouwbaarheid en de juistheid van de administratie. 
+Vervolgens wordt gemeten in hoeverre de administratie voldoet aan die normen. De resultaten 
+van de meting vormen het startpunt voor het bepalen van verbeteracties.  
+Bedrijfsregels en gegevenskwaliteitsnormen 
+Een meting van de kwaliteit van gegevens begint vaak met het creëren van een 
+kwaliteitsnorm. Startpunt vormen de praktijksituaties waarin de bruikbaarheid van de 
+administratie tekort bleek te schieten. Op basis van deze voorbeelden worden bedrijfsregels 
+opgesteld. Deze bedrijfsregels vormen de kwaliteitsnorm en bepalen dus wat gemeten wordt. 
+De kwaliteitsnorm wordt in een aantal iteraties opgesteld en is niet alleen bruikbaar bij de 
+eerste kwaliteitsmetingen, maar vormt ook een begin van inzicht in de eigen kwaliteitseisen 
+van de organisatie.  
+Ook als er al normen zijn is het goed om daar regelmatig opnieuw naar te kijken, zodat de 
+kwaliteitsnorm blijft aansluiten bij de veranderende doelstellingen, processen en werkwijzen 
+van de organisatie: nieuwe meetpunten worden toegevoegd, verouderde meetpunten worden 
+geschrapt.  
+ Werken aan gegevenskwaliteit? Meten! © ARVIX Pagina 2 van 5 
+Door: Wil Janssen Versie ARVIX Website 2009 
+Drie manieren van meten 
+Het meten kan op drie manieren plaatsvinden.  
+1) Waarnemingsmeting  
+De administratie beschrijft een deel van de werkelijkheid waarbinnen de organisatie 
+opereert. Een aspect van de bruikbaarheid van de administratie is de mate waarin de 
+feiten in dat deel van de werkelijkheid juist worden weergegeven. Een voor de hand 
+liggende manier om die juistheid te beoordelen is het verifiëren van de feiten in de 
+werkelijkheid. Deze manier van meten is arbeidsintensief. Bij grote 
+gegevensverzamelingen is de kans op fouten groot.  
+2) Referentiemeting 
+Soms is het mogelijk om een vergelijking te maken met een betrouwbare andere 
+administratie die min of meer hetzelfde deel van de werkelijkheid beschrijft. 
+Voorbeelden: 
+− Een organisatie gebruikt een externe postcodedatabase om postcodes te 
+controleren. 
+− Pensioenfondsen mogen de GBA gebruiken om persoons- en adresgegevens te 
+controleren. 
+− Kredietverleners kunnen bij het Bureau Kredietregistratie informatie krijgen over 
+bestaande kredieten van hun klanten. 
+3) Intrinsieke meting 
+Het is ook mogelijk om binnen een administratie de gegevens onderling te controleren. 
+Een voorbeeld hiervan is een bedrijfsregel voor een HR administratie die zegt: ‘Het is 
+niet toegestaan dat een werknemer zowel een levensloop- als een spaarloonregeling 
+heeft’.  
+ 
+Doordat een intrinsieke meting geautomatiseerd kan worden is deze manier van 
+meten minder arbeidsintensief en minder foutgevoelig dan een waarnemingsmeting. 
+Binnen een onderzoek kunnen de drie manieren ook gecombineerd worden. 
+ 
+Typen meting 
+ Werken aan gegevenskwaliteit? Meten! © ARVIX Pagina 3 van 5 
+Door: Wil Janssen Versie ARVIX Website 2009 
+Analyseren en bruteren 
+Na de meting worden de resultaten geanalyseerd vanuit business perspectief.  
+Aangegeven wordt welke afwijkingen van de norm gevonden zijn, en in welke aantallen, ook 
+gerelateerd aan de totale hoeveelheid soortgelijke gegevens.  
+Dan wordt in de bedrijfsprocessen gezocht naar de oorzaken van de afwijkingen. Die 
+oorzaken zullen te vinden zijn in de processen die de gegevens vastleggen in de 
+administratie.  
+Het onderzoek gaat verder met het kwantificeren van de financiële gevolgen van de gevonden 
+afwijkingen voor het gebruik van de administratie in de organisatie (bruteren). Dit maakt 
+duidelijk hoe groot het business belang is van aandacht voor gegevenskwaliteit. De focus ligt 
+hier op de processen die gebruik maken van de gegevens in de administratie.  
+Aanbevelingen en actie 
+Na een gegevenskwaliteitsmeting worden de belangrijkste bevindingen en de risico’s 
+gerapporteerd. Er worden aanbevelingen gedaan om de gegevenskwaliteit te verbeteren. Er 
+zijn drie soorten aanbevelingen: 
+1) De kwaliteit voldoet aan de gestelde norm en een verbetering heeft geen prioriteit 
+2) De gegevens worden eenmalig geschoond (quick fix), handmatig of geautomatiseerd 
+3) Er worden permanente maatregelen genomen om te voorkomen dat er (nog meer) 
+vervuiling ontstaat. 
+Bij het schonen van de gegevens worden onjuiste gegevens vervangen door juiste, 
+verouderde door actuele, tegenstrijdige door consistente.  
+Opnieuw meten 
+Een organisatie die besluit om inderdaad verbeteringen in de administratie aan te brengen zal 
+daarna willen weten wat het effect daarvan geweest is. Om dat effect te kunnen vaststellen 
+vindt een tweede meting plaats met dezelfde normen. Een bevredigend resultaat kan 
+aanleiding zijn om terug te keren tot de orde van de dag, maar het is verstandiger om het te 
+zien als aansporing om structureel aandacht te blijven geven aan gegevenskwaliteit.  
+ Werken aan gegevenskwaliteit? Meten! © ARVIX Pagina 4 van 5 
+Door: Wil Janssen Versie ARVIX Website 2009 
+ 
+GKM Cyclus 
+Gegevenskwaliteitsmanagement 
+Alleen maar schonen van de gegevens is dweilen met de kraan open. Maatregelen om 
+vervuiling te voorkomen draaien de kraan dicht en brengen de zorg voor gegevenskwaliteit op 
+een hoger plan. Op een nog hoger plan blijft het niet bij eenmalige verbetering, maar heeft de 
+organisatie structureel aandacht voor gegevenskwaliteit. Bedrijfsregels en 
+gegevenskwaliteitsnormen worden regelmatig geactualiseerd. Periodiek wordt gemeten en zo 
+nodig worden nieuwe maatregelen genomen. 
+Ondernemen… met gegevens 
+Door het meten van gegevenskwaliteit krijgt een onderneming niet alleen oog voor de risico’s 
+en de kosten van tekortkomingen in de bruikbaarheid van een administratie, maar ook voor de 
+kansen die het verbeteren daarvan biedt. En de gegevenskwaliteit binnen een organisatie 
+zegt veel over de effectiviteit en efficiëntie van de processen, zeker als die processen 
+gegevensintensief zijn. Een gegevenskwaliteitsmeting biedt dus meer inzicht in het 
+ondernemen… met gegevens! 
+In een webwinkel leken prijsgegevens en voorraadgegevens problemen te veroorzaken. Na het vaststellen 
+van een aantal expliciete bedrijfsregels werd een meting uitgevoerd. De resultaten bij de prijsgegevens 
+waren o.a. 
+− Er zijn in 2009 vijf voorbeelden geweest van producten met een prijsdaling van meer dan 50%. Geen 
+van deze prijzen is nu nog geldig. Ook waren er twee voorbeelden van producten met een prijsstijging 
+van meer dan 50%. Van die laatste twee is er nog één actief. 
+− De producten met een grote prijsdaling zijn in totaal 5023 keer verkocht voor de te lage prijs. De 
+producten met een grote prijsstijging zijn niet verkocht.  
+Ontdekt wordt dat er geen enkele plausibiliteitscontrole is bij het invoeren van prijzen. Er is geen enkel 
+signaal als € 99,60 wordt ingevoerd in plaats van € 996,-. Ook niet als de vorige prijs € 1200,- was, of de 
+inkoopprijs € 699,-. Ook is niet voorzien dat een tweede persoon de ingevoerde prijzen controleert. 
+ Werken aan gegevenskwaliteit? Meten! © ARVIX Pagina 5 van 5 
+Door: Wil Janssen Versie ARVIX Website 2009 
+Een onderzoek naar de schade levert op:  
+− € 50.000,- verlies op gerealiseerde verkopen van producten onder de kostprijs,  
+− Gederfde winst op de verkopen van deze en soortgelijke producten tegen de beoogde prijs 
+(waarschijnlijk in kleinere aantallen, want niet aan de koopjesjagers) ten bedrage van € 12.000,- 
+− Een bedrag van € 10.000,- voor geslaagde of mislukte pogingen om de onbedoelde transacties terug 
+te draaien.  
+Op basis van meting en onderzoek wordt geadviseerd om bij het registreren van prijzen een signaal in te 
+bouwen als de verkoopprijs onder de kostprijs komt. Een dergelijke prijs is in principe wel toegestaan (dump 
+actie), maar vereist een expliciete bevestiging. Ook moet het mogelijk worden dat een tweede persoon de 
+ingevoerde prijzen controleert. 
+Wil Janssen 
+Management Consultant bij ARVIX. 
+In dit artikel is gebruik gemaakt van eerder gepubliceerde artikelen van ARVIX-collega’s: 
+Frans van Besouw, De samenhang tussen bedrijfsprocessen, bedrijfsregels en gegevenskwaliteit, 
+Informatie juni 2007. 
+Frans van Besouw, Urgentie zorgt voor verbetering kwaliteit van gegevens, TIEM, mei 2008. 
+Ortwin Verreck, Arjen de Graaf en Wim van der Sanden, Meten en verbeteren van gegevenskwaliteit, TIEM, 
+augustus 2005. 

@@ -1,0 +1,125 @@
+I love data, 
+mooie  
+BIG data!
+Bytes, bytes en nog eens bytes. 2,5 quintillion (10 tot de 30e) bytes worden er ongeveer per dag 
+aan data in de wereld geproduceerd. Maandelijks worden er gemiddeld 30.000.000.000 (30 
+miljard) ‘krabbeltjes’ geplaatst op facebook. Een Boeing motor kan 20.000.000.000.000 bytes 
+(20 terabyte) aan data per uur aan de monteurs aanleveren. Jaarlijks wordt er 40% datagroei 
+verwacht, wereldwijd. Grote getallen, extreme hoeveelheden data in verschillende vormen. Dit 
+themanummer van Tiem gaat over data, Big Data!
+door: arjen de graaf
+In 2018 zullen, dat is de verwachting, in de 
+Verenigde Staten 1.6 miljoen banen nodig zijn om 
+de aanwas van data te kunnen verwerken. Het is 
+een feit dat steeds grotere volumes aan data onze 
+organisaties binnen komen, evenals overigens in 
+ons persoonlijke leven.
+Big Data lijkt het modewoord van 2012 te worden. 
+Het is een ‘hot’ onderwerp, maar waar hebben we 
+het eigenlijk over? In de praktijk heeft Big Data 
+de reputatie van ontembaar, zelfs met de huidige 
+technologische middelen. Over de reden lijken de 
+deskundigen het wel eens: de 5 V’s. 
+1. Volume. Grote hoeveelheid data,
+2. Velocity. Extreem snelle verwerking,
+3. Variety. Grote variatie in aanlevering (al dan niet 
+gestructureerd op allerlei media  (streaming, discs, 
+tapes), 
+4. Variablity. Moeilijk te interpreteren, ofwel er zijn 
+vele interpretaties mogelijk, 
+5. Visualization. Moeilijk overzichtelijk te visuali-
+seren.
+Veel, complexe of gevarieerde data is voer voor 
+specialisten. Een speeltuin waar ze zich in thuis 
+voelen. Voor beslissers die overal rekening mee 
+willen houden, kan het een ramp zijn. Zeker als de 
+basis van bedrijfskritische gegevens niet op orde is, 
+dan is de informatie die er uit samengesteld wordt 
+ook niet ok. Daardoor kunnen er foute beslissingen 
+genomen worden die schadelijk zijn voor de eigen 
+organisatie. Dagelijks vind je daarvan voorbeelden 
+in de (vak)pers. Het geeft wel beweging, maar leuk 
+is anders!
+De kwaliteit van gegevens wordt in hoge mate 
+bepaald door de volwassenheid die een organisatie 
+THEMA 
+BIG DATA
+22 | TIEM 2.0 – 44 tHeMA BIG DAtA
+thema 
+Big Data
+hierin heeft bereikt, de mate waarin de kwaliteit 
+van de gegevens onder controle is. Wie weet welke 
+gegevens in zijn organisatie rondzwerven en welke 
+daarvan cruciaal zijn voor de bedrijfsuitvoering? 
+Wie kent de kwaliteit van die gegevens en wie meet 
+deze kwaliteit periodiek? Wie vertrouwt zijn eigen 
+managementinformatie? Wie doet wel eens iets 
+nieuws met zijn gegevens, of is het vooral meer van 
+hetzelfde?
+Als de gegevenshuishouding in de basis op orde 
+is, komt er ruimte voor nieuwe dingen, zoals het 
+confronteren van de eigen gegevens met nieuwe 
+bronnen. Vanzelfsprekend in een proeftuin met veel 
+verschillende smaken. Je voelt je soms als een kind 
+in een snoepwinkel, op zoek naar het ultieme geluk 
+in een overdaad aan aanbod. Pas op dat je je niet 
+overeet! 
+Gepassioneerd zoeken geeft vernieuwing, het 
+vinden van de verborgen schat veel voldoening. 
+Daarnaast brengt het nieuw elan in een organisatie, 
+positieve spanning. En als de gewenste resultaten 
+behaald worden, een fantastisch succesgevoel. 
+Combineren van gegevensbronnen, datamining, 
+visualisatie, verrijkte dashboards en risico profi-
+ling vormen een greep uit de vele mogelijkheden. 
+Stuurbaarheid kan toenemen en nieuwe (commer-
+ciële) diensten ontstaan. Wow, ik ben enthousiast!
+Big Data. Wie ziet daarbij een half leeg of een half 
+vol glas? Ik zie een rijk gevuld glas. Drie redenen. 
+Het dwingt organisaties aandacht te besteden aan 
+het managen van hun gegevens (en de organisatie 
+daarop in te richten). Daarmee zal de kwaliteit van 
+handelen van die organisaties toenemen. Kwaliteit 
+is schoonheid. Daarna(ast) geeft het ongekende 
+mogelijkheden om de besturing verder toe te laten 
+nemen, nieuwe velden te ontginnen en echt te 
+ondernemen met gegevens. Last but not least, het 
+geeft een organisatie nieuwe dynamiek, een nog 
+krachtiger teamgevoel!
+De mogelijkheden zijn ongekend, voor wie ze ziet. 
+De basis dient wel op orde te zijn. En elke stap in 
+die richting is goed.
+Zit bij Big Data de grootste uitdaging in de tech-
+nologie? Ik denk het niet. Technologie ontwikkelt 
+zich steeds sneller, kan steeds meer aan, koppe-
+lingen kunnen beter en snel gelegd worden. Mijn 
+stelling is dat het gaat om de gegevens zelf, wat ze 
+zeggen, voorstellen, betekenen. Het gaat er om die 
+te kennen, nieuwe combinaties te maken. Het is net 
+voetbal. Staat uw team klaar om af te trappen?
+In dit themanummer van TIEM hebben we gezocht 
+naar antwoorden op de volgende vragen: Is Big 
+Data een hype of een blijvertje? Ligt de nadruk 
+vooral op het kunnen ‘temmen’ van de Big Data of 
+wordt het vooral gezien als iets waarmee je creatief 
+kan ondernemen (voorspellen van risico’s, data-
+bronnen combineren tot een nieuwe dienst, etc.). 
+Wat zijn dan de mogelijkheden, waar moeten we 
+rekening mee houden, voor opletten? 
+Mijn dochters gaan me vanavond weer bijpraten 
+over hun nieuwste apps en de sites die ‘in’ zijn. 
+Ik hoef ze niet meer aan te melden, dat doen ze 
+tegenwoordig zelf. Ik hoop dat ik, vergeleken met 
+de vorige keer, een betere indruk bij ze achterlaat. 
+Ik kijk naar de typemachine, een erfstuk van mijn 
+ouders. Doet tegenwoordig dienst als boekensteun 
+(nog maar even vrees ik) en neurie: I love data, 
+mooie BIG data. 
+Ik wens u met dit nummer veel leesplezier en inspi-
+ratie toe! 
+Arjen de Graaf is oprichter en eigenaar van 
+Arvix en redacteur van tIeM
+OVeR De AuteuR: 
+ TIEM 2.0 – 44 | 23tHeMA BIG DAtA
+thema 
+Big Data

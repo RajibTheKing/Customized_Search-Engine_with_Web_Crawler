@@ -1,0 +1,31 @@
+ 
+Admission Test 2012-2013 SHAHJALAL UNIVERSITY OF SCIENCE AND TECHNOLOGY  Application Date : 20th September – 15th October, 2012  
+Admission Test : 24th November, 2012  
+ 
+Application Guideline for Admission via Mobile Phone 
+1) To apply for admission test, applicant has to send a SMS from any Teletalk Prepaid mobile phone to 16222. SMS Format is: SUST<space> First-3-Letters-of-Board<space>HSC-
+Roll<space>HSC-Passing-Year <space>Desired-Unit-Keyword.  For example, an applicant of the sylhet board have to send the SMS like : SUST <space>SYL<space>123456<space>2012<space>A. Here, applicant has to write his/her HSC roll number instead of 123456.  He/she also have to write 2011 if he/she passed in 2011 and write B instead of A if he/she wants to apply for A unit.  Board code will be BAR (Barishal), CHI (Chittagong), COM (Comilla), DHA (Dhaka), DIN (Dinajpur), JES (Jessore), MAD (Madrasha), RAJ (Rajshahi), TEC (Technical or Vocational), DIB (Diploma in Business Studies) other than the sylhet board. 
+2) If the student is eligible then he/she will get a reply SMS with a PIN. In order to proceed the registration, students have to send another SMS from any Teletalk Prepaid mobile to 16222. SMS Format is : SUST<space>YES <space>PIN<space>Your-Contact-No. For example, if the PIN in the reply SMS is 123456, then the applicant have to send the confirmation SMS like SUST<space>YES<space>123456 <space>01XXXXXXXXX.  Applicant should replace 01XXXXXXXXX with his/her mobile number (of any operator like Grameen Phone, Citycell, Robi, Banglalink, Airtel or Teletalk) for further contact. 
+3) Finally a Congratulations Message and the Admission Roll will be received if the Teletalk mobile contains sufficient amount for application fees. No fee will be took-off from the Teletalk mobile account unless you send the confirmation SMS. 
+4) Applicants who have received a reply SMS like 'Teletalk database does not have your 
+complete information' have to fill-up the online registration form on the website 
+www.sust.edu/admission/ registration.php. After successful registration, the applicant will get a code number and has to send a SMS following the steps ①-③. To send SMS, applicant must use OTH as the First-3-Letters-of-Board. SMS Example: SUST<space>OTH<space>Code-Number<space>HSC-Passing-Year<space> 
+Desired-Unit-Keyword. 
+5) GCE O/A Level or Bangladesh Open University applicants also have to fill-up the online registration form on the website www.sust.edu/admission/ registration.php. After successful registration, the applicant will get an code number and has to send a SMS following the steps 
+①-③. To send SMS, applicant must use OTH as the First-3-Letters-of-Board. 
+SMS Example: SUST<space>OTH<space>Code-Number<space>HSC-Passing–Year<space> 
+Desired-Unit-Keyword. 
+Unit Keyword Department Application Fee (including VAT) A A Social Science Tk. 600 B (Any one) B Science, Applied Science with Architecture Tk. 650 B1 Science, Applied Science without Architecture Tk. 600 
+Important things 
+ More than one application can be requested from one Teletalk prepaid mobile. Applicant should write his/her own mobile number in the confirmation SMS at step ② as the admission authority will use this mobile number to contact with the applicant. 
+ Applicant can apply for both units (A and B) individually. For B/B1 unit, one can apply either for B or B1, not for both groups.  
+ Applicants can apply any time via SMS before the deadline 15/10/2012.  
+ Applicants could not withdraw his/her application after getting the Congratulation Message from the Teletalk. 
+ Student should bring 2 recently taken passport size photographs during the admission test attested by the head of the institution or local UP chairman or ward councilor or Gazetted Officer or university teacher. Applicant should also write their admission roll number and name on the back-side of the photographs. This photograph will be considered as the admit card and no one are allowed to attend to the admission test without these attested 
+photographs. 
+ Different merit list will be prepared for A and B unit. Merit list for architecture department (B1 unit) will be prepared separately. 
+ Any information regarding to admission will be published in university notice board and website (www.sust.edu/admission) in due time.  
+ Students can also get this information using the hotlines 01555555001-5 or the email 
+admission@sust.edu.  
+ Students can get any information regarding to the admission test by sending an SMS like 
+SUST<space>Desired-Keyword to 2323 from any mobile operator. Use the following keyword(s) to get any kind of information regarding to the admission test: DATE, EXAM SUB, REQD GPA, TOTAL SEAT, FORGOT ROLL, HELP. 

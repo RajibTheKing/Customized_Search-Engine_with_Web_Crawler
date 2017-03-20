@@ -1,0 +1,544 @@
+FILE Directory : pdfToText/Admission%20Notice%20%28SCW%29.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Admission%20Notice%20%28SCW%29.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Admission%20of%20foreign%20Students.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Admission%20of%20foreign%20Students.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/AVRandAGC.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/AVRandAGC.pdf
+Normal Matching Found 3.0534351145038165%
+Character Matching Found 6.241084165477888%
+Weighted Matching Found 0.462905814097025%
+
+
+
+FILE Directory : pdfToText/bangabandhu_fellow_application_form.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/bangabandhu_fellow_application_form.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/bangabandhu_fellow_notice.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/bangabandhu_fellow_notice.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Bangladesh%20Physics%20Olympiad%202013.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Bangladesh%20Physics%20Olympiad%202013.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Brochure.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/attachments/events/Brochure.pdf
+Normal Matching Found 1.5267175572519083%
+Character Matching Found 0.5349500713266762%
+Weighted Matching Found 0.0277743488458215%
+
+
+
+FILE Directory : pdfToText/Call_for_abstract_8785813.pdf.txt
+URL: : http://www.sust.edu/department/fes/notice/Call_for_abstract_8785813.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/cerie2010schedule.pdf.txt
+URL: : http://www.sust.edu/conference/cerie2010/download/cerie2010schedule.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/CERIE_2011_Proceedings.pdf.txt
+URL: : http://www.sust.edu/conference/cerie2011/CERIE_2011_Proceedings.pdf
+Normal Matching Found 12.213740458015266%
+Character Matching Found 5.064194008559201%
+Weighted Matching Found 0.2638563140353043%
+
+
+
+FILE Directory : pdfToText/certificateAffiliated.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/certificateAffiliated.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Construction%20of%20School%20Building.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Construction%20of%20School%20Building.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/CourseOutline.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/CourseOutline.pdf
+Normal Matching Found 1.5267175572519083%
+Character Matching Found 3.815977175463623%
+Weighted Matching Found 0.264627823725466%
+
+
+
+FILE Directory : pdfToText/courses.pdf.txt
+URL: : http://www.sust.edu/department/cse/resource/courses.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/course_details.pdf.txt
+URL: : http://www.sust.edu/department/cse/resource/course_details.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Duty%20Roster.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Duty%20Roster.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/ECO.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/ECO.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/EEE_124_exp1.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/727/EEE_124_exp1.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/emlpoyeebill.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/emlpoyeebill.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/ExamBill_form.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/ExamBill_form.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/ExamDuty.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/ExamDuty.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Exp-1.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/Exp-1.pdf
+Normal Matching Found 100.0%
+Character Matching Found 100.0%
+Weighted Matching Found 100.0%
+
+
+
+FILE Directory : pdfToText/Exp-2.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/Exp-2.pdf
+Normal Matching Found 13.740458015267176%
+Character Matching Found 12.791250594388966%
+Weighted Matching Found 0.7799962967534873%
+
+
+
+FILE Directory : pdfToText/final%20notice.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/attachments/events/final%20notice.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/G4_%20Advertisement_CP2524_HEQEP.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/G4_%20Advertisement_CP2524_HEQEP.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/gradesheetApp.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/gradesheetApp.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Graduate_Application_Form.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/Graduate_Application_Form.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/ICETCESD12.pdf.txt
+URL: : http://www.sust.edu/conference/ICETCESD12/ICETCESD12.pdf
+Normal Matching Found 6.870229007633588%
+Character Matching Found 1.5335235378031382%
+Weighted Matching Found 0.06866436242439204%
+
+
+
+FILE Directory : pdfToText/ICTInstituteNew.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/ICTInstituteNew.pdf
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.5349500713266762%
+Weighted Matching Found 0.03780397481792371%
+
+
+
+FILE Directory : pdfToText/Invitation%20for%20Re-Tender_G5_CP%202524_SUST.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Invitation%20for%20Re-Tender_G5_CP%202524_SUST.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Invitation%20for%20Tender.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Invitation%20for%20Tender.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Jamal_CV_website.pdf.txt
+URL: : http://www.sust.edu/department/sta/Pdf/Jamal_CV_website.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Khalidur.pdf.txt
+URL: : http://www.sust.edu/department/sta/Pdf/Khalidur.pdf
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.0475511174512601%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/kormochariApplication.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/kormochariApplication.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/LoadFlow.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/LoadFlow.pdf
+Normal Matching Found 3.816793893129771%
+Character Matching Found 4.446029481692819%
+Weighted Matching Found 0.2931736822614492%
+
+
+
+FILE Directory : pdfToText/M.Sc%20Engineering%20Program%202011-12%28CEP%29.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/M.Sc%20Engineering%20Program%202011-12%28CEP%29.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/M.Sc%20Engineering%28General%29%20Program%202011-12%28CEE%29%20.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/M.Sc%20Engineering%28General%29%20Program%202011-12%28CEE%29%20.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/March%2026.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/attachments/events/March%2026.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/medical%20officer%20and%20nursery%20supervisor.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/medical%20officer%20and%20nursery%20supervisor.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/muktijuddho_booklist.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/muktijuddho_booklist.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/NAEM%20Journal.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/NAEM%20Journal.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/officerApplication1.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/officerApplication1.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Program%20Details_0.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Program%20Details_0.pdf
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.0475511174512601%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Program%20Layout%20of%2021-February-2012.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/attachments/events/Program%20Layout%20of%2021-February-2012.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Rajib_test.txt
+URL: null
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.05943889681407513%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/RCCAR___.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/728/RCCAR___.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Schedule_ICERIE_2013.pdf.txt
+URL: : http://www.sust.edu/conference/icerie2013/download/Schedule_ICERIE_2013.pdf
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.07132667617689016%
+Weighted Matching Found 7.715096901617085E-4%
+
+
+
+FILE Directory : pdfToText/set-11a-science.pdf.txt
+URL: : http://www.sust.edu/admission/docs/question/set-11a-science.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/set-21a-commerce.pdf.txt
+URL: : http://www.sust.edu/admission/docs/question/set-21a-commerce.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/set-31a-humanities.pdf.txt
+URL: : http://www.sust.edu/admission/docs/question/set-31a-humanities.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/set-51-b-b1.pdf.txt
+URL: : http://www.sust.edu/admission/docs/question/set-51-b-b1.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/stdCertificate.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/stdCertificate.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/StudentClearence.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/StudentClearence.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust-20-years-ceremony-schedule.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/attachments/events/sust-20-years-ceremony-schedule.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust-a-unit.pdf.txt
+URL: : http://www.sust.edu/admission/docs/result/sust-a-unit.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust-archi.pdf.txt
+URL: : http://www.sust.edu/admission/docs/result/sust-archi.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust-b-b1-unit.pdf.txt
+URL: : http://www.sust.edu/admission/docs/result/sust-b-b1-unit.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/SUSTBARTA.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/SUSTBARTA.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust_admission_prospectus_2012_BNG.pdf.txt
+URL: : http://www.sust.edu/admission/docs/sust_admission_prospectus_2012_BNG.pdf
+Normal Matching Found 0.7633587786259541%
+Character Matching Found 0.0475511174512601%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust_admission_prospectus_2012_ENG.pdf.txt
+URL: : http://www.sust.edu/admission/docs/sust_admission_prospectus_2012_ENG.pdf
+Normal Matching Found 1.5267175572519083%
+Character Matching Found 0.5349500713266762%
+Weighted Matching Found 0.0277743488458215%
+
+
+
+FILE Directory : pdfToText/sust_admission_test_how_to_apply_BNG.pdf.txt
+URL: : http://www.sust.edu/admission/docs/sust_admission_test_how_to_apply_BNG.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/sust_admission_test_how_to_apply_ENG.pdf.txt
+URL: : http://www.sust.edu/admission/docs/sust_admission_test_how_to_apply_ENG.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/teacherApplication1.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/teacherApplication1.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Tender%20Notice.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Tender%20Notice.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Tender%20Notice_0.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Tender%20Notice_0.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Tender-2012-13.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/Tender-2012-13.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/transcriptApp.pdf.txt
+URL: : http://www.sust.edu/sites/default/files/downloads/transcriptApp.pdf
+Normal Matching Found 0.0%
+Character Matching Found 0.0%
+Weighted Matching Found 0.0%
+
+
+
+FILE Directory : pdfToText/Whywyedelta.pdf.txt
+URL: : http://www.sust.edu/department/eee/media/kunena/attachments/736/Whywyedelta.pdf
+Normal Matching Found 2.2900763358778624%
+Character Matching Found 3.9110794103661437%
+Weighted Matching Found 0.2653993334156277%
+
+
+

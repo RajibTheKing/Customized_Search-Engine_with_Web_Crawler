@@ -1,0 +1,3 @@
+teststring.StringAutomaton
+teststring.data
+teststring.pair

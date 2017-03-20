@@ -1,0 +1,183 @@
+ Shahjalal University of Science and 
+Technology (SUST) 
+ 
+  
+ 
+Role of AVR and AGC 
+ 
+ 
+ 
+ 
+Prepared by 
+Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST) 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 2 
+Role of AVR 
+AVR (Automatic voltage regulator) has following roles. 
+1- To regulate generator terminal voltage. 
+Mainly generator under no-load condition, AVR regulates the generator voltage to voltage 
+setter (90R). 
+ 
+ 
+ 
+ AVR detects terminal voltage and compare with voltage setter (90R). 
+ AVR regulates field current via the Exciter. 
+ Generator terminal voltage is regulated by field current. 
+Vt < 90R _ Field current will be increase 
+Vt > 90R _ Field current will be decrease 
+ 
+2-To adjust MVars (Reactive power). 
+When the generator connected to power grid, AVR adjust reactive power by regulate 
+generator voltage. 
+ 
+ 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 3 
+ MVar (Reactive power: Q) is regulated by generator terminal voltage. Therefore 
+AVR can regulate MVars. 
+ Vt is increased _ MVars will be increase 
+ Vt is decreased _ MVars will be decrease 
+Hence; 
+ To increase MVars _ 90R raise 
+ To decrease MVars _ 90R lower 
+ 
+3-To improve the power system stability. 
+There are two stability 
+-Transient stability …… Improved by AVR 
+-Dynamic stability ……. Improved by PSS (power system stabilizer) 
+ 
+ 
+ 
+ 
+ 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 4 
+* Improve the Transient stability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Transient stability is improved by high initial response characteristic. In the fault 
+condition, Field voltage is increased to keep the generator voltage constantly. If the 
+excitation response is slow, it will not able to keep voltage and the generator cannot keep 
+synchronizing. 
+ 
+ 
+ * Improve the Dynamic state stability 
+Dynamic stability is improved by Power System Stabilizer (PSS). PSS is provided in order 
+to improve the power system dynamic stability. PSS will control the excitation to reduce 
+the power swing rapidly. 
+ 
+ 
+ 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 5 
+4-To suppress the over-voltage on load rejection. 
+When the load rejection, field current and field voltage should be reduced rapidly to keep 
+terminal voltage constantly and prevent overvoltage. 
+ 
+ 
+AUTOMATIC GENERATION CONTROL (AGC): 
+1.0 INTRODUCTION 
+Maintaining power system frequency at constant value is very important for the health of 
+the power generating equipment and the utilization equipment at the customer end. The 
+job of automatic frequency regulation is achieved by governing systems of individual 
+turbine-generators and Automatic Generation Control (AGC) or Load frequency control 
+( LFC) system of the power system. 
+2.0 FREQUENCY VARIATION IN A SINGLE MACHINE 
+To understand the variation of frequency in a power system, we can consider a single 
+machine connected to an isolated load, as shown in the figure below. 
+ 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 6 
+ 
+Normally, the turbine mechanical power (Pm) and the electrical load power (Pl) are 
+equal. Whenever there is a change in load, with mechanical power remaining the same 
+the speed (ω) of the turbine generator changes as decided by the rotating inertia (M) of 
+the rotor system, as given by the following differential equation.. 
+Pm-Pl = M [dω/dt ] 
+The governing system senses this change in speed and adjusts steam control valve so 
+that mechanical power (Pm) matches with the changed load (Pl). Speed variation stops 
+but at a different steady value. The change in frequency (Δω) at steady state can be 
+described using the following equation in terms of change in load (Δ Pl) and a factor R 
+called ‘speed regulation or ‘droop’. 
+Δω = - [Δ Pl ]( R)  
+A 20 % change in load (Δ Pl = 0.2 per unit) causes 1 % change in frequency (Δω = 0.01 
+p.u) with a per unit (p.u) droop value of 0.05. Similarly full load throw off (Δ Pl = - 1.0) causes 
+5 % change in speed. (Δω = + 0.05). This is described by the well known droop 
+characteristic. 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 7 
+ 
+ 
+3.0 NEED FOR SUPPLEMENTARY CONTROL 
+Now when there is a load change, speed settles down after a transient period at a value 
+different from the original steady speed. This new speed value is dictated by the droop 
+value. For instance a 100 % load rejection will cause the machine speed to settle down at 
+105 % speed, with a droop value of 5 %, as shown in the figure below. During the 
+transient, speed may touch a higher value as shown in the figure (by TSR: transient speed 
+rise). The speed however has to be brought back to the original value for which speed/ 
+load reference (Pref) has to be adjusted either by the operator or by a supplementary 
+control system. 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 8 
+ 
+In the speed control system block diagram shown in Fig. 4, when elec. load changes, 
+reference set point is to be adjusted to restore speed to the pre-disturbed value. This is 
+equivalent to shifting the speed droop characteristic to match the new operating load as 
+shown in Fig. 5. 
+ 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 9 
+ 
+4.0 AUTOMATIC GENERATION CONTROL (AGC) 
+Automatic Generation Control (AGC) usually implemented in Energy Management 
+system (EMS) of Energy Control centers (ECC) consists of 
+ Load frequency control 
+ Economic Dispatch 
+ Interchange scheduling 
+In this section Load frequency control is described. 
+LOAD FREQUENCY CONTROL 
+The speed/ frequency variation concept can be extended from a single turbine- generator 
+system to a power system comprising several turbine- generators as shown in Fig.6. Now 
+the mismatch between the total power generated and the total electrical load causes the 
+frequency change as dictated by the combined system inertia. The governors of all the machines 
+sense the frequency and the mechanical power outputs will be changed 
+Role of AVR and AGC 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE 
+Shahjalal University of Science and Technology (SUST) Page 10 
+automatically to match the combined generation with the new combined load. This action 
+is called primary regulation. 
+But frequency remains at a new value and set points must be adjusted, just as in single 
+machine case for frequency restoration. This job is done by the Automatic Load 
+Frequency controller (ALFC) as shown in Fig. 7. This process of set point adjustment is 
+called secondary regulation. 
+When load change occurs frequency varies and the regulation initially for the first few 
+seconds is due to the action of the governors of all generating units and subsequently the 
+Load frequency control system prevails. 
+ 
+ 

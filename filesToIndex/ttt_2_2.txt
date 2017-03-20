@@ -1,0 +1,620 @@
+﻿
+Computer Basis: History and development Computer types. Scope of computer Impact of computers on society and technology. 
+Specification of Computers: CPU types, Speed variation, Memory, type size Cache, Storage Media, Hard disk, Floppy disk, CD 
+ROM , DVD. Printer: Dot matrix Laser, ink jet. Computer Hardware: Digital electronics, CPU. Memory: RAM, ROM, Mass 
+storage  devices,  I/O  Devices : Different  Peripherals  Idea  of  System  Software  and  Application  Software: Function  of 
+Operating System, Discussion on different types of Operating System : DOS/Windows, Mac UNIX/XENIX etc.  Concept of 
+formal Language: Different type of Computer Languages: Assembly, FORTRAN, Pascal C and C++, Artificial Language etc. 
+Purpose and Scope of Application Packages:  Essential General purpose packages : Word Processing, Spreadsheet analysis, 
+Database etc. Networking: Different types of networks, network topologies,
+
+89          
+Department of Computer Science & Engineering
+Detailed Syllabus
+CSE 100 PROJECT WORK
+2 Hours/Week, 1 Credit
+Project Work Based on CSE 135 / CSE 137.
+CSE 101* INTRODUCTION TO COMPUTER APPLICATION
+2 Hours/Week, 2 Credits 
+Computer Basis: History and development Computer types. Scope of computer Impact of computers on society and technology. 
+Specification of Computers: CPU types, Speed variation, Memory, type size Cache, Storage Media, Hard disk, Floppy disk, CD 
+ROM , DVD. Printer: Dot matrix Laser, ink jet. Computer Hardware: Digital electronics, CPU. Memory: RAM, ROM, Mass 
+storage  devices,  I/O  Devices : Different  Peripherals  Idea  of  System  Software  and  Application  Software: Function  of 
+Operating System, Discussion on different types of Operating System : DOS/Windows, Mac UNIX/XENIX etc.  Concept of 
+formal Language: Different type of Computer Languages: Assembly, FORTRAN, Pascal C and C++, Artificial Language etc. 
+Purpose and Scope of Application Packages:  Essential General purpose packages : Word Processing, Spreadsheet analysis, 
+Database etc. Networking: Different types of networks, network topologies, communication media. Internet: Internet services, 
+
+Circuit Models:  Characteristics & applications of linear circuit elements, Ideal and non-ideal sources : Voltage and Current. 
+Series, Parallel and Compound circuit analysis. Loading effects: Ammeter and Voltmeter. Circuit Theorem and DC analysis: 
+Voltage and current divider rule, Kirchhoff’s Laws. Superposition Theorem. Thevenin’s Theorem. Norton’s Theorem. Maximum 
+Power Transfer Theorem. Reciprocity Theorem. Mesh and Nodal analysis. Matrix form of Mesh and Nodal equations. Use of 
+Cramer’s rule. Bridge networks. T-Pie and Pie-T Conversions.  Transients and Time Domain analysis: Transient in RC, RL, 
+and RLC circuits. Pulse repetition rate and duty cycle. Average value. RC response to a square wave inputs.  AC Theory and 
+Frequency domain analysis:  Properties of Sinusoidal and square wave forms. Phasor diagram. The ‘j’ operator. Resonance 
+phenomena. Fourier method of Wave form analysis. Laplace’s Transformation and its application to Linear circuit.  Networks: 
+Two  port  network  and  its  parameters.  Equivalent  circuits.  Analog  filter  design:  Elementary  filter  theory,  Characteristics 
+impedance. Low pass filter, High pass filter, Band-pass filter, Band-elimination filter.  Coupled Circuits and Transformers: 
+Self and mutual inductance, Analysis of coupled circuits. Coefficient of coupling, Linear transformer, Ideal Transformer.
+CSE 126 ELECTRIC CIRCUITS ANALYSIS LAB
+4 Hours/Week, 2 Credits
+Laboratory works based on CSE 125.
+CSE 131 INTRODUCTION TO COMPUTER SCIENCE
+2 Hours/Week , 2 Credits 
+Introduction: Fundamentals concepts; historical background; types of computers; application areas. Number systems, codes and 
+computer logic:  binary,  octal,  hexadecimal,  number systems;  arithmetic operations;  ASCII,  BCD, EBCDIC, Gray,  weighted 
+codes; Boolean functions. Data representation: representation of integer, real, floating-point numbers and character. Hardware: 
+Basic components of a digital computer; I/O unit, memory unit and CPU; peripheral devices. Single- and multi-user systems. 
+Multitasking systems. Computer communication and networks. Computer Hardware Organization. Bus-organized architecture. 
+CPU Organization. Memory devices. Buffers and channels. I/O devices.  Software:  Basic concepts; classification; system and 
+application software. Operating system: importance, components, and basic functions; overview of DOS and Unix. Programming 
+languages:  classification;  assembler  &  translators;  source  &  object  program.  Phases  of  a  compiler.  Application  software. 
+Computers for problem solving:  Programming as transformation from problem to solution to implementation. Programming 
+language  and  their  levels.  Programming  language  concepts.  Structured  language  and  other  formalism.  Survey  of  different 
+programming languages.  Program design methodologies,  structured and modular program design.  Introduction to software 
+packages :Types and uses.
+CSE 135 STRUCTURED PROGRAMMING LANGUAGE
+2 Hours/Week, 2 Credits 
+Programming Language :  Basic concept, Overview of programming languages, Problem Solving Techniques and Data Flow 
+Diagram.  C-Language (UNIX Environment): Preliminaries,  Program constructs,  variables  and data  types  in  C.  Input  and 
+output.  Character and formatted I/O; Arithmetic Expressions and Assignment statements; Loops and Nested loops; Decision 
+making; Arrays, Functions; Arguments and local variables, Calling Functions and arrays. Recursion and Recursive functions; 
+Structures within structure. Files; File functions for sequential and Random I/O. Pointers; Pointers and structures; Pointer and 
+functions; Pointer and arrays; Operation and Pointer; Pointer and memory addresses; Operations on Bits; Bit Operation; Bit field; 
+Advanced features; Standard and library. 
+CSE 136 STRUCTURED PROGRAMMING LANGUAGE LAB (UNIX Environment)
+6 Hours /week, 3 Credits
+Laboratory based on CSE 135
+CSE 137 DATA STRUCTURES 
+91                                                                                                                                    School of Applied Sciences and Technology
+3 Hours/Week, 3 Credits
+Internal Data Representation. Specification, representation and manipulation of basic data structures: arrays, records and pointers, 
+linked lists, stacks, queues, recursion, trees, optimal search trees, heaps. Graphs and their application, List and string processing, 
+Searching and Sorting algorithms. Hashing techniques, Storage Management.
+CSE 138 DATA STRUCTURE LAB.
+4 Hours/Week , 2.0 Credits
+Laboratory works based CSE 137
+CSE 141 DISCRETE MATHEMATICS 
+2 Hours/Week, 2 credits
+Numbers,  Functions  and  Counting  :  Integers.  Definition  and  proof  by  induction.  Functions  on  finite  sets.  Divisibility. 
+Eucildean algorithm. Exclusion inclusion principle.  Euler's Function.  Binomial  coefficients.  Designs, t-designs. Permutation. 
+Modular  arithmetic  and  Euler's  theorem.  Examples  and  use  of  recurrence  relations  and  generating  functions  in  counting 
+problems.  Graphs, Trees, Digraphs, Networks and flows: graphs and their isomorphism. Valencey. Paths and cycles. Trees. 
+Colouring the vertices of a graph. Counting the leaves on a rooted tree. Spanning trees and the MST Problems.  Bipartite  graphs 
+and matching problems. Transversals for families of finite sets. Diagraphs, Networks and flows. The max -flow and min-cut 
+theorem.  Finite Geometries : Cryptology and coding theory, Review of the theory of the finite fields. Finite fields and Latin 
+Squares. Finite geometry and designs. Finite projective planes. Steinear triple systems. Basic ideas of public key cryptology and 
+the theory of error correcting codes. Hamming code.  
+CSE 201* INTRODUCTION TO ELECTRICAL MACHINARIES
+2 Hours/Week, 2 Credits
+Single phase transformer, Introduction to three phase transformer; DC machines: DC generator principle, types, characteristics 
+and  performances.  AC machines:  Single  phase  induction motor,  three  phase  induction motor,  introduction  to  synchronous 
+machines; Oscilloscope; Transducers: Strain, temperature, pressure, speed and torque measurements.
+CSE 203* INTRODUCTION TO COMPUTER LANGUAGE
+2 Hours/Week, 2 Credits
+Software: Basic concept and its classification; Overview of programming languages;
+C-Language: Preliminaries, Program constructs, variables and data types in C. Input and output. Character and formatted I/O; 
+Arithmetic Expressions and Assignment statements; Loops and Nested loops; Decision making; Arrays, Functions; Arguments 
+and local variables, Calling Functions and arrays.  Recursion and Recursive functions; Structures within structure.  Files; File 
+functions for sequential and Random I/O. Pointers; Pointers and structures; Pointer and functions; Pointer and arrays; Operation 
+and Pointer;  Pointer  and memory addresses;  Operations on Bits;  Bit  Operation;  Bit  field;  Advanced features;  Standard and 
+library. 
+CSE 204* INTRODUCTION TO COMPUTER LANGUAGE LAB
+4 Hours/Week, 2 Credits
+Laboratory works based on theory classes.
+CSE 205* DATABASE MANAGEMENT AND PROGRAMMING
+2 Hours/Week, 2 Credits
+Introduction  to  Database:  Database  Management  System,  Relational  Database  management  System,  Entity-Relationship 
+Model, Relational Model, SQL, Sorting, Indexing, Integrity Constraints, Transaction Concept, Database System Architecture. 
+Database Management: Creating a Database, Opening a Database, Modifying a Database, Modifying a Database Structure, 
+Indexing,  Sorting,  Searching a Database,  Designing a  Customer Screen,  Designing a  Report,  Designing a Menu.  Database 
+Programming: Programming  concept,  A  Simple  Program,  Memory  variables,  Constants,  Operators,  Commands,  Arrays, 
+Department of Computer Science and Engineering                                                                                                                      92
+Macros,  Different  Type  of  Processing,  Procedures,  Functions.  Programming  for  Data  Entries,  Update,  Report,  Menu  and 
+Searching.
+CSE 206* DATABASE MANAGEMENT AND PROGRAMMING LAB
+4 Hours/Week, 2 Credits
+Laboratory works based on the theory classes.
+CSE 221 DIGITAL LOGIC DESIGN
+3 Hours/Week, 3 Credits
+Boolean Algebra and Minimization: Introductory concept of number systems and codes. Boolean constants and variables, truth 
+tables.  Basic  logic  functions.  Boolean  expressions.  Implementing  circuits  from  Boolean  expressions.  Boolean  theorems, 
+DeMorgan's  theorem.  Sum-of-product  and  product-of-sum  forms.  Simplifying  logic  circuits,  algebraic  simplification,  the 
+Karnaugh map method, Quine-McCluskey design method. Logic Gates and Combinational Circuits: Different types of logic 
+gates.  Circuit  design  using  NAND or  NOR gates  only.  Alternate  logic-gate  representations.  Designing  combinatorial  logic 
+circuits. Exclusive OR and NOR circuits. Logic circuits with multiple outputs. Designing without a truth table. Flip-flops: SR, 
+JK,  D and T flipflops.  The D latch.  Master-slave FF.  Flipflop applications.  FF synchronization.  Data  storage and transfer. 
+Frequency division and counting. One shot. Arithmetic circuits: Adder circuits. Carry propagation, carry look-ahead adder. IC 
+parallel  adder.  The  2's  complement  addition  and  subtraction  system.  The  BCD  adder.  Binary  multiplier.  Counters  and 
+Registers:  Asynchronous cuonter: Ripple counters, counters with mod numbers<2n, IC asynchronous counters, asynchronous 
+down counter, propagation delay in ripple counters. Synchronous down and up/down counters. Decoding a counter. Decoding 
+glitches.  Cascading BCD counters.  Shift-registers.  Counter  applications:  frequency counter,  digital  clock.  IC  registers.  MSI 
+Logic  Circuits:  Decoders,  BCD-to-decimal  decoders,  BCD-to-7-segment  decoder/drivers.  Encoders.  Multiplexers  and 
+multiplexer applications. Demultiplexers. Integrated-Circuit Logic Families: Digital IC terminologies, TTL logic family, TTL 
+series characteristics, open-collector TTL, tristate TTL, ECL family, MOS digital ICs, MOSFET, CMOS characteristics, CMOS 
+tristate logic, TTL-CMOS-TTL interfacing. Memory Devices: Memory terminology, general memory operation, semiconductor 
+memory technologies, different types of ROMs, semiconductor RAMs, static and dynamic RAMs, Magnetic bubble memory, 
+CCD memory, FPGA Concept.
+CSE 222 DIGITAL LOGIC DESIGN LAB 
+4 Hours/Week, 2 Credits
+Laboratory works based on CSE 221 including FPGA
+CSE 227 SEMICONDUCTOR DEVICES & CIRCUITS
+4 Hours/Week, 4 Credits
+Theory of Semiconductors: Electronic structure of the elements. Energy levels. Energy band theory of crystals. Energy band 
+diagram  of  Insulator,  semiconductor  &  metal.  Free  electron  theory.  Bond  structure  of  Si  &  Ge.  Intrinsic  &  extrinsic 
+semiconductor. Fermi level. Concept of hole. Carrier densities. generation & recombination of excess carriers. carrier lifetime. 
+carrier  movement  by  diffusion  and  drift.Continuty  equation.  Semiconductor  Diodes: The  pn  junction.  Junction  biasing 
+conditions. Effect of asymmetric doping. I-V characteristics. Dynamic and static resistance of diode. Half wave and Full wave 
+rectification & filtering. Clipping and clamping circuits.  Voltage regulators.  voltage doubler and voltage multiplier. Junction 
+capacitance and Varactor diode. Avaalanche and Zener breakdown. Zener and Tunnel diodes.  Bipolar Transistors: Junction 
+transistors. npn & pnp transistors. Principle of transistor action. Potential distribution through a transistor, Transistor current 
+components, emitter efficiency, transport factor, large signal current gain. Transistor as an amplifier. Transistor characteristics in 
+CB, CE & CC configurations. Large signal, dc, and small signal CE values of current gain. Concept of load lines. Dynamic 
+transfer curves of Ge & Si transistor. Transistor switching times. BJT Biasing and Basic amplifier circuit: The operating point. 
+Capacitive coupling. The static and dynamic load lines. Bias stability. Thermal instability. Stability factor S. Analysis of different 
+types of biasing circuits. Stabilization against variations in V
+BE  
+and beta for the self bias ckt. Bias-compensation and Thermal 
+runaway. Classification of amplifier. BJT small signal amplifier circuit analysis in three configuration using different biasing 
+circuit.  Push-pull  amplifier.Transistor  hybrid  model:  Determination  of  h-parameters  from the  characteristics.  Oscillators: 
+Feedback and circuit requirements for oscillation. Nyquist's  criterion. Sinusoidal oscillators. Barkhausen criterion. Phase-shift 
+93                                                                                                                                    School of Applied Sciences and Technology
+oscillators, resonant circuit oscillators, Colpitt's and Hartley's  Oscillator, Wein bridge oscillator, crystal  oscillator. Frequency 
+stability. Operational Amplifier: Basic differential amplifier. Differential amplifier circuits. Differential amplifier with current 
+mirror and active load. Differential amplifiers in ICs.  Basics of operational amplifiers. The ideal OpAmp. Study of OpAmp 
+parameters. OpAmp circuits. Active filters. Voltage regulation. Sample and hold circuit, phase-lock loop.
+Field Effect Transistors: JFET: construction, operation, static characteristics, small signal model and parameters. MOSFET: 
+different types,  operation, characteristics curves. DC biasing of depletion and enhancement type MOSFET. Different biasing 
+conditions of JFET. Other Semiconductor devices: Industrial electronics devices: Thyristors, SCR, TRIAC, UJT, PUT, DIAC, 
+Shockley diode.  Optoelectronics devices: LED, Liquid Crystal displays (LCD) Photodiodes, Phototransistors, Opto-isolators, 
+Solar cells.
+Reference: 
+1. Electronic Devices & Circuit Theory--- Robert Boylestad, Louis Nashelsky.
+2. Integrated Electronics – Jacob Millman, C. Halkias
+CSE 227 SEMICONDUCTOR DEVICES & CIRCUITS LAB
+4 Hours/Week, 2 Credits
+Laboratory works based on CSE 228
+CSE 233 OBJECT ORIENTED PROGRAMMING LANGUAGE
+3 Hour/week, 3 Credits
+Introduction to Java : History of Java,Java Class Libraries,Introduction to Java Programming,A simple Program. Developing 
+Java Applicaion  :  Introduction,  Algorithms,  Pseudo  code,  Control  Structure,  The  If  /Else  Selection  Structure,  The  While 
+Repetition  Structure,  Assignment  Operators,  Increment  and  Decrement  Operators,  Primitive  Data  Types,  Common  Escape 
+Sequence, Logical Operator
+Control Structure :  Introduction, The For Structure, The Switch Structure, The Do/While Structure, The Break and Continue 
+Structure.  Methods :  Introduction, Program Module in Java, Math Class Methods, Method Definitions, Java API Packages, 
+Automatic Variables, Recursion, Method Overloading, Method of the Applet Class. Arrays : Introduction, Arrays, Declaring and 
+Allocating Arrays, Passing Arrays to Methods, Sorting Arrays, Searching Arrays, Multiple-Subscripted Arrays
+Object-Based Programming : Introduction, Implementing a Time Abstract DataType with  a Class, Class Scope, Controlling 
+Access  to  Members,  Utility  Methods,  Constructors,  Using  Overload  Constructor,  Using  Set  and  Get  Method,  Software 
+Reusability, Friendly Members, Finalizers, Static Class Members, Data Abstraction and Information Hiding
+Object-Oriented  Programming:  Introduction,  Superclasses  and  Subclasses,  Protected  Members,  Using  Constructor  and 
+Finalizers in Subclasses, Composition vs. Inheritance, Introduction to polymorphism, Dynamic method building, Final Methods 
+and Classes, Abstract Superclasses and Concrete Classes. String and Characters, Graphics, Exception Handling, Files and 
+Stream, Java API, Utility Classes, 2D Graphics, GUI, Swing, Events.
+CSE 234 OBJECT ORIENTED PROGRAMMING LANGUAGE LAB.
+6 Hours/Week, 3 Credits
+Laboratory works based on CSE 233.
+CSE 237 ALGORITHM DESIGN AND ANALYSIS
+3 Hours/Week , 3 Credits
+Techniques  for  Analysis  for  Algorithms,  Standard  Efficient  Techniques,  Divide  and  Conquer,  Greedy  Method,  Dynamic 
+Programming,  Back-Tracking, Branch and Bound,  Basic Search and Traversal Techniques ,  Topological  Sorting, Connected 
+Components,  Spanning  Tree,  Shortest  Paths,  Flow  Algorithms,  Approximation  Algorithms,  Graph  Algorithms,  Geometric 
+Algorithms, Parallel Algorithms, Algebraic Simplification and Transformations, Lower Bound Theory, NP Completeness, NP 
+hard and NP complete problems. 
+CSE 238 ALGORITHMS DESIGN AND ANALYSIS LAB
+3 Hours/Week, 1.5 Credits
+Department of Computer Science and Engineering                                                                                                                      94
+Laboratory works based on CSE 237.
+CSE 239 NUMERICAL ANALYSIS
+2 Hours/Week, 2 credits
+Numerical analysis:  Errors in numerical calculations. Error : Definitions, sources, examples. Propagation of Error. A general 
+error formula.  Root finding :  The bisection method and the iteration method, the method of false position. Newton-raphson 
+method.  Methods of  approximation theory : Polynomial  interpolation:  Lagrange form,  divided  formula  for  interpolation. 
+Solution of systems of Linear equations: Gaussian elimination. The pivoting strategy, Iteration method solution of tridiagonal 
+systems.  Numerical  solution  of  ordinary  differential  equations:  Euler's  method  (including  modified  form),  Rnge-Kutta 
+method. Numerical Integration : Trapezoidal method. Simpson's method. Weddle's method; Eigen value problems for matrices, 
+Use of computer to implement projects in numerical methods.
+CSE 240 NUMERICAL ANALYSIS LAB
+2 Hours/Week, 1 credits
+Laboratory works based on CSE 239.
+CSE 300 PROJECT WORK & SEMINAR
+3 Hours/Week, 1.5 Credits
+Based on Theory Courses and Seminar Presentation 
+CSE 323 ELECTRONIC COMMUNICATION
+2 Hours/Week, 2 Credits 
+Principles of communication system: Basic constituents of communication system. Need for using high carrier frequency. 
+Classification of RF spectrum.  Noise: Classification of noise. Addition of noise due to several sources. Signal to noise ratio. 
+Noise figure. Modulation theory: Definition, types of modulation: AM, FM. Mathematical expressions of AM, FM and signals. 
+Comparison of frequency modulation and Amplitude modulation. Pre-emphasis and de-emphasis. Wide band FM and narrow 
+band FM. Stereophonic FM Multiplex system. SSB, DSBSC. Modulation/Demodulation methods. Radio wave propagation: 
+Different types of ratio wave propagation Ionosphere. Vertical heights and critical frequencies of layers. Propagation of RW 
+through  Ionosphere.  Reflection  of  RW.  Skip  distance  and  MUF.  Fading.  Static  and  noise.  Antenna  concepts.  Two  way 
+communication. Principles of Satellite Communication, VSAT. Cellular Mobile Communication: Operation of Cellular mobile 
+Systems, Planning, Analog and Digital Cellular System, AMPS, GSM, TDMA, CDMA, Intelligent cell concept and applications, 
+Frequency Management, switching and Traffic, GPRS, EDGE, WAP.
+CSE 325 MICROPROCESSORS & ASSEMBLY LANGUAGE
+3 Hours/Week, 3 Credits
+Microprocessors: Concept of microprocessor;  Evolution of  microprocessors;  Internal  architecture  of Intel  8085,  8086/8088 
+microprocessors:Instruction set and format, Programming in machine and assembly languages, Interrupt structure, DMA, I/O 
+operation,  Microprocessor  interface  ICs,  Peripheral  interfacing,  Microprocessor  based  system  design,  Coprocessor, 
+Multiprocessor  system;  Intel  80286,  80386  microprocessors:  memory  management  scheme,  Protection  mechanism,  80386 
+modes;  Advanced  microprocessors.  Interfacing  with  analog  world: A/D  conversion,  digital  ramp  ADC,  successive 
+approximation ADC, flush ADC, tristate ADC, D/A converter, DAC specifications, DAC applications, Data acquisition, sample-
+and-hold circuits, multiplexing.
+CSE 326 MICROPROCESSORS & ASSEMBLY LANGUAGE LAB
+3 Hours/Week , 1.5 Credits
+Laboratory works based on CSE 325
+95                                                                                                                                    School of Applied Sciences and Technology
+CSE 327 DATA COMMUNICATION
+3 Hours/Week, 3 Credits
+Introduction: Data communication networks, standards, communication architecture.
+Data Transmission: Spectrum and bandwidth, Time and Frequency Domain, Analog and digital data transmission, Transmission 
+impairments, Channel capacity, Transmission media.
+Data  Encoding: Digital  data  and  digital  signaling,  Analog-to-Digital  Conversion,  Digital-to-Analog,  Digital-to-Digital 
+Conversion.
+Multiplexing:  FDM, WDM, TDM, STDM, Digital Subscriber Line.
+Data Communication Interface: Parallel and Serial Transmission, Asynchronous and synchronous transmission, RS232C (or 
+EIA 232D) standard, Different types of Modems,
+Switching: Space division and time division switching, Two-dimensional switching, Circuit switching, Packet switching and 
+hybrid switching, Timing, Network Synchronization, Routing and Traffic Control.
+Digital Integrated Services Networks: X.25 standard, Frame Relay, ISDN, ATM, SONET/SDH.
+Books: 
+1. Data and Computer Communications - W Stallings, Macmillan, 1994 (4th edition)
+2. Data Communications and Networking – Behrouz A. Forouzan (2nd edition)
+3. Computer n etworks - A. S. Tanenbaum, Addison-Wesley, 1996 (3rd edition) 
+3. Data Communication and Computer Network - Stawling
+CSE 328 DATA COMMUNICATION LAB
+3 Hours/Week, 1.5 Credits
+Lab Based on CSE 327
+CSE 329 COMPUTER ARCHITECTURE
+3 Hours/Week , 3 Credits 
+Introduction: Fundamentals  of Computer Design, Performance and cost.  Instruction Set: Instruction set  design, examples, 
+measurement of use.  Processor Implementation: Datapath,  steps of execution, microprogram, Interrupts.  Pipelining: Basic 
+pipelining, Pipeline Hazards. Memory Hierarchy Design: Principle of locality, general principle, Caches, Main memory, Virtual 
+memory. Input/output Devices: Performance measure, Types of I/O device, Buses and interface to CPU, Parallel Processing.
+CSE 331 SOFTWARE ENGINEERING
+3 Hours/Week, 3 Credits
+Introduction:  Overview  of  Software  Industry,  Introduction  to  Software  Engineering,  Software  Development  Process  and 
+Various Life Cycle Models.  Requirement Analysis: Communication Techniques, Analysis Principles, Software Prototyping, 
+Requirement Specification.  Group Dynamics: Working in Teams, Characteristics of Successful Team, Understanding Group 
+Dynamics, Team Roles and Temperament, Democratic Team and Chief Programmer Team Approach. Introduction to Extreme 
+Programming,  Analysis  Modeling: Steps  of  system  analysis,  Feasibility  study,  Economic  and  technical  analysis,  System 
+specification, the elements of analysis model, Data modeling, Functional modeling and information flow, Behavioral modeling, 
+Mechanics of structured analysis,  Data Dictionary.  Software Design: Design principles, Design Concepts, effective modular 
+design, design heuristics, Data Design, Architectural Design process, Transformation mapping, Transaction mapping, interface 
+design, human-computer interface design, procedural design. Software Testing: Testing fundamentals, test case design, white-
+box  testing,  black-box testing,  testing GUIs,  Unit  testing,  Integration  testing,  validation  testing,  system  testing,  debugging. 
+Maintenance: Major maintenance activities, estimating maintenance cost and productivity.  Technical Metrics for Software: 
+Software quality, Framework for technical metrics, metrics for analysis and design models, source code, testing and maintenance. 
+Software Architecture: Pipe and Filter,  Object  Oriented,  Event  Based,  Layered  System,  Data-centered  repository,  Process 
+Control Architectures,  Objet Oriented Software Engineering: O-O concepts, O-O analysis,  Domain analysis,  O-O analysis 
+process, Object relational model. O-O design: system design process, object design process, O-O programming.  O-O Testing: 
+Testing  strategies,  test  case  design.  Software  Project  Management: Cost  estimation,  risk  analysis,  project  scheduling. 
+Introduction to CASE Tools: What is CASE, taxonomy of CASE tools, iCASE environment, CASE repository, Example CASE 
+tools. Intellectual Properties: Trade Marks, Copy Rights, Trade Secrets, Patents, Introduction to UML. 
+Department of Computer Science and Engineering                                                                                                                      96
+CSE 332 SOFTWARE ENGINEERING LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 333 DATABASE SYSTEM
+3 Hours/Week , 3.0 Credits
+Introduction: Purpose of Database Systems, Data Abstraction, Data Models, Instances and Schemes, Data Independence, Data 
+Definition Language, Data Manipulation Language, Database Manager, Database administrator, Database Users, Overall System 
+Structure,  Advantages  and  Disadvantage  of  a  Database  Systems.  Relationship  Entity-Model:  Entities  and  Entity  Sets, 
+Relationships  and Relationship Sets,  Attributes,  Mapping Constraints,  Keys,  Entity-Relationship  Diagram, Reducing of  E-R 
+Diagram to Tables, Generalization, Aggregation, Design of an E-R Database Scheme. Relational Model: Structure of Relational 
+Database, The Relational Algebra, The Tuple Relational Calculus, The Domain Relational Calculus, Modifying the Database, 
+Views. Relational Commercial Language: SQL, Query-by-Example, Quel. Relational Database Design: Pitfalls in Relational 
+Database Design, Normalization using Functional Dependencies, Normalization using Multivalued Dependencies, Normalization 
+using join Dependencies.  File And System Structure:  Overall System Structure, Physical Storage Media, File Organization, 
+Organization  of  Records  into  Blocks,  Sequential  Files,  Mapping Relational  Data  to  Files,  Data  Dictionary Storage,  Buffer 
+Management. Indexing And Hashing: Basic Concepts, Indexing, B+- Tree Index Files, B-Tree Index Files, Static and Dynamic 
+Hash Function, Comparison of Indexing and Hashing, Index Definition in SQL, Multiple Key Access. Query Processing: Query 
+Interpretation, Equivalence of Expressions, Estimation of Query-Processing Cost, Estimation of Costs of Access Using Indices, 
+Join Strategies,  Join Strategies for parallel Processing, Structure of the query Optimizer.  Concurrency Control:  Schedules, 
+Testing for Serializability,  Lock-Based Protocols,  Timestamp-Based Protocols,  Validation  Techniques,  Multiple  Granularity, 
+Multiversion Schemes, Insert and Delete Operations.  Distributed Database:  Structure of Distributed Databases, Trade-off in 
+Distributing  the  Database,  Design  of  Distributed  Database,  Transparancy  and  Autonomy,  Distributed  Query  Processing, 
+Recovery in Distributed Systems, Commit Protocols, Concurrency Control, Deadlock Handling.
+CSE 334 DATABASE SYSTEM LAB
+6 Hours/Week, 3 Credits
+Laboratory works based on CSE 333.
+CSE 335 OPERATING SYSTEM and SYSTEM PROGRAMMING
+3 Hours/Week, 3 Credits
+Introduction: Operating Systems Concept, Computer System Structures, Operating System Structures.  Process Management: 
+Processes, Process Coordination, Deadlocks. Storage Management: Memory Management, Virtual Memory, Secondary Storage 
+Management  Files and Protection: File Systems, Protection.  Distributed Systems: Distributed System Structure, Distributed 
+Coordination, Distributed File Systems.  Case Studies: Study of a representative Operating Systems,  System Programming: 
+Introduction to System Programming and Linux / Unix, Shell Programming, C Language for System Programming, Make and 
+Make files, Process and Signals,  Threads, Inter process Communications, X- Window Programming, Principle of single and 
+multi user operating systems.
+CSE 336 OPERATING SYSTEMS and SYSTEM PROGRAMMING LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on CSE 335.
+CSE 339 THEORY OF COMPUTATION
+2 Hours/Week , 2.0 Credits
+Finite  Automata: Deterministic  and  nondeterministic  finite  automata  and  their  equivalence.  Equivalence  with  regular 
+expressions. Closure properties. The pumping lemma and applications.  Context-free Grammars: Definitions. Parse trees. The 
+pumping lemma for CFLs and applications. Normal forms. General parsing. Sketch of equivalence with pushdown automata. 
+97                                                                                                                                    School of Applied Sciences and Technology
+Turing Machines: Designing simple TMs. Variations in  the basic  model(multi-tape,  multi-head,  nondeterminism).  Church-
+Turing thesis and evidence to support it through the study of other models.  Undecidability: The undecidability of the halting 
+problem. Reductions to other problems. Reduction in general.
+References : 1. Introduction to Languages and the Theory of Computation, 2nd Edition, by J. C.   
+                    Martin, McGraw Hill Publications, 1997.
+CSE 351 MANAGEMENT INFORMATION SYSTEM
+3 Hours/Week, 3 Credits
+Introduction to MIS : Management Information System Concept, Definitions, Role of MIS, Approaches of MIS development. 
+MIS  and  Computer  :  Computer  Hardware  for  Information  System,  Computer  Software  for  Information  System,  Data 
+Communication  System,  Database  Management  Technology,  Client-Server  Technology.  Decision  Support  System  : 
+Introduction, Evolution of DSS, Functions of a DSS, Development of DSS, Group Decisions of DSS, Relationship between MIS 
+and DSS, Future Development of DSS,  Application of MIS :  Applications of Manufacturing Sector, Applications in Service 
+Sector, Case Studies.
+CSE 400 THESIS
+4 Hours/Week, 2 Credits 
+Project work based on all major courses.
+CSE 402 THESIS
+6 Hours/Week, 3 Credits 
+Project work based on all major courses.
+CSE 421 COMPUTER INTERFACING 
+2 Hours/Week , 2 Credits
+Bus System: ISA, EISA, PCI AGP, Memory Bus. Interface Components: DAC, ADC, Stepper Motor, Transducers, printers, 
+motors and peripherals.  Data Communication concepts: Serial communication, parallel communication, RS2332, Centronics, 
+SCSI, USB and GPIB standards.  Design of computer interface systems: Development of hardware, development of control 
+software development of data analysis and display.
+CSE 422 COMPUTER INTERFACING LAB 
+2 Hours/Week, 1 Credits
+Laboratory works based on CSE 421.
+CSE 431 COMPUTER NETWORKING 
+3 Hours/Week, 3 Credits
+Introduction: Introduction to  Computer Networks,  Network Goals,  Applications  of Networks,  Network Structure,  Network 
+Architectures, The OSI Reference Model, Data Transmission in the OSI Model, OSI Terminology,  Connection-Oriented and 
+Connectionless Services, Service Primitives, Public Networks, The ARPANET, SNA. Local Area Network : LAN Technology - 
+Architecture, Topology, Wireless LAN. LAN System - Ethernet and Fast-Ethernet, Token Ring and FDDI, ATM LANs. Bridges 
+-   Bridges operation,  outing through the bridge, ATM LAN emulation.  Wide Area Network: Circuit switching and Packet 
+Switching concept, Frame Relay - frame relay protocol architecture, frame relay call control, user data transfer, network function 
+and congestion control. The Data Link Layer: Services Provided to the Network Layer, Framing, Error Control, Flow Control, 
+Error  Detection  and  Correction,  Error  Correcting  Codes,  Error  Detecting  Codes,  Stop-and-Wait  Protocol,  Sliding  Window 
+Protocol, Go Back n Protocol, Selective Repeat Protocol, Performance of Stop and Wait Protocol and Sliding Window Protocol,  
+The Data Link Layer in Public Networks, The Data Link Layer in ARPANET.  Communication Architecture and Protocol: 
+Protocols  and  Architecture  -  protocols  ,  network  reference  model,  TCP/IP  protocol  suite.  Internetworking  -  principles  of 
+internetworking, connectionless internetworking, The Internet protocol, Routing Protocol, Ipv6 and ICMv6. Transport Protocol - 
+Department of Computer Science and Engineering                                                                                                                      98
+Transport  Services,  Protocol  mechanisms,  TCP,  UDP.  Network  Security  -  Security  requirements  and  attacks,  Privacy with 
+conventional encryption,  Message Authentication and Hash functions, Public-key encryption and digital signatures, Ipv4 and 
+Ipv6 security. Distributed Applications: Abstract Syntax Notation One (ASN.1), Network Management - SNMPv2, Electronic 
+mail  -  SMTP and  MIME,  Uniform Resource  Locator  (URL)  and  Universal  Resource  Identifier  (URI),  Hypertext  Transfer 
+Protocol (HTTP).
+CSE 432 COMPUTER NETWORKING LAB 
+4 Hours/Week, 2 Credits
+Laboratory works based on CSE 431.
+CSE 433 ARTIFICIAL INTELLIGENCE
+3 Hours/Week, 3 Credits
+What is Artificial Intelligence: The AI problems, The underlying assumption, What is an AI technique.  Problems, Problem 
+spaces and Search: Defining the problem as a state space search, Production system, Problem characteristics. Heuristics Search 
+Techniques: Generate  and Test,  Hill  climbing,  Best  First  Search,  Problem Reduction,  Constraint  Satisfaction,  Means-Ends 
+Analysis.  Knowledge Representation Issues: Representation and Mappings, Approaches to knowledge Representation, Issues 
+in  Knowledge  representation.  Using  Predicate  logic:  Representing  simple  facts  in  logic,  Representing  Instance  and  Isa 
+relationships,  Computable  functions  and  Predicates,  Resolution.  Representing  Knowledge  using  Rules:  Procedural  versus 
+Declarative Knowledge, Logic Programming, Forward versus Backward Reasoning, Matching.  Game playing: Overview, The 
+Mimimax Search Procedure, Adding Alpha-Beta cutoffs, Additional refinements, iterative Deepening, Planning: Overview, An 
+example  Domain:  The  Blocks  World,  Components  of  a  planning  system,  Goal  stack  planning,  Understanding:  What  is 
+Understanding,  What  makes  Understanding  hard,  Understanding  as  constraint  satisfaction.  natural  Language  Processing: 
+Introduction, Syntactic Processing, Semantic Analysis, Discourse and Pragmatic Processing. Expert systems: representing and 
+using domain knowledge, Expert system shells explanation, Knowledge Acquisition. AI Programming Language: Prolog, LISP
+CSE 434 ARTIFICIAL INTELLIGENCE LAB 
+3 Hours/Week, 1.5 Credits
+Laboratory works based on CSE 433.
+CSE 439 COMPILER CONSTRUCTION 
+3 Hours/Week, 3 Credits
+Introduction to compilers: Introductory concepts, types of compilers, applications, phases of a compiler. Lexical analysis: Role 
+of the lexical analyzer, input buffering, token specification, recognition of tokens, symbol tables.  Parsing:  Parser and its role, 
+context free grammars, top-down parsing. Syntax-directed translation: Syntax-directed definitions, construction of syntax trees, 
+top-down translation.  Type checking:  Type systems, type expressions, static and dynamic checking of types, error recovery. 
+Run-time  organization:  Run-time  storage  organization,  storage  strategies.  Intermediate  code  generation: Intermediate 
+languages, declarations, assignment statements.  Code optimization:  Basic concepts of code optimization, principal sources of 
+optimization.  Code  generation:  Features  of  some  common  compilers:  Characteristic  features  of  C,  Pascal  and  Fortran 
+compilers.
+CSE 440 COMPILER CONSTRUCTION LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 451 COMPUTER GRAPHICS 
+3 Hours/Week, 3 Credits
+Computer  Graphics  Programming: OpenGL.  Camera  Analogy: Viewing,  Windowing,  Clipping.  Projective 
+Transformation(Ray-tracing): Orthogonal Projection, Perspective Projection,  Vector: Normal Vector, View Vector,  Matrix: 
+99                                                                                                                                    School of Applied Sciences and Technology
+2D and  3D Rotation  and  Translation  Matrix,  Raster  Graphics: Line  Drawing,  Anti-aliasing,  Polygon  Filling  Algorithms, 
+Hidden Surface  Removal: z-buffering,  Lighting  and Surface  Property:  Diffused  Light,  Ambient  Light,  Specular  Light, 
+Lighting Models for reflection, refraction and transparency, Shading: Flat Shading, Lambert Shading, Phong Shading, Texture 
+Mapping:  Texture  Fundamentals,  Texture  Blending,  Curves  and  Surfaces: Types  of  Curves,  Cubic-Spline,  Beta-Spline, 
+NURBS, Animation: Real time animation, Hardware for real-time animation, Character Animation, Computer Games, Movies, 
+Image Formats: PPM, BMP, Image Based Rendering, Morphing: View-morphing, Volume Metamorphosis.
+References:
+1. Computer Graphics: Principles and Practice, Folley, Van Damn, Feiner, Hughes,
+2. Computer Graphics: A Programming Approach: Steven and Harrington.
+3. OpenGL(r) 1.2 Programming Guide, Third Edition: The Official Guide to Learning OpenGL, Version 1.2: by 
+Mason Woo, Jackie Neider, Tom David, Dave Shriner,  OpenGL Architecture Review Board, Tom Davis, Dave 
+Shreiner.
+4. Graphics Programming in C: Roger T. Stevens.
+5. Texture and Modeling: by David S. Ebert.
+CSE 452 COMPUTER GRAPHICS PROGRAMMING LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 453 INTERNET PROGRAMMING AND MULTIMEDIA BASICS 
+2 Hours/Week,  2 Credits
+Internet  Programming -  An overview of distributed Java applications,  stream-based network applications,  remote objects, 
+database connectivity, and agents. Case studies from enterprise applications and security domains. 
+Multimedia systems - introduction; Coding and compression standards; Architecture issues in multimedia; Operating systems 
+issues in multimedia - real-time OS issues, synchronization, interrupt handling; Database issues in multimedia - indexing and 
+storing  multimedia  data,  disk  placement,  disk  scheduling,  searching  for  a  multimedia  document;  Networking  issues  in 
+multimedia -  Quality-of-service  guarantees,  resource  reservation,  traffic  specification,  haping,  and  monitoring,  admission 
+control;  Multicasting issues; Session directories; Protocols for controlling sessions;  Security issues in multimedia – digital 
+water-marking, partial encryption schemes for video streams; Multimedia applications - audio and video conferencing, video on 
+demand, voice over IP.
+CSE 454 INTERNET PROGRAMMING AND MULTIMEDIA LAB
+2 Hours/Week, 1 Credits
+Laboratory works based on theory class.
+OPTIONS : 
+CSE 425 DIGITAL SIGNAL PROCESSING
+3 Hours/Week, 3 Credits
+Discrete  Signals  and  systems.  Z  transform.  Fourier  transform,  FFT,  DFT,  Digital  filter  design  technique,  interpolation, 
+Decimation.
+CSE 426 DIGITAL SIGNAL PROCESSING LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 427 FIBER OPTICS
+3 Hours/Week, 3 Credits
+Department of Computer Science and Engineering                                                                                                                      100
+Optical fiber: Nature of list, Optics low, Optical fiber mode, Single mode fiber, Graded index structure. Signal degradation in 
+optical fibers:  Attenuation, Signal distortion, Pulse Broadening mode coupling.  Optical sources:  LED, Laser diodes, Light 
+source linearity modal partition and reflection noise. Power launching and Coupling: Source to fiber power launching, lansing 
+scheme, fiber to fiber joints, Splicing fiber connectors.  Photodetectors:  Basic principle, photodelectors noise, response time, 
+Avalauch multiplication noise. Optical receiver operation: Receiver configuration, digital receiver performance preamplifiers. 
+Digital  transmission  system:  Point  to  point  link,  line  coding,  Eye  pattern,  system  performance.  Advanced systems and 
+techniques: WDM, Local area networks, Optical amplifier, Photonic switching.
+CSE 428 FIBER OPTICS LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 441 NEURAL NETWORK
+3 Hours/Week, 3 Credits
+Hopfield Model: Associative  Memory,  Stochastic  Networks,  Correlated Patterns.  Introduction: Neuroscience,  History and 
+Issues.  Optimization Problems: Weighted Matching Problem, Traveling Salesman Problem. Neural Network: Feed-Forward 
+Network, Multi-Layer Network. Unsupervised Learning: Hebbian Learning, Competitive learning.
+CSE 442 NEURAL NETWORK LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on Theory classes.
+CSE 457 PARALLEL PROCESSING
+3 Hours/Week, 3 Credits
+Parallel Computing architectures: Overview of the major classes of architectures and their evolution. Parallel programming 
+models and performance analysis: Modeling, performance analysis,  efficiency, and benchmarking.  Programming parallel 
+computers: Overview of parallel programming, parallel languages, parallelizing compilers, message passing and data parallel 
+Programming models.  Message passing programming and MPI: Uses; historical background and use on MIMD machines; 
+current implementations; programming using the Message Passing Interface (MPI).  Data parallel programming and HPF : 
+Data parallel programming paradigm; historical background and use on SIMD machines; array syntax; Fortran 90 and High 
+Performance  Fortran (HPF).   Shared memory programming,  threads  and OpenMP :  Use of  shared memory  machines; 
+threads; mutual exclusion; locks, semaphores and monitors; parallel Java; programming using OpenMP.  Case Study :  Monte 
+Carlo Simulation of the Ising Model - Case study from computational physics; different approaches to parallelism; regular vs 
+irregular  problems;  techniques  and  tricks  for  parallel  implementation  in  MPI,  HPF,  OpenMP  and  threads.   Distributed 
+computing: Distributed  and  concurrent  computing  on  loosely  coupled  distributed  systems;  motivation  and  applications; 
+transparency and metacomputing; networks and clusters of workstations; cluster management systems.  Distributed computing 
+middleware: Middleware; RPC; DCE; CORBA; Java RMI. Middleware, DCE CORBA Java RMI. Grid computing:  The Grid; 
+Grid computing (metacomputing over wide-area networks); grid computing  environments (Globus, Legion, DISCWorld, ...); 
+Internet computing (SETI@Home, etc). Grid computing: Internet computing.
+CSE 458 PARALLEL PROCESSING LAB 
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 461 DISTRIBUTED SYSTEM
+3 Hours/Week, 3.0 Credits
+Fundamental Distributed Algorithms: Clock synchronization, partial order of events, election algorithms, distributed shared 
+memory, process synchronization. File and Directory Systems: Naming and name resolution; name, directory, and file servers; 
+101                                                                                                                                    School of Applied Sciences and  
+Technology
+cashing.  Distributed  Databases: Locking  and  concurrency  control,  deadlock  handling,  stable  storage,  two-phase  commit. 
+Security  and Protection: Encryption,  public  and private keys,  authentication,  privacy.  Distributed Services: File transfer, 
+electronic mail, World-Wide Web. Examples of Distributed Systems: Some of: Mach, Amoeba, OSF DCE, CORBA, DCOM.
+Reference: Distributed Systems -- Concepts and Design, 3rd ed., by G. Coulouris, J. Dollimore, T. 
+                    Kindberg, Addison--Wesley,2001.
+CSE 462 DISTRIBUTED SYSTEM LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 463 ADVANCED DATABASE SYSTEM
+3 Hours/Week , 3.0 Credits
+Introduction : Object oriented Database, Data Model, Design, Languages;  Object Relational Database: Complex data types, 
+Querying with complex data types, Design;  Distributed Database: Levels of distribution transparency, Translation of global 
+queries to fragment queries,  Optimization of access strategies,  Management of distributed transactions, Concurrency control, 
+reliability,  Administration;  Parallel  Database: Different  types  of  parallelism,  Design  of  parallel  database;  Multimedia 
+Database Systems: Basic concepts, Design, Optimization of access strategies, Management of Multimedia Database Systems, 
+Reliability; Database Wire-housing/Data mining: Basic concepts and algorithms.
+Reference: Oracle Advanced PL/SQL Programming with CD-ROM, by Scott Urman.
+CSE 464 ADVANCED DATABASE SYSTEM LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 465 Digital Image Processing
+3 Hours/Week , 3.0 Credits
+Digital  Image  Fundamentals: Digital  Image  Fundamentals,  A  Simple  Image  Model,  Sampling  and  Quantization,  Basic 
+Relationship between Pixels, Image Geometry. Image Transform: Introduction to the Fourier Transform, The Discrete Fourier 
+Transform,  Properties  of  2D  Fourier  Transform,  The  Fast  Fourier  Transform,  Other  Separable  Image  Transform.  Image 
+Enhancement:  Background, Enhancement by Point-Processing, Spatial Filtering, Enhancement in Frequency Domain, Color 
+Image  Processing.  Image  Restoration:  Degradation  Model,  Diagonalization  of  Circulant  and  Block-Circulant  Matrices, 
+Algebraic Approach to Restoration, Inverse Filtering, Geometric Transformation. Morphological Image and Signal Processing: 
+The principle of Mathematical Morphology, Erosion and Dilation in the Euclidean Space, Closings and Openings, Grayscale 
+Morphology,  Links between Links and Sets,  Grayscale  Morphological  Transformations,  Image Segmentation:  Detection of 
+Discontinuities,  Edge Linking and Boundary Detection,  Thresholding, Region-Oriented Segmentation,  The use of Motion in 
+Segmentation.
+References : 
+1. Digital Image Processing – Rafael C. Gonzalez and Richard E. Woods, Pearson Education Asia.
+2. Non-Linear  Digital Filter : Principles and Applications – I. Pitas and A. N. Venetsanopoulos, Kluwer Academic 
+Publications. 
+CSE 466 DIGITAL IMAGE PROCESSING LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 467 VLSI DESIGN
+3 Hours/Week, 3 Credits
+VLSI design methodology: top-down design approach, technology trends. NMOS, CMOS inverters,  pass transistor and pass 
+Department of Computer Science and Engineering                                                                                                                      102
+gates: dc and transient characteristics. Brief overview of fabrication process: NMOS, CMOS, Bi-CMOS process. NMOS and 
+CMOS  layout,  stick  diagram  and  design  rules.  CMOS  circuit  characteristics  and  performance  estimation:  resistance  and 
+capacitance, rise and fall time, power estimation. Buffer circuit design. Introduction to Bi-CMOS circuits.
+Complex CMOS gates. CMOS building block: multiplexer, barrel shifter, adder, counter, multipliers. Data Path and memory 
+structures. Design style: FPGA and PLDs.
+Introduction to HDL: basic digital design using VHDL.
+CSE 468 VLSI DESIGN LAB
+3 Hours/Week, 1.5 Credits
+Laboratory works based on theory classes.
+CSE 471 MICROWAVE ENGINEERING
+3 Hours/Week 3.0 Credits
+Transmission Lines:  Voltage  and current  in  ideal  lines,  Reflection,  transmission,  standing wave,  impedance  transformation, 
+Smith chart, impedance matching, quarter wave matching, single and double stub matching. Wave-guides: General formulation 
+for  guided  waves,  parallel  plate  wave  guides,  losses  in  the  parallel  plate  Rectangular  wave  guides,  different  modes  of 
+propagation,  losses  ion wave  guides,  Circular  wave guides,  Microstrips,  their  structures  and their  characteristic  impedance. 
+Resonant  Cavities:  Simple  rectangular  resonant  cavities,  Energy  storage,  losses  and  Q  of  the  resonators,  other  modes  in 
+rectangular resonators. Radiation: Radiation from small current element. Radiation from Hertzian dipole, radiation resistance, 
+radiation pattern, Properties of half wave dipole, Description of other types of antennas, mono-pole, horn, rhombic and parabolic 
+reflector. Array antennas and their radiation patterns, Yagi-Uda antenna. Microwave Devices: Directional Coupler, attenuator, 
+phase shifter, circulator etc. Microwave amplifiers and oscillators.   
+CSE 472 MICROWAVE ENGINEERING LAB
+3 Hours/Week 1.5 Credits
+Laboratory works based on theory classes.
+CSE 473 CELLULAR MOBILE SYSTEM & NETWORK PLANNING 
+3 Hours/Week 3 Credits
+Introduction to wireless communications and mobile applications. Cellular networks. Mobility management. GSM, GPRS, 3G 
+networks.  WAP. Cellular  network planning. Wireless LANs and Mobile IP. Ad hoc wireless  networks.  Wireless broadband 
+networks. Satellite networks.
+CSE 474 CELLULAR MOBILE SYSTEM & NETWORK PLANNING LAB
+3 Hours/Week 1.5 Credits
+Laboratory works based on theory classes.
+CSE 475 IP TELEPHONY
+2 Hours/Week 2 Credits
+Introduction – The Business of Telecommunications and where IP Telephony Fits, Definitions, Concepts, and Terminology, 
+The current state of Telecommunications Technology, Services, and Applications (Technology Convergence), Telephony Issues 
+that all Technologies (Analog, xDSL, VoIP) must Consider for Service Provision, Transmission, Signaling, Call control, Media 
+Processing, Switching, Quality of Service, Applications and Economics of Telephony based services, Rating and Billing of Calls, 
+Exercise – Simplified Telephony Business Decision,  Take home review exam, xDSL – Broadband Voice and Data Service 
+Provision,  Definitions,  Concepts,  and Terminology,  ADSL,  SDSL,  HDSL,  VDSL, IDSL-ISDN, S-HDSL (HDSL-2),ADSL-
+2,Basic Configuration, How it Works, xDSL Service Requirements (Voice, Fax, Video, Data),Economics of xDSL, Relationship 
+between xDSL and IP Telephony, Exercise – Making a business case for xDSL to a customer, Take home review questions, IP 
+Telephony – Introduction,  Definitions, Concepts, and Terminology, How does it Work? How Well Does it Work? What is 
+Internet Telephony Good For? Open Versus Proprietary Systems, Typical VoIP Architecture, Telephone (PSTN) Interface(s), 
+103                                                                                                                                    School of Applied Sciences and  
+Technology
+Exercise – Make a simple business case comparing Voice services using POTS, xDSL, and VoIP technologies, Take home exam 
+review questions, IP Telephony Transmission, Signaling, Call Control, and Media Processing Issues, Voice Coders Issues, Echo 
+Cancellation Issue, DTMF Detection and Notch-Out Issues, Routing and Switching Issues,  Quality of Service Issues (QoS), 
+Bandwidth Management, SS7 and IP, Examples of IP Telephony in a Business Environment, Economics of IP Telephony, Exam 
+Review Questions, Summary and Review of Material Covered, The Business of Telecommunications, xDSL Technology and 
+Services, IP Telephony,
+CSE 476 IP TELEPHONY LAB
+2 Hours/Week 1 Credits
+Laboratory works based on theory classes.
+CSE 477 OPTICAL COMMUNICATION 
+3 Hours/Week 3 Credits
+Introduction  to  Optical  Communication.  Elementary  theory  of  propagation  through  optical  fibers.  Reflection,  Refraction, 
+Dispersion and attenuation of signals propagation through Fiber Cables. Propagation characteristics of different kinds of fibers. 
+Optical Transmitter: Laser in the field of optical communication. Optical detector, receivers and amplifiers. Unguided and guided 
+optical  communication  system.  Economy  of  optical  fiber  system  in  Telecommunication,  Local  data  distribution,  data 
+transmission and telemetry. Optical fiber digital commyunication. 
+CSE 478 OPTICAL COMMUNICATION  LAB
+3 Hours/Week 1.5 Credits
+Laboratory works based on theory classes.
+*(A-CEP, B-CEE, C-IPE, D-CHE, E-MAT, F-PHY, G-ANP, H-ECO, I-PAD, J-PSS, K-SCW, L-SOC, M-BAN, N-FOR, 
+O-ENG, P-FTC, Z-PGE, R-ARC, S-GEN, T-BTC, U-BNG, V-PAD)

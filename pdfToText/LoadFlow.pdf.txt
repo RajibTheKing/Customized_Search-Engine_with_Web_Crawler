@@ -1,0 +1,490 @@
+  
+Shahjalal University of Science and Technology 
+(SUST) 
+  
+ 
+Lecturer note-01 
+Subject : Power System -1  
+ 
+Topics: Bus Admittance Matrix and Load 
+flow Studies   
+ 
+ 
+ 
+Prepared by 
+Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 2 
+ 
+Network Admittance and Impedance Matrices 
+Overview 
+As we have seen in Chapter 1 that a power system network can be converted into an equivalent 
+impedance diagram. This diagram forms the basis of power flow (or load flow) studies and short 
+circuit analysis. In this chapter we shall discuss the formation of bus admittance matrix (also 
+known as Ybus matrix) and bus impedance matrix (also known as Zbus matrix). These two 
+matrices are related by  
+ We shall discuss the formation of the Ybus matrix first. This will be followed by the discussion of 
+the formation of the Zbus matrix.  
+ 
+Section I: Formation of Bus Admittance Matrix  
+ Node Elimination by Matrix Partitioning  
+ Node Elimination by Kron Reduction  
+ Inclusion of Line Charging Capacitors  
+ 
+Formation of Bus Admittance Matrix  
+Consider the voltage source VS with a source (series) impedance of ZS as shown in Fig. 3.1 (a). 
+Using Norton's theorem this circuit can be replaced by a current source IS with a parallel 
+admittance of YS as shown in Fig. 3.1 (b). The relations between the original system and the 
+Norton equivalent are  
+ 
+  
+We shall use this Norton's theorem for the formulation of the Ybus matrix.  
+ 
+Fig. 3.1 (a) Voltage source with a source impedance and (b) its Norton equivalent.  
+ 
+(3.1) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 3 
+ 
+For the time being we shall assume the short line approximation for the formulation of the bus 
+admittance matrix. We shall thereafter relax this assumption and use the π -representation of the 
+network for power flow studies. Consider the 4-bus power system shown in Fig. 3.2. This 
+contains two generators G1 and G2 that are connected through transformers T1 and T2 to buses 1 
+and 2. Let us denote the synchronous reactances of G1 and G2 by XG1 and XG2 respectively and 
+the leakage reactances of T1 and T2 by XT1 and XT2 respectively. Let Zij, i = 1, ..., 4 and j = 1, ... , 
+4 denote the line impedance between buses i and j .  
+ 
+Fig. 3.2 Single-line diagram of a simple power network. 
+ 
+Then the system impedance diagram is as shown in Fig. 3.3 where Z11 = j ( XG1 + XT1 ) and Z22 = 
+j ( XG2 + XT2 ). 
+ 
+Fig. 3.3 Impedance diagram of the power network of Fig. 3.2. 
+In this figure the nodes with the node voltages of V1 to V4 indicate the buses 1 to 4 respectively. 
+Bus 0 indicates the reference node that is usually the neutral of the Y-connected system. The 
+impedance diagram is converted into an equivalent admittance diagram shown in Fig. 3.4. In this 
+diagram Yij = 1/ Zij , i = 1,..., 4 and j = 1, ... , 4. The voltage sources EG1 and EG2 are converted 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 4 
+ 
+into the equivalent current sources I1 and I2 respectively using the Norton's theorem discussed 
+before.  
+ 
+Fig. 3.4 Equivalent admittance diagram of the impedance of Fig. 3.3. 
+We would like to determine the voltage-current relationships of the network shown in Fig. 3.4. It 
+is to be noted that this relation can be written in terms of the node (bus) voltages V1 to V4 and 
+injected currents I1 and I2 as follows  
+ 
+ or, 
+ It can be easily seen that we get (3.1) from (3.3) and (3.4).  
+Consider node (bus) 1 that is connected to the nodes 2 and 3. Then applying KCL at this node we 
+get  
+ 
+(3.3) 
+ 
+(3.4) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 5 
+ 
+ 
+In a similar way application of KCL at nodes 2, 3 and 4 results in the following equations  
+ 
+Combining (3.5) to (3.8) we get  
+ 
+Comparing (3.9) with (3.3) we can write  
+In general the format of the Ybus matrix for an n -bus power system is as follows  
+ 
+(3.5) 
+ 
+ 
+(3.6) 
+ 
+(3.7) 
+ 
+(3.8) 
+ 
+(3.9) 
+ 
+(3.10) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 6 
+ 
+ 
+where  
+ It is to be noted that Ybus is a symmetric matrix in which the sum of all the elements of the k th 
+column is Ykk .  
+ 
+ 
+Inclusion of Line Charging Capacitors  
+So far we have assumed that the transmission lines are modeled with lumped series impedances 
+without the shunt capacitances. However in practice, the Ybus matrix contains the shunt 
+admittances for load flow analysis in which the transmission lines are represented by its π -
+equivalent. Note that whether the line is assumed to be of medium length or long length is 
+irrelevant as we have seen in Chapter 2 how both of them can be represented in a p -equivalent.  
+Consider now the power system of Fig. 3.2. Let us assume that all the lines are represented in an 
+equivalent- π with the shunt admittance between the line i and j being denoted by Ychij . Then the 
+equivalent admittance at the two end of this line will be Ychij/2. For example the shunt 
+capacitance at the two ends of the line joining buses 1 and 3 will be Ych13/2. We can then modify 
+the admittance diagram Fig. 3.4 as shown in Fig. 3.6. The Ybus matrix of (3.10) is then modified 
+as  
+(3.22) 
+where  
+ 
+(3.11) 
+ 
+(3.12) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 7 
+ 
+ 
+  
+ 
+Fig. 3.6 Admittance diagram of the power system Fig. 3.2 with line charging capacitors. 
+Elements Of The Bus Impedance And Admittance Matrices 
+Equation (3.1) indicates that the bus impedance and admittance matrices are inverses of each 
+other. Also since Ybus is a symmetric matrix, Zbus is also a symmetric matrix. Consider a 4-bus 
+system for which the voltage-current relations are given in terms of the Ybus matrix as  
+ 
+(3.23) 
+ 
+(3.24) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 8 
+ 
+ 
+We can then write  
+This implies that Y11 is the admittance measured at bus-1 when buses 2, 3 and 4 are short 
+circuited. The admittance Y11 is defined as the self admittance at bus-1. In a similar way the self 
+admittances of buses 2, 3 and 4 can also be defined that are the diagonal elements of the Ybus 
+matrix. The off diagonal elements are denoted as the mutual admittances . For example the 
+mutual admittance between buses 1 and 2 is defined as  
+ The mutual admittance Y12 is obtained as the ratio of the current injected in bus-1 to the voltage 
+of bus-2 when buses 1, 3 and 4 are short circuited. This is obtained by applying a voltage at bus-
+2 while shorting the other three buses.  
+The voltage-current relation can be written in terms of the Zbus matrix as  
+  
+  
+  
+The driving point impedance at bus-1 is then defined as  
+ 
+(3.25) 
+ 
+(3.26) 
+ 
+(3.27) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 9 
+ 
+  
+ i.e., the driving point impedance is obtained by injecting a current at bus-1 while keeping buses 
+2, 3 and 4 open-circuited. Comparing (3.26) and (3.28) we can conclude that Z11 is not the 
+reciprocal of Y11 . The transfer impedance between buses 1 and 2 can be obtained by injecting a 
+current at bus-2 while open-circuiting buses 1, 3 and 4 as  
+ It can also be seen that Z12 is not the reciprocal of Y12 .  
+ 
+Load Flow Studies 
+Overview 
+Load flow studies are one of the most important aspects of power system planning and operation. 
+The load flow gives us the sinusoidal steady state of the entire system - voltages, real and 
+reactive power generated and absorbed and line losses. Since the load is a static quantity and it is 
+the power that flows through transmission lines, the purists prefer to call this Power Flow 
+studies rather than load flow studies. We shall however stick to the original nomenclature of 
+load flow.  
+Through the load flow studies we can obtain the voltage magnitudes and angles at each bus in 
+the steady state. This is rather important as the magnitudes of the bus voltages are required to be 
+held within a specified limit. Once the bus voltage magnitudes and their angles are computed 
+using the load flow, the real and reactive power flow through each line can be computed. Also 
+based on the difference between power flow in the sending and receiving ends, the losses in a 
+particular line can also be computed. Furthermore, from the line flow we can also determine the 
+over and under load conditions.  
+The steady state power and reactive power supplied by a bus in a power network are expressed in 
+terms of nonlinear algebraic equations. We therefore would require iterative methods for solving 
+these equations. In this chapter we shall discuss two of the load flow methods. We shall also 
+delineate how to interpret the load flow results.  
+ 
+ 
+(3.28) 
+ 
+(3.29) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 10 
+ 
+Classification Of Buses 
+For load flow studies it is assumed that the loads are constant and they are defined by their real 
+and reactive power consumption. It is further assumed that the generator terminal voltages are 
+tightly regulated and therefore are constant. The main objective of the load flow is to find the 
+voltage magnitude of each bus and its angle when the powers generated and loads are pre-
+specified. To facilitate this we classify the different buses of the power system shown in the chart 
+below.  
+ 
+In the next slide we'll discuss them in details. 
+Load Buses : In these buses no generators are connected and hence the generated real power PGi 
+and reactive power QGi are taken as zero. The load drawn by these buses are defined by real 
+power -PLi and reactive power -QLi in which the negative sign accommodates for the power 
+flowing out of the bus. This is why these buses are sometimes referred to as P-Q bus. The 
+objective of the load flow is to find the bus voltage magnitude |Vi| and its angle δi.  
+Voltage Controlled Buses : These are the buses where generators are connected. Therefore the 
+power generation in such buses is controlled through a prime mover while the terminal voltage is 
+controlled through the generator excitation. Keeping the input power constant through turbine-
+governor control and keeping the bus voltage constant using automatic voltage regulator, we can 
+specify constant PGi and | Vi | for these buses. This is why such buses are also referred to as P-V 
+buses. It is to be noted that the reactive power supplied by the generator QGi depends on the 
+system configuration and cannot be specified in advance. Furthermore we have to find the 
+unknown angle δi of the bus voltage.  
+Slack or Swing Bus : Usually this bus is numbered 1 for the load flow studies. This bus sets the 
+angular reference for all the other buses. Since it is the angle difference between two voltage 
+sources that dictates the real and reactive power flow between them, the particular angle of the 
+slack bus is not important. However it sets the reference against which angles of all the other bus 
+voltages are measured. For this reason the angle of this bus is usually chosen as 0° . Furthermore 
+it is assumed that the magnitude of the voltage of this bus is known.  
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 11 
+ 
+Now consider a typical load flow problem in which all the load demands are known. Even if the 
+generation matches the sum total of these demands exactly, the mismatch between generation 
+and load will persist because of the line I 
+2
+R losses. Since the I 
+2
+R loss of a line depends on the 
+line current which, in turn, depends on the magnitudes and angles of voltages of the two buses 
+connected to the line, it is rather difficult to estimate the loss without calculating the voltages and 
+angles. For this reason a generator bus is usually chosen as the slack bus without specifying its 
+real power. It is assumed that the generator connected to this bus will supply the balance of the 
+real power required and the line losses. 
+Preparation Of Data For Load Flow 
+Let real and reactive power generated at bus- i be denoted by PGi and QGi respectively. Also let 
+us denote the real and reactive power consumed at the i 
+th
+ th bus by PLi and QLi respectively. 
+Then the net real power injected in bus- i is  
+  
+Let the injected power calculated by the load flow program be Pi, calc . Then the mismatch 
+between the actual injected and calculated values is given by  
+  
+In a similar way the mismatch between the reactive power injected and calculated values is given 
+by  
+  
+The purpose of the load flow is to minimize the above two mismatches. It is to be noted that 
+(4.6) and (4.7) are used for the calculation of real and reactive power in (4.9) and (4.10). 
+However since the magnitudes of all the voltages and their angles are not known a priori, an 
+iterative procedure must be used to estimate the bus voltages and their angles in order to 
+calculate the mismatches. It is expected that mismatches ΔPi and ΔQi reduce with each iteration 
+ 
+(4.8) 
+ 
+(4.9) 
+ 
+(4.10) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 12 
+ 
+and the load flow is said to have converged when the mismatches of all the buses become less 
+than a very small number.  
+For the load flow studies we shall consider the system of Fig. 4.1, which has 2 generator and 3 
+load buses. We define bus-1 as the slack bus while taking bus-5 as the P-V bus. Buses 2, 3 and 4 
+are P-Q buses. The line impedances and the line charging admittances are given in Table 4.1. 
+Based on this data the Y bus matrix is given in Table 4.2. This matrix is formed using the same 
+procedure as given in Section 3.1.3. It is to be noted here that the sources and their internal 
+impedances are not considered while forming the Ybus matrix for load flow studies which deal 
+only with the bus voltages.  
+ 
+Fig. 4.1 The simple power system used for load flow studies. 
+Table 4.1 Line impedance and line charging data of the system of Fig. 4.1. 
+Line (bus to bus)  Impedance  Line charging ( Y /2)  
+1-2  0.02 + j 0.10  j 0.030  
+1-5  0.05 + j 0.25  j 0.020  
+2-3  0.04 + j 0.20  j 0.025  
+2-5  0.05 + j 0.25  j 0.020  
+3-4  0.05 + j 0.25  j 0.020  
+3-5  0.08 + j 0.40  j 0.010  
+4-5  0.10 + j 0.50  j 0.075  
+  
+ 
+ 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 13 
+ 
+Table 4.2 Ybus matrix of the system of Fig. 4.1. 
+ 1  2  3  4  5  
+1 2.6923 - j 13.4115  - 1.9231 + j 9.6154  0  0  - 0.7692 + j 3.8462  
+2 - 1.9231 + j 9.6154  3.6538 - j 18.1942  - 0.9615 + j 4.8077  0  - 0.7692 + j 3.8462  
+3 0  - 0.9615 + j 4.8077  2.2115 - j 11.0027  - 0.7692 + j 3.8462  - 0.4808 + j 2.4038  
+4 0  0  - 0.7692 + j 3.8462  1.1538 - j 5.6742  - 0.3846 + j 1.9231  
+5 - 0.7692 + j 3.8462  - 0.7692 + j 3.8462  - 0.4808 + j 2.4038  - 0.3846 + j 1.9231  2.4038 - j 11.8942  
+The bus voltage magnitudes, their angles, the power generated and consumed at each bus are 
+given in Table 4.3. In this table some of the voltages and their angles are given in boldface 
+letters. This indicates that these are initial data used for starting the load flow program. The 
+power and reactive power generated at the slack bus and the reactive power generated at the P-V 
+bus are unknown. Therefore each of these quantities are indicated by a dash ( - ). Since we do not 
+need these quantities for our load flow calculations, their initial estimates are not required. Also 
+note from Fig. 4.1 that the slack bus does not contain any load while the P-V bus 5 has a local 
+load and this is indicated in the load column. 
+Table 4.3 Bus voltages, power generated and load - initial data. 
+Bus no.  Bus voltage  Power generated  Load  
+  Magnitude (pu) Angle (deg)  P (MW)  Q (MVAr)  P (MW) P (MVAr)  
+1  1.05  0  -  -  0  0  
+2  1  0  0  0  96  62  
+3  1  0  0  0  35  14  
+4  1  0  0  0  16  8  
+5  1.02  0  48  -  24  11  
+Load Flow by Gauss-Seidel Method 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 14 
+ 
+ Updating Load Bus Voltages  
+ Updating P-V Bus Voltages  
+ Convergence of the Algorithm  
+The basic power flow equations (4.6) and (4.7) are nonlinear. In an n -bus power system, let the 
+number of P-Q buses be np and the number of P-V (generator) buses be ng such that n = np + ng + 
+1. Both voltage magnitudes and angles of the P-Q buses and voltage angles of the P-V buses are 
+unknown making a total number of 2np + ng quantities to be determined. Amongst the known 
+quantities are 2np numbers of real and reactive powers of the P-Q buses, 2ng numbers of real 
+powers and voltage magnitudes of the P-V buses and voltage magnitude and angle of the slack 
+bus. Therefore there are sufficient numbers of known quantities to obtain a solution of the load 
+flow problem. However, it is rather difficult to obtain a set of closed form equations from (4.6) 
+and (4.7). We therefore have to resort to obtain iterative solutions of the load flow problem.  
+At the beginning of an iterative method, a set of values for the unknown quantities are chosen. 
+These are then updated at each iteration. The process continues till errors between all the known 
+and actual quantities reduce below a pre-specified value. In the Gauss-Seidel load flow we 
+denote the initial voltage of the i
+ th
+ bus by Vi
+(0)
+ , i = 2, ... , n . This should read as the voltage of 
+the i
+ th
+ bus at the 0
+th
+ iteration, or initial guess. Similarly this voltage after the first iteration will be 
+denoted by Vi
+(1)
+ . In this Gauss-Seidel load flow the load buses and voltage controlled buses are 
+treated differently. However in both these type of buses we use the complex power equation 
+given in (4.5) for updating the voltages. Knowing the real and reactive power injected at any bus 
+we can expand (4.5) as  
+ 
+We can rewrite (4.11) as  
+ In this fashion the voltages of all the buses are updated. We shall outline this procedure with the 
+help of the system of Fig. 4.1, with the system data given in Tables 4.1 to 4.3. It is to be noted 
+that the real and reactive powers are given respectively in MW and MVAr. However they are 
+converted into per unit quantities where a base of 100 MVA is chosen.  
+ 
+(4.11) 
+ 
+(4.12) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 15 
+ 
+Updating Load Bus Voltages  
+Let us start the procedure with bus-2 of the 5 bus 7 line system given in fig: 4.1. Since this is 
+load bus, both the real and reactive power into this bus is known. We can therefore write from 
+(4.12)  
+  
+  
+From the data given in Table 4.3 we can write  
+  
+  
+It is to be noted that since the real and reactive power is drawn from this bus, both these 
+quantities appear in the above equation with a negative sign. With the values of the Y bus 
+elements given in Table 4.2 we get V2
+1
+ = 0.9927 < − 2.5959° .  
+The first iteration voltage of bus-3 is given by  
+  
+  
+Note that in the above equation since the update for the bus-2 voltage is already available, we 
+used the 1
+st
+ iteration value of this rather than the initial value. Substituting the numerical data we 
+get V3
+(1)
+ = 0.9883 < − 2. 8258° . Finally the bus-4 voltage is given by  
+ 
+(4.13) 
+ 
+ 
+ 
+(4.14) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 16 
+ 
+  
+  
+Solving we get V4
+(1)
+ = 0. 9968 < −3.4849° . 
+ 
+Updating P-V Bus Voltages  
+It can be seen from Table 4.3 that even though the real power is specified for the P-V bus-5, its 
+reactive power is unknown. Therefore to update the voltage of this bus, we must first estimate 
+the reactive power of this bus. Note from Fig. 4.11 that  
+  
+  
+And hence we can write the k
+th
+ iteration values as  
+  
+  
+For the system of Fig. 4.1 we have  
+  
+  
+ 
+(4.15) 
+ 
+(4.16) 
+ 
+(4.17) 
+ 
+(4.18) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 17 
+ 
+This is computed as 0.0899 per unit. Once the reactive power is estimated, the bus-5 voltage is 
+updated as  
+  
+  
+It is to be noted that even though the power generation in bus-5 is 48 MW, there is a local load 
+that is consuming half that amount. Therefore the net power injected by this bus is 24 MW and 
+consequently the injected power P5, inj in this case is taken as 0.24 per unit. The voltage is 
+calculated as V5
+(1)
+ = 1.0169 < − 0.8894° . Unfortunately however the magnitude of the voltage 
+obtained above is not equal to the magnitude given in Table 4.3. We must therefore force this 
+voltage magnitude to be equal to that specified. This is accomplished by  
+  
+  
+This will fix the voltage magnitude to be 1.02 per unit while retaining the phase of − 0.8894 ° . 
+The corrected voltage is used in the next iteration.  
+ 
+Convergence of the Algorithm  
+As can be seen from Table 4.3 that a total number of 4 real and 3 reactive powers are known to 
+us. We must then calculate each of these from (4.6) and (4.7) using the values of the voltage 
+magnitudes and their angle obtained after each iteration. The power mismatches are then 
+calculated from (4.9) and (4.10). The process is assumed to have converged when each of ΔP2 , 
+ΔP3, ΔP4 , ΔP5 , ΔQ2 , ΔQ3 and ΔQ4 is below a small pre-specified value. At this point the 
+process is terminated.  
+Sometimes to accelerate computation in the P-Q buses the voltages obtained from (4.12) is 
+multiplied by a constant. The voltage update of bus- i is then given by  
+ 
+(4.19) 
+ 
+(4.20) 
+Prepared by Tuhin Dev, Lecturer, Department of EEE Page 18 
+ 
+  
+  
+where λ is a constant that is known as the acceleration factor . The value of λ has to be below 
+2.0 for the convergence to occur. Table 4.4 lists the values of the bus voltages after the 1
+st
+ 
+iteration and number of iterations required for the algorithm to converge for different values of λ. 
+It can be seen that the algorithm converges in the least number of iterations when λ is 1.4 and the 
+maximum number of iterations are required when λ is 2. In fact the algorithm will start to 
+diverge if larger values of acceleration factor are chosen. The system data after the convergence 
+of the algorithm will be discussed later.  
+Table 4.4 Gauss-Seidel method: bus voltages after 1 st iteration and number of iterations 
+required for convergence for different values of l .  
+ 
+ Bus voltages (per unit) after 1
+st
+ iteration No of iterations 
+for convergence V2 V3 V4 V5 
+1 0.9927 2.6 0.9883 2.83 0.9968 3.48 1.02  0.89 28 
+2 0.9874 5.22 0.9766 8.04 0.9918 14.02 1.02 4.39 860 
+1.8 0.9883 4.7 0.9785 6.8 0.9903 11.12 1.02 3.52 54 
+1.6 0.9893 4.17 0.9807 5.67 0.9909 8.65 1.02 2.74 24 
+1.4 0.9903 3.64 0.9831 4.62 0.9926 6.57 1.02 2.05 14 
+1.2 0.9915 3.11 0.9857 3.68 0.9947 4.87 1.02 1.43 19 
+ 
+ 
+ 
+(4.21) 

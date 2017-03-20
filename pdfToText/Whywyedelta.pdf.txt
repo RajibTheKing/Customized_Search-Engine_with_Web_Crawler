@@ -1,0 +1,165 @@
+ Shahjalal University of Science and 
+Technology (SUST) 
+ 
+   
+Wye-Delta 
+Connection in Power 
+System 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by 
+Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST) 
+Wye-Delta Connection in Power System 
+ 
+Prepared by Tuhin Dev 
+Lecturer, Shahjalal University of Science and Technology (SUST)  Page 2 
+ 
+Introduction 
+In order, to understand the capabilities of a power system, we need to understand the different 
+types of power systems and the different topologies that are available. A power system can be 
+manufactured in two types:  
+ WYE Power System  
+ DELTA Power System 
+WYE Power System 
+The WYE power system generally offers neutral grounding giving the user a dual voltage system 
+which is ground fault protected and the neutral reference many drive systems required for 
+operation. The phase voltages are balanced to ground level unless the neutral is not hooked up 
+and/or disconnected. If the neutral is not connected the system can no longer be used as a dual 
+voltage power system. This could result in phase voltages becoming unstable. Transient voltages 
+can cause severe damage to the insulation systems of all the equipment connected to it. WYE 
+power systems cannot and do not filter out the harmonic noise caused by the controls and drives 
+they are powering. 
+DELTA Power System 
+The DELTA power system is generally not grounded with an intentional ground connection at 
+the power transformer level so the ground current level is very low with the first ground fault. It 
+can operate smoothly with one phase solidly grounded. It is a natural harmonic filter and can 
+feed surge current when necessary with less line voltage fluctuations. The DELTA power system 
+design has been the workhorse of the industry for years, but it also has its draw backs: Phase 
+voltages can become unbalanced to ground for many reasons, there is no neutral reference 
+required by some drive manufacturers, and the second ground causes a phase-to-phase fault 
+through ground. Transient voltage events cause high voltage stress on the insulation systems of 
+all of the equipment. 
+Different Topologies 
+There are approximately eleven 3-Phase transformer power system connections but the four main 
+types are DELTA-WYE, DELTA-DELTA, WYE-DELTA, and WYE-WYE. Each connection 
+has unique advantages except for the WYE-WYE.  
+DELTA-WYE: (Isolation Transformer) the primary winding acts as a harmonic filter by 
+circulating currents through the phases. The secondary winding with a properly grounded 
+neutral, operates single phase and three phase loads, provides dual voltages, is ground fault 
+protected and the phase voltages are solidly ground referenced.  
+Wye-Delta Connection in Power System 
+ 
+Prepared by Tuhin Dev 
+Lecturer, Shahjalal University of Science and Technology (SUST)  Page 3 
+ 
+The DELTA-WYE is very popular in office buildings but has serious limitations in most 
+industrial facilities as the secondary is very susceptible to harmonics. The primary-secondary 
+phase shift is 210 degrees. 
+DELTA-DELTA: (Isolation Transformer) the primary as well as the secondary winding can 
+dissipate harmonic noise, can run "open delta" with only two transformers either by design or in 
+an emergency. The primary and secondary coils of the bad phase can simply be disconnected and 
+run in most (58 percent) of the original 3-Phase transformer bank capacity. This has been the 
+workhorse of the industry as production activities can continue even with one phase solidly 
+grounded and required maintenance can locate and repair during non-production times. 
+WYE-DELTA: (Isolation Transformer) the primary winding is solidly ground referenced for 
+phase voltage stability and the secondary winding dissipates harmonics. This design can operate 
+with one phase solidly grounded. The WYE-DELTA transformer can operate "open-WYE/open 
+DELTA" with only two transformers either by design or in an emergency. The primary and 
+secondary coils of the bad phase can simply be disconnected and run in most (58 percent) of the 
+original 3-Phase transformer bank capacity. The Primary-Secondary phase shift is 210 degrees. 
+WYE-WYE: (No Isolation, least secure design) the primary and secondary coils are normally 
+both grounded and some are supplied with an integral ground common to the primary and 
+secondary. Environmental noise and background noise will enter the users facility unimpeded to 
+every machine, drive and control as it is directly coupled from input to output.  
+An isolation transformer filters low frequency noise by the inductive coupling between primary 
+and secondary and an electrostatic shield can be inserted between the primary winding and the 
+secondary winding to filter high frequency noise that is coupled by capacitive interaction.  
+The WYE-WYE transformer connection has no filtering and all the noise on your power system 
+is shared. The WYE secondary is very susceptible to harmonics. WYE-WYE systems generate 
+considerable interference with communications systems and some jurisdictions prohibit their use. 
+With the neutral not used or not connected to ground in a WYE-WYE system, the phase voltages 
+become unstable and the entire system is susceptible to damage from transient voltage events and 
+the harmonics now travel in the phase conductors. It is best to never try and parallel a WYE 
+transformer with a DELTA transformer because they have a 30-degree phase differential.  
+ 
+ 
+ 
+ 
+ 
+Wye-Delta Connection in Power System 
+ 
+Prepared by Tuhin Dev 
+Lecturer, Shahjalal University of Science and Technology (SUST)  Page 4 
+ 
+Performance 
+The transformer connection that will perform best in your facility depends on your application. 
+DELTA-WYE is best suited for officies and storage facilities with the neutral solidly grounded. 
+The best transformer connection for heavy 3-Phase industrial applications is the DELTA-
+DELTA 3-wire ungrounded. This will give the user maximum uptime, the lowest total harmonic 
+distortion (THD) and the most stable line voltages. The addition of Phaseback removes all 
+problems on the DELTA secondary.  
+Potential Solution - Applied Energy EMTVSS 
+Applied Energy has introduced a cost effective solution to such power related issues. Applied 
+Energy had developed a method to stabilize the phase voltages in ungrounded DELTA and WYE 
+power systems by employing unique electromagnetic suppression techniques. These techniques 
+deal with noise or control problems by prevention and suppression. There are other servo 
+stabilizers available that can provide phase correction, but such stabilizers are limited to only 
+providing phase correction. Applied Energy's Phaseback technology provides the phase 
+correction in addition to harmonic filtering. 
+Low voltage conditions caused by overload and poor power factor can simply be solved by 
+connecting a power factor correction capacitor to the motor controller of the larger electric 
+motors not operated by adjustable speed drive controllers. By properly sizing and connecting the 
+power factor correction capacitors, the electric motors will draw about 10 percent less amps than 
+they did before. This can free up system capacity or simply lighten the load on the power system. 
+Lower amps equate directly to the bottom line in efficiency, power loss and system voltage 
+stability. 
+Harmonic noise on the phase conductors attempt to make electric motors run at many speeds at 
+the same time causing heat and inefficient operation. This can also cause heat and overload on 
+transformers and other inductors.  
+Applied Energy is developing a patent pending ungrounded WYE system called Phaseback 
+EMTVSS (electromagnetic transient voltage surge suppressor). This unit can stabilize the phase 
+voltages and filter phase voltage and current harmonics. It also acts as a filter for line voltage and 
+current harmonics. Applied Energy is planning to introduce the Phaseback product for grounded 
+WYE power systems and also a single-phase version of the Phaseback EMTVSS for filtering 
+noise and stabilizing and balancing voltages. 
+In ungrounded power systems the Phaseback EMTVSS filters out harmonics, balances phase 
+voltage to ground, establishes the neutral reference required by many drive control systems, 
+filters out and prevents transient voltage spikes by converting noise energy from all these 
+anomalies safely to heat. The EMTVSS is always online, has no solid-state components to 
+Wye-Delta Connection in Power System 
+ 
+Prepared by Tuhin Dev 
+Lecturer, Shahjalal University of Science and Technology (SUST)  Page 5 
+ 
+degrade over time, and only one is required per power transformer, not one per sensitive load. 
+Electrical equipment has shorter life due to electrical spikes and noise that result in equipment 
+damage. All electrical equipment connected to a power system protected by Phaseback is likely 
+to have a longer life cycle. 
+Conclusion 
+In today's high-tech competitive business environment a power related disturbance can result in 
+losses worth billions of dollars in production and could potentially result in the damage of the 
+plant. With power quality comes issues such as, harmonics, transients, surges, spkies among 
+others. These are issues which need to be dealt with before the equipment gets damaged. 
+Multiple power quality products are available which try to suppress unwanted power quality 
+relates issues. Applied Energy has developed a Phaseback EMTVSS which acts like a surge 
+suppressor, harmonic filter and a voltage regulator thus providing protection from to the 
+equipment and the facility from unwanted power quality issues. The Phaseback EMTVSS filters 
+out harmonics and balances phase voltage to ground. It filters and prevents transient voltage 
+spikes by converting noise from all these anomalies safely to heat. This is a product to look out 
+for in the coming years. 
+ 

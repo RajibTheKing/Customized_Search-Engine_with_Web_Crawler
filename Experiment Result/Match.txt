@@ -1,0 +1,422 @@
+Shahjalal University of Science and Technology 
+(SUST)  
+Experiment No: 01  
+Experiment Name: To get familiar with Power World -
+17 Simulator  
+Course Title: Power System –I Lab 
+Course Code: EEE  326 
+Course Teacher: Tuhin Dev 
+Lecturer 
+Department of Electrical and Electronic Engineering 
+(EEE) 
+Shahjalal University of Science and Technology (SUST)  
+Department of Electrical and Electronic 
+Engineering (EEE) 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 2 
+Objective: To able to use the PowerWorld Simulator Version 17 tutorial to solve real-life 
+electric power grid problems 
+Materials:  
+ PowerWorld Version 17 Simulator. The educational version is available as a free 
+download at http://www.powerworld.com/downloads/demosoftware.asp  
+ Handout ─ PowerWorld Version 17 Simulator tutorial. 
+Time: 3 hours. Students have to download or take the Simulator from the class teacher and 
+install it to their home computer after this class. 
+Assessment: Successful construction of the power grid. 
+PowerWorld Simulator v17 Software ─ 
+1. Click on the PowerWorld Simulator icon  to start the Simulator. 
+2. We are going to build a simple example of an electric power distribution grid, and let’s just 
+call it a grid. Also, the software refers to grids as cases. 
+3. PowerWorld v17 uses dropdown lists, which everyone is familiar with, however, because of 
+the large number of features, the software also uses what are called “ribbons”. These ribbons 
+take a little getting used to. 
+4. To create a new case ─ 
+● Select New Case from the PowerWorld Icon ─ 
+Fig: 1: PowerWorld Icon. 
+ The dropdown list  
+  The screen background will turn white. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 3 
+ Fig. 2: PowerWorld Work Area. 
+5. Inserting a bus. 
+● Click on the Draw ribbon tab and find the Individual Insert ribbon group and the Network 
+dropdown menu. 
+Fig. 3: Draw, Individual Insert, and Network Ribbons and Dropdown List 
+● Select Network > Bus. 
+● Left-click on the background where you want to place the bus. Let’s go for upper-left. 
+● When you left-click, the Bus Option Dialog appears. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 4 
+Fig. 4: Bus Options. 
+● Each bus needs its own number; leave this bus at (1) in the Bus Number field. 
+● The Bus Name Field is where you can give Bus-1 a unique name. For this example, I’m going 
+to be clever ─ name it “One”. 
+● Don’t change any of the other values in the Bus Option Dialog. 
+● Click on the Bus Information Tab and make sure that there is a check in the System Slack Bus 
+field. Creating a Slack Bus ensures there is enough power for the system load ─ “it picks up the 
+slack”. We’ll need just one of these slack bus for the entire power grid. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 5 
+Fig. 5: Slack Bus. 
+● Click OK and you have something like this ─ 
+6. Inserting a generator. The bus you created needs some company. 
+● Select Network > Generator from the Individual Insert ribbon on the Draw ribbon tab. 
+● Left-click anywhere on bus (1), which you have just placed on the grid. 
+● When you left-click, the Generator Option Dialog appears. 
+Fig. 6: Generator Option Dialog 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 6 
+● Anytime you want to insert a generator, a MW (megawatt) Output must be entered so enter 413 
+in the MW Output field. Leave the rest of the default settings. 
+● Click on the Display Information Tab. In the Orientation field, place the generator on the bus 
+─ right, up, left, or down. Select down. The Anchored checkbox “locks” the generator to the bus. 
+Be sure it’s checked. Don’t change any other settings. 
+ Fig. 7: Generator Orientation and Anchor to Bus. 
+● Click OK. Your image should resemble the following ─ 
+ Fig. 8: Single Bus and Generator. 
+● If you need to make a correction, easiest way is to right click on the generator, bus, etc. When 
+the drop down box appears, click on the corresponding Information Dialog and make your 
+correction in the associated Options Dialog. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 7 
+Fig. 9: Generator, Bus, and Load Information Dialog. 
+7. Entering a second bus. 
+Since our goal is to create a min-power grid, we’re going to need more stuff. 
+● Follow the same steps used to create the first bus, but let’s place this bus in the upper-right of 
+the diagram. 
+● When the Bus Option Dialog comes up, leave the bus number at 2 and enter “Two” in the Bus 
+Name field. 
+● We’re going to place a 200 MW 100 Mvar load on bus 2. To do this, click on the Attached 
+Devices tab and under the Load Summary Information heading enter “200” in the Base MW field 
+and “100” in the Base Mvar field. 
+ Fig. 10: Attached Devices. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 8 
+● Click on the Bus Information Tab and make sure that the System Slack Bus field is NOT 
+CHECKED. 
+● Leave all the other values as is and click OK. 
+● If you’re wondering where’s the load on the diagram, you haven’t done anything wrong ─ at 
+least not yet. 
+● To draw the load, select Network > Load from the Individual Insert ribbon group on the Draw 
+ribbon tab. 
+● Left-click in the center of the second bus and the Load Options Dialog will open, confirming 
+the load values. 
+● Select Up in the Orientation field under the Load Information tab. 
+● Verify that the Anchored box is checked. 
+● Click OK. 
+Fig. 11: Load Dialog Box 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 9 
+8. Inserting Transmission Lines. 
+We need to start connecting the two buses. 
+● Select Network > Transmission Line from the Individual Insert ribbon group on the Draw 
+ribbon tab. 
+● Left-click at the point where you want to start, in this case the left side of bus (1). 
+● Transmission lines are drawn as a series of line segments. Without holding down the mouse 
+button, drag the mouse up from bus (1). 
+● Terminate the transmission line segment, by clicking the left mouse button. Each time you 
+click the mouse to terminate a line segment, a new vertex is created. To draw the next line 
+segment, move the mouse to the right to the desired location of the next vertex, without holding 
+down the mouse button.  
+● To terminate the final line segment and conclude drawing the line, double click the left mouse 
+button on bus (2). The Transmission Line/Transformer Dialog appears. Verify that 1 appears in 
+the From Bus Number field and a 2 appears in the to Bus Number field. 
+● The Series Resistance, Series Reactance, and Shunt Charging are used to enter the information 
+associated with the line. 
+● Enter 0.02 in the Resistance field. 
+● Enter 0.08 in the Reactance field and 0.1 in the Shunt Charging field. 
+● The Limit (MVA) fields contain the MVA ratings for the line: enter a value of 1000 in the Limit 
+A (MVA) field. 
+Fi
+g.
+ 1
+2
+: T
+ra
+n
+sm
+is
+si
+o
+n
+ L
+in
+e 
+V
+al
+u
+es
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 10 
+● Click OK. Your diagram should now look like the following ─ 
+Fig. 13: Diagram with a Transmission Line. 
+10. Inserting Circuit Breakers. 
+The Simulator automatically inserts circuit breakers ─ 
+● However, if you need to insert and additional circuit breaker, click somewhere on the line that 
+you want the circuit breaker. 
+● Select Indication > Circuit Breaker from the Individual Insert ribbon group on the Draw 
+ribbon tab. 
+● Click on the line on second time, which will cause the Circuit Breaker Options Dialog to 
+appear. 
+Fig. 14: Circuit Breaker Dialog Box. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 11 
+11. Inserting a Transformer. 
+● To insert a transformer, you need to insert an additional bus at a different voltage level. 
+● Insert the new bus near the bottom of the diagram, named Three, and enter 69 KV for its 
+nominal voltage. Again, click on the Bus Information Tab and make sure that the System Slack 
+Bus field is NOT CHECKED. 
+● Insert a transformer between buses (2) and (3) by going to Network > Transformer from the 
+Individual Insert ribbon group on the Draw ribbon tab. 
+● Click on bus (2), and then draw a vertical line to bus (3) as you did for a transmission line. The 
+Transmission Line/Transformer Dialog automatically appears as before. 
+● On the Parameters tab, enter 0.02 for Series Resistance. 
+● Enter 0.08 for Series Reactance. 
+● Enter 0.1 for Shunt Charging. 
+● Enter 1000 for Limit A (MVA). 
+Fig. 15: Transformer Parameters. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 12 
+● Click OK and you should have the following or close to it ─ 
+12. Repeat the above Insert a Transformer procedure to add a transformer between bus (1) 
+and bus (3). 
+13. Add a 400 MW, 200 Mvar load to bus (3). 
+● Right-click on bus (3) and select Bus Information Dialog. 
+Fig. 16: Bus Information Dialog. 
+● Select the Attached Devices. 
+● Click Add or Edit Bus Load. 
+Fi
+g.
+ 1
+7:
+ B
+u
+s 
+O
+p
+ti
+o
+n
+s.
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 13 
+● Under Constant Power enter 400 in the MW Value field. Enter 200 in the Mvar Value field. 
+Fig. 18: Add or Edit Bus Load. 
+● Click OK. 
+● Just like in Section (7), the load on Bus (3) isn’t visible. If you need to, go back to that section 
+and reread, but there is another way ─ if values (a record) already exist for that particular 
+load. 
+● Select Auto Insert > Loads … from the Quick Insert ribbon on the Draw ribbon tab. 
+● Finally, attach a 300 MW generator to bus (3). 
+● Select Network > Generator form the Individual Insert ribbon group on the Draw ribbon tab. 
+● Left-click on bus (3). The Generator Option Dialog opens. 
+● Select the Power and Voltage Control tab. Enter “300” in the MW Output field. 
+● Click OK. Your diagram should now resemble the following ─ 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 14 
+Fig. 19: Completed Power Grid. 
+14. Inserting Text and Data Fields. 
+We can put general text and text display quantities corresponding to individual objects ─ buses, 
+generators, transformers, etc. 
+● For general text, select Background > Text from the Individual Insert ribbon on the Draw 
+ribbon tab. 
+Fi
+g.
+ 2
+0:
+ G
+en
+er
+al
+ T
+ex
+t.
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 15 
+● Left-click on the diagram in the desired text location to bring up the Text Object Dialog. 
+● Type some sort of title ─ “First Case” 
+Fig. 21: Text Object Dialog 
+● Click OK. 
+● Like most text, the title can be formatted. Be sure the title is selected and then select F from 
+the Formatting ribbon group on the Draw ribbon tab. This displays the Font Tab of the Format 
+Selection Dialog. 
+ Fig. 22: Formatting Text. 
+● We also want to add text that will display quantities that may vary with the operation of the 
+power grid, such as power and voltage. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 16 
+● We want to add a Bus Voltage Magnitude field to each bus and additional fields showing the 
+power flow on the transmission line and the transformers. These fields can be formatted just like 
+the text fields by using the Format menu. 
+● To add additional fields to a particular bus, right-click on the bus, in this case bus (1) to bring 
+up the bus’ local menu. 
+● Select Add New Fields Around Bus… from the local menu. 
+Fig. 23: Adding New Fields Around a Bus. 
+● This Opens the Insert Bus Fields Dialog. 
+Fig. 24: Text Position. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 17 
+● Select the position where you would like to add the new field. 
+● This automatically opens the Bus Fields Options dialog; select the field Bus Voltage to add in 
+the selected position. 
+Fig. 25: Bus Voltage. 
+● Click OK. 
+● The quantity “Voltage” and position are displayed in the Insert New Fields dialog. 
+Fig. 26: Inserting New Fields. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 18 
+● Click OK. 
+● Repeat this procedure for the other two buses. 
+● next, we will insert text fields showing the power flow at each end of the transmission line. 
+Select Field > Transmission Line Field from the Individual Insert ribbon groups on the Draw 
+ribbon tab. 
+Fig. 27: Individual Insert – Network 
+Fig. 28: Transmission Line Field 
+● Left-click near bus (1) and the transmission line between buses (1) and (2) in the location you 
+want the power flow text to appear. The Line Field Options dialog opens automatically. 
+● The Near Bus and Far Bus fields should show 1 and 2. If not, make the change. 
+● Select MW Flow. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 19 
+Fig. 29: Transmission Line Field Options 
+● Click OK. The MW Flow is displayed on the diagram. 
+Fig. 30: Transmission Line Power Flow 
+● Now repeat the procedure left-clicking near both bus (2) and the transmission line between bus 
+(1) and bus (2) in the location you want the power flow text to appear. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 20 
+● Repeat the procedure again to insert Mvar Flow fields for the two locations. 
+● Once again, repeat the procedure to insert MW and Mvar Flow fields on the transmission 
+lines joining buses (1) and (3) and buses (2) and (3) When you’re done you should have the 
+following ─ 
+Fig. 31: Completed Power Grid. 
+15. Solve the Case (Run the Power Grid). 
+● Click on the Run Mode button in the Mode ribbon group. If you have any errors, a warning 
+will appear. 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 21 
+Fig. 32: Run Mode. 
+● Next, press the Play  button in the Power Flow Tools group on the Tools ribbon tab to 
+begin the simulation. Your power grid and various values should look similar to this ─ 
+Experiment No: 01 
+Experiment Name: To get familiar with  
+Power World -17 Simulator 
+2013 
+Prepared by Tuhin Dev 
+Lecurer, Department of Electrical and Electronic Engineering 
+Shahjalal University of Science and Technology (SUST)  Page 22 
+Fig. 33: Simulation in Run Mode. 
+● Just to play around, click on the circuit breaker between bus (3) and its connected generator. A 
+hollow green box indicates it is open. 
+● Next, click on the circuit breaker on the transmission line between bus (1) and bus (2). 
+CONGRATULATIONS ─ YOU JUST BLACKED OUT 
+Fi
+g.
+ 3
+4:
+ B
+la
+ck
+o
+u
+t 

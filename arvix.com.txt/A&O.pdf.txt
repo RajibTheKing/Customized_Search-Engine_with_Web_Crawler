@@ -1,0 +1,153 @@
+Een goede kwaliteit  
+tegen acceptabele kosten
+Fritz Klinkenberg is operations en IT directeur 
+van A&O Services. Deze organisatie verzorgt de 
+pensioenadministratie voor de sector A!ouw en 
+Onderhoud en voert bovendien een groot aantal 
+regelingen uit voor die branche, grotendeels 
+gebaseerd op de CAO voor het schilders-, afwer-
+kings- en glaszetbedrijf en de CAO A!ouw. Voorts 
+beheert en belegt de organisatie de vermogens 
+van de opdrachtgevende fondsen. Dat zijn er ruim 
+twintig, want A&O Services werkt niet alleen voor 
+de schilders en a!ouwsector, maar werkt bijvoor-
+beeld ook voor het pensioenfonds van Deloitte en 
+het BPF Orsima. De ambitie van A&O is om haar 
+klantengroep verder te vergroten. ‘Alles bij elkaar 
+beheren we een vermogen van vijf miljard euro 
+en zitten er gegevens van zo’n 400.000 mensen in 
+onze administratieve systemen. Er zijn mensen 
+die misschien zullen denken dat we midden in een 
+Big Data-uitdaging zitten, maar dat is niet waar. 
+We leven in een tijdsgewricht waarin steeds meer 
+systemen aan elkaar worden gekoppeld. Het voordeel 
+daarvan is dat het uitwisselen van gegevens automa-
+tisch – dus zonder menselijke tussenkomst – kan plaats-
+vinden. Daardoor is het risico van ‘menselijke’ fouten 
+geëlimineerd. Maar dat geeft nog geen garantie dat 
+het goed gesteld is met de kwaliteit van de gegevens 
+die geautomatiseerd tussen allerlei administratieve 
+systemen worden rondgepompt. Dat is inderdaad een 
+lastig probleem, erkent Fritz Klinkenberg.
+DOOR: ARJEN DE GRAAF
+Zeker, we hebben veel gegevens in onze systemen, 
+maar dat staat natuurlijk niet in verhouding tot de 
+pentabytes aan data die Google bijvoorbeeld hee" 
+verzameld en tot zijn beschikking hee"’, aldus 
+Klinkenberg.
+Luc Boon, die als programmamanager de business- 
+en IT-projecten van A&O aanstuurt, voegt hieraan 
+toe dat de hoeveelheid data in de loop der jaren 
+wel aanzienlijk is gegroeid, omdat het klantenbe-
+stand is toegenomen. Bovendien is er in de busi-
+ness behoe"e gekomen aan meer gegevens van en 
+over de klanten en aan een ander type data. Maar 
+die toename is geleidelijk gegaan. Boon: ‘De vraag 
+naar meer en andere soorten gegevens, ik noem als 
+voorbeeld de e-mailadressen van de verzekerden, 
+het is iets kleins, maar overigens wel gevolgen gehad 
+voor onze op Cobol gebaseerde administratieve 
+systemen gehad. We maken daarom nu de over-
+stap naar een op Oracle en Java gebaseerd nieuw 
+systeem, omdat de oude systemen niet de door 
+ons gewenste ondersteuning meer kunnen bieden. 
+Daarnaast gebruiken wij nu een 3-tal standaard 
+procesgeoriënteerde pakketten voor de uitvoering 
+van een twintigtal pensioenregelingen. Ook het deel 
+van onze klanten dat hee" besloten de pensioen-
+administratie zelf uit te voeren, maakt gebruik van 
+een licentie van ons systeem, ConPackage genaamd. 
+Dit programma kan goed anticiperen op nieuwe 
+wet- en regelgeving. Een voorbeeld hiervan is de 
+functionaliteit van de generatietafels en renteter-
+mijnstructuren. Daarnaast is het mogelijk om vrij 
+eenvoudig reglementswijzigingen door te voeren.’
+38 | TIEM 2.0 – 45 EEN GOEDE K WALITEIT  TEGEN ACCEPTABELE KOSTEN
+Klinkenberg: ‘De kwaliteit van de brongegevens is niet 
+altijd te toetsen. De kwaliteit van de aanleveringen 
+hangt af van de aan de KvK, UWV of GBA aange-
+leverde gegevens. Wanneer er daar een fout insluipt 
+moet je terug in die keten, maar je weet van tevoren 
+niet hoe ver terug. Ons uitgangspunt is dan ook dat 
+in dit geval de werkgever zelf verantwoordelijk blij! 
+voor de aangeleverde gegevens. Onze eindcontrole is 
+de controle door de werkgevers en deelnemers zelf. 
+Wanneer zij hun overzichten krijgen, dan vragen we 
+hen nadrukkelijk om de gegevens te controleren en 
+eventuele onvolkomenheden door te geven.’
+Nuchtere kijk
+Het is een heel pragmatische oplossing die meer 
+e"ect sorteert dan de meest moderne en geavan-
+ceerde geautomatiseerde controlesystemen, volgens 
+A&O. Pragmatisch handelen komt binnen de ict-
+afdeling van A&O meer voor. Boon: ‘We hebben 
+nooit tijd en geld geïnvesteerd in bijvoorbeeld 
+master-datamanagement indachtig het antwoord 
+op de vraag: ‘Hoe eet je een olifant’? Juist, in kleine 
+stukjes. Belangrijk voor ons is de vraag waar we 
+gegevens, inclusief de verantwoordlijkheden, neer-
+leggen in onze systemen We doen dit vanuit een 
+business architectuur. Ook onze architecten werken 
+hierbij vanuit de insteek ‘dat je niet in één keer op je 
+doelarchitectuur kunt uitkomen maar dat je deze in 
+stappen bereikt’. Je voorkomt zo dat je vanuit heel 
+mooie architectuurprincipes te grote projecten start. 
+We prefereren dus een nuchtere kijk op het geheel. 
+Drie platformen eerst terugbrengen tot twee en 
+daarna pas tot één is een mooi principe, dat volgens 
+ons een hogere kans van slagen hee! dan in een keer 
+van drie terug naar een. We stellen onszelf steeds de 
+volgende vragen: welke scope willen we, met welke 
+kwaliteit en tegen welke prijs. Architecten denken 
+daarbij mee, maar zijn niet de baas.’ 
+Kwaliteitsgarantie
+Klinkenberg: ‘Ons ict-budget kan je niet vergelijken 
+met die van een verzekeraar. Waar een commer-
+ciële partij over eigen vermogen beschikt en af en 
+toe een misinvestering kan opvangen met daarte-
+genover weer een enorme meevaller, werkt het bij 
+ons anders. Wij werken met geld van werkgevers 
+en werknemers uit een bedrijfstak en moeten daar, 
+terecht, zeer zorgvuldig mee omgaan. Iedere euro 
+die wij investeren moet toegevoegde waarde hebben 
+voor de bedrijfstak. Dat is overigens ook mijn 
+persoonlijke drijfveer. Gelukkig kunnen wij inves-
+teringen doen omdat de bedrijfstak de noodzaak er 
+van inziet en omdat wij achter iedere grote inves-
+tering een business case hebben zitten, die laat zien 
+hoe die investering terugverdiend wordt ten gunste 
+van de bedrijfstak. Daarnaast borgen we middels 
+het batenmanagement-proces dat de besparingen 
+ook blijvend worden geë"ectueerd.’
+Een goede kwaliteit tegen acceptabele kosten, is de 
+stelregel die in het beleidsplan ook duidelijk is neer-
+gelegd: A&O hoe! in de ict-ontwikkelingen niet 
+voorop te lopen, maar hee! wel de opdracht om 
+mee op te lopen. En ‘mee op lopen’ is vandaag de 
+dag in pensioenland ook al een behoorlijke opgave. 
+Boon: ‘Investeringen doe je voor een langere 
+termijn en eisen die gesteld worden door bijvoor-
+beeld de wetgever vereisen een grote #exibiliteit, 
+ook op korte termijn. Daarnaast willen we de kwali-
+teit van de gegevens kunnen garanderen. Dat wordt 
+gemakkelijker doordat steeds meer systemen intern 
+en extern aan elkaar kunnen worden gekoppeld. 
+Zo is er een automatische koppeling met de GBA. 
+Die is leidend voor ons. Terwijl het soms minder 
+#exibel is. Stel dat twee mensen gaan scheiden. Dat 
+hee! vanzelfsprekend consequenties voor de pensi-
+oenafspraken. En stel dat de vrouw om welke reden 
+dan ook de naam van haar ex wil aanhouden. Dat is 
+middels de GBA niet automatisch mogelijk. Omdat 
+de GBA leidend is, gebruiken wij de door dat 
+systeem geleverde gegevens, en dat is in dit geval 
+de meisjesnaam van de vrouw. Onze deelnemers 
+verwachten en eisen soms iets anders.’
+Zo zijn er meer geautomatiseerde koppelingen. Met 
+het UWV, Kamers van Koophandel en salarisadmi-
+nistraties van zowel werkgevers als grote bedrijven als 
+ADP die de salarissen van veel organisaties verwerken. 
+drs. Arjen de Graaf is directeur van Arvix en 
+redacteur van TIEM. 
+OVER DE AUTEUR: 
+ TIEM 2.0 – 45 | 39EEN GOEDE K WALITEIT  TEGEN ACCEPTABELE KOSTEN

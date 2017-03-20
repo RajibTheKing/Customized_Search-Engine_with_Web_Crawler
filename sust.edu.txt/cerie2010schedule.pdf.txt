@@ -1,0 +1,745 @@
+ 
+ 
+ 
+Conference on Engineering Research, Innovation  
+and Education 2010 
+Organized By  
+School of Applied Sciences and Technology 
+Shahjalal University of Science and Technology, Sylhet 
+ 
+Program Schedule  
+                                                                           
+                                 
+Day One 
+11/01/10 
+Time Session Activities Venue 
+8:30-10:00 
+(11/01/10) 
+ 
+Registration  Acad. 
+Building-
+A 
+10:00-11:30 
+(11/01/10) 
+ 
+Inaugural 
+Ceremony 
+(Conference 
+opening and 
+Welcome 
+address) 
+Inauguration and Keynote Speech 
+ 
+Chief Guest: Mr. Md. Badar Uddin Ahmed Kamran 
+                     The Honorable Mayor , Sylhet City Corporation 
+ 
+Keynote Speaker: Professor Dr.  M. H. Khan 
+                               Former Vice-Chancellor, BUET, Dhaka  
+ 
+Mini 
+auditoriu
+m, SUST 
+11:30-12:00 
+(11/01/10) 
+Refreshment 
+Break 
+  
+12:00-13:00 SUST Tour Meeting People at Engineering and Technology Laboratories and Visit 
+SUST campus  
+ 
+13:00-14:00 Lunch Break   
+14:00-15:15 
+(11/01/10) 
+ 
+Technical 
+Session 
+(Electrical and 
+Electronics) 
+Reduced feature vector analysis for motion recognition, M. A. R. Ahad et 
+al. 
+ 
+Design of a low-power and high-speed HEMT low noise amplifier, M. S. 
+Rahman et al 
+ 
+Microcontroller based digital counting system used in industrial purposes, 
+Shahajada Mahmudul Hasan et al.                                                                                          
+ 
+Design and simulation of a novel controller to minimize the harmonic 
+components of the  PWM inverter , O. Farrok et al. 
+ 
+Acad 
+Building 
+B (Room 
+101) 
+14:00-15:15 
+(11/01/10) 
+ 
+Technical 
+Session 
+(Chemical 
+Engineering) 
+Green chemistry: use of solid supported reagents in organic synthesis, 
+Mohammed Hashmat Ali 
+ 
+Mechanical properties of rf-sputtered nanostructured tungsten oxide thin 
+films, H.H. Masjuki et al. 
+ 
+Electrochemical investigation of corrosion behavior of stainless steel in 
+acidic chloride media, Asaduzzaman et al. 
+ 
+Limiting heavy metals and phosphorus leachability from sewage sludge, 
+Md. M. Mortula and  Kenan Jijakli 
+Application of nano and organic materials in photovoltaic (pv) solar cells, 
+Md. Mahbubul Islam et al. 
+ 
+Acad 
+Building 
+B (Room 
+111) 
+14:00-15:15 
+(11/01/10) 
+ 
+Technical 
+Session 
+(Productivity 
+Improvement 
+and Supply 
+Chain 
+Management) 
+    Productivity improvement in apparel industry: by Smooth flow of production,  
+M. N. Bagum et al. 
+ 
+Role and implementation of supply chain management in different corporate 
+arena, Sanjoy Kumar Paul et al 
+ 
+Improvement of productivity of a poultry feed mill using time and motion 
+study - a case study, M.A Hannan et al. 
+ 
+An approach to improve the productivity of an industry by changing the 
+existing plant layout: a case study, Khan M. A. Haque et al. 
+ 
+Optimization of inventory for multi echelon environment considering target 
+service level, ABM Abdul Malek et al.  
+Acad 
+Building 
+C (Room 
+409) 
+14:00-15:15 
+(11/01/10) 
+ 
+Technical 
+Session 
+(Water 
+Resource and 
+Environment 
+Engineering) 
+Reliability centered methodology for optimizing rainwater harvesting for 
+domestic use, A. Khastagir et al 
+ 
+Environmental condition and water quality of Goalichara in the vicinity of 
+Sylhet city, M. Ahmed et al. 
+ 
+Analysis of pollution status of the Titas river, Shriful Islam et al. 
+ 
+Assessment of present environmental situation and strategy formulation for 
+future extraction of natural resources at Jaflong, H.M.A.Mahzuz et al 
+Acad 
+Building 
+C (Room 
+412) 
+15:15-15:30 Tea Break   
+15:30-17:15 
+(11/01/10) 
+Technical 
+session 
+(Electronics and 
+Communication
+s) 
+Paper Presentation 
+ An analysis and comparison of wireless multi-hop mac protocol 
+for emergency networks, S. Khan et al. 
+ 
+Numerical computation of guiding properties of large mode 
+area microstructure optical fibers, M. A. G.Khan et al. 
+ 
+Performance analysis of FIR filter design by using optimal, blackman 
+window and frequency sampling methods, S. M. Shamsul Alam et al 
+ 
+1D and 2D signal analysis using wavelet tools, Hasan Mahmood et al 
+ 
+An enhanced energy-efficient data communication scheme for resource 
+constrained wireless sensor networks, Md. Rafiqul Islam et al 
+ 
+Microcontroller based display system design using led array, Muhibul H. 
+Bhuyan et al 
+ 
+A radio-based railway crossing control system to reduce accident, M. M. 
+Hossain et al. 
+Acad 
+Building 
+B (Room 
+111) 
+15:30-17:15 
+(11/01/10) 
+Technical 
+session 
+(Chemical 
+Engineering) 
+Paper Presentation 
+Solar based desalination for decntralized coastal communities, Md. M. 
+Mortula  
+Development of a continuous stirred tank reactor (CSTR) system for 
+industrial wastewater treatment, Anup K. Roy et al 
+ 
+Simulation of an industrial scale ammonia plant Using HYSYS™, 
+Mohammad Mazharul Islam et al 
+ 
+Production of flat glass using modern float process: Bangladesh perspectives, A. Aziz 
+et al. 
+ 
+The Drying Kinetics of Green Arum (Colocasia Esculenta) in a Convective 
+Hot Air Dryer, M.Mohibul Alam et al 
+ 
+Application of a simple manometric respirometer for measuring the oxygen 
+Acad 
+Building 
+B Room 
+101 
+uptake rate of wastewater, M. S. Rahman et al. 
+ 
+Mechanical performance of hybrid betel nut (areca catechu) short fiber/rice 
+straw popypropylene composite, M. M. Hassan et al. 
+ 
+Ultraviolet photoelectron and metastable atom electron spectroscopy studies 
+of thymine molecules on graphite: molecular orientation and electronic 
+structure, A. Habib et al 
+15:30-17:15 
+(11/01/10) 
+Technical 
+session 
+(Industrial 
+Management) 
+Paper Presentation 
+Identification of waste time applying ‘Value Stream Mapping’ technique - A 
+case study in a Ready-Made Garments Industry, Tonmoy Deb et al. 
+Implementation of motivation theory in apparel industry, M. N. Bagum et 
+al. 
+ 
+Ensuring safety, a great challenge for electricity distribution system, Azizur 
+Rahman et al. 
+ 
+Automated liquid filling system for beverage industries, Shahajada  
+Mahmudul Hasan et al. 
+ 
+Impact of small wastes on the overall production cost and scope of waste 
+reduction in apparel manufacturing organizations in Bangladesh, Kazi 
+Badrul Ahsan et al 
+ 
+Achieving effective manufacturing logistics through the theory of 
+constraints, Z.I. Halim et al.  
+Acad 
+Building 
+C (Room 
+409) 
+15:30-17:15 
+(11/01/10) 
+Technical 
+session 
+(Mechanical 
+and Production 
+Engineering) 
+Paper Presentation 
+A study on CNG station locations in selected inter-city network, A. M. M. 
+Mukaddes et al 
+Design of an experimental-setup using low cost locally available materials, 
+Z.M. Hasib et al 
+ 
+Prospects for the stone crusher industry in Jaflong region of Sylhet, M. A. 
+Islam et al.  
+ 
+Identification of occupational injury among the workers of selected cement 
+industries in Bangladesh—a case study, M.  Iqbal et al.  
+ 
+Scheduler- probability based flexible scheduling method, interface with 
+management, planning and production, Kazi Arif-Uz-Zaman et al. 
+ 
+Optimization of a   retail chain inventory:  customer service level 
+perspective, ABM Abdul Malek 
+ 
+Optimization of process parameters of turning operation using response 
+surface methodology, A M M Mukaddes et al 
+Acad 
+Building 
+C (Room 
+412) 
+Day Two 
+12/01/10 
+09:00-10:00 
+12/01/10 
+Registration   
+09:00-10:30 
+12/01/10 
+Special session Invited speakers 
+1. Professor Dr. A. K. M. Abdul Quader, Department of Chemical 
+Engineering, BUET, Dhaka 
+2. Professor Dr. A. K. M. Sadrul Islam, Department of Mechanical and 
+Chemical Engineering, IUT, Gazipur 
+3. Dr. Mubarak Ahmad Khan, Chief Scientific Officer, Institute of 
+Nuclear Science and Technology, Bangladesh Atomic Energy Commission, 
+Dhaka  
+Mini 
+auditoriu
+m 
+10:30-11:00 Refreshment 
+Break 
+  
+11:00-13:00 Technical Paper Presentation Acad 
+12/01/10 session 
+(Electrical and 
+communication 
+Engineering) 
+Teaching quality intellectual property management using web services in 
+indian technical educational pedagogy, Shefalika Ghosh Samaddar 
+ 
+Human brain activity in the radio frequency emitted from wireless 
+communication devices, M.S. Rahman et al 
+ 
+Prospect of e-learning in Bangladesh, Md. Abdul Awal and Md. 
+Maniruzzaman 
+ 
+Role of requirement engineering in SDLC, Ashraful Arefin et al 
+ 
+Effect of homogeneous and heterogeneous network structure on Alchemi 
+based grid computing platform, Sabir Ismail et al. 
+ 
+Cell size calculation and performance analysis of wimax for Dhaka city, 
+Mohammad Mirza Golam Rashed et al. 
+ 
+Optimal parameter in divide and conquer algorithm for solving closest pair 
+problem, S. K. Saha et al. 
+ 
+Development of an automatic traffic signal control system using PLC, M. H. 
+Bhuyan et al 
+ 
+An assessment on inter-path selection scheme in traffic engineering for 
+MPLS network, Md. Shahidul Islam et al 
+Build B 
+(Room 
+101) 
+11:00-13:00 
+12/01/10 
+Technical 
+session 
+(Chemical 
+Engineering) 
+Paper Presentation 
+Treatment of waste water from textile industries by chlorination method, 
+S.M. Mahfuzul Islam et al. 
+ 
+Design and development of photocalytic reactor for wastewater treatment in 
+batch and continuous mode, Md. Azizul Haque et al.  
+ 
+Effect of preparation conditions on the properties of nylon 6 membrane, 
+Sarwar A. Khan et al. 
+ 
+Adsorption of reactive dye onto water hyacinth: equilibrium and kinetic 
+study, Bipul Chandra Das et al 
+ 
+Treatment of Real Textile Effluent Using Coagulation-flocculation and 
+Adsorption Method, M. M. Huq et al. 
+ 
+Dye adsorption in batch mode: equilibrium and kinetic modeling, Tibra 
+Mozammel et al 
+ 
+A study on the drying behavior of stevia (Stevia Rebaudiana bertoni) leave, 
+Md. Syduzzaman et al 
+Investigation of nitrates and nitrites degradation mechanism to treat 
+industrial effluent using zero-valent iron nanoparticles, Kuen-Song Lin et 
+al 
+ 
+Prospects and challenges of detergent industries in Bangladesh, A. Aziz et 
+al. 
+Acad 
+Build B 
+(Room 
+111) 
+11:00-13:00 
+12/01/10 
+Technical 
+session 
+(Mechanical 
+Engineering) 
+Paper Presentation 
+Simulation analysis of a digitally controlled heat transfer system, Md. 
+Fuhad Hassan et al. 
+ 
+Design of a cylindrical parabolic solar concentrator for solar thermal 
+power generation, Md. Ashraful Islam et al. 
+ 
+Evaluation of solar power module: cost justification and outsourcing 
+facilities, A.B.M Abdul Malek et al. 
+Acad 
+building C 
+Room 409 
+ 
+Design and manufacture of solar-trackers at low cost:  the gateway for more 
+utilization of solar energy, T.H. Mahdi et al. 
+ 
+Reconfigurable modular product design system - The basis for enhancing 
+productivity, AHM Shamsuzzoha et al. 
+ 
+Fabrication of a robotic arm with locally available materials, Md. Istiaque 
+Haider et al. 
+ 
+Development of a user-friendly AUTO-CAD based part program generation 
+software suitable for various turning operations, M. A. Islam et al. 
+ 
+Mixed convective heat transfer in a vertical enclosure with baffle, M. S. 
+Hossain et al 
+ 
+Aircraft Recovery System Using Inflatable Paraglider Wing Canopy: Shape 
+and Stress Analysis, Mohammad Mashud et al 
+11:00-13:00 
+12/01/10 
+Technical 
+session 
+(Civil and 
+Architecture) 
+Paper Presentation 
+A pedestrian study at selected midsections and intersections in Dhaka city, 
+Uttara Roy et al 
+ 
+Performance evaluation of triangular single reinforced concrete beam, 
+H.M.A.Mahzuz et al 
+ 
+Transportation demand modeling and forecasting for Sylhet city, Md. 
+Bashirul Haque 
+ 
+Road accident study in Sylhet district, A.M. Zubair-Ul-Mulk et al 
+ 
+Using of stone powder as an alternative of sand in concrete and mortar, A. 
+A. Masrur Ahmed et al 
+ 
+High speed wind-resistant low cost housing in the coastal areas of 
+Bangladesh, M. R. Alam et al 
+ 
+Daylight inclusion to save energy: an observation on luminous environment 
+of a residential apartment building in context of Dhaka, Md. Mohataz 
+Hossain et al 
+Acad 
+building C 
+Room 412 
+13:00-14:00 Lunch break   
+14:00-16:00 
+12/01/10 
+Technical 
+session 
+(Electrical 
+Electronics and 
+Communication
+s) 
+Paper Presentation 
+Study on potential of micro and mini hydro electric power plants in 
+Chittagong region, P. K. Shadhu Khan 
+ 
+The effect of electromagnetic waves radiated from mobile phones on human 
+sleep, M.S. Rahman 
+ 
+Development of a microcontroller based maximum 
+Power point tracker for solar PV system, Md. Rabiul Islam et al 
+ 
+Energy dissipation in wireless sensor network and approaches to make it 
+energy efficient, Mohammad Rafioul Salim et al 
+ 
+An effective approach for compression of Bengali text, Md. Rafiqul Islam 
+ 
+Rad ia tion  expo su re  o f  ce ll  p hon es an d  i t s  ef f e c t o n  h uman  
+h ea lth ,  A. S. M. Iftekhar Uddin et al 
+ 
+Reducing cotunneling effect in a single-electron transistor using ohmic 
+microstrips, Ashraful Arefin et al 
+ 
+Acad 
+Build B 
+Room 101 
+ E-Health in Bangladesh: possibilities, Md. Abdul Awal et al    
+  
+Analysis of the effect of electromagnetic radiation: 
+ a study, Palash Sarker   et al.                                                                                                 
+14:00-16:00 
+12/01/10 
+Technical 
+Session 
+(Chemical 
+Engineering) 
+Paper Presentation 
+Small-angle neutron scattering studies on CTAB in micellar solution and a 
+comparision of properties between CTAB and DTAB with the same 
+concentration, I. Kamal et al 
+ 
+Tailoring the activity of Ti-based photocatalysts by playing with surface 
+morphology and doping, Mohammed Jasim Uddin et al 
+Optimization of the Design Parameter of the Biological Unit of a  
+ 
+Wastewater Treatment Plant, M. A. Islam et al 
+Base catalyzed transesterification of sesame oil to biodiesel, Kaniz Ferdous 
+et al 
+ 
+Corrosion Inhibition of Mild Steel by Calcium Gluconate in Simulated 
+Cooling Water (SCW) S. Karim et al 
+ 
+Mass transfer during osmotic dehydration of mango: Fickian diffusion in 
+cubic configuration, Al-Imran Ruhul Islam 
+ 
+Influence of drying conditions on drying parameters during the thin-layer 
+drying of zinger (Zingiber officinale), Tanvir Rahman  et al. 
+ 
+Simultaneous power generation and waste water treatment in microbial fuel 
+cell, Ripon Bhattacharjee et al 
+ 
+Fabrication and characterization of glass/jute fiber reinforced 
+melamine/LLDPE hybrid composite:effect of UV radiation, Faruk 
+Muktadir et al 
+ 
+Acad 
+Build B 
+(Room 
+111) 
+14:00-16:00 
+12/01/10 
+Technical 
+Session 
+(Engineering 
+Management) 
+Paper Presentation 
+Identification of operational risks associated with Disturbances in 
+Manufacturing Organizations- A Strategic Approach, Md. Ariful Islam and  
+Des Tedford 
+ 
+Causes and consequences of internal and external disturbances in 
+readymade garment industries of Bangladesh- an exploratory study, H. M. 
+Ashraful Haque et al 
+ 
+Optimization of process parameters of turning operation using response 
+surface methodology, A M M Mukaddes et al. 
+ 
+The effect of some selected factors on job satisfaction in public banking, C. 
+A. A. Rashed et al. 
+ 
+Feasibility study for setting up special economic zone (sez) around Sylhet 
+city, A.H.M. R. Hoque et al. 
+ 
+Scenario of the implementation of total quality management (TQM) in 
+manufacturing industries of Bangladesh-an exploratory study, Ali Aksad et 
+al. 
+ 
+Health and occupational safety for female workforce of garment industries 
+in Bangladesh, A. F. M. Salahuddin et al 
+ 
+Genetic algorithm based multi echelon inventory optimization model 
+Acad 
+building C 
+(Room 
+409) 
+development, A.B.M. Abdul Malek et al 
+14:00-16:00 
+12/01/10 
+Technical 
+Session 
+(Civil and 
+Environment) 
+Paper Presentation 
+Land contamination remediation techniques and applicability in Rajshahi 
+city: a case study, M  M  Hossainet  a l.  
+ 
+Solid waste minimization through R’s: a case study in Bangladesh, M.A.I. 
+Chowdhury et al 
+ 
+Systems Dynamics Modelling of Pollution Emission by Road Transport 
+Sector in Bangladesh,  Maglub Al Nur et al. 
+ 
+Design of automatic traffic signaling system for Sylhet metropolitan area, 
+Saiada F. Fancy et al 
+ 
+Road Accident Fatalities and Their Prediction in Bangladesh, Sanjida 
+Ahsan et al 
+ 
+Isolation system design for buildings in dhaka: its feasibility and economic 
+implication, A.B.M. S. Islam et al. 
+ 
+Effects of green roof concept on residential apartment buildings in context of 
+Dhaka city, Md. Mohataz Hossain 
+ 
+Adaptation to climate changes through homestead forestry practices: A 
+study from drought prone areas of Bangladesh, Sayma Akhter 
+Acad 
+building C 
+Room 412 
+16:00-16:15 Tea Break   
+16:15-17:15 
+12/01/10 
+Round-Table 
+session 
+ZOOMING THE SHORT-COMINGS AND PROSPECTS OF 
+ENGINEERING EDUCATION AND RESEARCH 
+Mini-
+auditoriu
+m 
+Day Three 
+13/01/10 
+09:00-10:45 
+13/01/10 
+Technical 
+session 
+(Computer 
+Science and 
+Engineering) 
+Performance analysis of modulated laser with continuous wave laser in 
+fiber optic communication system,  M. A. Barik et al. 
+ 
+Design and simulation of a facts controller installed in Bangladesh 
+national grid  to improve power factor,  Omar Farrok et al 
+ 
+Digital Bangladesh evolution in Bangladesh – challenges and solutions, 
+Ahsan Habib et al 
+ 
+Architectural Design of Bengali Text to Speech Synthesis Software with 
+sentence Analysis using Advanced Linguistic Processing Modules: 
+Stemming, Phrase Analysis and Expansion Rules, Abu Naser et al 
+ 
+Dynamic intrusion detection & prevention system, B. Biswas et al 
+ 
+Ekushe finance: a financial search engine, H. M. S. Chowdhury et al 
+ 
+Mongol Dip: Light for the People with Visual Impairments, A. Kabir et al 
+ 
+Application of genetic algorithm in unit commitment problem, M. A. Barik 
+ 
+Application of genetic algorithm in power system stabilizer design, M. S. 
+Rahman  
+Acad 
+Building B 
+Room 111 
+09:00-10:45 
+13/01/10 
+Technical 
+session 
+(Energy) 
+Biodiesel as an alternative to Petrodiesel: Bangladesh perspective, Kaniz 
+Ferdous et al. 
+ 
+Advances of technology for bio-crude oils from thermochemical conversion 
+of biomass solid wastes, Momtaz Parveen et al 
+ 
+Preparation of biodiesel from waste cook oil and performance and 
+emission study of a diesel engine with diesel-biodiesel blends, Md. 
+Mostafizur Rahman et al 
+ 
+Characterization of rubber seed oil and its methyl ester, Mahbub 
+Morshed et al 
+ 
+Amylatic activity of agaricus and moulds for the production of bioethanol, 
+Md. Arifur Rahman et al. 
+ 
+Renewable energy in Bangladesh,  Md. Rabiul Islam 
+Acad 
+Building B 
+Room 101 
+09:00-10:45 
+13/01/10 
+Technical 
+Session 
+(Mechanical 
+and 
+Mechatronics) 
+Low cost locally designed anemometer: an excellent solution of weather 
+forecast, R.F. Pallab 
+ 
+Rehabilitation to improve the economy of thermal power generation, 
+Azizur Rahman 
+ 
+Austempering of Ductile Iron without Using Molten Salt as  
+Quenching Medium and Related Potentials, Mohammad Mashud 
+ 
+Development of a High-Performance Wind Turbine with Diffuser, 
+Mohammad Mashud et al. 
+ 
+Material picking and handling robot, Shahjada Mahmudul Hasan et al 
+ 
+Improvised reconnaissance of Hazardous Terrain: An Unmanned 
+Terrestrial Vehicle (UTV) approach, Naser Imran Hossain et al. 
+Acad 
+Building C 
+Room 409 
+09:00-10:45 
+13/01/10 
+Technical 
+Session 
+(Engineering) 
+Studies on polymer modified mortar and concrete using epoxy resin, Md. 
+Mostafizur Rahman et al 
+ 
+Preparation of proton exchange membranes by radiation induced graft 
+copolymerization of styrene onto LLDPE, Sabia Sultana et al 
+ 
+Surface modification of banana (Musa Textilies) fiber with urea using 
+photocuring method, M. M. Hassan et al 
+ 
+Behaviourial pattern of resistance and susceptibility to termite of the tea 
+clones released by BTRI, Mainuddin Ahmed et al 
+ 
+Evaluation of the performance of adsorption and coagulation processes for 
+the removal of dye, Enamul Habib et al 
+ 
+Film Theory vs. Unified Approach Model for Batch Adsorption Processes: 
+A comparative analysis, M. A. Islam et al 
+ 
+Lost sale can be converted into backorder by improving customer service, 
+Md. Ala Uddin et al 
+ 
+Morphological characteristics of Kushiyara-Monu river system, U.K. 
+Navera et al 
+Acad 
+Building C 
+(Room 412) 
+10:45-11:15 Refreshment   
+11:20-13:00 
+13/01/10 
+Discussion 
+Forum: 
+Thoughts of 
+Engineers in 
+Enhancing 
+Engineering 
+Education 
+ 
+ 
+HOW TO FOSTER THE LINKAGE BETWEEN THE 
+ENGINEERING EDUCATION AND INDUSTRIAL 
+REQUIREMENTS? 
+Mini 
+Auditorium 
+13:00-14:00 Lunch break   
+14:00-15:30 
+13/01/10 
+Digital Session Prof. M. Kaykobad and Prof. M. Zafar Iqbal Mini 
+auditorium 
+15:30-17:00 
+13/01/10 
+Sight seeing 
+tour 
+  
+17:30-18:30 
+13/01/10 
+Closing 
+Ceremony 
+  
+18:30-20:00 
+13/01/10 
+Cultural 
+Program 
+  
+20:30- 
+13/01/10 
+Gala Dinner   
+ 

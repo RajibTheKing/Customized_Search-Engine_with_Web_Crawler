@@ -1,0 +1,892 @@
+﻿KEPLERIAN DYNAMICS ON THE HEISENBERG GROUP AND
+ELSEWHERE
+RICHARD MONTGOMERY AND COREY SHANBROM
+Abstract. Posing Kepler’s problem of motion around a fixed “sun” requires
+the geometric mechanician to choose a metric and a Laplacian. The metric
+provides the kinetic energy. The fundamental solution to the Laplacian (with
+delta source at the “sun”) provides the potential energy. Posing Kepler’s three
+laws (with input from Galileo) requires symmetry conditions. The metric
+space must be homogeneous, isotropic, and admit dilations. Any Riemannian
+manifold enjoying these three symmetry properties is Euclidean. So if we
+want a semblance of Kepler’s three laws to hold but also want to leave the
+Euclidean realm, we are forced out of the realm of Riemannian geometries.
+The Heisenberg group (a subRiemannian geometry) and lattices provide the
+simplest examples of metric spaces enjoying a semblance of all three of the
+Keplerian symmetries. We report success in posing, and solving, the Kepler
+problem on the Heisenberg group. We report failures in posing the Kepler
+problem on the rank two lattice and partial success in solving the problem on
+the integers. We pose a number of questions.
+1. Introduction
+Newton formulated and solved what we call today “Kepler’s problem” – the prob-
+lem whose negative energy solutions are Keplerian ellipses. The essential backdrop
+to the problem is Euclidean three-space and its group of isometries and scalings.
+Can we pose Kepler’s problem on an arbitrary metric space? What properties must
+the space have if Kepler’s three laws, or ghosts of these laws, are to hold?
+In ‘Foundations of Mechanics’ ([1]), Abraham and Marsden formulate classical
+mechanics as dynamical systems on the tangent bundle or cotangent bundle of a
+Riemannian manifold, which they call “natural mechanical systems”. The Rie-
+mannian metric defines the kinetic energy. One must choose a potential energy.
+In order to formulate Kepler’s problem on our manifold, we take this potential to
+be the fundamental solution to the Laplacian. We choose a point on the manifold
+to be our “sun,” which is the delta function source of the fundamental solution.
+Following Galileo we assume that the choice of location of the sun does not matter:
+that is, we will assume that our space is homogeneous.
+The mildest Riemannian departures from Euclidean space are the spaces of con-
+stant curvature: the sphere and hyperbolic space. About a century and a half
+before ‘Foundations,’ Lobachevksy ([11]), one of the founders of hyperbolic geom-
+etry, posed the Kepler problem as a “natural mechanical system” on hyperbolic
+Date: December 11, 2012.
+2010 Mathematics Subject Classification. 53C17, 37N05, 70H06, 37J35, 53D20.
+Key words and phrases. Carnot group, Heisenberg group, Kepler problem, Integrable system,
+Fundamental solution to Laplacian.
+For Jerry.
+1
+ar
+X
+iv
+:1
+21
+2.
+27
+13
+v1
+  [
+ma
+th.
+DS
+]  
+12
+ D
+ec
+ 20
+12
+2 RICHARD MONTGOMERY AND COREY SHANBROM
+space. Later, Serret ([15]) posed the Kepler problem on the sphere. We are grate-
+ful to F. Diacu for these references and his survey [6]. Kepler’s 1st and 2nd laws
+hold in each of the three constant curvature geometries: hyperbolic space, the 3-
+sphere, and the original flat Euclidean space. But Kepler’s 3rd law fails for these
+non-flat geometries for the simple reason that they admit no continuous scaling
+symmetries, or “dilations.”
+We argue that in order to even formulate Kepler’s third law our metric space
+must admit dilations. But if a space admits dilations, and is not Euclidean, then
+it cannot even be Riemannian! (We sketch the proof of this fact below.) The non-
+Euclidean spaces which admit dilations are subRiemannian: they are the Carnot
+groups. The simplest Carnot group is the Heisenberg group.
+This observation brings us to our main problem: pose and solve the the Kepler
+problem on the Heisenberg group. We will pose it. We will not fully solve it.
+We will show that all periodic solutions to the Kepler problem on the Heisenberg
+group must lie on the zero energy surface, and that the problem is integrable when
+restricted to this zero energy surface. Such solutions are described in Figures 2 and
+4. A modified version of Kepler’s third law holds for the periodic solutions.
+To write down the Kepler-Heisenberg problem we must have an explicit expres-
+sion for the potential: it is the fundamental solution for the subLaplacian on the
+Heisenberg group. Luckily, Folland ([5]) found such an expression in 1970.
+We will also attempt to pose and solve Kepler’s problem on some lattices. Lat-
+tices almost admit dilations: we can scale by positive integer scaling factors, but we
+cannot invert these scaling factors. The integers form the simplest lattice. We will
+pose and solve a Kepler problem on the integers. Our ‘solutions’ are of a high school
+nature. (We apologize in advance if our treatment here embarrasses readers with
+any skill in numerical methods and discretization.) These solutions are indicated
+in Figure 5.
+We then try to pose and solve the Kepler problem on the integer lattice in the
+plane where we run into fundamental problems which lead us to believe that the
+very definition of a discrete dynamical system is not yet well formulated. The heart
+of this problem is that the differences of values of the lattice potential – that being
+the fundamental solution of the lattice Laplacian – are irrational.
+Dedication and Acknowledgements. This article is dedicated to the mem-
+ory of Jerry and in thanks for all his inspiration. We would also like to thank
+the GMC group, in particular, David Mart´ın de Diego, Juan Carlos Marrero, and
+Edith Padron for inviting us to the summer school in 2011 outside of Madrid. The
+formulation of the Kepler-Heisenberg problem was inspired by talking with many
+of the participants at that summer school.
+2. Kepler’s 3 laws in a metric space.
+Let’s recall Kepler’s three laws for the motion of planets around the sun.
+K1. Planets travel on ellipses with one focus the sun.
+K2. Equal areas are swept out in equal times. This law is equivalent to the
+conservation of the planet’s angular momentum about the sun.
+K3. Period-Size: The period T of an orbit and its size a (semi-major axis) are
+related by a universal monomial relation a3 = CT 2.
+The Keplerian planet moves in a Euclidean space. Do Kepler’s laws even make
+sense on a general metric space? If not, what restrictions must we impose on the
+3metric space in order to make sense of a particular law? We discuss what is required
+of our metric space in order to formulate the corresponding law.
+K1. We can define an “ellipsoid” for any metric space X. Fix two foci S, F ∈ X
+and a positive number 2a. Consider the locus of points x ∈ X for which d(S, x) +
+d(x, F ) = 2a. If this locus is to be a curve then the metric space must be two-
+dimensional, for example, a smooth surface. K1 requires then that X is a two-
+dimensional, or that its Keplerian dynamics can be reduced to two-dimensions.
+Kepler’s problem has been posed and solved satisfactorily on the two-sphere and
+on the hyperbolic plane as described in the introduction. Its solutions satisfy K1.
+K2 is equivalent to conservation of angular momentum. Angular momentum is
+conserved if the kinetic and potential energies in Newton’s formulation of the Kepler
+problem are invariant under rotations about the sun. This requires isotropicness:
+all directions in the metric space are the same, at least through the sun. The
+two-sphere and the hyperbolic plane enjoy rotational symmetry and hence K2.
+K3 is a scaling law. It is an immediate consequence of the fact that the New-
+tonian potential V (x) = c/|x| is homogeneous of degree −1. This homogeneity
+implies the space-time symmetry x, t 7→ λx, λ3/2t, which is to say: if x(t) solves
+Kepler’s equation then so does λx(λ−3/2t). From one periodic solution x(t) we gen-
+erate a one-parameter family xλ. The energy-period relation in K3 for this family
+follows from the scaling symmetry
+2.0.1. Kepler’s third law for homogeneous potentials in Euclidean space. Any ho-
+mogeneous potential V on a Euclidean space enjoys a version of K3. Homo-
+geneity is a scaling symmetry: x 7→ λx =⇒ V (x) 7→ V (λx) = λ−αV (x).
+We try to extend the symmetry to time and velocities by a power law ansatz:
+(x, t, v) 7→ (λx, λβt, λ−νv). Balancing the resulting scalings of potential and kinetic
+energies implies that ν = α/2. The requirement v = dx/dt yields β = 1 + (α/2).
+We are led to the extended scalings
+(x, t, v) 7→ (λx, λ1+α/2t, λ−α/2v).
+In terms of curves γ(t), which are maps from t to x-space, the scaling operation is
+γ(t) 7→ γλ(t) = λγ(λ−(1+α/2)t).
+One verifies that if γ satisfies Newton’s equation γ¨ = −∇V (γ) then so does γλ.
+(Use that ∇V is homogeneous of degree −α− 1.) The scaling symmetry thus takes
+solutions of energy H to solutions of energy λ−αH. Now if γ is periodic of period
+T and with typical size a, then γλ is periodic of period λ
+βT = λ1+α/2T and typical
+size λa. We thus arrive at our modified K3: T 2 = Ca2+α.
+2.0.2. Dilations. To have an analogue of K3, our metric space must, like Euclidean
+space, admit dilations.
+Definition 1. A dilation of the metric space (X, d) with center S ∈ X and dilation
+factor λ is a map δλ : X → X which fixes S and satisfies d(δλx, δλy) = λd(x, y) for
+all x, y ∈ X. We say that the metric space X admits dilations if there is a dilation
+of X with dilation factor λ for each λ > 0.
+Spherical and hyperbolic metrics admit no dilations. K3 fails for both.
+4 RICHARD MONTGOMERY AND COREY SHANBROM
+3. Keplerian symmetries.
+We will restrict ourselves to metric spaces X which
+• are homogeneous (1)
+• are isotropic (2)
+• admit dilations. (3)
+We will call these three properties the Keplerian symmetry assumptions.
+Historical Motivation. Newton’s biggest victory was probably his derivation of
+Kepler’s laws K1,K2, K3, from more basic laws: Galilean invariance, his equation
+F = ma, and the specific choice of force F as ‘1/r2.’ From these laws he derived
+what we today call Kepler’s differential equation q¨ = −q/|q|3 and thence K1-3. A
+subset of the Galilean group is the group of spatial isometries and this relates to
+homogeneity and isotropicness. Dilations, as discussed above, are included so as to
+get a version of Kepler’s third law.
+We recall the formal definition homogeneity and isotropicness. Let Isom(X)
+denotes the group of isometries of X. Homogeneity asserts that Isom(X) acts
+transitively on X. Isotropicness asserts that Isom(X) acts transitively on the
+space of directions through any point S ∈ X. The sphere and the hyperbolic plane
+are homogeneous and isotropic, but they do not admit dilations.
+Proposition 1. If a Riemannian manifold is homogeneous and admits dilations
+then it is a Euclidean space.
+Proof [sketch]. See Gromov [9], prop. 3.15. Gromov defines the metric tangent
+cone TpX of any metric space at any point p ∈ X as the pointed limit (X,λd)
+as λ → ∞. This limit need not always exist, but it does exist for Riemannian
+manifolds and equals the usual tangent plane, with its induced Euclidean metric.
+If the metric d admits a dilation with scale factor λ then (X, d) is isometric to
+(X,λd). Letting λ → ∞ we see that such an X is isometric to its metric tangent
+cone TpX for all p. QED
+Consequently, if we insist on satisfying all three Keplerian symmetries (1)-(3)
+while also leaving the realm of Euclidean spaces, we must also leave the world of
+Riemannian manifolds! The simplest non-Euclidean metric space satisfying (1)-(3)
+is the Heisenberg group with its subRiemannian metric.
+4. Kepler’s problem and the Laplacian
+Before formulating the Kepler-Heisenberg problem, we look into how the stan-
+dard Kepler problem fits within the framework of “natural mechanical systems”
+and thus how it generalizes to general Riemannian manifolds. This background
+will yield a straightforward way to place the Kepler problem in the Heisenberg
+context.
+The Hamiltonian for the standard Kepler problem on R3 is
+H =
+1
+2
+(p2x + p
+2
+y + p
+2
+z)−
+α
+r
+,
+where r =
+√
+x2 + y2 + z2 and α > 0. Why the 1/r potential? Perhaps the best
+answer is that U = 14pir is the fundamental solution for the Laplacian ∆ on (Eu-
+clidean!) R3, i.e. the solution to ∆U = −δ0. (See [3] and references therein.) The
+choice of sign convention is due to the positivity of the operator −∆.
+5The kinetic term in H is the principal symbol of the Laplacian, so we can write
+H(q, p) =
+1
+2
+σ∆ − α∆−1q (*)
+where σL denotes the principal symbol of L, and ∆
+−1(q) = K(q, 0), whereK(x, y) =
+U(x − y) is the Green’s function for the Laplacian (and where α = 14pi ). This
+reformulation suggests that we can pose ‘Kepler problem’ as a Hamiltonian system
+on any ‘space’ X with a ‘Laplacian’ ∆.
+This prescription (*) for H leaves us with a number of puzzles.
+Problems. What is the cotangent bundle of an arbitrary ‘space’ X? Assuming
+we make sense of H as a function on the cotangent bundle of X, then what are
+Hamilton’s equations on T ∗X? Can we ever compute the fundamental solution
+∆−1q of our Laplacian?
+All these questions have answers in the Riemannian case. The principal symbol
+has the coordinate expression
+σ∆(p) = Σg
+ij(q)pipj
+– it is the standard cometric of kinetic energy. The fundamental solution of the
+Laplacian has been explicitly computed for hyperbolic n-space, so we have a hy-
+perbolic Kepler problem.
+If X is a compact manifold without boundary, then the fundamental solution
+∆−1q does not exist for topological reasons. For example, we cannot have a single
+gravitational source on the sphere. There must be an opposing sink elsewhere on
+the sphere. To formulate the Kepler problem on the sphere, one places the sink
+antipodally to the source. See [6] or [15] for a precise formulation.
+5. Kepler’s Problem on the Heisenberg Group!
+5.1. Heisenberg Geometry. Consider R3 with standard x, y, z coordinates, en-
+dowed with the two vector fields
+X =
+∂
+∂x
+− 1
+2
+y
+∂
+∂z
+Y =
+∂
+∂y
++
+1
+2
+x
+∂
+∂z
+.
+Then X,Y span the canonical contact distribution D on R3 with induced Lebesgue
+volume form. Curves are called horizontal if they are tangent to D. Declaring
+X,Y orthonormal defines the standard subRiemannian structure on the Heisenberg
+group and yields the Carnot-Carathe´odory metric ds2H = dx
+2 + dy2. Geodesics
+are qualitatively helices: lifts of circles and lines in the xy-plane. The horizontal
+constraint implies that the z-coordinate of a curve grows like the area traced out
+by the projection of the curve to the xy-plane. See Figure 1 and Chapter 1 of [14].
+The Heisenberg (sub)Laplacian is
+∆ = X2 + Y 2,
+a second order subelliptic operator, and the only correct choice for ‘Laplacian’ on
+the Heisenberg group. We have
+[X,Y ] =
+∂
+∂z
+=: Z
+and [X,Z] = [Y,Z] = 0. There are the commutation relations of the Heisenberg
+Lie algebra, hence the name. The Heisenberg group H is the simply connected Lie
+6 RICHARD MONTGOMERY AND COREY SHANBROM
+Figure 1. A Heisenberg geodesic
+group with Lie algebra the Heisenberg algebra and is diffeomorphic to R3. In x, y, z
+coordinates the Heisenberg group law reads
+(x1, y1, z1) · (x2, y2, z2) = (x1 + x2, y1 + y2, z1 + z2 + 12 (x1y2 − x2y1)).
+Left multiplication is an isometry and the vector fields X,Y are left invariant.
+5.2. The Heisenberg Kepler Problem. Folland ([5]) has derived an explicit
+formula for the fundamental solution for the Heisenberg Laplacian! It is
+U := ∆−1q =
+α
+ρ2
+, ρ = {(x2 + y2)2 + 116z2}1/4.
+Here α = 2/pi. Let px, py, pz be the dual momenta to x, y, z so that together
+x, y, z, px, py, pz form canonical coordinates on T
+∗H. Then
+PX = px − 12ypz, PY = py + 12xpz
+are dual momenta to X,Y, and
+K = 12 (P
+2
+X + P
+2
+Y ) =
+1
+2σ∆
+is the Heisenberg kinetic energy, given canonically by the cometric. (See Chapter
+1 of [14].) K generates the subRiemannian geodesic flow on the Heisenberg group.
+We see that Keplerian dynamics on the Heisenberg group are the Hamiltonian
+dynamics for the canonical Hamiltonian
+H = K − U.
+There is no explicit formula for the Heisenberg subRiemannian distance function
+||(x, y, z)||H := dsr((x, y, z), (0, 0, 0)), measuring the distance from a point to the
+origin . So the mix of K and U – of geodesic and subLaplacian – is quite interesting
+and it is rather remarkable that we can write down the Hamiltonian in closed form.
+The dilation on the Heisenberg group is
+δλ(x, y, z) = (λx, λy, λ
+2z).
+7Like the subRiemannian distance, the function ρ is positive homogeneous of degree
+1 with respect to this dilation. Since the Heisenberg sphere is homeomorphic to
+the Euclidean sphere, the standard argument which shows that any two norms on
+Rn are Lipshitz equivalent shows that ρ and || · ||H are Lipshitz equivalent: there
+exist positive constants c, C such that cρ(x, y, z) < ||(x, y, z)||H < Cρ(x, y, z) for
+(x, y, z) 6= 0.
+Following the procedure described in Section 2.0.1, we find that if a curve γ
+solves Newton’s equation γ¨(t) = ∇U(γ(t)), where ∇ denotes the subRiemannian
+gradient, then so does
+γλ(t) := δλ(γ(λ
+−2t)).
+Then given a periodic orbit γ with period T (see Section 5.5), we get a family of
+periodic orbits γλ with periods λ
+2T . Choosing a suitable notion of the ‘size’ a of a
+periodic orbit yields the Heisenberg version of Kepler’s third law:
+T 2 = Ca4.
+The isometry group of the Heisenberg group is generated by translations and
+rotations. The translations denote the action of the Heisenberg group on itself by
+left multiplication. These project to translations of the xy-plane. The rotations
+form the circle group of rotations about about the z axis. In addition we have
+the discrete ‘reflection’ (x, y, z) 7→ (x,−y,−z). Translations act transitively: the
+Heisenberg group is homogeneous. Rotations act transitively on (allowable) direc-
+tions: the Heisenberg group is isotropic. Thus the Heisenberg group enjoys the
+three Keplerian symmetry properties.
+5.3. Hamiltonian Dynamics. The dilation on phase space T ∗H is
+δλ : (x, y, z, px, py, pz) 7→ (λx, λy, λ2z, λ−1px, λ−1py, λ−2pz).
+This is generated by the function J = xpx + ypy + 2zpz, which satisfies J˙ = 2H.
+When H = 0, J is a first integral. Note that δλ : H 7→ λ−2H.
+Now change to cylindrical coordinates (r, θ, z) on H. We have the induced con-
+jugate momenta pr = (xpx + ypy)/r and pθ = xpy − ypx. Our Hamiltonian is
+H = 12p
+2
+r +
+1
+2
+(pθ
+r
++ 12rpz
+)2
+− αρ−2.
+Note that this does not depend on θ due to rotational symmetry, and the corre-
+sponding angular momentum pθ is conserved.
+On the smooth submanifold of phase space {H = 0}, we have three (independent)
+conserved quantities H, pθ, and J , and a theorem of Arnold (see [2]) says that our
+system is integrable by quadratures here. See Figure 2 for approximations of orbits
+which exhibit this integrable behavior as well as the helical Heisenberg geometry.
+For this reason, we will mostly focus on the H = 0 case. This is especially justified
+in light of the following.
+Lemma 1. Periodic orbits must have zero energy.
+Proof. If γ(t) = (x(t), y(t), z(t), px(t), py(t), pz(t)) satisfies γ(0) = γ(T ) for some
+t = T , then J = xpx+ypy + 2zpz is also periodic. But we know the time derivative
+of J is constant, given by J˙ = 2H. Since J cannot be monotonically increasing nor
+decreasing, we must have J˙ = 2H = 0, so H = 0. QED
+8 RICHARD MONTGOMERY AND COREY SHANBROM
+Figure 2. Projections of zero-energy orbits to the xy-plane.
+Periodic orbits exist and the existence proof forms part of C.S.’s thesis – see
+Section 5.5 below. We will momentarily report progress with integration of the
+H = 0 system, but first we gather other dynamical results.
+Proposition 2. If H < 0 then any solution is bounded.
+Proof. Suppose H = −h where h is positive. Then K − U = −h, so
+U = K + h ≥ h,
+since K is always non-negative. Then a solution (x(t), y(t), z(t)) in configuration
+space must satisfy
+0 ≤ ((x2 + y2)2 + 116z)1/2 <
+α
+h
+,
+where α and h are positive constants. QED
+Proposition 3. The only solutions in the plane z = 0 are lines through the origin.
+Proof. The equations for z˙ and θ˙ satisfy the relation
+z˙ = 12r
+2θ˙.
+For a path lying in the plane z = 0, this implies either r = 0 or θ˙ = 0. In the first
+case, the path is trivial. In the second, it lies on a line through the origin. Such a
+curve may be parametrized by
+γ(t) = (c1t
+1/2, c2t
+1/2, 0, 12c1t
+−1/2, 12c2t
+−1/2, 0).
+It is easy to verify that the desired equations are satisfied, and that H = 0. QED
+Proposition 4. The only solutions constant in configuration space are
+γ(t) = (0, 0, k, 0, 0,− 4αk2 t).
+Proof. This is an easy calculation. Note that such solutions are unbounded in phase
+space, and satisfy H < 0. QED
+Next, we explicitly integrate the equations of motion on a codimension 3 sub-
+manifold, and recover conics reminiscent of the Euclidean Kepler problem. Consider
+9the smooth submanifold N = {z = pz = pθ = 0}. This submanifold is invariant
+under the dynamics, since z˙ = p˙z = p˙θ = 0 on N . The Hamiltonian is
+H|N = 12p2r −
+α
+r2
+,
+which has the form of a classical central force problem in the plane. Fix an energy
+level H|N = h. Then since pr = r˙, we can explicitly solve for r(t) as follows.
+Proposition 5. On N , r(t) traces out a hyperbola if h > 0, an ellipse if h < 0,
+and a parabola if h = 0.
+Proof. The Hamiltonian may be rewritten as the simple ODE
+1
+2
+(dr
+dt
+)2
+=
+α
+r2
++ h.
+Assume temporarily that h 6= 0. Integrating, we find
+t =
+∫
+dt = 1√
+2
+∫
+r√
+α+ r2h
+dr = 1
+h
+√
+2
+√
+α+ r2h,
+which may be rewritten r2− 2ht2 = −αh . Since α > 0, this curve in the t, r-plane is
+an ellipse for h < 0 and a hyperbola for h > 0.
+If h = 0, we find that
+t = 1√
+2α
+∫
+rdr = 1
+2
+√
+2α
+r2,
+and thus r2 =
+√
+8α t. QED
+We conclude this section with the following conjecture:
+Conjecture. There is an open set of initial conditions whose orbits are asymptotic
+to helices.
+This behavior is suggested by numerical experiment and by the fact that U and
+its derivatives tend to zero as orbits tend towards ∞.
+5.4. Integration of the case H = 0. We now focus on the H = 0 case and reduce
+the integrability of the equations of motion to the parametrization of a family of
+degree 6 algebraic plane curves.
+Let H˜ = KU . Then integral curves for H˜ are the same as geodesics for the metric
+Uds2H. When H = 0, this is the same as the metric (H + U)ds
+2
+H, whose geodesics
+correspond to integral curves for H, according to the Jacobi-Maupertuis principle.
+Thus, the flow of H is the same as the flow of H˜ up to reparametrization on the
+hypersurface {H = 0} = {H˜ = 1}.
+A short calculation shows that both J and pθ Poisson commute with H˜. (Recall
+{H,J} = 2H.) This demonstrates the scale invariance of H˜; δλ : H˜ 7→ H˜. More
+importantly, we have three independent quantities conserved by the flow of H˜.
+Thus, we have an integrable system on {H = 0} = {H˜ = 1}.
+Change our third coordinate z 7→ v = z/r2. We have conjugate momenta
+p˜r, pθ, pv. In these coordinates, we have J = rp˜r (as in the Euclidean case) and
+H˜ = H˜(pθ, J, v, pv). On the submanifold {H = 0}, we have H˜ = 1. Also, the initial
+conditions determine the constants J and pθ. Thus, given initial conditions, H˜ is
+a function of v and pv only. We arrive at the following result.
+10 RICHARD MONTGOMERY AND COREY SHANBROM
+Figure 3. Curves in the v, pv-plane corresponding to J = 3, pθ =
+1 (left) and J = 0, pθ = 1 (right).
+Proposition 6. When H˜ = 1, any solution must project to an algebraic curve in
+the v, pv-plane.
+These curves are naturally degree 10 but can be reduced to degree 6 by changing
+variables. Examples are shown in Figure 3. If we can parametrize these curves, we
+should be able to bootstrap up to find explicit solutions.
+5.5. Periodic Orbits. Despite the fact that the H = 0 case is integrable, we have
+not been able to explicitly solve the equations. However, we know that periodic
+orbits exist.
+Take L = K + U as our Lagrangian and impose the horizontal constraint z˙ =
+1
+2xy˙ − 12yx˙. Then any trajectory γ must lie on the zero set of the function
+G = 12xy˙ − 12yx˙− z˙.
+The calculus of variations tells us that if γ : [0, T ] → H is a minima of the action
+functional
+∫ T
+0
+Ldt which also satisfies our constraint, then there exists a scalar
+λ = λ(t) such that γ is a minima of the modified action functional
+A(γ) =
+∫ T
+0
+Lλ(t, γ, γ˙)dt,
+where we have written Lλ(t, γ, γ˙) = L(t, γ, γ˙) − λ(t)G(t, γ, γ˙). Setting the first
+variation of A equal to zero and integrating by parts yields the Euler-Lagrange
+equations:
+x¨ = −λy˙ − 12 λ˙y − 2αx(x2 + y2)ρ−6
+y¨ = λx˙+ 12 λ˙x− 2αy(x2 + y2)ρ−6
+λ˙ = − α16zρ−6.
+When λ = pz we find that these agree with Hamilton’s equations.
+We are confident that the direct method in the calculus of variations applied to
+A(γ) will yield a proof of the existence of periodic orbits. One works in the Hilbert
+space H1(S1,H) and requires that admissible curves are horizontal and satisfy the
+symmetry conditions
+γ(t+ T/3) = R2pi/3γ(t) (S1)
+and
+z(t+ T/2) = −z(t), (S2)
+11
+Figure 4. Projection of an orbit to the xy-plane (left) and z-
+coordinate over time (right)
+where
+R2pi/3 =
+− 12 −
+√
+3
+2 0√
+3
+2 − 12 0
+0 0 1
+ .
+Any admissible curve is therefore necessarily periodic, with additional symmetry.
+A suggestive approximation of such a curve is shown in Figure 4.
+The idea is to choose a minimizing sequence γn of curves in this space, and show
+that they converge within the space to some γ∗. Applying elementary analysis
+and the principle of symmetric criticality shows that γ∗ must minimize the action,
+thereby satisfying the Euler-Lagrange equations. A central difficulty lies in proving
+that γ∗ does not pass through the singularity at the origin. A full existence proof
+is expected to appear in the thesis of C.S.
+5.6. A failure of reduction. Newton reduced his two-body problem to the Kepler
+problem in Euclidean space. There is no analogous reduction for the two-body
+problem on the Heisenberg group, nor is there for the two-body problem on the
+sphere or in hyperbolic space. We discuss the geometric roots of this failure.
+We begin by writing down the Heisenberg two-body problem. Let q1, q2 ∈ H ∼=
+R3 denote the positions of two bodies moving in the Heisenberg group H. Let their
+masses be m1,m2. Their individual kinetic energies are
+Ki =
+1
+2mi
+((P
+(i)
+X )
+2 + (P
+(i)
+Y )
+2)
+where P iX , P
+i
+Y are the horizontal momenta of each body, as in Section 5.2. The
+Heisenberg two-body problem is defined by the Hamiltonian
+H = K1 +K2 − κm1m2U(q−11 q2),
+where κ is the Gravitational constant and U is Folland’s fundamental solution. H
+is a Hamiltonian on the cotangent bundle of H × H, and is invariant under the
+(cotangent lift of the left) translation (q1, q1) 7→ (gq1, gq2), g ∈ H.
+12 RICHARD MONTGOMERY AND COREY SHANBROM
+We know of two derivations of Kepler’s problem (on Euclidean space) from New-
+ton’s two-body problem. We will call these the ‘algebraic’ and the ‘group-theoretic’
+derivations. The ‘algebraic derivation’ begins with the equation F = ma for each
+body. Divide the equation for each body by its mass to get equation for the ac-
+celeration q¨i of each body’s position vector qi. Subtract one equation from the
+other to obtain the ODE of Kepler’s problem, q¨ = −αq/|q|3, for the difference vec-
+tor q = q1 − q2. The ‘group theoretic derivation’ depends on the conservation of
+the total linear momentum, the invariance of Newton’s mechanics with respect to
+Galilean boosts, and the abelian nature of the translation group. If P is the total
+linear momentum and M the total mass, we boost by the velocity −P/M to get
+to a new representation of the same dynamics in which the total linear momen-
+tum is zero. Then we reduce by translation at the value 0 by placing the center of
+mass at the origin. Finally, we compute that each mass separately satisfies Kepler’s
+equation with the origin – the center of mass – now playing the role of “sun”.
+The algebraic derivation fails on the Heisenberg group because the ‘difference
+vector’ g1(t)
+−1g2(t) of two Heisenberg geodesics is not a Heisenberg geodesic. Why
+is this lack of being a geodesic a problem? Set the Heisenberg Gravitational constant
+κ = 0 so the two-body problem reduces to two uncoupled Heisenberg geodesic
+problems. Play the algebraic game. Our ‘difference vector’ does not satisfy the
+Heisenberg geodesic equations or any other pretty Hamiltonian equation. But in
+the Newtonian-Euclidean case, the difference vector travels like a free particle, i.e.,
+moves in a straight line – as it should with α = 0 in Kepler’s problem. Things will
+just get worse for κ 6= 0.
+The failure of the group theoretic derivation goes a bit deeper and is perhaps
+more enlightening. What is a ‘Galilean boost’ for an arbitrary Lie group? We choose
+some ‘translation velocity’ ξ and multiply elements x0 by exp(tξ). Euclidean space
+enjoys the wonderful property that exp(tξ)x0 = x0 + tξ describes free motion; it is
+a geodesic. This assertion is decidedly false for the Heisenberg group: the orbits of
+(left or right) translates of one parameter subgroups are not Heisenberg geodesics.
+As a result, applying a boost to a solution (q1(t), q2(t)) to the Heisenberg two-body
+problem will not yield a solution. There is a conserved total ‘linear momentum’:
+the momentum map for the (left) translation action. But we cannot use it to
+‘Galilean boost’ the ‘center of mass velocity’ down to zero. Even if this total linear
+momentum were initially zero, we still seem to be stuck. The non-Abelian nature
+of the group appears to block us from writing the reduced Hamiltonian at zero as
+a Kepler Hamiltonian on the ‘diagonal group’ of elements q = q−11 q2.
+In spherical and hyperbolic geometry, reduction of the two-body problem to the
+Kepler problem fails for similar reasons. See [7]. In the spherical case, Shchepetilov
+[16] used the Morales-Ramis theory to prove that the two-body problem in these
+two geometries is not meromorphically integrable.
+Question. Is the two-body problem on the Heisenberg group non-integrable?
+6. Kepler’s Problem on a Lattice.
+Lattices admit one-sided dilations: we can scale a lattice L by a positive integer
+c and land back in the lattice, stretching all distances by c. They admit Laplacians.
+So we might be able to begin to investigate Kepler’s 3rd law on L.
+13
+What are Newton’s equations on L? Since we must hop from lattice site to
+lattice site, we must choose our time variable t to be discrete:
+t = . . . ,−1, 0, 1, 2, . . . .
+A ‘solution’ to Newton’s equations will then be a ‘discrete curve’
+γ : Z→ L, L our lattice,
+satisfying a difference equation which mimics Newton’s equations. In 1st order
+Hamiltonian form these equations should resemble
+dγ
+d[t]
+= p
+dp
+d[t]
+= −∇V (γ(t)),
+where the differential is the discrete difference operator
+dγ
+d[t]
+= γ(t+ 1)− γ(t),
+and where V : L → R is our potential. The standard interpretation of ∇V is in
+terms of its differential
+dV (`) : E` → R, ` ∈ L,
+where E = E` is the set of edges (chosen lattice generatos) leaving the lattice site
+`, and where
+dV (`)(e) = V (`′)− V (`), e = [`, `′] an edge.
+Then we can rewrite our Newton difference equations as
+γ(t+ 1) = γ(t) + p(t) (4)
+p(t+ 1) = p(t)− dV (γ(t)). (5)
+What is the momentum, p(t)? We add to it dV (γ(t)), so it must lie in the same
+space as dV, which is
+E∗ = E∗` = real valued functions on E`.
+This ‘cotangent space at `’ is a vector space isomorphic to Rd, where d is the degree
+of a vertex: the number of edges leaving `. Good. Now, how do we add p(t) ∈ E∗
+to a lattice site ` = γ(t) ∈ L in order to get a new lattice site γ(t + 1) as in the
+1st Newton equation? We seem to be missing the ‘mass matrix’ or ‘cometric’ of
+mechanics.
+Definition 2. A lattice cometric is a ‘non-trivial’ map
+M : E∗ → L.
+With this tentative definition we can now try to write down ‘Newton’s equations’
+γ(t+ 1) = γ(t) +M(p(t)) (6)
+p(t+ 1) = p(t)− dV (γ(t)), (7)
+which define a discrete dynamics on the phase space L×E∗. The resulting dynamics
+have some vague relation to the corresponding formal Hamiltonian
+H(`, p) =
+1
+2
+pMp+ V (`),
+but we aren’t sure how to interpret the term pMp.
+14 RICHARD MONTGOMERY AND COREY SHANBROM
+Figure 5. A Kepler orbit in integer phase space
+7. Kepler’s problem on Z.
+The Laplacian ∆ on Z is given by ∆f(n) = f(n+ 1)− 2f(n) + f(n− 1).
+Exercise. Show that U(n) = − 12 |n| is a fundamental solution for the Laplacian
+on Z with source at S = 0.
+Take the Kepler constant α = 2 so that the ‘Newtonian potential’ V = −αU is
+V = |n|. The Hamiltonian is
+H(n, p) =
+1
+2
+p2 + |n|.
+Since dd[n] |n| = sgn(n) is the sign of n, 1 if n > 0 and −1 if n ≤ 0, we find that
+with this choice of α the discrete gradient is integer valued. We get a good discrete
+dynamical system. Newton’s equations (in 1st order form) become
+n(j + 1) = n(j) + p(j)
+p(j + 1) = p(j)− sgn(n).
+A solution is depicted in Figure 5.
+At each iteration, the ‘lattice momentum’ p decreases by one as long as n > 0
+and increases by 1 as long as n < 0. (We have to make a choice at n = 0; above we
+chose sgn(0) = −1.) Note that as long as the initial condition p(0) is an integer, it
+remains an integer, and we stay on the lattice!
+Because of this happy coincidence with p’s evolution, we did not need to worry
+about where p lived. It is a real number that happens to evolve to stay integral.
+Our momentum space is not E∗ ∼= R2. (There are two directions, right and left,
+on the lattice, hence the dimension 2.) We also did not need to choose a ‘lattice
+cometric’ M. If any choice was made, it seems to have been ‘1’ as written in the
+Hamiltonian. The happy coincidence does not happen when we go up to the rank
+2 lattice.
+7.1. Kepler on the rank 2 lattice. The rank 2 lattice is Z2 with elements written
+` = (n,m). As a metric space, we use the distance
+d((n,m), (n′,m′) = |n− n′|+ |m−m′|.
+15
+Figure 6. Values of the Green’s function g on Z2, taken from [10]
+The Laplacian is
+∆f(`) =
+∑
+`′: d(`,`′)=1
+(f(`′)− f(`)).
+Let U denote the fundamental solution, this being the ‘most bounded’ solution to
+∆U = δ0, where δ0 is the lattice delta function corresponding to placing the sun
+at the origin. (There is a lattice Liouville theorem, so U can be made unique up
+to an additive constant.) There is no closed form expression for U. However, any
+particular value of U can be computed recursively. Indeed, the fundamental solution
+is a well studied object with applications to the theory of electrical circuits ([4]),
+solid state physics, and quantum mechanics. Some values of the lattice Green’s
+function are reproduced in Figure 6 from [10]. (We thank the brothers Hollos for
+permission to reproduce their table.)
+We write the formal Hamiltonian
+H(`, p) =
+1
+2
+pMp− αU(`)
+and derive Hamilton’s equations
+`(t+ 1) = `(t) +Mp(t)
+p(t+ 1) = p(t) + αdU(`(t))
+16 RICHARD MONTGOMERY AND COREY SHANBROM
+where
+M : R4 = E∗ → Z2.
+The vector p is a 4-vector with components (pup, pdown, pright, pleft) correspond-
+ing to the 4 edges, which are the 4 directions of motion, through each vertex. We
+have, for example dU(`)up = U(`+ e2)− U(`) where e2 = (0, 1) represents motion
+in the ‘up’ direction. The second Hamilton equation makes sense.
+When we try to parse the first Hamilton equation we get stuck. What do we
+take for M : R4 → Z2? We require M to be non-constant. Certainly M will not be
+continuous! Ideally M is ‘linear’:
+M(kp) = kM(p), k ∈ Z,
+but this is probably not possible in any reasonable sense. One possibility for
+M is to argue that there is a ‘canonical’ projection Π : R4 → R2, for example,
+Π(pup, pdown, pright, pleft) =
+1
+2 (pup + pdown, pright + pleft), and a canonical embed-
+ding of our lattice as Z2 ⊂ R2. Then choose M(p) to be the lattice point closest to
+Π(p). This leaves us to worry about what to do if Π(p) is midway between lattice
+points. Flip a coin?
+We are stuck and look forward to some of our readers unsticking us.
+7.1.1. Euler-Lagrange formulation. We can make a bit more sense of the Euler
+Lagrange version of lattice dynamics. Fix a positive integer T , the ‘time of flight,’
+and initial and final vertices, v0, v1 ∈ Z2. There will be two formulations. In both,
+we consider discrete paths γ : {0, 1, . . . , T} → Z2 which join v0 to v1 in time T , and
+we minimize an ‘action functional’ A among all such discrete paths.
+Version 1: Minimize the action
+A(γ) =
+T∑
+t=0
+{1
+2
+(| d
+d[t]
+γ(t)|1)2 + αU(γ(t))}
+among all discrete paths γ joining v0 to v1 in discrete time T .
+Here | dd[t]γ(t)|1 = d(γ(t+ 1), γ(t)), so half of its square represents kinetic energy.
+Version 2: Call a discrete path ‘continuous’ if either d(γ(t + 1), γ(t)) = 1 or
+γ(t+1) = γ(t). Minimize the same action as Version 1, but now over all continuous
+paths. (In this case the kinetic term 12 (| dd[t]γ(t)|1)2 is either 1/2 or 0 at each time
+step.)
+We are guaranteed a solution to Version 2 exists since there are only a finite
+number of ‘continuous’ paths joining v0 to v1. We suspect that if we move too fast
+the kinetic energy becomes too large, so that Version 1 is ‘coercive’ and one can
+argue that again there are only a finite number of paths that matter.
+It seems doubtful that any decent Euler-Lagrange type difference equation ‘dy-
+namics’ will result from either principle. Indeed, take the case α = 0 of a ‘free
+particle’ on the latttice, and take v0 = (0, 0), v1 = (n,m), n > m ≥ 0. There are
+(n+ 1)m shortest paths from v0 to v1. Just draw box-paths, always moving either
+right or up. Their lengths are all n + m = d(v0, v1). If T < d(v0, v1) then there
+are no paths connecting the two points. If T = d(v0, v1) then their actions are all
+1
+2T . If T > d(v0, v1) the action remains the same; we just stay still for the requisite
+times T − d(v0, v1). This means either (i) all points v1 = (n,m) with nm 6= 0 are
+conjugate to v0, or (ii) that there is no good ‘free’ dynamical equation, so likely no
+good Euler-Lagrange equations in general.
+17
+8. Quantum Mechanics to Classical Mechanics on Cayley Graphs?
+By a graph here we mean the usual combinatorial collection of vertices and edges.
+We write Γ for the set of vertices and view Γ as ‘configuration space.’ The graph
+Laplacian is the operator ∆ : `2(Γ)→ `2(Γ) defined by
+∆f(v) =
+∑
+v′:[v,v′] an edge
+(f(v′)− f(v)).
+If Γ is finite there will be no fundamental solution; that is, there is no solution to
+∆US = δS where where δS is the discrete δ function centered at the sun: δS(S) =
+1, δS(v) = 0, v 6= S. If Γ is finite, a necessary condition for the solvability of ∆V = f
+is Σf(v) = 0, which will fail for f = δS .
+Regardless of whether or not Γ has a Green’s function, it has plenty of potentials,
+meaning functions V ∈ `2(Γ). Consequently for each choice of Planck’s constant ~
+we have a Schrodinger operator:
+~2∆ + V : `2(Γ)→ `2(Γ).
+There is a large active field of graph Laplacians and quantum mechanics on graphs.
+There is undoubtedly a theory of quantum mechanics on Γ.
+Challenge. Don’t you think this quantum mechanics ought to have a classical
+limit? If ‘yes’ then please answer: what are the correct Newton’s equations for an
+arbitrary potential, on an arbitrary graph?
+8.0.2. Cayley graph of a group. Let Γ be a finitely generated group and e1, . . . , ed ∈
+Γ be a fixed set of generators for Γ (so every element of Γ is a product of the ei’s
+or their inverses). Form the graph whose vertices are the elements x ∈ Γ and for
+which two vertices x, y ∈ Γ are joined by an edge if and only if either y = xei or
+x = yei for some generator ei. Count each edge as having length 1. Define the
+distance between points x and y in Γ to be the minimum of the lengths of the paths
+joining x to y. This distance is always an integer, since the length of a path is just
+the number of edges it contains.
+In this representation, the ‘Lie algebra’ of the Cayley graph will be the tangent
+space at the identity: the disjoint union of d copies of Z. Alternatively, it is the
+subset of Zd consisting of vectors for which all but one component is zero.
+Example: Lattices. Take Γ = Z2 to be the lattice of integers in the plane, with
+standard generators e1 = (1, 0), e2 = (0, 1). Then the Cayley graph of Z2 realized
+as above has the vertices of a standard infinite sheet of graph paper in R2. Its
+Lie algebra consists of integer points on the x-axis unioned with the collection of
+integer points on the y-axis.
+8.0.3. Kepler symmetries of Cayley graphs. Every Cayley graph satisfies Keplerian
+symmetry property (1) of being homogeneous since Γ acts on itself on the right
+by isometries. View the generators as the ‘directions.’ Then if the automorphism
+group of the group Γ acts transitively on its generating set e1, . . . , ed, the metric is
+isotropic; it satisfies Keplerian symmetry property (2). Finally we can send ei to
+eki . In some instances this defines a group homomorphism of Γ into itself. Then
+the Cayley graph admits one-sided dilations and so satisfies (3). The examples we
+know of groups whose Cayley graphs satisfy (1), (2) and (3) are the lattices Zd, the
+lattices in nilpotent groups, and the free group on d generators. In the continuous
+18 RICHARD MONTGOMERY AND COREY SHANBROM
+case, we know how to derive a Kepler’s third law from the Keplerian symmetry (3).
+Is there an analogous construction in the discrete case?
+8.0.4. Full Disclosure – R.M.. I have little interest in any kind of graph for its own
+sake. I am not a combinatorist, nor a discrete group theorist!
+In contrast to the dozens of books that Jerry wrote in his life, I have mustered
+the courage and stamina to write a single book in this life. (Jerry continues to
+amaze.) In that book I devoted a chapter to trying to understand one of the big
+ideas of Gromov in his paper ‘On Groups of Polynomial Growth . . . ’ ([8]) in which
+he used subRiemannian ideas to solve a problem in discrete group theory. Consider
+a discrete finitely generated group Γ. Select some generators and form the group’s
+Cayley graph. We say the group is ‘of polynomial growth’ if the number of vertices
+of the Cayley graph lying inside a ball of radius R is bounded by a polynomial in R
+as R → ∞. (If Γ is of polynomial growth with respect to one set of generators, it
+is of polynomial growth with respect to any other set of generators.) The lattices,
+and the integer lattice in the Heisenberg group are examples of groups of polyno-
+mial growth. More generally, the lattices in any Carnot group are of polynomial
+growth. The free group on 2 generators in not of polynomial growth: its balls
+have exponential growth, roughly 3R. There is a notion of a group being ‘virtually
+nilpotent,’ and it was known that virtually nilpotent implies polynomial growth.
+Gromov proved the converse: polynomial growth implies virtually nilpotent.
+Gromov’s paper is mind-blowing – the most astounding application of subRie-
+mannian geometry that I know of made by a human. (Cats and micro-organisms
+have made their own astounding applications.) Gromov scales the edges of the Cay-
+ley graph by , then takes the limit as → 0. He proves, in essence, that the result
+converges to a Carnot group – a metric of subRiemannian type on a nilpotent Lie
+group – and from this the theorem easily follows. (I am stretching the truth here,
+but that is the spirit of Gromov’s paper. There are many technicalities.) What
+I find so compelling about Gromov’s paper is the going back and forth between
+the wonderful world of smooth metric spaces – Lie groups even – which I know
+and love, and the chopped up world of discrete objects that I find so frightening at
+times. Can we similarly go back and forth in dynamics? That is what I would like
+to see in some ‘Kepler problem on a lattice.’
+19
+References
+2010331028
+2010331029 0
+2010331030
+2010331031
+2010331032
+2010331033
+2010331034 1
+2010331035 10
+2010331036
+2010331037 2
+2010331038
+2010331039 10
+2010331040
+2010331041
+2010331042 9
+2010331043 3
+2010331044 9
+2010331045 7
+1. R. Abraham and J.E. Marsden, Foundations of Mechanics, Benjamin-Cummings, (1978).
+2. V.I. Arnold, V.V. Kozlov, and A.I. Neishtadt, Mathematical Aspects of Classical and Celestial
+Mechanics, 3rd Ed., Springer-Verlag, (2010).
+3. A. Albouy, Projective dynamics and classical gravitation, arXiv:math-ph/0501026v2, (2005).
+4. J. Cserti, Application of the lattice Green’s function for calculating the resistance of infinite
+networks of resistors, Am.J.Phys.68:896-906, arXiv:cond-mat/9909120v4, (2000).
+5. G. Folland, A fundamental solution for a subelliptic operator, Bulletin of the AMS, 79, (1973).
+6. F. Diacu, E. Perez-Chavela, and M. Santoprete, The n-body problem in spaces of constant
+curvature, arXiv:0807.1747v6 [math.DS], (2008).
+7. F. Diacu, The non-existence of centre-of-mass and linear-momentum integrals in the curved
+N-body problem, arXiv:1202.4739v1 [math.DS], (2012).
+8. M. Gromov, Groups of polynomial growth and expanding maps, Publ. Math. IHES, 53 (1981),
+53-73.
+9. M. Gromov, Metric Structures for Riemannian and Non-Riemannian Spaces, Birkhauser, 3rd
+printing, (2007).
+10. S. Hollos and R. Hollos, The lattice Green function for the Poisson equation on an infinite
+square lattice, arXiv:cond-mat/0509002v1 [cond-mat.other], (2005).
+11. N. I. Lobachevsky, The new foundations of geometry with full theory of parallels [in Russian],
+1835-1838, In Collected Works, V. 2, GITTL, Moscow, (1949), p. 159.
+12. J. E. Marsden and M. West, Discrete mechanics and variational integrators, Acta Numerica,
+10 (2001), 357-514.
+13. R. Moeckel and R. Montgomery, Symmetric regularization, reduction and blow-up of the
+planar three-body problem, arXiv:1202.0972v1 [math.CA], (2012).
+14. R. Montgomery, A Tour of Subriemannian Geometries, AMS, (2002).
+15. P.J. Serret, The´orie nouvelle ge´ome´trique et me´canique des lignes a double courbure, Librave
+de Mallet-Bachelier, Paris, (1860).
+16. A. Shchepetilov, Nonintegrability of the two-body problem in constant curvature spaces,
+arXiv:math/0601382v3 [math.DS], (2006).
+Dept. of Mathematics, University of California, Santa Cruz, Santa Cruz CA 95064
+E-mail address: rmont@count.ucsc.edu
+Dept. of Mathematics, University of California, Santa Cruz, Santa Cruz CA 95064
+E-mail address: cshanbro@ucsc.edu

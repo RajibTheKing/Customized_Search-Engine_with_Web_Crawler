@@ -1,0 +1,4342 @@
+ar
+X
+iv
+:1
+21
+2.
+27
+64
+v1
+  [
+ma
+th.
+DS
+]  
+12
+ D
+ec
+ 20
+12
+MULTIFRACTAL ANALYSIS OF SOME MULTIPLE
+ERGODIC AVERAGES
+AI-HUA FAN, JO¨RG SCHMELING AND MENG WU
+Abstract. In this paper we study the multiple ergodic averages
+1
+n
+n?
+k=1
+?(xk, xkq , · · · , xkql-1 ), (xn) ? Sm
+on the symbolic space Sm = {0, 1, · · · ,m- 1}N* where m = 2, l =
+2, q = 2 are integers. We give a complete solution to the problem of
+multifractal analysis of the limit of the above multiple ergodic av-
+erages. Actually we develop a non-invariant and non-linear version
+of thermodynamic formalism that is of its own interest. We study
+a large class of measures (called telescopic measures) and the spe-
+cial case of telescopic measures defined by the fixed points of some
+non-linear transfer operators plays a crucial role in studying our
+multiplicatively invariant sets. These measures share many prop-
+erties with Gibbs measures in the classical thermodynamic formal-
+ism. Our work also concerns with variational principle, pressure
+function and Legendre transform in this new setting.
+1. Introduction
+Let (X, T ) be a topological dynamical system where T is a continuous
+map on a compact metric space X . Fu¨rstenberg had initiated the study
+of the multiple ergodic average:
+1
+n
+n?
+k=1
+f1(T
+kx)f2(T
+2kx) · · ·fs(T skx) (1)
+where f1, · · · , fs are s continuous functions on X with s = 2 when
+he gave a proof of the existence of arithmetic sequences of arbitrary
+length amongst sets of integers with positive density ([16]). Later on,
+the research of such a kind of average has attributed a lot of attentions
+(see e.g. [4, 6, 1, 17]).
+The authors in [10] have recently proposed to analyze such multiple
+ergodic averages from the point of view of multifractal analysis. They
+have succeeded in a very special case where (X, T ) is the shift dynam-
+ics on symbolic space and f1, · · · fs are Rademacher functions on the
+symbolic space viewed as an additive group. It is a challenge to solve
+the problem in its generality.
+Key words and phrases. Multifractal, multiple ergodic average, Hausdorff
+dimension.
+1
+2 Multifractal analysis of some multiple ergodic averages
+In the present paper, we shall consider the problem for the shift
+dynamics and for a class of functions f1, · · · , fs. The setting is as
+follows. Let S = {0, · · · , m - 1} be a set of m symbols (m = 2).
+Consider the shift map T on the symbolic space X = Sm = S
+N. Fix
+two integers q = 2 and l = 2. For any given l continuous functions
+g1, g2, · · · , gl defined on X , we consider the multiple ergodic average
+An(g1, g2 · · · , gl)(x) = 1
+n
+n?
+k=1
+g1(T
+kx)g2(T
+kqx) · · · gl(T kql-1x).
+This is a special case of (1) with s = ql-1, fqj = gj-1 and fk = 1 for
+other k 6= qj. Furthermore we assume that the functions f1, f2 · · · , fl
+depend only on the first coordinate of x = (xk)k=0 ? Sm. So, under
+this assumption of fj ’s we have
+An(g1, g2 · · · , gl)(x) = 1
+n
+n?
+k=1
+g1(xk)g2(xkq) · · · gl(xkql-1). (2)
+For the time being, there is no idea for the multifractal analysis of (1)
+in its general form. So we are content with investigating the special
+case (2). Actually we can do a little more. Given a function ? : Sl ? R
+we shall study
+An?(x) =
+1
+n
+n?
+k=1
+?(xk, xqk, · · · , xql-1). (3)
+The average in (2) corresponds to the special case of (3) with ? =
+g1 ? · · · ? gl. For a ? R, we define
+E(a) =
+{
+x ? Sm : lim
+n?8
+An?(x) = a
+}
+.
+Our problem is to determine the Hausdorff dimension of E(a). The
+problem is classical when l = 1 and the answers are well known (see
+e.g. [9, 11, 3, 2]). Let
+amin = min
+a1,··· ,al?S
+?(a1, · · · , al), amax = max
+a1,··· ,al?S
+?(a1, · · · , al).
+We assume that amin < amax (otherwise ? is constant and the problem
+is trivial).
+Let F(Sl-1,R+) be the cone of functions defined on Sl-1 taking non-
+negative real values. For any s ? R, consider the transfer operator Ls
+defined on F(Sl-1,R+) by
+Ls?(a) =
+?
+j?S
+es?(a,j)?(Ta, j) (4)
+where T : Sl-1 ? Sl-2 is defined by T (a1, · · · , al-1) = (a2, · · · , al-1).
+We also consider the non-linear operator Ns on F(Sl-1,R+) defined by
+Ns?(a) = (Ls?(a))1/q.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 3
+We shall prove that the equation
+Ns?s = ?s (5)
+admits a unique strictly positive solution ?s = ?
+(l-1)
+s : Sl-1 ? R*+
+(see Section 4, Theorem 4.1). The function ?s is defined on S
+l-1. We
+extend it on Sk for all 1 = k = l- 2 by induction:
+?(k)s (a) =
+(?
+j?S
+?(k+1)s (a, j)
+) 1
+q
+, (a ? Sk). (6)
+For simplicity, we will simply write ?s(a) = ?
+(k)
+s (a) for a ? Sk with
+1 = k = l - 1. So, a 7? ?s(a) is not only defined on Sl-1 but on?
+1=k=l-1 S
+k.
+Then we define the pressure function by
+P?(s) = (q - 1)ql-2 log
+?
+j?S
+?s(j). (7)
+Throughout this paper, log means the natural logarithm.
+We will prove that P?(s) is an analytic convex function of s ? R and
+even strictly convex since amin < amax. The Legendre transform of P?
+is defined as
+P *?(a) = inf
+s?R
+(-sa + P?(s)).
+We denote by L? the set of a ? R such that E(a) 6= Ø. One of the
+main results of the paper is stated as follows.
+Theorem 1.1. We have
+L? = [P
+'
+?(-8), P '?(+8)].
+If a = P '?(sa) for some sa ? R ? {-8,+8}, then E(a) 6= Ø and the
+Hausdorff dimension of E(a) is equal to
+dimH E(a) =
+P *?(a)
+ql-1 logm
+.
+This result was announced for l = 2 in [13]. It is obvious that
+L? ? [amin, amax]. In general, this inclusion is strict. In fact, we have
+the following criterion for L? = [amin, amax].
+Theorem 1.2. We have the equality
+P '?(-8) = amin
+if and only if there exist an x = (xi)
+8
+i=1 ? Sm such that
+?k = 1, ?(xk, xk+1, · · · , xk+l-1) = amin.
+We have analogue criterion for P '?(+8) = amax.
+4 Multifractal analysis of some multiple ergodic averages
+Let us look at the definition of
+An?(x) =
+1
+n
+n?
+k=1
+?(xk, xkq, · · · , xkql-1).
+One of the key points in our study of the problem is the observation
+that the coordinates x1, · · · , xn, · · · of x appearing in the definition of
+An?(x) share the following independence. This observation was first
+exploited in [10] in order to compute the Box dimension of some subset
+of E(amin). Consider the following partition of N*:
+N* =
+?
+i=1,q?i
+?i with ?i = {iqj}j=0.
+Observe that if k = iqj with q ? i, then ?(xk, xkq, · · · , xkql-1) depends
+only on x|?i , the restriction of x on ?i. So the summands in the defini-
+tion of An?(x) can be put into different groups, each of which depends
+on one restriction x|?i . For this reason, we decompose Sm as follows:
+Sm =
+?
+i=1,q?i
+S?i.
+Let µ be a probability measure on Sm. Notice that S
+?i is nothing
+but a copy of Sm. We consider µ as a measure on S
+?i for every i with
+q ? i. Then we define the infinite product measure Pµ on
+?
+i=1,q?i S
+?i of
+the copies of µ. More precisely, for any word u of length n we define
+Pµ([u]) =
+?
+i=n,q?i
+µ([u|?i ]),
+where [u] denotes the cylinder of all sequences starting with u. Then
+Pµ is a probability measure on Sm and we call it a telescopic product
+measure. Kenyon, Peres and Solomyak [18, 19] used this kind of mea-
+sures to compute the Hausdorff dimension of sets like {x = (xn)n=1 ?
+S2 : ?k = 1, xkx2k = 0} which was proposed in [10].
+A class of measures Pµ will play the same role as Gibbs measures
+played in the study of simple ergodic averages (l = 1). Concerning the
+dimension of Pµ (see [8] for the dimension of a measure), we have the
+following result which is one of the main ingredients of the proof of the
+main result (Theorem 1.1) and which has its own interest. A measure
+? on Sm is said to be exact if there exists an a ? R such that
+lim
+n?8
+logm ?([x|n ])
+n
+= a, ?-a.e.
+This value a is the dimension of ?.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 5
+Theorem 1.3. For any given measure µ, the telescopic product mea-
+sure Pµ is exact and its dimension is equal to
+dimH Pµ =
+(q - 1)2
+logm
+8?
+k=1
+Hk(µ)
+qk+1
+where
+Hk(µ) = -
+?
+a1,··· ,ak?S
+µ([a1 · · · ak]) logµ([a1 · · · ak]).
+A similar formula for some special Pµ has appeared in [19]. Another
+ingredient of the proof of Theorem 1.1 is a law of large numbers relative
+to the probability Pµ. We consider (
+?
+i=1,q?i S
+?i,Pµ) as a probability
+space (?,Pµ). Let (Fk)k=1 be a sequence of functions defined on Sm.
+For each k, there exists a unique integer i(k) such that k = i(k)qj and
+q ? i. Then
+x 7? Fk(x|?i(k) )
+defines a random variable on ?. Concerning the sequence of random
+variables
+{
+Fk(x|?i(k) )
+}
+, we have the following law of large numbers.
+Theorem 1.4. Let (Fk)k=1 be a sequence of functions defined on Sm.
+Suppose that there exist C > 0 and 0 < ? < q3/2 such that for any
+i = 1 with q ? i, any j1, j2 ? N, we have
+covµ
+(
+Fiqj1 (x), Fiqj2 (x)
+) = C? j1+j22 . (8)
+Then for Pµ-a.e. x ? Sm
+lim
+n?8
+1
+n
+n?
+k=1
+(
+Fk(x|?i(k) )- EµFk(x)
+)
+= 0.
+We observe that the set E(a) is not invariant. So it is not a standard
+set studied from the classical dynamical system point of view. Actually,
+as we shall see, in general the dimension of the set E(a) can not be
+described by invariant measures supported on it. This is confirmed by
+the following result.
+Given two real valued functions f1 and f2 defined on Sm. For a ? R,
+let E(a) be the set of all points x such that
+lim
+n?8
+1
+n
+n?
+k=1
+f1(T
+kx)f2(T
+2kx) = a.
+We describe the size of the invariant part of E(a) by
+Finv(a) = sup {dimµ : µ ergodic, µ(E(a)) = 1 } .
+6 Multifractal analysis of some multiple ergodic averages
+Theorem 1.5. Let f1 and f2 be two Ho¨lder continuous functions on
+Sm. If E(a) supports an ergodic measure, then
+Finv(a) = sup
+{
+dimµ : µ ergodic,
+?
+f1dµ
+?
+f2dµ = a
+}
+.
+It is interesting to compare this result with the level sets of V -
+statistics studied in [14]. We return to the above theorem. A re-
+markable corollary is that when f1 = f2, we must have a = 0 if E(a)
+supports an ergodic measure, or even an invariant measure (using Ja-
+cobs’ entropy decomposition). Therefore, it is possible that for some
+a < 0, E(a) has strictly positive Hausdorff dimension but it doesn’t
+carry any invariant measure.
+The paper is organized as follows. In Section 2, we first construct
+a class of measures, called telescopic product measures, part of which
+will play the same role as Gibbs measures played in the classical the-
+ory. This construction is inspired by Kenyon-Peres-Solomyak [18] (also
+see [19]). Then we establish a law of large numbers relative to such a
+telescopic product measure. Telescopic product measures constitute a
+new object of study. In Section 3, we prove that any telescopic product
+measure is exact and we obtain a formula for its dimension. In Section
+4, we study a non–linear transfer operator and we prove the existence
+and the uniqueness of its positive solution. We also prove the analyt-
+icity and the convexity of the solution as a function of its parameter
+s. Each solution defines a Markov measure associated to which is a
+telescopic product measure. The last measure plays the role of a Gibbs
+measure in our study of E(a). Section 5 is devoted to the properties
+of the pressure function: a Ruelle type formula says that the limit in
+the law of large numbers is the derivative of the pressure; the pressure
+function is an analytic and strictly convex function (except the trivial
+case); the extreme values of the derivative of the pressure are studied.
+In Section 6, we establish the Gibbs property of the telescopic product
+measures defined by the solution of the non–linear transfer operator.
+After all these preparations, many of which have their own interests,
+we prove the main theorem (Theorem 1.1) in Section 7. In Section
+8, we discuss the invariant part of E(a). Some concrete examples are
+presented in Section 9. In the final section, we make some remarks and
+present some unsolved problems.
+Acknowledgement: The authors would like to thank B. Host for his
+interests in the work and especially for his remarks, some of which are
+contained in Section 8.
+2. Telescopic product measures and LLN
+In this section, we will study telescopic product measures and estab-
+lish a law of large numbers (LLN). These measures, which take into
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 7
+account the multiplicative structure of the multiple ergodic averages
+An?(x), will play the same role as Gibbs measures played in the study
+of simple ergodic averages. In the next section, we will prove that Pµ
+is exact and its dimension is equal to
+dimH Pµ =
+(q - 1)2
+logm
+8?
+k=1
+Hk(µ)
+qk+1
+where
+Hk(µ) = -
+?
+a1,··· ,ak?S
+µ([a1 · · · ak]) logµ([a1 · · · ak]).
+We could call Hk the k-th entropy of µ. But we should point out that
+µ is not assumed to be invariant and that Pµ is not invariant either.
+2.1. Telescopic product measures. Let us recall the definition of
+the telescopic product measure Pµ. Consider the following partition of
+N*:
+N* =
+?
+i=1,q?i
+?i with ?i = {iqj}j=0.
+Then we decompose Sm as follows:
+Sm =
+?
+i=1,q?i
+S?i.
+Let µ be a probability measure on Sm. We consider µ as a measure
+on S?i , which is identified with Sm, for every i with q ? i. Then we
+define the infinite product measure Pµ on
+?
+i=1,q?i S
+?i of the copies of
+µ. More precisely, for any word u of length n we define
+Pµ([u]) =
+?
+i=n,q?i
+µ([u|?i ]),
+where [u] denotes the cylinder of all sequences starting with u.
+We consider (Sm,Pµ) as a probability space. Let Xk(x) = xk be the
+k-th coordinate projection. For each i with q ? i, consider the process
+Y (i) = (Xk)k??i. Then, by the definition of Pµ, the following fact is
+obvious.
+Lemma 2.1. The processes Y (i) = (Xk)k??i for different i = 1 with q ?
+i are Pµ-independent and identically distributed with µ as the common
+probability law.
+As we shall see, the behaviour of An?(x) as n? 8 will be described
+by measures Pµ with particular choices of µ. It is natural that Pµ
+strongly depends on the above partition of N*. The following is a
+detail of the partition which will be useful. Fix n ? N*. Let
+?i(n) = ?i n {1, · · · , n}.
+We are going to examine the cardinality ??i(n), called the length of
+?i(n) and the number N(n, q, k) of ?i(n)’s of a given length k.
+8 Multifractal analysis of some multiple ergodic averages
+Lemma 2.2. Let k, n ? N*.
+(1) ??i(n) = k if and only if
+n
+qk
+< i = n
+qk-1
+. Consequently we have
+??i(n) =
+?
+logq
+n
+i
+?
+.
+(2) We have the partition
+{1, · · · , n} =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+,q?i
+?i(n).
+(3) N(n, q, k) is the number of i’s such that q ? i and n
+qk
+< i = n
+qk-1
+.
+We have ||||N(n, q, k)n - (q - 1)2qk+1
+|||| = 4n.
+Proof. (1) It is simply because ??i(n) = k means that
+?i(n) = {i, iq, · · · , iqk-1} with iqk-1 = n < iqk.
+(2) We have the obvious partition
+{1, · · · , n} =
+?
+i=n,q?i
+?i(n).
+Then we collect ?i(n) by their lengths. By (1), we have 1 = ??i(n) =?
+logq n
+?
+and
+{1, · · · , n} =
+?logq n??
+k=1
+?
+i<n,q?i,
+??i(n)=k
+?i(n).
+(3) By (1), N(n, q, k) is obviously the numbers of i such that n
+qk
+< i =
+n
+qk-1
+and q ? i. It is the number of i’s such that n
+qk
+< i = n
+qk-1
+minus
+the i’s such that n
+qk
+< i = n
+qk-1
+and q | i, i.e.
+N(n, q, k) =
+(?
+n
+qk-1
+?
+-
+?
+n
+qk
+?)
+-
+(?
+n
+qk
+?
+-
+?
+n
+qk+1
+?)
+.
+It follows that ||||N(n, q, k)- ( nqk-1 - 2nqk + nqk+1
+)|||| = 4.
+It is the desired estimate for 1
+qk-1
+- 2
+qk
++ 1
+qk+1
+= (q-1)
+2
+qk+1
+. 
+Now we consider (
+?
+i=1,q?i S
+?i,Pµ) as a probability space (?,Pµ). Let
+(Fk)k=1 be a sequence of functions defined on Sm. For each k, there
+exists a unique integer i(k) such that k = i(k)qj and q ? i. Then x 7?
+Fk(x|?i(k) ) defines a random variable on ?. Later, we will study the law
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 9
+of large numbers for the sequence of variables {Fk(x|?i(k) )}k=1. Notice
+that if i(k) 6= i(k'), then the two variables Fk(x|?i(k) ) and Fk'(x|?i(k') )
+are independent. But if i(k) = i(k'), they are not independent in
+general. In order to prove the law of large numbers, we will need the
+following technical lemma which allows us to compute the expectation
+of the product of Fk(x|?i(k) )’s. The proof of the lemma is based on the
+independence of x|?i ’s.
+Lemma 2.3. Let (Fk)k=1 be a sequence of functions defined on Sm.
+Then for any integer N = 1, we have
+EPµ
+(
+N?
+k=1
+Fk(x|?i(k) )
+)
+=
+?logq N??
+k=1
+?
+N
+qk
+<i= N
+qk-1
+,q?i
+Eµ
+(
+k-1?
+h=0
+Fiqh(x)
+)
+.
+In particular, for any function G defined on Sm, for any n = 1,
+EPµG(x|?i(n) ) = EµG(·).
+Proof. Let
+QN (x) =
+N?
+k=1
+Fk(x|?i(k) ), QN,i(x) =
+?
+k??i(N)
+Fk(x|?i ).
+Since the variables x|?i for different i = 1 with q ? i are independent
+under Pµ (by Lemma 2.1), we have
+EPµQN =
+?
+i=N,q?i
+EPµQN,i. (9)
+Then, by (2) of Lemma 2.2, we can rewrite the right hand side in (9)
+to get
+EPµQN =
+?logq N??
+k=1
+?
+N
+qk
+<i= N
+qk-1
+EPµQN,i.
+However, the marginal measures on S?i of Pµ is equal to µ and ?i(N) =
+{i, iq, · · · , iqk-1} if N
+qk
+< i = N
+qk-1
+. So
+EPµQN,i = Eµ
+(
+k-1?
+h=0
+Fiqh(x)
+)
+.
+Now, for any function G defined on Sm and any n ? N*, if we set
+Fn = G and Fk = 1 for k 6= n we have
+EPµG(x|?i(n) ) = EµG(x).
+
+10 Multifractal analysis of some multiple ergodic averages
+2.2. Law of large numbers. In order to prove the law of large num-
+bers (LLN), we need the following result.
+Recall that the covariance of two bounded functions f, g with respect
+to µ is defined by
+covµ(f, g) = Eµ [(f - Eµf)(g - Eµg)]
+Proposition 2.4. Let (Fk)k=1 be a sequence of functions defined on
+Sm satisfying
+covµ
+(
+Fiqj1 (x)Fiqj2 (x)
+) = C? j1+j22 (10)
+for some constants C > 0 and 0 < ? < q3/2 and for all i = 1 with q ? i
+and all j1, j2 ? N. Let p0, p1 and p2 be three maps from N* into N* such
+that
+?n ? N*, 1 = p2(n)
+p1(n)
+= a;
+8?
+n=1
+p2(n)
+3
+2
+-o
+p0(n)2
+< +8. (11)
+for some a > 1 and some 0 < o < 1/2 with q3/2-o > ?. Then for
+Pµ-a.e. x ? Sm
+lim
+n?8
+1
+p0(n)
+p2(n)?
+k=p1(n)
+(
+Fk(x|?i(k) )- EµFk(x)
+)
+= 0.
+Proof. Without loss of generality, we can assume that EPµFk(x|?i(k) ) =
+0 for all k ? N*. Otherwise, we replace Fk(x|?i(k) ) by Fk(x|?i(k) ) -
+EPµFk(x|?i(k) ). We denote
+Zn =
+1
+p0(n)
+p2(n)?
+k=p1(n)
+Yk with Yk = Fk(x|?i(k) ).
+We have only to show that
+8?
+n=1
+EPµZ
+2
+n < +8.
+Notice that
+EPµZ
+2
+n =
+1
+p20(n)
+?
+p1(n)=u,v=p2(n)
+EPµYuYv.
+Observe that by Lemma 2.1, EPµYuYv 6= 0 only if i(u) = i(v), in other
+words only if u and v are in the same set ?i. So
+EPµZ
+2
+n =
+1
+p20(n)
+?
+i=1,q?i,
+?in[p1(n),p2(n)] 6=Ø
+?
+u,v??in[p1(n),p2(n)]
+EPµYuYv. (12)
+However by the hypothesis (10) on the sequence (Fk)k=1, for any u, v ?
+?i n [p1(n), p2(n)] we have||EPµYuYv|| = |EµFu(x)Fv(x)| = C?logq p2(n)i .
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 11
+Substituting the last estimate into (12), we get
+EPµZ
+2
+n =
+C
+p20(n)
+?
+i=1,q?i,
+?in[p1(n),p2(n)] 6=Ø
+?logq
+p2(n)
+i ? (?i n [p1(n), p2(n)]) . (13)
+The cardinality ? (?i n [p1(n), p2(n)]) is estimated as follows:
+? (?i n [p1(n), p2(n)]) = 1 + logq a. (14)
+In fact, assume that
+?i n [p1(n), p2(n)] = {a1, · · · , ak}
+with a1 < · · · < ak. Then by the definition of ?i, we must have aj+1aj = q
+for 1 = j = k - 1 so that
+ak
+a1
+= qk-1.
+On the other hand,
+ak
+a1
+= p2(n)
+p1(n)
+= a.
+So qk-1 = a, i.e. k = 1 + logq a. Substituting (14) into (13), we get
+EPµZ
+2
+n =
+C(1 + logq a)
++
+p20(n)
+?
+i=1,q?i,
+?in[p1(n),p2(n)] 6=Ø
+?logq
+p2(n)
+i . (15)
+There are at most p2(n)- p1(n) integers i such that i = 1, q ? i and
+?i n [p1(n), p2(n)] 6= Ø. If they are increasingly ordered, then the j-th
+is bigger than j. We deduce that?
+i=1,q?i,
+?in[p1(n),p2(n)] 6=Ø
+?logq
+p2(n)
+i =
+p2(n)-p1(n)?
+j=1
+?logq
+p2(n)
+j =
+p2(n)-p1(n)?
+j=1
+(
+p2(n)
+j
+) 3
+2
+-o
+,
+where the last inequality is due to the fact that logq ? < 3/2- o. Since
+o < 1/2, we have
+?8
+j=1 j
+-(3/2-o) <8. Then
+EPµZ
+2
+n = C
+p2(n)
+3/2-o
+p0(n)2
+.
+We conclude by the hypothesis which says that the right hand side of
+the above estimate is the general term of a convergent series. 
+The following is the LLN which will be useful for our computation
+of the dimension of the telescopic product measure Pµ.
+Theorem 2.5. Let (Fk)k=1 be a sequence of functions defined on Sm.
+Suppose that there exist C > 0 and 0 < ? < q3/2 such that for any
+i = 1 with q ? i, any j1, j2 ? N,
+covµ
+(
+Fiqj1 (x), Fiqj2 (x)
+) = C? j1+j22 . (16)
+12 Multifractal analysis of some multiple ergodic averages
+Then for Pµ-a.e. x ? Sm
+lim
+n?8
+1
+n
+n?
+k=1
+(
+Fk(x|?i(k) )- EµFk(x)
+)
+= 0.
+Proof. Without loss of generality, we can assume that EPµFk(x|?i(k) ) =
+0 for all k ? N*. Our aim is to prove limn?8 Yn = 0 Pµ-a.e., where
+Yn =
+1
+n
+n?
+k=1
+Xk with Xk = Fk(x|?i(k)).
+First we claim that it suffices to show
+lim
+n?8
+Yn2 = 0, Pµ - a.e. (17)
+In fact, for every n ? N there exists a unique k ? N such that k2 =
+n < (k + 1)2. Then we have
+|Yn| = |Yk2|+
+(|Xk2+1|+ · · ·+ |Xn|+ · · ·+ |X(k+1)2 |)
+k2
+.
+So, since Yk2 ? 0 Pµ-a.e., we have only to show
+lim
+k?8
+(|Xk2+1|+ · · ·+ |Xn|+ · · ·+ |X(k+1)2 |)
+k2
+= 0, Pµ - a.e. (18)
+Let p0, p1 and p2 be the three maps from N* to N* defined as follows:
+p0(k) = p1(k) = k
+2, p2(k) = (k + 1)
+2 for k ? N*.
+Then observe that
+1 = p2(k)
+p1(k)
+=
+(k + 1)2
+k2
+= 4 ?k ? N*
+8?
+k=2
+(p2(k)
+3
+2
+-o)
+p20(n)
+=
+8?
+k=2
+((k + 1)2)
+3
+2
+-o
+k4
+< +8.
+Thus we have verified that the maps p0, p1 and p2 satisfy the hypothesis
+of Lemma 2.4. Then (18) is assured by Proposition 2.4.
+Now we are going to show
+8?
+n=1
+EPµY
+2
+n2 < +8, (19)
+which will imply (17). Notice that
+EPµY
+2
+n =
+1
+n2
+?
+1=u,v=n
+EPµXuXv.
+By Lemma 2.1, we have EPµXuXv 6= 0 only if i(u) = i(v). So
+EPµY
+2
+n =
+?
+i=n,q?i
+?
+u,v??i(n)
+EPµXuXv.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 13
+By (2) of Lemma 2.2, we can rewrite the above sum as
+EPµY
+2
+n =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+?
+u,v??i(n)
+EPµXuXv. (20)
+Recall that EPµXk = EµFk for all k ? N* (Lemma 2.3). For u, v ?
+?i(n), we write u = iq
+j1 and v = iqj2 with 0 = j1, j2 = ??i(n). By the
+Cauchy-Schwarz inequality and the hypothesis (16), we obtain||EPµXuXv|| =vEµF 2uvEµF 2v = C???i(n).
+This estimate holds for all u, v ? ?i(n). So?
+u,v??i(n)
+|EPµXuXv| = C (??i(n))2 ???i(n).
+Substituting this estimate into (20) and using (1) of Lemma 2.2, we
+get
+||EPµY 2n || = Cn2
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+k2?k =
+C
+n2
+?logq n??
+k=1
+k2?kN(n, q, k),
+where N(n, q, k) appeared in Lemma 2.2. Then by (3) of Lemma 2.2,
+the last term is equivalent to
+C(q - 1)2
+n
+?logq n??
+k=1
+k2?k
+qk+1
+= O
+(
+1
+n
+(
+?
+q
+)logq n)
+= O
+(
+n-1/2-o
+)
+for some o > 0. This implies (19). 
+2.3. A special LLN. When, in the LLN (Theorem 2.5), the functions
+(Fi)i are all the same function F , then we have the following special
+LLN.
+Theorem 2.6. Let µ be any probability measure µ on Sm and let F ?
+F(Sl). For Pµ a.e. x ? Sm we have
+lim
+n?8
+1
+n
+n?
+k=1
+F (xk, · · · , xkql-1) = (q-1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+EµF (xj , · · · , xj+l-1).
+Proof. For any integer k we write k = i(k)qj with q ? i(k). Then we
+define a function Fk by
+Fk(x) = F (xj , · · · , xj+l-1).
+Therefore we can re-write
+F (xk, xkq, · · · , xkql-1) = Fk(x|?i(k) ).
+14 Multifractal analysis of some multiple ergodic averages
+By the law of large numbers, for Pµs a.e. x ? Sm we have
+lim
+n?8
+1
+n
+n?
+k=1
+Fk(x|?i(k) ) = limn?8
+1
+n
+n?
+k=1
+EµFk(x)
+if the limit in the right hand side exists. The limit does exists. In fact,
+by (2) of Lemma 2.2, we have
+n?
+k=1
+EµFk(x) =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+??i(n)-1?
+j=0
+EµFiqj(x).
+By the definition of the sequence (Fk), for any k = iq
+j with q ? i we
+have
+EµFiqj (x) = EµF (xj , · · · , xj+l-1),
+which is independent of i. Combining the last two equations, we get
+n?
+k=1
+EµFk(x) =
+?logq n??
+k=1
+N(n, q, k)
+k-1?
+j=0
+EµF (xj , · · · , xj+l-1),
+where N(n, q, k) appeared in Lemma 2.2. Then, by (3) of Lemma 2.2,
+we get
+lim
+n?8
+1
+n
+n?
+k=1
+EµFk(x) = lim
+n?8
+?logq n??
+k=1
+N(n, q, k)
+n
+k-1?
+j=0
+EµF (xj , · · · , xj+l-1)
+= (q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+EµF (xj, · · · , xj+l-1).
+
+3. Dimensions of telescopic product measures
+Let ? be a measure on Sm. The lower local dimension of ? at a point
+x ? Sm is defined as
+D(?, x) := lim inf
+n?8
+- logm ?([xn1 ])
+n
+.
+Similarly, we can define the upper local dimension D(?, x). IfD(?, x) =
+D(?, x), we write D(?, x) for the common value and we say that ?
+admits D(?, x) as the exact local dimension at x. See [8] for the di-
+mensions of measures. Recall that the Hausdorff dimension of a Borel
+measure ?, denoted by dimH ?, is the minimal dimension of Borel sets
+of full measure and is equal to ess sup?D(?, x) ([8]).
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 15
+In this section, as a consequence of the LLN, we will prove that
+every telescopic product measure Pµ admits its exact local dimension
+for Pµ-a.e. point in Sm, which is a constant.
+3.1. Local dimension of telescopic product measures. For a mea-
+sure µ on Sm and for k = 1, we define
+Hk(µ) = -
+?
+a1,··· ,ak
+µ([a1 · · · ak]) logµ([a1 · · · ak]).
+We note that for a probability measure µ we have 0 = Hk(µ) = k logm.
+Theorem 3.1. For Pµ-a.e. x ? Sm, we have
+D(Pµ, x) =
+(q - 1)2
+logm
+8?
+k=1
+Hk(µ)
+qk+1
+.
+Proof. By the definition of Pµ, we have
+log Pµ([x
+n
+1 ]) =
+?
+i=n,q?i
+logµ([xn1 |?i(n)]) =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+log µ([xn1 |?i(n)]).
+(21)
+Recall that xn1 |?i(n) = xixiqxiq2 · · ·xiq??i-1 . So
+µ([xn1 |?i(n)]) = µ([xixiqxiq2 · · ·xiq??i-1 ]).
+Let us write µ([xn1 |?i(n)]) in the following way
+µ([xn1 |?i(n)]) = µ([xi])
+??i-1?
+j=1
+µ([xixiqxiq2 · · ·xiqj ])
+µ([xixiqxiq2 · · ·xiqj-1 ]) .
+Now we define a suitable sequence of functions (Fk)k=1 on Sm in order
+to express µ([xn1 |?i(n)]). If k = i such that q ? i, we define
+Fk(x) = Fi(x) = - logµ([x0]).
+If k = iqj with q ? i and j = 1, we define
+Fk(x) = Fiqj (x) = - log µ([x0, x1, · · · , xj ])
+µ([x0, x1, · · · , xj-1]) .
+Then, we have the following relationship between Fk and µ.
+- logµ([xn1 |?i]) =
+?
+k??i(n)
+Fk(x|?i ).
+Substituting this expression into (21) we obtain
+- log Pµ([xn1 ]) =
+n?
+k=1
+Fk(x|?i(k) ). (22)
+16 Multifractal analysis of some multiple ergodic averages
+Now we check that the sequence (Fk)k=1 verifies the hypothesis (16) of
+the law of large numbers (Theorem 2.5). Notice that for any x ? Sm
+and any j = 1, we have
+|Fiqj(x)| =
+||||log µ([x0, x1, · · · , xj ])µ([x0, x1, · · · , xj-1])
+|||| = |log µ([x0, x1, · · · , xj ])| .
+This is because log x
+y
+= log 1
+x
+when 0 = x = y = 1. So, for any i ? N*
+with q ? i and j = 0, we have
+Eµ
+(
+Fiqj (x)
+)2 = ?
+x0,··· ,xj?S
+µ([x0, x1, · · · , xj ]) (log µ([x0, x1, · · · , xj ]))2 .
+Then by Lemma 3.3 stated below, we obtain
+Eµ
+(
+Fiqj (x)
+)2
+= O(j2)
+which implies through Cauchy-Schwarz inequality
+Eµ
+||Fiqj1 (x)Fiqj2 (x)|| = O((j1 + j2)2).
+This quadratic estimate is more than the exponential estimate required
+by the hypothesis (16). By the law of large numbers, we have
+D(Pµ, x) =
+1
+logm
+lim
+n?8
+1
+n
+n?
+j=1
+Fj =
+1
+logm
+lim
+n?8
+1
+n
+n?
+j=1
+EµFj Pµ-a.e.
+(23)
+if the limit in the right side hand exists.
+This limit does exist. We are going to compute it. By (2) of Lemma
+2.2, we have
+n?
+k=1
+EµFk =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+k-1?
+j=0
+EµFiqj . (24)
+By the definition of the sequence (Fk)k=1, we have
+k-1?
+j=0
+Fiqj(x) = - log µ([x0, · · · , xk-1])
+which implies immediately
+k-1?
+j=0
+EµFiqj = -Eµ log µ([x0, · · · , xk-1]) = Hk(µ).
+Then substituting this into (24) we get
+n?
+k=1
+EµFk =
+?logq n??
+k=1
+?
+n
+qk
+<i= n
+qk-1
+q?i
+Hk(µ) =
+?logq n??
+k=1
+N(n, q, k)Hk(µ)
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 17
+where N(n, q, k) is the number of i’s such that n
+qk
+< i = n
+qk-1
+and q ? i.
+So, by (3) of Lemma 2.2, we obtain
+lim
+n?8
+1
+n
+n?
+k=1
+EµFk = lim
+n?8
+?logq n??
+k=1
+N(n, q, k)
+n
+Hk(µ) = (q-1)2
+8?
+k=1
+Hk(µ)
+qk+1
+<8.
+
+Remark 3.2. Even if the measure µ itself is not exact dimensional the
+telescopic measure Pµ is. This is because the Pµ-measure of a cylinder
+of length N is governed by the measure µ on short pieces ?i(N) while
+the non-exactness of µ can be seen only on long cylinders. These short
+pieces are independent.
+3.2. An elementary inequality. In the last proof we have used the
+following elementary estimation. For n = 1, let
+Pn :=
+{
+p = (p1, · · · , pn) ? Rn+,
+n?
+i=1
+pi = 1
+}
+be the set of probability vectors. We define Ln : Pn -? R+ by
+Ln(p) =
+n?
+i=1
+pi(log pi)
+2.
+Lemma 3.3. There exists a constant D > 0 such that
+max
+p?Pn
+Ln(p) = (logn)2 +D log n.
+Proof. The function x 7? x(log x)2 is bounded on [0, 1] and attains
+its maximal values 4e-2 at x = e-2. Hence the inequality holds for
+n = 2 with D = 8e-2. Now we prove the inequality by induction on
+n. Suppose that the inequality holds for n = N . Let p ? PN+1 be a
+maximal point of LN+1. If p is on the boundary of PN+1, then there
+exists at least one component pi0 of p such that pi0 = 0. So
+LN+1(p) =
+?
+1=i=N+1,i 6=i0
+pi(log pi)
+2 = LN (p
+')
+where p' = (p1, · · · , pi0-1, pi0+1, · · · , pN+1) is in PN . In this case, we
+can conclude by the hypothesis of induction. Now we suppose that
+p is not on the boundary of PN+1. We use the method of Lagrange
+multiplier. Differentiating LN+1(p) yields
+?LN+1
+?pi
+(p) = (log pi)
+2 + 2 log pi, (1 = i = N + 1).
+So we have
+(log pi)
+2 + 2 log pi = ?, (1 = i = N + 1) (25)
+18 Multifractal analysis of some multiple ergodic averages
+for some real number ?. Let a, b be the two solutions of the equation
+(log x)2 + 2 log x = ?.
+The components of the maximal point p = (p1, · · · , pN+1) have two
+choices: a or b. So
+LN+1(p) = ka(log a)
+2 + (N + 1- k)b(log b)2, (26)
+where k (0 = k = N +1) is the number of a’s taken by the components
+of p. Recall that ka+ (N + 1- k)b = 1. Notice that
+ka(log a)2 = ka(log ka-log k)2 = ka(log ka)2+ka(log k)2-2ka(log ka) log k.
+(27)
+Since maxx?[0,1]-x log x = 1e and maxx?[0,1] x(log x)2 = 4e2 , we get
+ka(log a)2 = 4
+e2
++ka(log k)2+
+2
+e
+log k = 4
+e2
++ka(log(N+1))2+
+2
+e
+log(N+1).
+A similar estimate holds for (N+1-k)b(log b)2. Put these two estimates
+into (26), we get
+PN+1(p) = 8
+e2
++ (log(N + 1))2 +
+4
+e
+log(N + 1).
+We conclude that the inequality holds with D = 8
+e2
++ 4
+e
+. 
+4. Non-linear transfer equation
+Our study of An?(x) will depend upon a class of special telescopic
+product measures Pµ where µ is a (l-1)-Markov measure. Our (l-1)-
+Markov measures are nothing but Markov measures with Sl as state
+space. The transition probability of such a (l - 1)-Markov measure
+will be determined by the solution of a non-linear transfer equation.
+In this section, we will study this non-linear transfer equation, find its
+positive solution and construct the (l - 1)-Markov measure and the
+corresponding telescopic product measure.
+4.1. Non-linear transfer equation. Let F(Sl-1,R+) denote the cone
+of functions defined on Sl-1 taking non-negative real values. It is iden-
+tified with a subset in the Euclidean space Rm
+l-1
+. Let A : Sl ? R+ be
+a given function. We define a non-linear operator N : F(Sl-1,R+) ?
+F(Sl-1,R+) by
+N y(a1, a2, · · · , al-1) =
+(?
+j?S
+A(a1, a2, · · · , al-1, j)y(a2, · · · , al-1, j)
+) 1
+q
+.
+(28)
+We are interested in positive fixed points of the operator N . That
+means we are interested in y ? F(Sl-1,R+) such that N y = y and
+y(a) > 0 for all a ? Sl-1. In general, such fixed points of N may not
+exist. If N admits a positive fixed point, then for each (a1, · · · , al-1) ?
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 19
+Sl-1, there exists at least one j ? S such that A(a1, · · · , al-1, j) is
+strictly positive. In fact, this is also a sufficient condition.
+Theorem 4.1. Suppose that A is non-negative and that for every
+(a1, · · · , al-1) ? Sl-1 there exists at least one j ? S such that A(a1, · · · ,
+al-1, j) > 0. Then N has a unique positive fixed point.
+Proof. We define a partial order on F(Sl-1,R+), denoted by =, as
+follows:
+y1 = y2 ? y1(a) = y2(a), ?a ? Sl-1.
+It is obvious that N is increasing with respect to this partial order, i.e.,
+y1 = y2 ? N (y1) = N (y2).
+Uniqueness. We first prove the uniqueness of the positive fixed point
+by contradiction. Suppose that there are two distinct positive fixed
+points y1 and y2 for N . Without loss of generality we can suppose that
+y1  y2. Let
+? = inf{? > 1, y1 = ?y2}.
+It is clear that ? is a well defined real number and y1 = ?y2. Since
+y1  y2, we must have ? > 1. On the other hand, by the definition of
+N , the operator N is homogeneous in the sense that
+N (cy) = c 1qN (y), ?y ? F(Sl-1,R+), ?c ? R+.
+It follows that
+y1 = N (y1) = N (?y2) = ?
+1
+qN (y2) = ?
+1
+q y2.
+This is a contradiction to the minimality of ? for ?
+1
+q < ?.
+Existence. Now we prove the existence. Let
+?1 =
+(
+min
+a?Sl
+A(a)
+) 1
+q-1
+, ?2 =
+(
+mmax
+a?Sl
+A(a)
+) 1
+q-1
+.
+Consider the restriction of N on the compact set F(Sl-1, [?1, ?2]) con-
+sisting of functions on Sl-1 taking values in [?1, ?2]. By the definitions
+of ?1 and ?2, the compact set F(Sl-1, [?1, ?2]) is N -invariant, i.e.,
+N (F(Sl-1, [?1, ?2])) ? F(Sl-1, [?1, ?2]).
+In fact, let y ? F(Sl-1, [?1, ?2]) and let yj0 = minj yj. Then yj0 = ?1
+and A(a, j0) = ?q-11 for all a ? Sl-1, so that
+N y(a) = (A(a, j0)yj0)1/q = ?1.
+The verification of N y(a) = ?2 is even easier.
+Now take any function y0 from the compact set F(Sl-1, [?1, ?2]). By
+the monotonicity of N , we get an increasing sequence
+y0 = N (y0) = N 2(y0) = · · · .
+20 Multifractal analysis of some multiple ergodic averages
+Since F(Sl-1, [?1, ?2]) is compact, the limit g = limn?8N n(y0) exists.
+It is a fixed point of N . 
+From now on, we concentrate on the following special case:
+A(a) = es?(a), (a ? Sl)
+where s ? R is a parameter. The corresponding operator will be de-
+noted by Ns. By Theorem 4.1, there exists a unique positive fixed
+point for Ns. We denote this fixed point by ?s. In the following, we
+are going to study the analyticity and the convexity of the functions
+s 7? ?s(a).
+4.2. Analyticity of s 7? ?s(a).
+Proposition 4.2. For every a ? Sl-1, the function s ? ?s(a) is
+analytic on R.
+Proof. We consider the map G : R× R*ml-1+ ? Rml-1 defined by
+G(s, (za)a?Sl-1) = (Gb(s, (za)a?Sl-1))b?Sl-1 ,
+where
+G(b1,··· ,bl-1)(s, (za)a?Sl-1) = z
+q
+(b1,··· ,bl-1)
+-
+?
+j?S
+es?(b1,··· ,bl-1,j)z(b2,··· ,bl-1,j).
+It is clear that G is analytic. By Theorem 4.1, we have
+G(s, (?s(a))a?Sl-1) = 0.
+Moreover the uniqueness in Theorem 4.1 implies that for any fixed
+s ? R, (?s(a))a?Sl-1 is the unique positive vector satisfying the above
+equation. For practice, in the following we will write ?s = (?s(a))a?Sl-1
+and z = (za)a?Sl-1 .
+By the implicit function theorem, if the Jacobian matrix
+D(s) =
+(
+?Ga
+?zb
+(s, ?s)
+)
+(a,b)?Sl-1×Sl-1
+is invertible on a point s0 ? R, then there exist a neighbourhood (s0 -
+r0, s0 + r0) of s0, a neighbourhood V of ?s in Rm
+l-1
+and a analytic
+function f on (s0 - r0, s0 + r0) taking values in V such that for any
+(t, z) ? (s0 - r0, s0 + r0)× V , we have
+G(t, z) = 0 ? f(t) = z.
+Then by the uniqueness of ?s for fixed s, we have ?t = f(t). So the
+functions s ? ?s(a) (a ? Sl-1), which are coordinate functions of f ,
+are analytic in (s0 - r0, s0 + r0).
+We now prove that the matrix D(s) is invertible for any s ? R. To
+this end, we consider the following matrix
+D˜(s) =
+(
+?s(b)
+?Ga
+?zb
+(s, ?s)
+)
+(a,b)?Sl-1×Sl-1
+,
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 21
+which is the one obtained by multiplying the b-th column of D(s) by
+?s(b) for each b ? Sl-1. Then we have the following relation between
+the determinants of D(s) and D˜(s):
+det(D˜(s)) =
+( ?
+a?Sl-1
+?s(a)
+)
+det(D(s)).
+So we only need to prove that D˜(s) is invertible. We will prove this
+by showing that D˜(s) is strictly diagonal dominating and by applying
+the Gershgorin circle theorem (also called Levy-Desplanques Theorem)
+(see e.g. [24]). Recall that a matrix is said to be strictly diagonal
+dominating if for every row of the matrix, the modulus of the diagonal
+entry in the row is strictly larger than the sum of the modulus of all
+the other (non-diagonal) entries in that row.
+Let a = (a1, · · · , al-1) be fixed. The function Ga(s, ·) depends only
+on za and zb’s with b = (a2, · · · , al-1, j). So
+?Ga
+?zb
+(s, ?s) 6= 0
+only if b = a or b = (a2, · · · , al-1, j) for some j ? S. It is possible
+that a = (a2, · · · , al-1, j) for some j ? S and it is actually the case if
+and only if a = (j, j, · · · , j). To effectively apply the implicit function
+theorem, we only need to show that for any a = (a1, · · · , al-1), we have||||?s(a)?Ga?za (s, ?s)
+||||- ?
+j?S,
+b=(a2,··· ,al-1,j)6=a
+||||?s(b)?Ga?zb (s, ?s)
+|||| > 0. (29)
+In fact, we have
+?Ga
+?za
+(s, ?s) =
+{
+q?q-1s (a)- es?(a,j) if a = (j, · · · , j) for some j ? S,
+q?q-1s (a) otherwise.
+and for b = (a2, · · · , al-1, j) 6= a, we have
+?Ga
+?zb
+(s, ?s) = e
+s?(a,j).
+Then, substituting the last two expressions into (29), we obtain that
+the member at the left hand side of (29) is equal to
+q?qs(a)-
+?
+j?S
+es?(a,j)?s(a2, · · · , al-1, j) = (q - 1)?qs(a) > 0.
+For the last equality we have used the fact that ?s is the solution of
+Ns?s = fs. 
+22 Multifractal analysis of some multiple ergodic averages
+Our function ?s is defined on S
+l-1. We extend it on Sk for all
+1 = k = l- 2 by induction on k as follows
+?s(a) =
+(?
+j?S
+?s(a, j)
+) 1
+q
+, (?a ? Sk).
+It is clear that all these functions ?s are strictly positive for all s ? R.
+Corollary 4.3. For any a ? ?1=k=l-1 Sk, the function s ? ?s(a) is
+analytic on R.
+4.3. Convexity of s 7? ?s(a). In this subsection, we prove that the
+functions s ? ?s(a) for a ?
+?
+1=k=l-1 S
+k and the pressure function
+P?(s) are convex functions on R.
+The following lemma is nothing but the Cauchy-Schwarz inequality.
+We will use it in this form several times in the proof of the convexity.
+Lemma 4.4. Let (aj)
+m-1
+j=0 and (bj)
+m-1
+j=0 be two sequences of non-negative
+real numbers. Then(
+m-1?
+j=0
+ajbj
+)2
+=
+(
+m-1?
+j=0
+ajb
+2
+j
+)(
+m-1?
+j=0
+aj
+)
+.
+Proof. We write ajbj =
+v
+ajbj · vaj and then use the Cauchy-Schwarz
+inequality. 
+Let ?s1 =
+(
+mina?Sl e
+s?(a)
+) 1
+q-1 . In the proof of Theorem 4.1, we have
+shown that
+?s = lim
+n?8
+N ns (?s1),
+where ?s1 the function on S
+l-1 which is constantly equal to ?s1. By the
+definition of Ns, it is obvious that
+N ns (?s1) = (?s1)
+1
+qnN n(1),
+where 1 is the function constantly equal to 1. However, for any s ? R,
+we have limn?8(?
+s
+1)
+1
+qn = 1, so that
+?s = lim
+n?8
+N ns (1).
+The above convergence is actually uniform for s in any compact set of
+R. Let
+?s,n = N ns (1).
+In order to prove convexity of the functions
+s 7? ?s(a), log
+?
+j?S
+?s(b, j), (a ? Sl-1, b ? Sl-2)
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 23
+we have only to show those of
+s 7? ?s,n(a), log
+?
+j?S
+?s,n(b, j).
+Actually we will make a proof by induction on n.
+Recall that a function H of class C2 is convex if H '' = 0. A function
+H of class C2 is log-convex if logH is convex or equivalently H ''H =
+(H ')2.
+First we have the following initiation of the induction.
+Lemma 4.5. For any a ? Sl-1, the function s 7? Ls1(a) is log-convex.
+Proof. The log-convexity of s 7? Ls1(a) is equivalent to
+(Ls1(a))2 = (Ls1(a))''(Ls1(a)).
+Recall the definition of Ls1(a):
+Ls1(a) =
+?
+j?S
+es?(Ta,j).
+Notice that(
+es?(a,b)
+)'
+= es?(a,b)?(a, b),
+(
+es?(a,b)
+)''
+= es?(a,b)?2(a, b).
+Then log-convexity of s 7? Ls1(a) is equivalent to(?
+j?S
+es?(Ta,j)?(Ta, j)
+)2
+=
+(?
+j?S
+es?(Ta,j)?(Ta, j)2
+)(?
+j?S
+es?(Ta,j)
+)
+.
+This is nothing but the Cauchy-Schwarz inequality (see Lemma 4.4).
+
+The induction will be based on the following recursive relation
+?s,n+1(a) = Ns?s,n(a), equivalently (?s,n+1(a))q = Ls?s,n(a).
+We are going to show that if s 7? Ls?s,n(a) is log-convex, then so is
+s 7? Ls?s,n+1(a) and even s 7? Ns?s,n(a) = ?s,n+1(a) is convex and?
+j?S
+?s,n+1(b, j)
+is log-convex.
+Lemma 4.6. Let (us)s?R be a family of functions in F(Sl-1). We
+suppose that for a ? Sl-1, s 7? us(a) is twice differentiable with respect
+to s ? R. Let
+vs(a) = Nsus(a).
+Suppose that for any a ? Sl-1, s 7? Lsus(a) is log-convex. Then
+(1) For all a ? Sl-1, s 7? vs(a) is convex.
+(2) For all b ? Sl-2, s 7??j?S vs(b, j) is log-convex.
+(3) For all a ? Sl-1, s 7? Lsvs(a) is log-convex.
+24 Multifractal analysis of some multiple ergodic averages
+Proof. By the hypothesis, for each a ? Sl-1, the function s 7? Lsus(a)
+is log-convex. That is to say, if we let Hs(a) = Lsus(a), we have
+H ''s (a)Hs(a) = (H 's(a))2 , (30)
+where, as well as in the following, ' and '' will refer to the derivatives
+with respect to s.
+(1) Since vs(a) = (Hs(a))
+1/q, we have
+(vs(a))
+' =
+1
+q
+(Hs(a))
+1
+q
+-1H 's(a).
+In other words,
+(vs(a))
+' = vs(a)Rs(a) (31)
+with
+Rs(a) =
+1
+q
+H 's(a)
+Hs(a)
+.
+Furthermore we have
+(vs(a))
+'' =
+1
+q
+(
+1
+q
+- 1
+)
+(Hs(a))
+1
+q
+-2[H 's(a)]
+2 +
+1
+q
+(Hs(a))
+1
+q
+-1H ''s (a)
+=
+1
+q2
+(Hs(a))
+1
+q
+-2[H 's(a)]
+2 +
+1
+q
+(Hs(a))
+1
+q
+-2[Hs(a)H
+''
+s (a)- (H 's(a))2].
+By the hypothesis (30), (vs(a))
+'' = 0. Thus we have proved (1). The
+last equality implies
+(vs(a))
+'' = 1
+q2
+(Hs(a))
+1
+q
+-2[H 's(a)]
+2.
+In other words,
+(vs(a))
+'' = vs(a)[Rs(a)]2. (32)
+The relations (31) and (32) will be useful later.
+(2) By (32), we have(?
+j?S
+(vs(b, j))
+''
+)(?
+j?S
+vs(b, j)
+)
+=
+(?
+j?S
+vs(b, j)Rs(b, j)
+2
+)(?
+j?S
+vs(b, j)
+)
+.
+Then, by the Cauchy-Schwarz inequality in the form of Lemma 4.4, we
+have(?
+j?S
+(vs(b, j))
+''
+)(?
+j?S
+vs(b, j)
+)
+=
+(?
+j?S
+vs(b, j)Rs(b, j)
+)2
+=
+(?
+j?S
+(vs(b, j))
+'
+)2
+where the last equality is due to (31). Thus we have proved (2).
+(3) Recall that
+Lvs(a) =
+?
+j?S
+es?(Ta,j)vs(Ta, j).
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 25
+Notice that
+d
+ds
+es?(a,b)vs(Ta, j)
+= es?(a,j)
+[
+?(a, j)vs(Ta, b) + (vs(Ta, j))
+'
+]
+,
+d2
+ds2
+es?(a,b)vs(Ta, j)
+= es?(a,j)
+[
+?2(a, j)vs(Ta, j) + 2?(a, j)(vs(Ta, j))
+' + (vs(Ta, j))
+''
+]
+.
+By using (31), we can write
+d
+ds
+es?(a,b)vs(Ta, j) = e
+s?(a,j)vs(Ta, j) [?(a, j) +Rs(Ta, j)] .
+By using (31) and (32), we get
+?2(a, j)vs(Ta, j)+2?(a, j)(vs(Ta, j))
+'+(vs(Ta, j))
+'' = [?(a, j) +Rs(Ta, j)]2 ,
+so that
+d2
+ds2
+es?(a,b)vs(Ta, j) = es?(a,j)vs(Ta, j) [?(a, j) +Rs(Ta, j)]2 .
+There
+(Lsvs(a))''Lsvs(a) =
+(?
+j?S
+Cs(Ta, j)Ds(a, j)
+2
+)(?
+j?S
+Cs(a, j)
+)
+.
+where
+Cs(a, j) = e
+s?(a,j)vs(Ta, j), Ds(a, j) = ?(a, j) +Rs(Ta, j).
+Then, by the Cauchy inequality (see Lemma 4.4), we finally get
+(Lsvs(a))''Lsvs(a) =
+(?
+j?S
+Cs(a, j)Ds(a, j)
+)2
+= [(Lsvs(a))']2.
+That is the log-convexity of s 7? Lsvs(a). 
+Theorem 4.7. For any a ? ?1=j=l Sl-j, the function s 7? ?s(a) is
+convex. The pressure function P?(s) is also convex.
+Proof. We prove convexity of s 7? ?s(a) for a ? Sl-1 by showing those
+of s 7? ?s,n(a) by induction on n. The induction is based on Lemma 4.5
+and Lemma 4.6 (only the points (1) and (3) are used).
+Now we prove convexity of s 7? ?s(a) for a ? Sl-k (2 = k = l)
+by induction on k and by using what we have just proved above (as
+the initiation of induction). We can do that because of the following
+recursive relation: for a ? Sl-k (2 = k = l), we have
+?s(a)
+q =
+?
+j?S
+?s(a, j).
+The right hand side is the operator Ls defined by the ? which is
+identically zero. So the log-convexity of ?s(a, j) implies that of ?s(a)
+just as the log-convexity of ?s,n implies that of ?s,n+1(a).
+26 Multifractal analysis of some multiple ergodic averages
+Recall that the pressure function is proportional to
+s 7? log?s(Ø) = log
+?
+j?S
+?s(j).
+The convexity of the pressure is just the log-convexity of
+?
+j?S ?s(j),
+which is implied by Lemma 4.6 (3) and the log-convexity of ?s(j). 
+4.4. Construction of the measures µs and Pµs. Below we construct
+a class of (l- 1)-Markov measure µs whose transition probability and
+initial law are determined by the fixed point ?s of the operator Ns.
+The corresponding telescopic product measure Pµs will play the same
+role as Gibbs measure played in the study of simple ergodic averages.
+Fix s ? R. Let ?s be the function mentioned above. Recall that ?s
+was first defined on Sl-1 as follows
+(?s(a))
+q =
+?
+b?S
+es?(a,b)?s(Ta, b), (a ? Sl-1).
+Then it was extended on Sk by induction on 1 = k = l- 2 as follows
+?s(a) =
+(?
+b?S
+?s(a, b)
+) 1
+q
+, (a ? Sk).
+These functions defined on words of length varying from 1 to l - 1
+allow us to define a (l- 1)-step Markov measure on Sm, which will be
+denoted by µs, with the initial law
+ps([a1, · · · , al-1]) =
+l-1?
+j=1
+?s(a1, · · · , aj)
+?qs(a1, · · · , aj-1) (33)
+and the transition probability
+Qs ([a1, · · · , al-1], [a2, · · · , al]) = es?(a1,··· ,al) ?s(a2, · · · , al)
+?qs(a1, · · · , al-1) . (34)
+Here we have identified Sm with (S
+l-1)N. Actually, ps is a probability
+vector because ?
+aj?S
+?s(a1, · · · , aj)
+?qs(a1, · · · , aj-1) = 1
+and Q is a transition probability because Ns?s = ?s.
+As usual, Pµs will denote the telescopic product measure associated
+to µs. See §2.1 for its definition and its general properties.
+5. Properties of the pressure function
+We have seen in the previous section that the pressure function is
+real analytic and convex on R. In this section we continue to discuss
+some of its further properties. These properties mainly concern its
+strict convexity when amin < amax and a Ruelle type formula relating
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 27
+the expected limit of the multiple ergodic average with respect to the
+measure Pµs and the derivative of P?.
+5.1. Ruelle type formula. We state here the following identity which
+can be regarded as an analogue of Ruelle’s derivative formula concern-
+ing the classical Gibbs measure and pressure function, its proof will be
+given in Section 7.4 (Proposition 7.8).
+Theorem 5.1. We have
+(q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1) = P '?(s).
+As an applications of Theorem 5.1, we give the following formula
+concerning the value P '?(0).
+Proposition 5.2.
+P '?(0) =
+?
+a?Sl ?(a)
+ml
+.
+Proof. By Theorem 5.1, we have
+P '?(0) = (q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµ0?(xj , · · · , xj+l-1). (35)
+First of all, we need to determine µ0. It is straightforward to verify
+that the constant function ?0 = m
+1
+q-1 is a solution of the following
+equations when s = 0.
+(?s(a))
+q =
+?
+b?S
+es?(a,b)?s(Ta, b), (a ? Sl-1).
+Actually, the function ?0 is the only positive solution by uniqueness of
+the positive solution (Theorem 4.1). The measure µ0 defined by this
+solution as in (33) and (34) is the Lebesgue measure. So, for any j = 0
+we have
+Eµ0?(xj , · · · , xj+l-1) =
+?
+x0,··· ,xj+l-1
+µ0([x
+j+l-1
+0 ])?(xj , · · · , xj+l-1)
+=
+?
+x0,··· ,xj+l-1
+m-(j+l)?(xj , · · · , xj+l-1)
+=
+?
+x0,··· ,xl-1
+m-l?(x0, · · · , xl-1)
+=
+?
+a?Sl ?(a)
+ml
+.
+Now we get the desired result by substituting the above expression
+in (35) and by an elementary calculation. 
+28 Multifractal analysis of some multiple ergodic averages
+5.2. Translation via linearity.
+Theorem 5.3. For any ß ? R, we have
+P?(s)- ßs = P?-ß(s),
+where P?-ß(s) is the pressure function associated to the potential ?-ß.
+Proof. Let N?-ß,s be the operator as defined in (28) with
+A(a) = es(?(a)-ß), (a ? Sl).
+By Theorem 4.1, the operator N?-ß,s admits a unique positive fixed
+function gs ? F(Sl-1). We have seen that gs is given by
+gs = lim
+n?8
+N n?-ß,s(1).
+By the definitions of Ns and N?-ß,s, it is obvious that
+N?-ß,s = e-
+sß
+q Ns.
+By induction we get that
+N n?-ß,s = e-sß(
+1
+q
++···+ 1
+qn
+)N ns .
+Thus
+gs = lim
+n?8
+N n?-ß,s(1) = e-sß(
+?
+8
+n=1
+1
+qn
+)?s = e
+- sß
+q-1?s.
+Since for u ? ?1=k=l-2 Sk, gs(u) is defined by
+gs(u) =
+(
+m-1?
+j=0
+gs(u, j)
+) 1
+q
+,
+we deduce that for u ? Sk with 1 = k = l- 2 we have
+gs(u) = e
+- sß
+(q-1)ql-1-k ?s(u).
+Thus
+P?-ß(s) = (q - 1)ql-2 log
+m-1?
+j=0
+gs(j) = -sß + P?(s).
+
+Remark 5.4. Note that when ß = amin (resp. ß = amax), the function
+s 7-? N?-ß,s
+is increasing (resp. decreasing). Then in this case, the function s 7? gs
+is also increasing (resp. decreasing) and so is the pressure function
+s 7? P?-ß(s).
+As an application of Theorem 5.3 and Remark 5.4 we have the fol-
+lowing consequence.
+Proposition 5.5. If s 7? P '?(s) is constant on R, then ? is constant
+on Sl.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 29
+Proof. Suppose that P '? is constant on R. Then
+P '?(s) = P '?(0) =
+?
+a?Sl ?(a)
+ml
+:= ?.
+By Theorem 5.3, we have
+P?(s) = ?s+ P?-?(s).
+The last two equations imply that
+P '?-?(s) = 0.
+This is equivalent to that
+m-1?
+j=0
+g's(j) = 0, (36)
+where gs is the positive fixed point of N?-?,s. By Theorem 4.7, the
+function s 7? gs is convex, so g's(j) is increasing for all j ? S. This,
+with (36) imply that g's(j) is constant for all j ? S. So for every j the
+function gs(j) is affine. But these functions are strictly positive on R,
+they are therefore necessarily constant on R. So
+g's(j) = 0, ?j ? S.
+For u ? ?1=k=l-2, gs(u) is defined by the following inductive relation.
+gs(u)
+q =
+m-1?
+j=0
+gs(uj), u ?
+?
+1=k=l-2
+Sk.
+Differentiating these equations, we get
+qgq-1s (u)g
+'
+s(u) =
+m-1?
+j=0
+g's(uj), u ?
+?
+1=k=l-2
+Sk.
+For any i ? S, since g's(i) = 0, we get
+m-1?
+j=0
+g's(ij) = 0.
+With the same argument used for proving that gs(j) is constant for all
+j ? S, we can also prove that gs(ij) is constant for all (i, j) ? S2. By
+induction, we can show that gs(u) are constant for all u ?
+?
+1=k=l-1 S
+k.
+By the definition of gs, for u ? Sl-1, we have
+gqs(u) =
+m-1?
+j=0
+es(?(uj)-?)gs(Tu, j). (37)
+We now suppose that ? is not constant on Sl, i.e., amin < amax. Then
+there exists a ? Sl such that
+?(a) > ?.
+30 Multifractal analysis of some multiple ergodic averages
+Let us write a = (u, j) with u ? Sl-1 and j ? S. By (37), we have
+gqs(u) > e
+s(?(u,j)-?)gs(Tu, j), ?s ? R.
+As gs(u) and gs(Tu, j) are strictly positive constants, this is impossible
+when s tend to +8. Then we conclude that ? is constant on Sl. 
+5.3. Strict convexity of the pressure function.
+Theorem 5.6. Suppose that amin < amax. Then
+(i) P '?(s) is strictly increasing on R.
+(ii) amin = P '?(-8) < P '?(+8) = afmax.
+Proof. (i) P '?(s) is strictly increasing on R. We know that P
+'
+? is in-
+creasing on R as P? is convex on R. Suppose that P '? is not strictly
+increasing on R. Then there exists an interval [a, b] with a < b such
+that P '? is constant on [a, b]. On the other hand, we know that P? is
+analytic and so is P '?. Therefore P
+'
+? must be constant on the whole
+line R. It is impossible by Proposition 5.5 as ? is supposed to be no
+constant on Sl.
+(ii) amin = P '?(-8) < P '?(+8) = amax. The strict inequality
+P '?(-8) < P '?(+8) is implied by (i). Let us prove the first inequality.
+The third inequality can be similarly proved. By Theorem 5.3, we have
+P?(s) = amins+ P?-amin(s).
+By Remark 5.4, the function s 7? P?-amin(s) is increasing. Thus we
+have
+P '?(s) = amin + P
+'
+?-amin
+(s) = amin
+which holds for all s ? R. Letting s? -8, we get
+amin = P '?(-8).
+
+To finish this section, we announce the following results concerning
+the extremal values of P '? at infinite. Its proof will be given in Section
+7.5.
+Theorem 5.7. We have the equality
+P '?(-8) = amin
+if and only if there exists an x = (xi)
+8
+i=1 ? Sm such that
+?(xk, xk+1, · · · , xk+l-1) = amin, ?k = 1.
+We have an analogue criterion for P '?(+8) = amax.
+Remark 5.8. We have a proof of three pages by combinatorially an-
+alyzing P?. But we would like to give another proof in Section 7.5
+(see Proposition 7.9), which is shorter, more intuitive and easier to
+understand.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 31
+6. Gibbs property of Pµs
+In the following we are going to establish a relation between the mass
+Pµs([x
+n
+1 ]) and the multiple ergodic sum
+?J
+j=1 ?(xj · · ·xjql-1). This can
+be regarded as the Gibbs property of the measure Pµs .
+6.1. Dependence of the Local behavior of Pµs on ?(xj · · ·xjql-1).
+There is an explicit relation between the mass Pµs([x
+n
+1 ]) and the mul-
+tiple ergodic sum
+?? n
+ql-1
+?
+j=1 ?(xj · · ·xjql-1). Before stating this relation,
+we introduce some notation.
+Recall that for any integer k ? N* we denote by i(k) the unique
+integer such that
+k = i(k)qj , q ? i(k).
+We associate to k a finite set of integers ?k defined by
+?k :=
+{ {i(k), i(k)q, · · · , i(k)qj} if j < l- 1
+{i(k)qj-(l-1), · · · , i(k)qj} if j = l- 1.
+We define ?a to be the empty set if a is not an integer. For any
+sequence x = (xi)
+8
+i=1 ? Sm, we denote by x|?k the restriction of x on
+?k.
+For x ? Sm, we define
+Bn(x) =
+n?
+j=1
+?s(x|?j ).
+The following basic formula is a consequence of the definitions of µs
+and Pµs.
+Proposition 6.1. We have
+log Pµs([x
+n
+1 ]) = s
+?
+n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1)-(n-?n/q?)q log?s(Ø)-qBnq (x)+Bn(x).
+Proof. By the definition of Pµs , we have
+logPµs([x
+n
+1 ]) =
+?
+q?i,i=n
+log µs([x
+n
+1 |?i(n)]). (38)
+However, by the definition of µs, if ??i(n) = l- 1, we have
+logµs([x
+n
+1 |?i(n)]) =
+??i(n)-1?
+j=0
+log
+?s(xi, · · · , xiqj )
+?qs(xi, · · · , xiqj-1) =
+?
+k??i(n)
+log
+?s(x|?k )
+?qs(x|?k/q )
+.
+(39)
+If ??i(n) = l, log µs([xn1 |?i(n)]) is equal to
+l-2?
+j=0
+log
+?s(xi, · · · , xiqj)
+?qs(xi, · · · , xiqj-1)+
+??i(n)-1?
+j=l-1
+log
+?s(xiqj-l+2, · · · , xiqj)es?(xiqj-l+1 ,··· ,xiqj )
+?qs(xiqj-l+1 , · · · , xiqj-1)
+32 Multifractal analysis of some multiple ergodic averages
+=
+??i(n)-1?
+j=0
+log
+?s(xi, · · · , xiqj )
+?qs(xi, · · · , xiqj-1) + s
+??i(n)-1?
+j=l-1
+?(xiqj-l+1, · · · , xiqj ),
+in other words,
+µs([x
+n
+1 |?i(n)]) =
+?
+k??i(n)
+log
+?s(x|?k )
+?qs(x|?k
+q
+)
++ s
+?
+k??i(n),k=n
+?(x|?k ). (40)
+Substituting (39) and (40) into (38), we get
+log Pµs([x
+n
+1 ]) = S
+'
+n + sS
+''
+n (41)
+where
+S 'n =
+?
+q?i,i=n
+?
+k??i(n)
+log
+?s(x|?k )
+?qs(x|?k
+q
+)
+S ''n =
+?
+q?i,i=n
+?
+k??i(n),k=n
+?(x|?k ).
+For any fixed i with q ? i, we write?
+k??i(n)
+log
+?s(x|?k )
+?qs(x|?k
+q
+)
+=
+?
+k??i(n)
+log?s(x|?k )- q
+?
+k??i(n)
+log?s(x|?k
+q
+).
+Recall that if we denote j0 = ?logq ni ? the largest integer such that
+iqj0 = n, then
+?i(n) = {i, iq, iq2, · · · , iqj0}.
+If k = i, we have xk/q = Ø. If k = iqj with 1 = j = j0, we have
+k/q = iqj-1 which belongs to ?i(n). In the following we formally write
+?i(n/q) = {i, iq, iq2, · · · , iqj0-1}.
+Then we can write?
+k??i(n)
+log
+?s(x|?k )
+?qs(x|?k
+q
+)
+= (1-q)
+?
+k??i(
+n
+q
+)
+?s(x|?k )-q log?s(Ø)+
+?
+k??i(n),kq>n
+?s(x|?k ).
+Notice that there is only one term in the last sum, which corresponds
+to k = iqj0 . Now we take sum over i to get
+S 'n = (1- q)
+?
+k=n
+q
+?s(x|?k )- q(n- ?n/q?) log?s(Ø) +
+?
+k>n
+q
+?s(x|?k ),
+because ?{i = n, q ? i} = n- ?n/q? and?
+i=n,q?i
+?
+k??i(
+n
+q
+)
+?s(x|?k ) =
+?
+k=n
+q
+?s(x|?k ),
+?
+i=n,q?i
+?
+k??i(n),kq>n
+?s(x|?k ) =
+?
+k>n
+q
+?s(x|?k ).
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 33
+Recall that Bn(x) =
+?n
+j=1 ?s(x|?j ). We can rewrite
+(1- q)
+?
+k=n
+q
+?s(x|?k ) +
+?
+k>n
+q
+?s(x|?k ) = -q
+?
+k=n
+q
+?s(x|?k ) +
+?
+k=n
+?s(x|?k )
+= -qBn
+q
+(x) +Bn(x).
+Thus
+S 'n = -q(n- ?n/q?) log?s(Ø)- qBnq (x) +Bn(x).
+On the other hand, we have
+S ''n =
+?
+q?i,i=n
+?
+k??i(n),k=n
+?(x|?k ) =
+?
+k=n
+?(x|?k ) =
+?
+n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1).
+Substituting these expressions of S 'n and S
+''
+n into (41), we get the desired
+result. 
+7. Proof of theorem 1.1: computation of dimH E(a)
+We will use the measure Pµs to estimate the dimensions of levels sets
+E(a). Actually, for a given a, there is some s such that Pµs is a nice
+Frostman type measure sitting on E(a). First of all, let us calculate
+the local dimensions of Pµs .
+7.1. Upper bounds of local dimensions of Pµs on level sets. We
+define
+E+(a) :=
+{
+x ? Sm : lim sup
+n?8
+1
+n
+n?
+k=1
+?(xk, xkq, · · · , xkql-1) = a
+}
+,
+and
+E-(a) :=
+{
+x ? Sm : lim inf
+n?8
+1
+n
+n?
+k=1
+?(xk, xkq, · · · , xkql-1) = a
+}
+.
+It is clear that
+E(a) = E+(a) n E-(a).
+In this subsection we will obtain upper bounds for local dimensions
+of Pµs on the sets E
++(a) and E-(a). The following elementary result
+will be useful for the estimation of local dimensions of Pµs .
+Lemma 7.1. Let (an)n=1 be a bounded sequence of non-negative real
+numbers. Then
+lim inf
+n?8
+(
+a?n/q? - an
+) = 0.
+34 Multifractal analysis of some multiple ergodic averages
+Proof. Let bl = aql-1-aql = a ql
+q
+-aql for l ? N*. Then the boundedness
+implies
+lim
+l?8
+b1 + · · ·+ bl
+l
+= lim
+l?8
+a1 - aql
+l
+= 0.
+This in turn implies lim inf l?8 bl = 0 so that
+lim inf
+l?8
+(
+a?n/q? - an
+) = lim inf
+l?8
+bl = 0.
+
+Proposition 7.2. For every x ? E+(a), we have
+?s = 0, D(Pµs, x) =
+P (s)- as
+ql-1 logm
+.
+For every x ? E-(a), we have
+?s = 0, D(Pµs, x) =
+P (s)- as
+ql-1 logm
+.
+Consequently, for every x ? E(a), we have
+?s ? R, D(Pµs, x) =
+P (s)- as
+ql-1 logm
+.
+Proof. The proof is based on Proposition 6.1, which implies that for
+any x ? Sm and any n = 1 we have
+- log Pµs([x
+n
+1 ])
+n
+= - s
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) + q
+n- ?n/q?
+n
+log?s(Ø)
++
+Bn
+q
+(x)
+n
+q
+- Bn(x)
+n
+.
+Since the function ?s is bounded, so is the sequence (Bn(x)/n)n. Then,
+by Lemma 7.1, we have
+lim inf
+n?8
+Bn
+q
+(x)
+n
+q
+- Bn(x)
+n
+= 0.
+Therefore
+D(Pµs , x) = lim inf
+n?8
+- s
+n logm
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) + (q - 1) logm ?s(Ø).
+Now suppose that x ? E+(a) and s = 0. Since
+lim inf
+n?8
+1
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) = lim sup
+n?8
+1
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) =
+a
+ql-1
+,
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 35
+we have
+lim inf
+n?8
+- s
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) = -s lim inf
+n?8
+1
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1)
+= -sa
+ql-1
+,
+so that
+D(Pµs , x) = -
+as
+ql-1 logm
++ (q - 1) logm ?s(Ø) =
+P (s)- as
+ql-1 logm
+,
+where the last equation is due to
+P (s) = (q - 1)ql-2 log
+?
+j?Sl
+?s(j) = (q - 1)ql-2q log?s(Ø).
+By an analogue argument, we can prove the same result for x ?
+E-(a) and s = 0. 
+7.2. Range of L?. Recall that L? is the set of a such that E(a) 6= Ø.
+Proposition 7.3. We have L? ? [P '?(-8), P '?(+8)].
+Proof. We prove it by contradiction. Suppose that E(a) 6= Ø for some
+a < P '?(-8). Let x = (xi)8i=1 ? E(a). Then by Proposition 7.2, we
+have
+lim inf
+n?8
+- logm Pµs([xn1 ])
+n
+= P?(s)- as
+ql-1 logm
+, ?s ? R. (42)
+On the other hand, by the mean value theorem, we have
+P?(s)-as = P?(s)-P?(0)-as+P?(0) = P '?(?s)s-as+P?(0) (43)
+for some real number ?s between 0 and s. As P? is convex, P
+'
+? is
+increasing on R. If we assume s < 0, then we have
+P '?(?s)s-as+P?(0) = P '?(-8)s-as+P?(0) =
+(
+P '?(-8)- a
+)
+s+P?(0).
+As P '?(-8) - a > 0, we deduce from (43) that for s small enough
+(close to -8), we have P?(s) - as < 0. Then by (42), for s small
+enough we obtain
+lim inf
+n?8
+- logm Pµs([xn1 ])
+n
+< 0
+which implies Pµs([x
+n
+1 ]) > 1 for an infinite number of n’s. This is a
+contradiction to the fact that Pµ is a probability measure on Sm. Thus
+we have prove that for a such that E(a) 6= Ø, we have a = P '(-8).
+Similarly we can also prove a = P '(+8). 
+As we shall show, we will have the equality L? = [P
+'
+?(-8), P '?(+8)].
+36 Multifractal analysis of some multiple ergodic averages
+7.3. Upper bounds of Hausdorff dimensions of level sets. A
+upper bound of the Hausdorff dimensions of levels set is a direct conse-
+quence of the Billingsley lemma and of Proposition 7.2. The Billingsley
+lemma is stated as follows.
+Lemma 7.4 (see Prop.4.9 in [7]). Let E be a Borel set in Sm and let
+? be a finite Borel measure on Sm.
+(i) We have dimH(E) = d if ?(E) > 0 and D(?, x) = d for ?-a.e x.
+(ii) We have dimH(E) = d if D(?, x) = d for all x ? E.
+Recall that
+P *?(a) = inf
+s?R
+(P?(s)- as).
+Proposition 7.5. For any a ? (P '?(-8), P '?(0)), we have
+dimH E
++(a) = inf
+s=0
+1
+ql-1 logm
+[-as+ P?(s)]
+For any a ? (P '?(0), P '?(+8)), we have
+dimH E
+-(a) = inf
+s=0
+1
+ql-1 logm
+[-as+ P?(s)]
+In particular, we have
+dimH E(a) =
+P *?(a)
+ql-1 logm
+.
+7.4. Ruelle type formula. This subsection is mainly devoted to prov-
+ing the following identity which was announced in Theorem 5.1.
+(q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1) = P '?(s).
+This formula will be useful for estimating the lower bounds of dimH E(a).
+We need to do some preparations for proving this result. First of all,
+we deduce some identities concerning the functions ?s.
+Recall that ?s(a) are defined for a ?
+?
+1=k=l-1 S
+k. They verify the
+following equations. For a ? Sl-1, we have
+?qs(a) =
+?
+b?S
+es?(a,b)?s(Ta, b)
+and for a ? Sk (1 = k = l- 2) we have
+?qs(a) =
+?
+b?S
+?s(a, b).
+Differentiating the two sides of each of the above two equations with
+respect to s, we get for all a ? Sl-1
+q?q-1s (a)?
+'
+s(a) =
+?
+b?S
+es?(a,b)?(a, b)?s(Ta, b) +
+?
+b?S
+es?(a,b)?'s(Ta, b)
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 37
+and for all a ? ?1=k=l-2 Sk
+q?q-1s (a)?
+'
+s(a) =
+?
+b?S
+?'s(a, b).
+Dividing these equations by ?qs(a) (for different a respectively), we get
+Lemma 7.6. For any a ? Sl-1, we have
+q
+?'s(a)
+?s(a)
+=
+?
+b?S
+es?(a,b)?(a, b)?s(Ta, b)
+?qs(a)
++
+?
+b?S
+es?(a,b)?'s(Ta, b)
+?qs(a)
+, (44)
+and for any a ? ?1=k=l-2 Sk
+q
+?'s(a)
+?s(a)
+=
+?
+b?S
+?'s(a, b)
+?s(a, b)
+. (45)
+We denote
+w(a) =
+?'s(a)
+?s(a)
+, v(a) =
+?
+b?S
+es?(a,b)?'s(Ta, b)
+?qs(a)
+, (?a ? Sl-1).
+Then we have the following identities.
+Lemma 7.7. For any n ? N, we have
+Eµs?(x
+n+l-1
+n ) = qEµsw(x
+n+l-2
+n )- Eµsv(xn+l-2n ), (?n = 0). (46)
+Eµsw(x
+n+l-2
+n ) = Eµsv(x
+n+l-3
+n-1 ), (?n = 1). (47)
+Eµsw(x
+l-2
+0 ) =
+1
+q(q - 1)P
+'
+?(s). (48)
+Proof. The Markov property of µs can be stated as follows (see(34))
+µs([x
+n+l-1
+0 ]) = µs([x
+n+l-2
+0 ])Qs(x
+n+l-1
+n )
+where
+Qs(x
+n+l-1
+n ) =
+es?(x
+n+l-1
+n )?s(x
+n+l-1
+n+1 )
+?qs(xn+l-2n )
+.
+By the Markov property, we have
+Eµs?(x
+n+l-1
+n ) =
+?
+x0,··· ,xn+l-1
+µs([x
+n+l-1
+0 ])?(x
+n+l-1
+n )
+=
+?
+x0,··· ,xn+l-2
+µs([x
+n+l-2
+0 ])
+?
+xn+l-1
+Qs(x
+n+l-1
+n )?(x
+n+l-1
+n ).
+However, by the definition of Qs and using (44), it is straightforward
+to check that?
+xn+l-1
+Qs(x
+n+l-1
+n )?(x
+n+l-1
+n ) = qw(x
+n+l-2
+n )- v(xn+l-2n ).
+So (46) is a combination of the above two equations.
+To obtain (47), we still use the Markov property of µs, to get
+38 Multifractal analysis of some multiple ergodic averages
+Eµsw(x
+n+l-2
+n ) =
+?
+x0,··· ,xn+l-2
+µs([x
+n+l-2
+0 ])w(x
+n+l-2
+n )
+=
+?
+x0,··· ,xn+l-3
+µs([x
+n+l-3
+0 ])
+?
+xn+l-2
+es?(x
+n+l-2
+n-1 )?s(x
+n+l-2
+n )
+?qs(x
+n+l-3
+n-1 )
+?'s(x
+n+l-2
+n )
+?s(xn+l-2n )
+=
+?
+x0,··· ,xn+l-3
+µs([x
+n+l-3
+0 ])v(x
+n+l-3
+n-1 ) = Eµsv(x
+n+l-3
+n-1 ).
+Now let us treat (48). First of all, by the definition of w and µs we
+get
+?'s(x
+l-3
+0 ) =
+?
+xl-2
+?'s(x
+l-2
+0 ),
+hence
+Eµsw(x
+l-2
+0 ) =
+?
+x0,··· ,xl-2
+µs([x
+l-2
+0 ])w(x
+l-2
+0 )
+=
+?
+x0,··· ,xl-3
+µs([x
+l-3
+0 ])
+?
+xl-2
+?'s(x
+l-2
+0 )
+?s(x
+l-3
+0 )
+.
+By (45), the last sum is equal to q
+?'s(x
+l-3
+0 )
+?s(x
+l-3
+0 )
+. So
+Eµsw(x
+l-2
+0 ) = q
+?
+x0,··· ,xl-3
+µs([x
+l-3
+0 ])
+?'s(x
+l-3
+0 )
+?s(x
+l-3
+0 )
+.
+Repeating the same argument, we obtain by induction on j that
+Eµsw(x
+l-2
+0 ) = q
+l-2-j
+?
+x0,··· ,xj
+µs([x
+j
+0])
+?'s(x
+j
+0)
+?s(x
+j
+0)
+.
+So finally when j = 0 we get
+Eµsw(x
+l-2
+0 ) = q
+l-2
+?
+b?S
+µs([b])
+?'s(b)
+?s(b)
+= ql-2
+?
+b?S ?
+'
+s(b)?
+b?S ?s(b)
+=
+1
+q(q - 1)P
+'
+?(s)
+where we used the fact that
+µs([b]) =
+?s(b)?
+b?S ?s(b)
+.
+
+Now, we can prove the Ruelle type formula which was announced in
+Theorem 5.1. We restate it as the following proposition.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 39
+Proposition 7.8. For any s ? R, we have
+(q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1) = P '?(s).
+Proof. By (46) in Lemma 7.7, for any k ? N*, we have
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1) =
+k-1?
+j=0
+(
+qEµsw(x
+j+l-2
+j )- Eµsv(xj+l-2j )
+)
+= qEµsw(x
+l-2
+0 ) + q
+k-1?
+j=1
+Eµsw(x
+j+l-2
+j )
+-
+k-1?
+j=0
+Eµsv(x
+j+l-2
+j ).
+Let
+Sk =
+k-1?
+j=0
+Eµsv(x
+j+l-2
+j ).
+Then by (47) in Lemma 7.7, we have
+k-1?
+j=1
+Eµsw(x
+j+l-2
+j ) = Sk-1.
+Using the above equality and (48) in Lemma 7.7, we can write
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1) =
+P '?(s)
+q - 1 + qSk-1 - Sk.
+The facts S0 = 0 and Sk = o(k) imply
+8?
+k=1
+1
+qk+1
+(qSk-1 - Sk) = 0.
+Then
+(q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµs?(xj, · · · , xj+l-1) = (q - 1)2
+8?
+k=1
+1
+qk+1
+P '?(s)
+q - 1 .
+which is equal to P '?(s), because
+?8
+k=1 1/q
+k+1 = 1/(q - 1). 
+40 Multifractal analysis of some multiple ergodic averages
+7.5. When P '?(-8) = amin and when P '?(+8) = amax. We now
+give the proof of the statement announced in Theorem 5.7 concerning
+the extremal values of P '? at infinity.
+Theorem 7.9. We have the equality
+P '?(-8) = amin
+if and only if there exist an x = (xi)
+8
+i=0 ? Sm such that
+?(xk, xk+1, · · · , xk+l-1) = amin, ?k = 0.
+We have an analogue criterion for P '?(+8) = amax.
+Proof. We give the proof of the criterion for P '?(-8) = amin, the one
+for P '?(+8) = amax is similar.
+(1). Sufficient condition. Suppose that there exists a (zj)
+8
+j=0 ? Sm
+such that
+?(zj , · · · , zj+l-1) = amin, ?j = 0.
+We are going to prove that P '?(-8) = amin. By Theorem 5.6 (ii), we
+have P '?(-8) = amin, thus we only need to show that P '?(-8) = amin.
+Actually we only need to find a (xj)
+8
+j=1 ? Sm such that
+lim
+n?8
+1
+n
+n?
+j=1
+?(xj , · · · , xjql-1) = amin,
+then by Proposition 7.3, amin ? [P '?(-8), P '?(+8)], so P '?(-8) =
+amin. We can do this by choosing the sequence (xj)
+8
+j=1 =
+?
+i=1, q?i(xiqj )
+8
+j=0
+with
+(xiqj )
+8
+j=0 = (zj)
+8
+j=0.
+(2). Necessary condition. Suppose that there is no (xj)
+8
+j=0 ? Sm
+such that
+?(xj , · · · , xj+l-1) = amin, ?j = 0.
+We are going to show that there exists an o > 0 such that
+P '?(s) = amin + o, ?s ? R.
+And this will imply that P '?(-8) = amin + o.
+From the hypothesis, we deduce that there exist no words xn+l-10
+with n = ml such that
+?(xj, · · · , xj+l-1) = amin, ?0 = j = n. (49)
+Indeed, as xj+l-1j ? Sl for all 0 = j = n there are at most ml choices
+for xj+l-1j . So for any word x
+n+l-1
+0 with n = ml, there exist at least
+two j1, j2 ? {0, · · · , n} such that
+xj1+l-1j1 = x
+j2+l-1
+j2
+.
+Then if the word xn+l-10 satisfies (49), the infinite sequence
+(yj)
+8
+j=0 = (xj1 , · · · , xj2-1)8
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 41
+would verify that
+?(yj, · · · , yj+l-1) = amin, ?j = 0.
+This is a contradicts the hypothesis. We conclude then that for any
+word xm
+l+l-1
+0 ? Sml+l-1 there exists at lest one 0 = j = ml such that
+?(xj , · · · , xj+l-1) = a'min > amin
+where a'min is the second smallest value of ? over S
+l, i.e., a'min =
+mina?Sl{?(a) : ?(a) > amin}.
+We deduce from the above discussions that for any (xj)
+8
+j=0 ? Sm and
+any k = 0 we have
+k+ml?
+j=k
+?(xj , · · · , xj+l-1) = mlamin + a'min = (ml + 1)amin + d,
+where we denote d = a'min - amin. This implies that for any (xj)8j=0 ?
+Sm and any n = 1, we have
+n-1?
+j=0
+?(xj , · · · , xj+l-1) = namin +
+?
+n
+ml + 1
+?
+d. (50)
+Now, we will use the above inequality and Proposition 7.8 to show the
+existence of an o > 0 such that
+P '?(s) = amin + o, ?s ? R.
+By Proposition 7.8, we have
+P '?(s) = (q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+Eµs?(xj , · · · , xj+l-1). (51)
+We can rewrite the term
+?k-1
+j=0 Eµs?(xj , · · · , xj+l-1) as
+Eµs
+k-1?
+j=0
+?(xj , · · · , xj+l-1).
+By (50), we have for any (xj)
+8
+j=0 ? Sm
+k-1?
+j=0
+?(xj, · · · , xj+l-1) = kamin +
+?
+k
+ml + 1
+?
+d.
+As µs is a probability measure, we have
+Eµs
+k-1?
+j=0
+?(xj , · · · , xj+l-1) = kamin +
+?
+k
+ml + 1
+?
+d.
+Substituting this in (51), we get
+42 Multifractal analysis of some multiple ergodic averages
+P '?(s) = (q - 1)2
+8?
+k=1
+1
+qk+1
+(
+kamin +
+?
+k
+ml + 1
+?
+d
+)
+= amin + d(q - 1)2
+8?
+k=1
+1
+qk+1
+(?
+k
+ml + 1
+?)
+.
+As
+d(q-1)2
+8?
+k=1
+1
+qk+1
+(?
+k
+ml + 1
+?)
+= d(q-1)2
+?
+k=ml+1
+1
+qk+1
+(?
+k
+ml + 1
+?)
+> 0
+we have proved the existence of an o > 0 such that
+P '?(s) = amin + o, ?s ? R.
+
+7.6. Lower bounds of dimH E(a). First, as an easy application of
+Proposition 7.8, we get the following formula for dimH Pµs .
+Proposition 7.10. For any s ? R, we have
+dimH Pµs =
+1
+ql-1
+[-sP '?(s) + P?(s)].
+Proof. By Proposition 6.1, we have
+- log Pµs([x
+n
+1 ])
+n
+= - s
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) +
+n- ?n/q?
+n
+log?qs(Ø)
++
+Bn
+q
+(x)
+n
+q
+- Bn(x)
+n
+(52)
+Applying the law of large numbers to the function ?s, we get the
+Pµs-a.e. existence of the following limit limn?8
+Bn(x)
+n
+. So
+lim
+n?8
+Bn
+q
+(x)
+n
+q
+- Bn(x)
+n
+= 0, Pµs - a.e.
+On the other hand, by Proposition 7.8 and Theorem 2.6, we have
+lim
+n?8
+1
+n
+? n
+ql-1
+??
+j=1
+?(xj · · ·xjql-1) =
+1
+ql-1
+P '?(s).
+So we obtain that for Pµs-a.e. x ? Sm
+lim
+n?8
+- log Pµs([x
+n
+1 ])
+n
+=
+1
+ql-1
+[-sP '?(s) + P?(s)],
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 43
+where we have used the fact that
+P (s) = (q - 1)ql-2 log
+?
+j?Sl
+?s(j) = (q - 1)ql-2q log?s(Ø).
+
+By Proposition 7.8, Proposition 7.10 and Billingsley’s lemma (Lemma
+7.4) we get the following lower bound for dimH E(P
+'
+?(s)).
+Proposition 7.11. For any s ? R, we have
+dimH E(P
+'
+?(s)) =
+1
+ql-1 logm
+[-aP '?(s) + P?(s)].
+By the above proposition and Proposition 7.5 we obtain the fol-
+lowing theorem about the exact Hausdorff dimension of dimH(a) for
+a ? (P '?(-8), P '?(+8)).
+Theorem 7.12. (i) If a = P '?(sa) for some sa ? R, then
+dimH E(a) =
+1
+ql-1 logm
+[-P '?(sa)sa + P?(sa)] =
+P *?(a)
+ql-1 logm
+.
+(ii) For a ? (P '?(-8), P '?(0)], we have
+dimH E
++(a) = dimH E(a).
+For a ? [P '?(0), P '?(+8)), we have
+dimH E
+-(a) = dimH E(a).
+7.7. Dimension of level sets corresponding to the extreme points
+in L?. So far, we have calculated dimH E(a) for a in (P
+'
+?(-8), P '?(+8)).
+Now we turn to the case when a = P '?(-8) or P '?(+8). The aim of
+this subsection is to prove the following result.
+Theorem 7.13. If a = P '?(-8) or P '?(+8), then E(a) 6= Ø and
+dimH E(a) =
+P *?(a)
+ql-1 logm
+.
+We will give the proof of Theorem 7.13 for a = P '?(-8). The proof
+for a = P '?(-8) is similar.
+44 Multifractal analysis of some multiple ergodic averages
+7.7.1. Accumulation points of µs when s tends to -8. We view the
+vector ps defined by (33) and the matrix Qs defined by (34) as func-
+tions of s taking values in finite dimensional Euclidean spaces. As all
+components of ps and Qs are non-negative and bounded by 1, the set
+{(ps, Qs), s ? R} is pre-compact in a Euclidean space. So there exists
+a sequence (sn)n?N of real numbers with limn?8 sn = -8 such that
+the limits
+lim
+n?8
+psn , lim
+n?8
+Qsn
+exist. Using these limits as initial law and transition probability, we
+construct a (l- 1)-step Markov measure which we denote by µ-8. It
+is clear that the Markov measure µsn corresponding to psn and Qsn
+converges to µ-8 with respect to the weak-star topology.
+Proposition 7.14. We have
+Pµ-8(E(P
+'
+?(-8))) = 1.
+In particular, E(P '?(-8)) 6= Ø.
+Proof. First, we introduce a functional on the space of probability mea-
+sures which is defined by
+M(?) = (q - 1)2
+8?
+k=1
+1
+qk+1
+k-1?
+j=0
+E??(xj , · · · , xj+l-1).
+The function ? 7?M(?) is continuous, just because ? 7? E??(xj , · · · , xj+l-1)
+is continuous for all j.
+What we have to show is that for Pµ-8-a.e. x ? Sm we have
+lim
+n?8
+1
+n
+n?
+k=1
+?(xk, · · · , xkql-1) = P '?(-8).
+By Theorem 2.6, for Pµ-8-a.e. x ? Sm the limit in the left hand side
+of the above equation equals to M(µ-8). As M is continuous and µsn
+converges to µ-8 when n? 8, we deduce that
+lim
+n?8
+M(µsn) = M(µ-8).
+By Proposition 7.8, we know that
+M(µsn) = P
+'
+?(sn).
+So
+M(µ-8) = lim
+n?8
+P '?(sn).
+By Theorem 4.7, the map s? P '?(s) is increasing, thus we deduce that
+the above limit exists and
+M(µ-8) = P
+'
+?(-8).
+This implies the desired result.
+
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 45
+We have the following formula for dimH Pµ-8 .
+Proposition 7.15. We have
+dimH Pµ-8 = lim
+s?-8
+[-sP '?(s) + P?(s)]
+ql-1 logm
+=
+P *?(P
+'
+?(-8))
+ql-1 logm
+.
+Proof. By Proposition 3.1, we know for any probability measure ? we
+have
+dimH P? =
+(q - 1)2
+logm
+8?
+k=1
+Hk(?)
+qk+1
+.
+As the series in the right hand side converges uniformly on ?, the map
+? ? dimH P? is continuous. Since µsn converges to µ-8 when n? 8,
+we deduce that
+lim
+n?8
+dimH Pµsn = dimH Pµ-8 .
+By Proposition 7.10, we have
+dimH Pµs =
+[-sP '?(s) + P?(s)]
+ql-1 logm
+.
+The derivative of the map s? dimH Pµs is
+d
+ds
+dimH Pµs =
+-sP ''?(s)
+ql-1 logm
+.
+As P?(s) is convex on R, P ''?(s) is non-negative, so for s = 0 the map
+s? dimH Pµs
+is increasing. Thus
+dimH Pµ-8 = lim
+n?8
+dimH Pµsn = lims?-8
+[-sP '?(s) + P?(s)]
+ql-1 logm
+.
+
+Proposition 7.16.
+dimH E(P
+'
+?(-8)) =
+P *?(P
+'
+?(-8))
+ql-1 logm
+.
+Proof. By the last two propositions and Billingsley’s lemma, we get
+dimH E(P
+'
+?(-8)) =
+P *?(P
+'
+?(-8))
+ql-1 logm
+.
+We now show the reverse inequality. By the definition of E+(a), we
+have
+E(P '?(-8))) ?
+?
+a?(P '?(-8),P
+'
+?(0)]
+E+(a) =
+?
+s=0
+E+(P '?(s)).
+So
+dimH E(P
+'
+?(-8))) = dimH E+(P '?(s)) = dimH E(P '?(s)) = dimH Pµs , ?s = 0.
+46 Multifractal analysis of some multiple ergodic averages
+Now as s? dimH Pµs is increasing we deduce that
+dimH E(P
+'
+?(-8))) = lim
+s?-8
+dimH Pµs =
+P *?(P
+'
+?(-8))
+ql-1 logm
+.
+
+8. The invariant part of E(a)
+From classical dynamical system point of view, the set E(a) is not
+invariant and its dimension can not be described by invariant mea-
+sures supported on it, as we shall see. Let us first examine the largest
+dimension of ergodic measures supported on the set E(a).
+Here we can consider a more general setting. Let f1, f2, · · · , fl be
+real functions defined on Sm. Let
+Mf1,··· ,fl(x) = limn?8
+1
+n
+n?
+k=1
+f1(T
+kx)f2(T
+2kx) · · · fl(T lkx) (53)
+if the limit exists. In this section, for a real number a, we define
+E(a) = {x ? Sm : Mf1,··· ,fl(x) = a}.
+In order to describe the invariant part of E(a), we introducing the
+so-called invariant spectrum:
+Finv(a) = sup {dimµ : µ ergodic, µ(E(a)) = 1 } .
+In general, Finv(a) is smaller than dimE(a). It is even possible that
+no ergodic measure is supported on E(a).
+Theorem 8.1. Let l = 2. Let f1 and f2 be two Ho¨lder continuous
+functions on Sm. If E(a) supports an ergodic measure, then
+Finv(a) = sup
+{
+dimµ : µ ergodic,
+?
+f1dµ
+?
+f2dµ = a
+}
+.
+Proof. Let µ be an ergodic measure such that µ(E(a)) = 1. Then
+a = lim
+n?8
+1
+n
+n?
+k=1
+Eµ[f1(T
+kx)f2(T
+2kx)]
+= lim
+n?8
+1
+n
+n?
+k=1
+Eµ[f1(x)f2(T
+kx)]
+= Eµ[f1(x)Mf2(x)]
+where the first and third equalities are due to Lebesgue convergence
+theorem and the second one is due to the invariance of µ. Since µ is
+ergodic, Mf2(x) = Eµf2 for µ-a.e. x. So, a = Eµf1Eµf2. It follows that
+Finv(a) = sup {dimµ : µ ergodic,Eµf1Eµf2 = a } .
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 47
+To obtain the inverse inequality, it suffices to observe from standard
+higher–dimensional multifractal analysis for Ho¨lder continuous func-
+tions that the above supremum is attained by a Gibbs measure ? which
+is mixing and that the mixing property implies Mf1,f2(x) = E?f1E?f2
+?-a.e.. 
+Remark 8.2. In the above theorem, the assumption that µ is ergodic
+can be relaxed to µ is invariant. In fact, if ? is an invariant mea-
+sure such that ?(E(a)) = 1. Then, by the ergodic decomposition the-
+orem and the corresponding decomposition of entropy (a theorem due
+to Jacobs), there is an ergodic measure µ such that µ(E(a)) = 1 and
+h? = hµ. When l = 3, the result in above theorem remains true if we
+replace “ergodic” by “multiple mixing”, i.e.
+Fmix(a) = sup {dimµ : µ multiple mixing, Eµf1 · · ·Eµfl = a } ,
+where
+Fmix(a) = sup {dimµ : µ multiple mixing, µ(E(a)) = 1 } .
+Here is a remarkable corollary of the above theorem. Assume that
+f1 = f2 = f . If µ(E(a) = 1 for some ergodic measure µ, then we must
+have
+a =
+(?
+fdµ
+)2
+= 0.
+There are examples of f taking negative value such that for some a < 0
+we have dimE(a) > 0. However, the theorem together with the re-
+mark shows that there is no invariant measure with positive dimension
+supported by E(a). See Example 2 below.
+In the proof of the theorem, the fact that Mf1 is almost constant
+plays an important role. It is not the case for Mf1,f2. So we can not
+generalize the theorem to l = 3.
+For f1, f2 ? L2(µ) where µ is an ergodic measure, Bourgain proved
+that Mf1,f2(x) exists for µ-almost all x. The limit is in general not
+constant, but can be written by the Kronecker factor (Z,m, S), which
+is considered as a rotation on a compact abelian group Z. Let p be the
+factor map. Let
+f˜i = E(fi|Z).
+Then µ-almost surely
+Mf1,f2(x) =
+?
+Z
+f˜1(p(x) + z)f˜1(p(x) + 2z)dm(z).
+Then it is easy to deduce that Mf1,f2(x) is µ-almost surely constant if
+and only if
+?? ? Z^ with ? 6= 1, ^˜f1(?) ^˜f2(?2) = 0.
+This condition is extremely strong if µ is not weakly mixing. In other
+words, when l = 3, it would be exceptional that E(a) carries an ergodic
+48 Multifractal analysis of some multiple ergodic averages
+measure which is not weakly mixing. When µ is mixing, we have
+Mf1,f2(x) =
+?
+f1dµ
+?
+f2dµ for µ-almost all x.
+For three or more functions, the existence of the almost everywhere
+limit Mf1,f2,··· ,fl is not yet proved. But the L
+2-convergence is proved
+by Host and Kra [17]. The limit can be written as a similar integral,
+but the integral is taken over a nilmanifold of order 2 [5].
+Let us also remark that the supremum in the theorem is also equal
+to the dimension of the a-level set of
+lim
+n?8
+1
+n2
+?
+1=j,k=n
+f1(T
+jx)f2(T
+kx).
+See [11]. Also see [14], where general V -statistics are studied.
+9. Examples
+The motivation of the subject initiated in [10] is the following exam-
+ple. The Riesz product method used in [10] doesn’t work for this case.
+However Theorem 1.1 does.
+Example 1. Let q = 2, m = 2, l = 2 and ? the potential given by
+?(x, y) = x1y1 with x = (xi)
+8
+i=1, y = (yi)
+8
+i=1 ? S2. So
+[?(i, j)](i,j)?{0,1}2 =
+[
+0 0
+0 1
+]
+.
+The system of equations (5) in this case becomes
+?s(0)
+2 = ?s(0) + ?s(1),
+?s(1)
+2 = ?s(0) + e
+s?s(1).
+Fix s ? R. By solving an fourth order algebraic equation, we get the
+unique positive solution of the above system:
+?s(0) =
+1
+6
+a(s) +
+2/3- 2es
+a(s)
++
+2
+3
+,
+?s(1) = ?s(0)
+2 - ?s(0),
+where
+a(s) =
+(
+100- 36es + 12
+v
+69- 54es - 3e2s - 12e3s
+) 1
+3
+.
+Recall that the pressure function is equal to
+P?(s) = log(?s(0) + ?s(1)).
+The minimal and maximal values of ? are 0 and 1, which are respec-
+tively attained by the sequences (xj)
+8
+j=0 = (0)
+8 and (yj)
+8
+j=0 = (1)
+8 in
+the sense of
+?(xj , xj+1) = 0, ?(yj, yj+1) = 1, ?j = 0.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 49
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Solid line : dimHE(a)
+Dotted line : Linv(a)
+Figure 1. The graphs of the spectrum a 7? dimH E(a)
+and a 7? Finv(a) (Example 1).
+Then by Theorem 1.2, we have
+P '?(-8) = 0, P '?(+8) = 1.
+Therefore, according to Theorem 1.1, for any a ? [0, 1] we have
+dimH E(a) =
+-asa + P?(sa)
+2 log 2
+,
+where sa is the unique real such that P
+'
+?(sa) = a.
+We now consider the invariant spectrum of E(a). As ?(x, y) =
+f(x)f(y) with f(x) = x1, by Theorem 8.1, we have
+Finv(a) = sup
+{
+hµ
+log 2
+: µ ? Minv(S2),
+?
+x1dµ =
+v
+a
+}
+.
+It is well known (see [9]) that the right hand side, which is attained by
+a Bernoulli measure, is equal to
+H(
+v
+a) = -va log2
+v
+a- (1-va) log2(1-
+v
+a).
+So
+Finv(a) = H(
+v
+a).
+See Figure 1 for the graphs of the spectra a 7? dimH E(a) and
+a 7? Linv(a). We remark that, except at the extremal points (a = 1/4
+or 1), we have a strict inequality Finv(a) < dimH E(a). This shows
+that the invariant part of E(a) is much smaller than E(a) itself. This
+is different of the classical ergodic theory (l = 1) where in general we
+have Finv(a) = dimH E(a) for all a and actually E(a) is invariant.
+The following example is a special case of a situation studied in [10].
+So, the result is not new. Applying Theorem 1.1 only provides a second
+way to get it. But when we compare its invariant spectrum with its
+multifractal spectrum we will discover a new phenomenon–there is ”no”
+invariant part in E(a) for some a.
+50 Multifractal analysis of some multiple ergodic averages
+Example 2. Let q = 2, m = 2, l = 2 and ? be the potential given by
+?(x, y) = (2x1 - 1)(2x2 - 1). So
+[?(i, j)](i,j)?{0,1}2 =
+[
+1 -1
+-1 1
+]
+.
+The system of equations (5) in this case reduces to
+?s(0)
+2 = es?s(0) + e
+-s?s(1),
+?s(1)
+2 = e-s?s(0) + e
+s?s(1).
+Because of the symmetry of ?, it is easy to find the unique positive
+solution of the system:
+?s(0) = ?s(1) = e
+s + e-s.
+Thus we get the pressure function
+P?(s) = log(?s(0) + ?s(1)) = log 2 + log(e
+s + e-s).
+It is evident that
+P '?(s) =
+es - e-s
+es + e-s
+.
+and
+P '?(-8) = -1, P '?(+8) = 1.
+So, by Theorem 1.1, we have L? = [-1, 1], and for any a ? [-1, 1] we
+have
+dimH E(a) =
+-asa + P?(sa)
+2 log 2
+,
+where sa is such that
+esa - e-sa
+esa + e-sa
+= a.
+We now consider the invariant spectrum of E(a). We have ?(x, y) =
+f(x)f(y) with f(x) = 2x1 - 1, then by Theorem 8.1, we have
+Finv(a) = sup
+{
+hµ
+log 2
+: µ ? Minv(S2),
+(?
+(2x1 - 1)dµ
+)2
+= a
+}
+.
+We see that we must assume a = 0. As ? (2x1 - 1)dµ = 2 ? x1dµ- 1,
+the condition
+(?
+(2x1 - 1)dµ
+)2
+= a means
+?
+x1dµ =
+1
+2
+(1 ± va). The
+above supremum is attained by a Bernoulli measure determined by the
+probability vector ((1 +
+v
+a)/2, (1-va)/2). In other word,
+Finv(a) = H
+(
+1 +
+v
+a
+2
+)
+where H(x) = -x log2 x- (1- x) log2(1- x).
+See Figure 2 for the graphs of the spectra a 7? dimH E(a) and
+a 7? Finv(a). We see that, except at the extremal point a = 0, we have
+Finv(a) < dimH E(a). Moreover, for -1 = a < 0, we have Finv(a) = 0.
+That is to say, there is no invariant measure with positive dimension
+sitting on E(a) for -1 = a < 0. But dimH E(a) > 0.
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 51
+-1 -0.8 -0.6 -0.4 -0.2 0 0.2 0.4 0.6 0.8 1
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Solid line : dimHE(a) 
+Dotted line : Linv (a)
+Figure 2. The graph of the spectrum a 7? dimH E(a)
+(Example 2).
+The following example presents a case where the L? is strictly con-
+tained in the interval [amin, amax].
+Example 3. Let q = 2, m = 2, l = 2 and ? be the potential given by
+?(x, y) = y1 - x1. In other words,
+[?(i, j)](i,j)?{0,1}2 =
+[
+0 -1
+1 0
+]
+.
+The system of equations (5) in this case reduces to
+?s(0)
+2 = ?s(0) + e
+s?s(1),
+?s(1)
+2 = e-s?s(0) + ?s(1).
+It is easy to find the unique positive solution of the system:
+?s(0) = 1 + e
+s
+2 , ?s(1) = 1 + e
+- s
+2 .
+The pressure function is then given by
+P?(s) = log(?s(0) + ?s(1)) = log(2 + e
+s
+2 + e-
+s
+2 ).
+So
+P '?(s) =
+1
+2
+es/2 - e-s/2
+2 + es/2 + e-s/2
+,
+and
+P '?(-8) = -
+1
+2
+, P '?(+8) =
+1
+2
+.
+Remark that in this case we have
+amin < P
+'
+?(-8) < P '?(+8) < amax.
+By Theorem 1.1, we have L? = [-1/2, 1/2], and for any a ? [-1/2, 1/2]
+we have
+dimH E(a) =
+-asa + P?(sa)
+2 log 2
+,
+52 Multifractal analysis of some multiple ergodic averages
+-0.5 -0.4 -0.3 -0.2 -0.1 0 0.1 0.2 0.3 0.4 0.5
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+The spectrum dimHE(a) 
+Figure 3. The graph of the spectrum a 7? dimH E(a)
+(Example 3).
+where sa is the solution of
+esa/2 - e-sa/2
+2 + esa/2 + e-sa/2
+= 2a.
+We now consider the invariant spectrum of E(a). We have ?(x, y) =
+f(y)-f(x) with f(x) = x1. By Lebesgue convergence theorem, for any
+a ? R such that there exists an invariant measure µ with µ(E(a)) = 1
+we have
+a = lim
+n?8
+1
+n
+n?
+k=1
+Eµ(x2k - xk) = lim
+n?8
+1
+n
+n?
+k=1
+(Eµ(x2k)- Eµ(xk)) = 0.
+(The last equality is due to the invariance of µ). This means that the
+only a such that there is an invariant measure with positive dimension
+sitting on E(a) is a = 0. The invariant spectrum then degenerates to
+one point. We have Finv(0) = 1.
+See Figure 3 for the graph of the spectrum a 7? dimH E(a).
+We can easily solve the system (5) for a class of symmetric functions
+described in the following example. The example 2 is a special case.
+Example 4. Let l = 2, q = 2 andm = 2. Let ? = [?(i, j)](i,j)?{0,··· ,m-1}2
+be a potential considered as a matrix. Suppose that each row of the ma-
+trix is a permutation of the first row.
+Recall the system of equations (5):
+?s(i)
+q =
+m-1?
+j=0
+es?(i,j)?s(j), i ? {0, · · · , m- 1}.
+It is straightforward to verify that the constant vector (a, · · · , a), with
+a =
+(
+m-1?
+j=0
+es?(1,j)
+) 1
+q-1
+,
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 53
+is the unique positive solution of the above system (see Theorem 4.1).
+The pressure function is then given by
+P?(s) = log
+m-1?
+j=0
+es?(1,j) + (q - 1) logm.
+We have
+P '?(s) =
+?m-1
+j=0 e
+s?(1,j)?(1, j)?m-1
+j=0 e
+s?(1,j)
+.
+Then
+lim
+s?-8
+P '?(s) = lim
+s?-8
+?m-1
+j=0 e
+s(?(1,j)-amin)?(1, j)?m-1
+j=0 e
+s(?(1,j)-amin)
+= amin = min
+j
+?(1, j).
+Similarly, we have
+lim
+s?+8
+P '?(s) = amax = max
+j
+?(1, j).
+By the hypothesis of symmetry on ?, it is easy to see that there exist
+sequences (xj)
+8
+j=0 and (yj)
+8
+j=0 ? Sm such that
+?(xj , xj+1) = amin, ?(yj, yj+1) = amax, ?j = 0.
+Therefore, by Theorem 1.1, L? = [amin, amax], and for any a ? [amin, amax]
+we have
+dimH E(a) =
+-asa + P?(sa)
+2 logm
+,
+where sa is the solution of?m-1
+j=0 e
+sa?(1,j)?(1, j)?m-1
+j=0 e
+sa?(1,j)
+= a.
+The invariant spectrum: For a ? [amin, amax], the invariant spectrum
+is attained by a Markov measure. That is to say
+Finv(a) = sup
+{
+-
+?
+0=i,j=m-1
+pipi,j logm pi,j :
+?
+0=i,j=m-1
+?(i, j)pipi,j = a
+}
+where P = (pi,j) is a stochastic matrix and p = (p0, · · · , pm-1) is an
+invariant probability vector of P , i.e. pP = p.
+In the next example we show that in general the invariant spectrum
+can be strictly larger than the mixing spectrum for some level set E(a).
+Example 5. Let m = 2. Consider two functions f and h on Sm
+defined by
+f(i) =
+{
+1 0 = i < m- 1
+2 i = m- 1 h(i) =
+{
+-2 0 = i < m- 1
+1 i = m- 1 .
+54 Multifractal analysis of some multiple ergodic averages
+Consider the level set
+E(0) =
+{
+x ? Sm : lim
+n?8
+1
+n
+n?
+k=1
+f(xk)f(x2k)h(x3k) = 0
+}
+.
+(That means f(x, y, z) = f(x)f(y)h(z)). We claim that Fmix(0) <
+Finv(0) for m = 49.
+Let dj denotes the Dirac measure at j ? {0, 1, · · · , m- 1}. Let
+? =
+1
+m- 1
+m-2?
+j=0
+dj.
+We note that ? restricted on Sm-1 gives rise to the measure of maximal
+dimension on Sm-1. We consider a probability measure on Sm defined
+by
+µ =
+1
+2
+µ1 +
+1
+2
+µ2,
+where
+µ1([x1x2 · · ·xn]) =
+?n-1
+2
+??
+k=0
+dm-1(x2k+1) ·
+?n
+2
+??
+k=1
+?(x2k),
+and
+µ2([x1x2 · · ·xn]) =
+?n-1
+2
+??
+k=0
+?(x2k+1) ·
+?n
+2
+??
+k=1
+dm-1(x2k).
+Note that T-1 ? µ1 = µ2 and T-1 ? µ2 = µ1. So µ is shift invariant.
+The measure µ sits on the set A = A1
+?
+A2 where
+A1 = {x ? Sm : x2k+1 = m- 1, x2k 6= m- 1, k ? N} ,
+A2 = {x ? Sm : x2k = m- 1, x2k+1 6= m- 1, k ? N} .
+Actually µ1(A1) = 1 and µ2(A2) = 1 and the sets A1 and A2 are
+disjoint.
+We claim that µ is ergodic but not mixing. To see that µ is not
+mixing, we only need to observe that T-1A1 = A2 and T
+-1A2 = A1.
+From this and that A1 and A2 are disjoint we deduce that
+µ
+(
+T-2kA1 n A2
+)
+= 0, ?k ? N.
+This implies that µ is not mixing. The ergodicity of µ with respect to T
+is due to the fact that µ1 and µ2 are ergodic with respect to T
+2 = T ?T
+and that they are supported by disjoint sets.
+For every x ? A1 we have
+lim
+n?8
+1
+n
+n?
+k=1
+f(xk)f(x2k)h(x3k) = lim
+n?8
+1
+n
+( ?
+k-even
++
+?
+k-odd
+)
+=
+1
+2
+(-2 + 2) = 0
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 55
+and for every x ? A2 we have
+lim
+n?8
+1
+n
+n?
+k=1
+f(xk)f(x2k)h(x3k) = lim
+n?8
+1
+n
+( ?
+k-even
++
+?
+k-odd
+)
+=
+1
+2
+(4- 4) = 0.
+Hence, µ(E(a) = 1. We note that?
+Sm
+f dµ ·
+?
+Sm
+f dµ ·
+?
+Sm
+h dµ =
+(
+3
+2
+)2
+·
+(
+-1
+2
+)
+= -9
+8
+< 0.
+Let us compute the dimension of µ by computing the local entropy
+at typical points. If x ? A then
+µ([x1 · · ·x2n]) = (m- 1)-n.
+Since µ(A) = 1 this implies that dimH µ =
+1
+2
+log(m - 1). So that
+Finv(0) = 12 log(m-1). On the other hand, by Theorem 8.1 and Remark
+8.2, we have
+Fmix(0) = sup
+{
+hµ : µ-multiple mixing,
+?
+Sm
+h dµ = 0
+}
+since f is strictly positive. From standard multifractal analysis we
+know that the supremum is attained by a Bernoulli measure and
+Fmix(0) = max
+pi=0
+{
+-
+m-1?
+i=0
+pi log pi : p0 + · · ·+ pm-2 = 1
+3
+, pm-1 =
+2
+3
+}
+=
+1
+3
+log(m- 1) + 1
+3
+log 3 +
+2
+3
+log
+3
+2
+.
+If m > 48 we conclude Finv(0) > Fmix(0).
+10. Remarks and Problems
+Multiplicatively invariant sets. The first basic example (Example 1
+above) which motivated our study leads to the set
+X2 = {(xk)k=1 ? S2 : ?k = 1, xkx2k = 0}
+which was introduced in [10]. It is known to Fu¨rstenberg [15] that
+any shift-invariant closed set has its Hausdorff dimension equal to its
+Minkowski (box-counting) dimension. Unfortunately the closed set
+X2 is not shift-invariant. Its Minkowski dimension was computed by
+Fan, Liao and Ma [10] and its Hausdorff dimension was computed by
+Kenyon, Peres and Solomyak [18]. The results show that the Hausdorff
+dimension is smaller than the Minkowski dimension. Recall that
+dimM X2 = 0.82429..., dimH X2 = 0.81137...
+As observed by Kenyon, Peres and Solomyak, the set X2 is invariant
+under the action of the semigroup N in the sense that TrX2 ? X2 for
+all r ? N where Tr is defined by
+x = (xk)k=1 7? Trx = (xrk)k=1.
+56 Multifractal analysis of some multiple ergodic averages
+As observed by Fan, Liao and Ma, we have the decomposition
+N =
+?
+i:odd
+i?
+where ? = {1, 2, 22, 23, · · · } is the (multiplicative) sub-semigroup gen-
+erated by 2. This is one of the key point in the present study. A
+similar decomposition holds for semigroups generated by a finite num-
+ber of prime numbers. Using this decomposition, Peres, Schmeling,
+Solomyak and Seuret [23] computed the Hausdorff dimension and the
+Minkowski dimension of sets like
+X2,3 = {(xk)k=1 ? S2 : ?k = 1, xkx2kx3k = 0}.
+This is an important step.
+A generalization. Combining the ideas in [23] and those in the
+present paper, we can study the following limit
+lim
+n?8
+1
+n
+n?
+k=1
+?(xk, x2k, x3k).
+See [25]. Notice that the computation in this case are more involved.
+Also notice that, by chance, the Riesz product method used in [10] is
+well adapted to the study of the special limit
+lim
+n?8
+1
+n
+n?
+k=1
+(2xk - 1)(2x2k - 1) · · · (2xlk - 1)
+where l = 2 is any integer.
+Vector valued potential. We indicate here how to extend our results
+to vector valued potentials. First, let ?, ? be 2 functions defined on Sl
+taking real values. Instead of considering the transfer operator Ls as
+defined in (4), we consider the following one.
+Ls?(a) =
+?
+j?S
+es?(a,j)+?(a,j)?(Ta, j), a ? Sl-1, s ? R.
+Still by Theorem 4.1, there exists a unique solution to the equation
+(Ls?)
+1
+q = ?.
+Then, we can similarly define the pressure function as indicated in (6)
+and (7). We denote this pressure function by P?,?(s). The arguments
+with which we proved the analyticity and convexity of s 7? P?(s) can
+be also used to prove the same results for s 7? P?,?(s).
+Let ? = (?1, · · · , ?d) be a function defined on Sl taking values in Rd.
+For s = (s1, · · · , sd) ? Rd, we consider the following transfer operator.
+Ls?(a) =
+?
+j?S
+e<s,?>?(Ta, j), a ? Sl-1,
+Ai-Hua FAN, Jo¨rg SCHMELING and Meng WU 57
+where <·, ·> denotes the scalar product in Rd. We denote the associated
+pressure function by P (?)(s). Then, by the above discussion, for any
+vectors u, v ? Rd the function
+R ? s 7-? P (?)(us+ v)
+is analytical and convex. We deduce from this that the function
+s 7-? P (?)(s)
+is infinitely differentiable and convex on Rd. We can prove that P (?)(s)
+is indeed analytical by the same argument used to prove the analyticity
+of P?(s).
+Similarly, we define the level sets E(a) (a ? Rd) of ?. A vector
+version of Theorem 1.1 is stated by just replacing the derivative of the
+pressure function by gradient.
+We finish the paper with two problems.
+Subshifts of finite type. Our study is strictly restricted to the full
+shift dynamics. It is a challenging problem to study the dynamics of
+subshift of finite type.
+More general are dynamics with Markov property. More efforts are
+needed to deal with ß-shift which are not Markovian. New ideas are
+needed to deal with these dynamics.
+Nonlinear cookie cutter. The full shift is essentially the doubling
+dynamics Tx = 2x mod 1 on the interval [0, 1). Cookie cutters are
+the first interval maps coming into the mind after the doubling map.
+If the cookie cutter maps are not linear, it is a difficult problem.
+Based on the computation made in [22], Liao and Rams [21] con-
+sidered a special piecewise linear map of two branches defined on two
+intervals I0 and I1 and studied the following limit
+lim
+n?8
+1
+n
+n?
+k=1
+1I1(T
+kx)1I1(T
+2kx).
+The techniques presented in the present paper can be used to treat the
+problem for general piecewise linear cookie cutter dynamics [12, 25].
+References
+[1] I. Assani, Multiple recurrence and almost sure convergence for weakly mixing
+dynamical systems, Israel. J. Math. 1-3 (1987), 111–124.
+[2] L. Barreira, “Dimension and recurrence in hyperbolic dynamics,” Progress in
+Mathematics. Soc. 272. Birkha¨user Verlag, Basel, 2008.
+[3] L. Barreira, B. Saussol, J. Schmeling, Higher-dimensional multifractal analysis,
+J. Math. Pures Appl. 81 (2002), 67–91.
+[4] V. Bergelson, Weakly mixing PET, Ergodic Theory Dynam. Systems 3 (1987),
+337–349.
+[5] V. Bergelson, B. Host and B. Kra, Multiple recurrence and nilsequences (with
+an appendix by I. Rusza), Inventiones Math. 160, 2 (2005), 261-303.
+58 Multifractal analysis of some multiple ergodic averages
+[6] J. Bourgain, Double recurrence and almost sure convergence, J. Reine Angew.
+Math. 404 (1990), 140-161.
+[7] K. Falconer, “Fractal geometry. Mathematical foundations and applications,”
+John Wiley Sons, Chichester, 1990.
+[8] A.H. Fan, Sur les dimensions de mesures, Studia Math. 111 (1994), 1-17.
+[9] A.H. Fan, D. J. Feng and J. Wu, Recurrence, entropy and dimension, J. London
+Math. Soc. 64 (2001), 229–244.
+[10] A.H. Fan, L. M. Liao and J. H. Ma, Level sets of multiple ergodic averages,
+Monatsh. Math. 168 (2012), 17-26.
+[11] A.H. Fan, L. M. Liao and J. Peyrie`re, Generic points in systems of specification
+and Banach valued Birkhoff ergodic average, Discrete Contin. Dyn. Syst. 21
+(2008), 1103-1128.
+[12] A.H. Fan, L. M. Liao and M. Wu, Multifractal analysis of some multiple ergodic
+averages in linear Cookie-Cutter dynamical systems, preprint.
+[13] A.H. Fan, J. Schmeling and M. Wu, Multifractal analysis of multiple ergodic
+averages, Comptes Rendus Mathe´matique, Volume 349, nume´ro 17–18 (2011),
+961–964.
+[14] A.H. Fan, J. Schmeling and M. Wu, Multifractal analysis of V-statistics, to
+appear in Further Developments in Fractals and Related Fields, Eds. J. Barral
+and S. Seuret, 2013.
+[15] H. Fu¨rstenberg, Disjointness in ergodic theory, minimal sets, and a problem
+in Diophantine approximation, Math. Systems Theory 1 (1967), 1–49.
+[16] H. Fu¨rstenberg, Ergodic behavior of diagonal measures and a theorem of Sze-
+mere´di on arithmetic progressions, J. d’Analyse Math. 31 (1977), 204–256.
+[17] B. Host and B. Kra, Nonconventional ergodic averages and nilmanifolds, Ann.
+Math. 161 (2005), 397-488.
+[18] R. Kenyon, Y. Peres and B. Solomyak, Hausdorff dimension of the multiplica-
+tive golden mean shift, Comptes Rendus Mathematique, volume 349, nume´ro
+11–12 (2011), 625–628.
+[19] R. Kenyon, Y. Peres and B. Solomyak, Hausdorff dimension for fractals in-
+variant under the multiplicative integers, to appear in Ergodic Theory Dynam.
+Systems.
+[20] Yu. Kifer, A nonconventional strong law of large numbers and fractal dimen-
+sions of some multiple recurrence sets, preprint.
+[21] L. M. Liao and M. Rams, Multifractal analysis of some multiple ergodic aver-
+ages for the systems with non-constant Lyapunov exponents, preprint.
+[22] Y. Peres and B. Solomyak, Dimension spectrum for a nonconventional ergodic
+average, to appear in Real Analysis Exchange.
+[23] Y. Peres, J. Schmeling, B. Solomyak and S. Seuret, Dimensions of some fractals
+defined via the semigroup denerated by 2 and 3, preprint.
+[24] R.S. Varga, “Gers?gorin and his circles,” Springer series in computational math-
+ematics 36, Springer-Verlag, Berlin, 2004.
+[25] M. Wu, Ph D Thesis, in preparation.
+A. F. Fan: LAMFA, UMR 7352 (ex 6140) CNRS, Universite´ de Pi-
+cardie, 33 rue Saint Leu, 80039 Amiens, France. E-mail: ai-hua.fan@u-
+picardie.fr
+J. Scheming: MCMS, Lund Institute of Technology, Lund Univer-
+sity Box 118 SE-221 00 Lund, Sweden. E-mail: joerg@maths.lth.se
+M. Wu: LAMFA, UMR 7352 (ex 6140) CNRS, Universite´ de Picardie,
+33 rue Saint Leu, 80039 Amiens, France. E-mail: meng.wu@u-picardie.fr

@@ -1,0 +1,205 @@
+89                                                                                                                                      School of Applied Sciences and  
+Technology
+ Department of Computer Science and Engineering
+First Year : Semester I
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 131 Introduction to Computer Science 2 + 0 2.0
+CSE 135 Structured Programming Language 2 + 0 2.0
+CSE 136 Structured Programming Language Lab 0 + 6 3.0
+CSE 141 Discrete Mathematics 2 + 0 2.0
+ENG 101 English Language I 2 + 0 2.0
+ENG 102 English Language I Lab 0 + 2 1.0
+IPE 108 Workshop Practice 0 + 2 1.0
+IPE 106 Engineering Graphics 0 + 2 1.0
+MAT102D Matrices, Vector Analysis & Geometry 4 + 0 4.0
+PHY 103E Mechanics, Wave, Heat & Thermodynamics 3 + 0 3.0
+Total 15 + 12 = 28 21.0
+First Year: Semester II
+Course No Course Title Hours/Week
+Theory + Lab
+Credits Prerequisite
+CSE 100 Project Work 0 + 2 1.0
+CSE 125 Electric Circuit Analysis 3 + 0 3.0
+CSE 126 Electric Circuit Analysis Lab 0 + 4 2.0
+CSE 137 Data Structure 3 + 0 3.0 CSE 135
+CSE 138 Data Structure Lab 0 + 4 2.0
+ENG 103 English Language II 2 + 0 2.0
+ENG 104 English Language II Lab 0 + 2 1.0
+MAT103D Calculus & Differential Equations 4 + 0 4.0
+PHY 207E Electromagnetism, Optics & Modern Physics 3 + 0 3.0
+Total 1 5+ 12 = 27 21.0
+Second Year: Semester I
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 227 Semiconductor Devices & Circuits 4 + 0 4.0
+CSE 228 Semiconductor Devices & Circuits Lab 0 + 4 2.0
+CSE 233 Object Oriented Programming Language 3 + 0 3.0 CSE 135
+CSE 234 Object Oriented Programming Language Lab 0 + 6 3.0
+BAN 343 Cost & Management Accounting 3 + 0 3.0
+PHY 222B Basic Physics Lab 0 + 3 1.5
+STA 202 Basic Statistics & Probability 4 + 0 4.0
+Total 14 + 13 = 27 20.5
+Second Year : Semester II
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 221 Digital Logic Design 3 + 0 3.0 CSE 227
+Department of Computer Science and Engineering                                                                                                                      90
+CSE 222 Digital Logic Design Lab 0 + 4 2.0
+CSE 237 Algorithm Design & Analysis 3 + 0 3.0 CSE 137
+CSE 238 Algorithm Design & Analysis Lab 0 + 3 1.5
+CSE 239 Numerical Analysis 2 + 0 2.0
+CSE 240 Numerical Analysis Lab 0 + 2 1.0
+ECO 103 Principles of Economics 3 + 0 3.0
+MAT204D Complex Variable, Laplace Transformation & Fourier Series 4 + 0 4.0
+Total 15 + 9 = 24 19.5
+Third Year : Semester I
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 323 Electronic Communication 3 + 0 3.0
+CSE 325 Microprocessor & Assembly Language 3 + 0 3.0 CSE 221
+CSE 326 Microprocessor & Assembly Language Lab 0 + 3 1.5
+CSE 333 Database System 3 + 0 3.0
+CSE 334 Database System Lab 0 + 6 3.0
+CSE 335 Operating System and System Programming 3 + 0 3.0
+CSE 336 Operating System Lab 0 + 3 1.5
+CSE 339 Theory of Computation 2 + 0 2.0
+Total 14 + 12 = 26 20
+Third Year : Semester II
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 300 Project Work & Seminar 0 + 3 1.5
+CSE 327 Data Communication 3 + 0 3.0
+CSE 328 Data Communication Lab 0 + 3 1.5
+CSE 329 Computer Architecture 3 + 0 3.0
+CSE 351 Management Information System 3 + 0 3.0
+CSE 431 Computer Networking 3 + 0 3.0 CSE 327
+CSE 432 Computer Networking Lab 0 + 4 2.0
+IPE 301 Industrial & Business Management 3 + 0 3.0
+Total 15 + 9 = 24 19.5
+Fourth Year : Semester I
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 400 Project 0 + 4 2.0
+CSE 421 Computer Interfacing 2 + 0 2.0 CSE 325
+CSE 422 Computer Interfacing Lab 0 + 2 1.0
+CSE 331/
+CSE 471
+Software Engineering or
+Microwave Engineering*
+3 + 0 3.0
+CSE 332/
+CSE 472
+Software Engineering Lab or
+Microwave Engineering Lab*
+0 + 3 1.5
+CSE 439/
+CSE 473
+Compiler Construction or
+Cellular Mobile System & Network Planning*
+3 + 0 3.0 CSE 339
+91                                                                                                                                    School of Applied Sciences and Technology
+CSE 440/
+CSE 474
+Compiler Construction Lab or
+Cellular Mobile System & Network Planning*
+0 + 3 1.5
+CSE 4**/
+CSE 427
+Option I or
+Fiber Optics*
+3 + 0 3.0
+CSE 4**/
+CSE 428
+Option I Lab or
+Fiber Optics Lab*
+0 + 3 1.5
+Total 11 + 16 = 27 19.0
+Fourth Year: Semester II
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 402 Project 0 + 6 3.0
+CSE 451/
+CSE 425
+Computer Graphics or
+Digital Signal Processing and Filter Design*
+3 + 0 3.0
+CSE 452/
+CSE 426
+Computer Graphics Programming  Lab or
+Digital Signal Processing and Filter Design Lab*
+0 + 3 1.5
+CSE 453/
+CSE 475
+Internet Programming & Multimedia Basics or
+IP Telephony*
+2 + 0 2.0
+CSE 454/
+CSE 476
+Internet Programming & Multimedia Lab or
+IP Telephony Lab*
+0 + 2 1.0
+CSE 433/
+CSE 467
+Artificial Intelligence or
+Principles of VLSI Design*
+3 + 0 3.0
+CSE 434/
+CSE 468
+Artificial Intelligence Lab or
+Principles of VLSI Design Lab*
+0 + 3 1.5
+CSE 4**/
+CSE 477
+Option II or
+Optical Communication*
+3 + 0 3.0
+CSE 4**/
+CSE 478
+Option II Lab or
+Optical Communication Lab*
+0 + 3 1.5
+Total 11 + 17 = 28 19.5
+* Required Courses for Specialization in Communication 
+Engineering
+Optional : Option I
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+CSE 425 Digital Signal  Processing 3 + 0 3.0 MAT-103D, 
+MAT-204D
+CSE 426 Digital Signal  Processing Lab 0 + 3 1.5
+CSE 455 Contemporary Course on Computer Science 3 + 0 3.0
+CSE 456 Contemporary Course (Lab) on Computer Science 0 + 3 1.5
+CSE 457 Parallel Processing 3 + 0 3.0
+CSE 458 Parallel Processing Lab 0 + 3 1.5
+CSE 461 Distributed System 3 + 0 3.0
+CSE 462 Distributed System Lab 0 + 3 1.5
+CSE 463 Advanced Database System 3 + 0 3.0 CSE 333
+CSE 464 Advanced Database System Lab 0 + 3 1.5
+Optional: Option II
+Course No Course Title Hours/Week 
+Theory + Lab
+Credits Prerequisite
+Department of Computer Science and Engineering                                                                                                                      92
+CSE 427 Fiber Optics 3 + 0 3.0 PHY-207E
+CSE 428 Fiber Optics Lab 0 + 3 1.5
+CSE 441 Neural Network 3 + 0 3.0
+CSE 442 Neural Network Lab 0 + 3 1.5
+CSE 443 Contemporary Course on Computer Science 3 + 0 3.0
+CSE 444 Contemporary Course (Lab)on Computer Science 0 + 3 1.5
+CSE 465 Digital Image Processing 3 + 0 3.0 MAT-102D, 
+MAT-204D
+CSE 466 Digital Image Processing Lab 0 + 3 1.5
+CSE 467 VLSI Design 3 + 0 3.0 CSE 221
+CSE 468 VLSI Design Lab 0 + 3 1.5
+Laboratory works based on theory classes.
+*(A-CEP, B-CEE, C-IPE, D-CHE, E-MAT, F-PHY, G-ANP, H-ECO, I-PAD, J-PSS, K-SCW, L-SOC, M-BAN, N-FOR, 
+O-ENG, P-FTC, Z-PGE, R-ARC, S-GEN, T-BTC, U-BNG, V-PAD)
