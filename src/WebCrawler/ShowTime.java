@@ -11,7 +11,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
 public class ShowTime
 {

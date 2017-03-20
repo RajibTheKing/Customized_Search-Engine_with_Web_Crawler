@@ -16,7 +16,8 @@ class GetLinks extends JFrame implements Runnable {
     private JButton doButton, stopButton;
     private ImageIcon img = new ImageIcon("images/backGround.jpg");
 
-    public GetLinks() {
+    public GetLinks() 
+    {
         super("Customized Search Engine With Web Crawler");
         setSize(1000, 600);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
@@ -59,9 +60,11 @@ class GetLinks extends JFrame implements Runnable {
         stopButton.setBounds(750, 250, 150, 40);
         add(stopButton);
 
-        doButton.addActionListener(new ActionListener() {
+        doButton.addActionListener(new ActionListener() 
+        {
 
-            public void actionPerformed(ActionEvent e) {
+            public void actionPerformed(ActionEvent e) 
+            {
                 System.out.println(urlfield.getText());
                 try {
 
@@ -88,9 +91,11 @@ class GetLinks extends JFrame implements Runnable {
 
         });
 
-        stopButton.addActionListener(new ActionListener() {
+        stopButton.addActionListener(new ActionListener() 
+        {
 
-            public void actionPerformed(ActionEvent e) {
+            public void actionPerformed(ActionEvent e) 
+            {
                 Main.bfs = false;
 
             }
@@ -98,7 +103,8 @@ class GetLinks extends JFrame implements Runnable {
 
     }
 
-    public void run() {
+    public void run() 
+    {
 
     }
 

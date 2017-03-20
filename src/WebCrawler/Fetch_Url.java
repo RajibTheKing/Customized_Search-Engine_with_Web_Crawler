@@ -1,31 +1,21 @@
 package WebCrawler;
-
-import java.net.MalformedURLException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.jsoup.Jsoup;
-import org.jsoup.helper.Validate;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
-import java.io.IOException;
 import java.net.URL;
-import java.net.URLConnection;
 
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
-public class Fetch_Url extends Thread
+public class Fetch_Url implements Runnable
 {
     String s;
     Fetch_Url(String str)
     {
         s=str;
-        //start();
-        
     }
     public void run()
     {
@@ -48,10 +38,13 @@ public class Fetch_Url extends Thread
             Elements links = doc.select("a[href]");
             Elements media = doc.select("[src]");
             Elements imports = doc.select("link[href]");
-            for (Element link : links) {
+            
+            for (Element link : links) 
+            {
                 String str = link.attr("abs:href");
                 //System.out.println("starin loop");
-                if (Main.mp.get(str) == null) {
+                if (Main.mp.get(str) == null) 
+                {
                     //System.out.println("vitore");
                     Main.mp.put(str, new Boolean(false));
                     URL urlq = new URL(str);
@@ -62,11 +55,14 @@ public class Fetch_Url extends Thread
                         Main.link_counter++;
                         System.out.print("Number of Link: " + Main.link_counter);
                         CmdOutPut.DownloadStatus.setText("Number of Link: " + Main.link_counter);
+                        
+                        /*
                         try{
                             if(Main.Q.size()>10000) sleep(5000);
                         }catch(InterruptedException eee) {
                             System.out.println(eee.getMessage());
                         }
+                        */
                         
                         Main.Q.add(str);
                         System.out.println("  pusinhg " + str);

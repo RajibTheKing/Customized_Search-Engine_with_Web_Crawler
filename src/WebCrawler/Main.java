@@ -1,173 +1,67 @@
 package WebCrawler;
-
-
-
 import java.awt.Color;
-import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.BufferedReader;
 import java.io.DataInputStream;
-import java.io.File;
 import java.io.FileInputStream;
-import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.Map;
-import java.util.Queue;
-import java.util.Set;
-import java.util.Timer;
-import java.util.Vector;
+import java.util.*;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JMenu;
-import javax.swing.JMenuBar;
-import javax.swing.JMenuItem;
-import javax.swing.JOptionPane;
-import org.apache.lucene.index.CorruptIndexException;
-import org.apache.lucene.queryParser.ParseException;
-import org.apache.lucene.store.LockObtainFailedException;
+import javax.swing.*;
 import teststring.*;
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
 public class Main 
 {
-    
-    /**
-     *
-     */
+
     public static CmdOutPut cmd;
-    /**
-     *
-     */
-    public static JButton match,
-    /**
-     *
-     */
-    home,
-    /**
-     *
-     */
-    getLinks,
-    /**
-     *
-     */
-    download,
-    /**
-     *
-     */
-    userinput,
-    /**
-     *
-     */
-    exit,
-    /**
-     *
-     */
-    index;
-    /**
-     *
-     */
+
+    public static JButton match, home, getLinks, download, userinput, exit,index;
+
     public static JMenuBar menubar = new JMenuBar();
-    /**
-     *
-     */
-    public static JFrame frame,
-    /**
-     *
-     */
-    frame2;
-    /**
-     *
-     */
+  
+    public static JFrame frame, frame2;
     public static ButtonHandler handler = new ButtonHandler();
     final static JLabel timeLabel = new JLabel();
     final static DateFormat timeFormat = new SimpleDateFormat("E yyyy.MM.dd 'at' hh:mm:ss a");
     final static String directoryWindows = "downloads";
-    /**
-     *
-     */
+    
     public static HashMap mp = new HashMap();
-    /**
-     *
-     */
+    
     public static HashMap<String, String> pdf_with_Link = new HashMap<String, String>();
-    /**
-     *
-     */
+    
     public static HashMap<String, String> txt_with_Link = new HashMap<String, String>();
-    /**
-     *
-     */
+    
     public static HashMap<String, String> Links = new HashMap<String, String>();
-    /**
-     *
-     */
+    
     public static Queue<String> Q = new LinkedList<String>();
-    /**
-     *
-     */
+    
     public static URL mother = null;
-    /**
-     *
-     */
-    public static int counter,
-    /**
-     *
-     */
-    link_counter;
-    /**
-     *
-     */
+    
+    public static int counter, link_counter;
+    
     public static Vector<String> pdf_links = new Vector<String>();
-    /**
-     *
-     */
+    
     public static Vector<String> downloaded_files = new Vector<String>();
+    
     //private static String Main_Link="http://khairullah.eu5.org/";
-    /**
-     *
-     */
     public static String Main_Link = "http://www.sust.edu/";
     //public static String Main_Link = "http://www.sust.edu/publications/";
     //public static String Main_Link = "http://www.arxiv.org//";
     //private static String Main_Link = "http://www.du.ac.bd/";
-    /**
-     *
-     */
-    public static ExecutorService Download_Pool,
-    /**
-     *
-     */
-    Crawl_Pool;
-    /**
-     *
-     */
+
+    public static ExecutorService Download_Pool, Crawl_Pool;
     public static boolean bfs=true;
-    /**
-     *
-     */
     public static Link_Information linkInfo[] = new Link_Information[10000];
-    /**
-     *
-     */
     public static LuceneDemo app;
     
 
@@ -176,7 +70,8 @@ public class Main
      * @param args
      * @throws MalformedURLException
      */
-    public static void main(String[] args) throws MalformedURLException {
+    public static void main(String[] args) throws MalformedURLException 
+    {
         
         Download_Pool = Executors.newFixedThreadPool(50);
         Crawl_Pool = Executors.newFixedThreadPool(50);
@@ -185,14 +80,12 @@ public class Main
         counter = 0;
         link_counter = 0;
         frame = new Home();
-//        frame = new Match_Frame();
+        //frame = new Match_Frame();
         
     }
-
-    /**
-     *
-     */
-    public static void initUI() {
+    
+    public static void initUI() 
+    {
         JMenu file = new JMenu("File");
         JMenuItem fileNew = new JMenuItem("New");
         JMenuItem fileExit = new JMenuItem("Exit");
@@ -259,12 +152,11 @@ public class Main
 
     }
 
-    /**
-     *
-     */
-    public static class ButtonHandler implements ActionListener {
+    public static class ButtonHandler implements ActionListener 
+    {
 
-        public void actionPerformed(ActionEvent e) {
+        public void actionPerformed(ActionEvent e) 
+        {
 
             home.setBackground(null);
             getLinks.setBackground(null);

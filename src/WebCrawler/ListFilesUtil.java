@@ -1,22 +1,16 @@
 package WebCrawler;
-
-
-
 import java.io.File;
 import java.util.Vector;
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
 public class ListFilesUtil
 {
 //    File[] fList = null;
     Vector<String>FV=null;    
-
-    /**
-     *
-     */
+    
     public ListFilesUtil()
     {
         
@@ -24,11 +18,6 @@ public class ListFilesUtil
 
     }
 
-
-    /**
-     *
-     * @param directoryName
-     */
     public void listFilesAndFolders(String directoryName)
     {
 
@@ -44,19 +33,11 @@ public class ListFilesUtil
         }
     }
 
-    /**
-     *
-     * @return
-     */
     public Vector<String> getFileList()
-   {
+    {
        return FV;
-   }
+    }
    
-    /**
-     *
-     * @param directoryName
-     */
     public void listFiles(String directoryName)
     {
 
@@ -64,7 +45,8 @@ public class ListFilesUtil
 
         //get all the files from a directory
         File[] fList = directory.listFiles();
-
+        
+        try{
         for (File file : fList)
         {
             if (file.isFile())
@@ -73,12 +55,12 @@ public class ListFilesUtil
                 Main.downloaded_files.add(a);
             }
         }
+        }catch(Exception e){
+            System.out.println(e.getMessage());
+        }
     }
-    /**
-     *
-     * @param directoryName
-     * @return
-     */
+
+    
     public static String get_user_file(String directoryName)
     {
         File directory = new File(directoryName);
@@ -89,11 +71,6 @@ public class ListFilesUtil
         return fList[0].toString();
     }
 
-    
-    /**
-     *
-     * @param directoryName
-     */
     public void listFolders(String directoryName){
 
         File directory = new File(directoryName);
@@ -107,11 +84,7 @@ public class ListFilesUtil
             }
         }
     }
-
-    /**
-     *
-     * @param directoryName
-     */
+    
     public void listFilesAndFilesSubDirectories(String directoryName){
 
         File directory = new File(directoryName);

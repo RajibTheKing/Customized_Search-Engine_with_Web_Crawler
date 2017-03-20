@@ -1,15 +1,7 @@
 package WebCrawler;
 
-
-import java.net.MalformedURLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import org.jsoup.Jsoup;
-import org.jsoup.helper.Validate;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
@@ -19,9 +11,10 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
-public class ListLinks extends Thread {
+public class ListLinks extends Thread 
+{
 
     private static String u;
     private static boolean m_bListLinkThreadActive;
@@ -30,13 +23,15 @@ public class ListLinks extends Thread {
      *
      * @throws IOException
      */
-    public ListLinks() throws IOException {
+    public ListLinks() throws IOException 
+    {
         m_bListLinkThreadActive = true;
         start();
     }
 
     @Override
-    public void run() {
+    public void run() 
+    {
         while (m_bListLinkThreadActive) 
         {
             if(Main.Q.isEmpty())
@@ -51,7 +46,7 @@ public class ListLinks extends Thread {
             
             if (Main.bfs == false) 
             {
-                break;
+                m_bListLinkThreadActive = false;
             }
             String str = Main.Q.poll();
 
@@ -124,7 +119,8 @@ public class ListLinks extends Thread {
         }
         
         Main.Download_Pool.shutdown();
-        while (Main.Download_Pool.isTerminated() == false) {
+        while (Main.Download_Pool.isTerminated() == false) 
+        {
             System.out.println("in download pool");
             try {
                 Thread.sleep(1000);
@@ -133,18 +129,24 @@ public class ListLinks extends Thread {
             }
         }
         System.out.println("All PDF are saved in the download folder");
+        
+        
         Main.Crawl_Pool.shutdown();
+        while (Main.Crawl_Pool.isTerminated() == false) 
+        {
+            System.out.println("in Crawl_Pool pool");
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException ex) {
+                System.out.println(ListLinks.class.getName());
+            }
+        }
+        
         parsing_and_deleting();
+        
         JOptionPane.showMessageDialog(null, "COMPLETED DOWNLOADING PDF FILES");
 
-  
-
     }
-    
-    
-    /**
-     *
-     */
     public void parsing_and_deleting()
     {
          ListFilesUtil LF = new ListFilesUtil();

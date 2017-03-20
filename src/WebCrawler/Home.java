@@ -2,15 +2,13 @@ package WebCrawler;
 
 
 import javax.swing.ImageIcon;
-import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JTextField;
 
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
 public class Home extends JFrame
 {

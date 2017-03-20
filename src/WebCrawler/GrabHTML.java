@@ -8,7 +8,7 @@ import java.net.URLConnection;
 
 /**
  *
- * @author rajib_000
+ * @author Rajib Chandra Das
  */
 public class GrabHTML
 {
