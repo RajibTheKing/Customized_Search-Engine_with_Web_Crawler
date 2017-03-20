@@ -10,7 +10,6 @@ import java.io.PrintWriter;
 import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Vector;
-import sun.applet.Main;
 
 class output {
     double normalMatching,characterMatching,weightedMatching;

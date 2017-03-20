@@ -40,7 +40,11 @@ public class Fetch_Url extends Thread
         Main.cmd.fetchLink.setText(R);*/
         
         try {
-            Document doc = Jsoup.connect(u).get();
+            //Document doc = Jsoup.connect(u).get();
+            Document doc = Jsoup.connect(u).userAgent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.21 (KHTML, like Gecko) Chrome/19.0.1042.0 Safari/535.21")
+                    .timeout(10000)
+                    .get();
+
             Elements links = doc.select("a[href]");
             Elements media = doc.select("[src]");
             Elements imports = doc.select("link[href]");
@@ -52,8 +56,8 @@ public class Fetch_Url extends Thread
                     Main.mp.put(str, new Boolean(false));
                     URL urlq = new URL(str);
                     //System.out.println("url: "+ str+" mother: "+ Main.mother.getHost()+" host: "+ urlq.getHost());
-                    if (urlq.getHost().equals(Main.mother.getHost())) 
-                    //if(urlq.toString().startsWith(Main.Main_Link))
+                    //if (urlq.getHost().equals(Main.mother.getHost())) 
+                    if(urlq.toString().contains(Main.Main_Link))
                     {
                         Main.link_counter++;
                         System.out.print("Number of Link: " + Main.link_counter);

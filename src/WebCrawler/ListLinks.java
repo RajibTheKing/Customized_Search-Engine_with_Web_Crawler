@@ -24,19 +24,30 @@ import javax.swing.JOptionPane;
 public class ListLinks extends Thread {
 
     private static String u;
+    private static boolean m_bListLinkThreadActive;
 
     /**
      *
      * @throws IOException
      */
     public ListLinks() throws IOException {
+        m_bListLinkThreadActive = true;
         start();
     }
 
     @Override
     public void run() {
-        while (!Main.Q.isEmpty()) 
+        while (m_bListLinkThreadActive) 
         {
+            if(Main.Q.isEmpty())
+            {
+                try {
+                    Thread.currentThread().sleep(100);
+                    continue;
+                } catch (InterruptedException ex) {
+                    Logger.getLogger(ListLinks.class.getName()).log(Level.SEVERE, null, ex);
+                }
+            }
             
             if (Main.bfs == false) 
             {
@@ -44,7 +55,8 @@ public class ListLinks extends Thread {
             }
             String str = Main.Q.poll();
 
-            if (Main.mp.get(str).equals(new Boolean(false))) {
+            if (Main.mp.get(str).equals(new Boolean(false))) 
+            {
                 try {
                     Main.mp.put(str, new Boolean(true));
                     URL url = new URL(str);
@@ -55,9 +67,27 @@ public class ListLinks extends Thread {
                     if (type.equalsIgnoreCase("application/pdf")) {
                         ok = true;
                     }
+                    
+                    if(type.equalsIgnoreCase("image"))
+                    {
+                        ok = true;
+                    }
+                    
+                    if(str.contains("png") || str.contains("jpg"))
+                    {
+                        ok = true;
+                    }
 
                     if (ok) {
-
+                        //Updating CMD with Next Link..
+                        
+                        String R = Main.cmd.tfcompletedDownload.getText().toString();                                                                          // ######################## CMD
+                        R = R + "\n"+str;
+                        Main.cmd.tfcompletedDownload.setText(R);
+                        /*
+                        
+                        //Skipping Downloads
+                        
                         Main.pdf_links.add(str);
                         
 
@@ -82,7 +112,7 @@ public class ListLinks extends Thread {
                         String strLine = fileName +" LINK : "+ str;
                          LuceneDemo.append("searchResult/Links.txt", strLine);
                         new FileDownloadTest("downloads/" + fileName, str);
-
+                      */
                     } else {
                         Main.Crawl_Pool.execute(new Fetch_Url(str));
                     }
@@ -90,13 +120,6 @@ public class ListLinks extends Thread {
                 } catch (Exception ex) {
                     System.out.println("Link is not valid");
                 }
-            }
-            try {
-                if (Main.Q.size() == 0) {
-                    Thread.currentThread().sleep(50000);
-                }
-            } catch (InterruptedException ex) {
-                System.out.println(ListLinks.class.getName());
             }
         }
         
