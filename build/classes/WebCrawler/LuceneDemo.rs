@@ -1,2 +1,0 @@
-WebCrawler.ValueComparator
-WebCrawler.LuceneDemo

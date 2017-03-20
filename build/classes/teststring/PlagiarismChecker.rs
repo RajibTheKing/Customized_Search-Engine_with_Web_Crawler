@@ -1,2 +1,0 @@
-teststring.output
-teststring.PlagiarismChecker
