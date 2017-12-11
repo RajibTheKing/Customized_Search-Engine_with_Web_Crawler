@@ -22,7 +22,7 @@ public class Fetch_Url implements Runnable
         String u = s;
         //System.out.print("Thread name : "+Thread.currentThread().getName());
         System.out.printf("Fetching-> %s\n", u);
-        CmdOutPut.DownloadStatus.setText("Fetching-> "+u);
+        //CmdOutPut.DownloadStatus.setText("Fetching-> "+u);
         
         /*String R;
         R = Main.cmd.fetchLink.getText().toString();                                                                            ################################ CMD

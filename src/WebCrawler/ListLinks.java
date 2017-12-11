@@ -49,16 +49,19 @@ public class ListLinks extends Thread
                 m_bListLinkThreadActive = false;
             }
             String str = Main.Q.poll();
+            
+            try {
 
-            if (Main.mp.get(str).equals(new Boolean(false))) 
-            {
-                try {
+                if (Main.mp.get(str).equals(new Boolean(false))) {
+
                     Main.mp.put(str, new Boolean(true));
-                    URL url = new URL(str);
-                    URLConnection conn = url.openConnection();
-                    String type = conn.getContentType();
+                    //URL url = new URL(str);
+                    //URLConnection conn = url.openConnection();
+                    //String type = conn.getContentType();
                     int i;
                     boolean ok = false;
+
+                    /*
                     if (type.equalsIgnoreCase("application/pdf")) {
                         ok = true;
                     }
@@ -67,17 +70,16 @@ public class ListLinks extends Thread
                     {
                         ok = true;
                     }
-                    
-                    if(str.contains("png") || str.contains("jpg"))
-                    {
+                     */
+                    if (str.contains(".png") || str.contains(".jpg")) {
                         ok = true;
                     }
 
                     if (ok) {
                         //Updating CMD with Next Link..
-                        
+
                         String R = Main.cmd.tfcompletedDownload.getText().toString();                                                                          // ######################## CMD
-                        R = R + "\n"+str;
+                        R = R + "\n" + str;
                         Main.cmd.tfcompletedDownload.setText(R);
                         /*
                         
@@ -107,15 +109,15 @@ public class ListLinks extends Thread
                         String strLine = fileName +" LINK : "+ str;
                          LuceneDemo.append("searchResult/Links.txt", strLine);
                         new FileDownloadTest("downloads/" + fileName, str);
-                      */
+                         */
                     } else {
                         Main.Crawl_Pool.execute(new Fetch_Url(str));
                     }
-
-                } catch (Exception ex) {
-                    System.out.println("Link is not valid");
                 }
+            } catch (Exception ex) {
+                System.out.println("Link is not valid");
             }
+            
         }
         
         Main.Download_Pool.shutdown();

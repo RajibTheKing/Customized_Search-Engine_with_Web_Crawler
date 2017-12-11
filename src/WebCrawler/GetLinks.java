@@ -76,7 +76,8 @@ class GetLinks extends JFrame implements Runnable {
                     });
 
                     Main.bfs = true;
-                    Main.Main_Link = "http://" + urlfield.getText() + "/";
+                    //Main.Main_Link = "https://" + urlfield.getText() + "/";
+                    Main.Main_Link = urlfield.getText();
                     System.out.println("Searching : " + Main.Main_Link);
                     Main.mp.put(Main.Main_Link, new Boolean(false));
                     Main.Q.add(Main.Main_Link);
